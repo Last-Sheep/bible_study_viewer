@@ -1,0 +1,923 @@
+{
+    "abominable": {
+        "definition": "Extremely unpleasant or morally detestable."
+    },
+    "abuse": {
+        "definition": "The improper treatment of someone or something, often causing harm."
+    },
+    "abused": {
+        "definition": "Subjected to harmful or cruel treatment."
+    },
+    "abuser": {
+        "definition": "A person who treats others cruelly or unfairly."
+    },
+    "abusers": {
+        "definition": "People who mistreat or harm others."
+    },
+    "abuses": {
+        "definition": "Acts of mistreatment or improper use."
+    },
+    "abusive": {
+        "definition": "Characterized by harmful or offensive behavior."
+    },
+    "adulterous": {
+        "definition": "Engaging in sexual relations with someone other than one's spouse."
+    },
+    "adulteries": {
+        "definition": "Acts of sexual infidelity committed by a married person."
+    },
+    "adultery": {
+        "definition": "The voluntary sexual relationship between a married person and someone who is not their spouse."
+    },    
+    "anger": {
+        "definition": "A strong feeling of displeasure or hostility."
+    },
+    "angry": {
+        "definition": "Feeling or showing strong displeasure or annoyance."
+    },
+    "arguments": {
+        "definition": "Reasoned discussions often involving differing opinions."
+    },
+    "arrogance": {
+        "definition": "An attitude of superiority and self-importance."
+    },
+    "arrogant": {
+        "definition": "Having an exaggerated sense of one's own importance."
+    },
+    "backbiter": {
+        "definition": "Someone who speaks maliciously about others behind their back."
+    },
+    "backbiters": {
+        "definition": "People who slander or speak ill of others secretly."
+    },
+    "backbiting": {
+        "definition": "The act of speaking negatively about someone behind their back."
+    },
+    "backbitings": {
+        "definition": "Acts of slander or gossip against others."
+    },
+        "banquetings": {
+        "definition": "The act of feasting or indulging in a large meal."
+    },
+    "bitter": {
+        "definition": "Feeling or showing deep resentment or harshness."
+    },
+    "bitterness": {
+        "definition": "A sharp, resentful, or harsh feeling or quality."
+    },
+    "blasphemers": {
+        "definition": "People who speak disrespectfully about sacred things."
+    },
+    "blasphemies": {
+        "definition": "Acts of showing disrespect toward God or sacred matters."
+    },
+    "blasphemy": {
+        "definition": "The act of speaking irreverently about God or sacred things."
+    },
+    "boasters": {
+        "definition": "People who talk with pride about their achievements or qualities."
+    },
+    "boastful": {
+        "definition": "Given to bragging or showing off."
+    },
+    "boasting": {
+        "definition": "Talking with pride about oneself or one's achievements."
+    },
+    "brawler": {
+        "definition": "A person who frequently engages in fights or noisy quarrels."
+    },
+    "brawlers": {
+        "definition": "People who habitually fight or quarrel."
+    },
+    "brawling": {
+        "definition": "The act of fighting or arguing loudly."
+    },
+    "brutal": {
+        "definition": "Savage, cruel, or harsh in manner or treatment."
+    },
+    "carouse": {
+        "definition": "To engage in noisy or lively drinking and partying."
+    },
+    "carousing": {
+        "definition": "The act of partying or drinking in a lively manner."
+    },
+    "clamour": {
+        "definition": "A loud and persistent outcry or protest."
+    },
+    "conceit": {
+        "definition": "Excessive pride in oneself."
+    },
+    "conceited": {
+        "definition": "Having an overly high opinion of oneself."
+    },
+    "condemned of himself": {
+        "definition": "Acknowledging or proving oneself guilty or at fault."
+    },
+    "contentions": {
+        "definition": "Disagreements or disputes often leading to arguments."
+    },
+        "contentous": {
+        "definition": "Tending to argue or provoke disputes."
+    },
+    "covetness": {
+        "definition": "The quality of having a strong desire for what belongs to others."
+    },
+    "covetous": {
+        "definition": "Having an intense desire for someone else's possessions."
+    },
+    "covetousness": {
+        "definition": "The state of being covetous or greedy for others' belongings."
+    },
+    "debate": {
+        "definition": "A formal discussion on a particular topic, often involving opposing arguments."
+    },
+    "debated": {
+        "definition": "Discussed or argued about, often considering different viewpoints."
+    },
+    "debater": {
+        "definition": "A person who argues or discusses opposing viewpoints."
+    },
+    "debates": {
+        "definition": "Formal discussions or arguments involving differing opinions."
+    },
+    "debating": {
+        "definition": "The act of engaging in structured argument or discussion."
+    },
+    "debauchery": {
+        "definition": "Excessive indulgence in sensual pleasures, often morally corrupt."
+    },
+    "deceit": {
+        "definition": "The act of misleading or tricking someone."
+    },
+    "deceive": {
+        "definition": "To cause someone to believe something that is not true."
+    },
+    "deceived": {
+        "definition": "Misled or tricked by false information or actions."
+    },
+    "deceiving": {
+        "definition": "Actively misleading or tricking someone."
+    },
+    "defile": {
+        "definition": "To make unclean, impure, or morally corrupt."
+    },
+    "defiled": {
+        "definition": "Made unclean, impure, or morally tainted."
+    },
+    "defiler": {
+        "definition": "One who makes something unclean or corrupt."
+    },
+    "defiles": {
+        "definition": "Acts of making something impure or morally corrupt."
+    },
+    "defileth": {
+        "definition": "Archaic form of 'defiles'; makes unclean or corrupt."
+    },
+    "despise": {
+        "definition": "To regard with contempt or scorn."
+    },
+        "despisers": {
+        "definition": "People who regard others with contempt or disdain."
+    },
+    "detest": {
+        "definition": "To strongly dislike or hate."
+    },
+    "detestable": {
+        "definition": "Deserving strong dislike or hatred."
+    },
+    "discord": {
+        "definition": "Disagreement or conflict between people or groups."
+    },
+    "disobedience": {
+        "definition": "Failure or refusal to follow rules or authority."
+    },
+    "disobedient": {
+        "definition": "Refusing to obey rules or authority."
+    },
+    "disobey": {
+        "definition": "To fail or refuse to follow instructions or rules."
+    },
+    "disorder": {
+        "definition": "A state of confusion, chaos, or lack of organization."
+    },
+    "dissensions": {
+        "definition": "Disagreements that lead to discord or conflict."
+    },
+    "divers": {
+        "definition": "Various or several different kinds."
+    },
+    "divisive": {
+        "definition": "Causing disagreement or division among people."
+    },
+    "drunkard": {
+        "definition": "A person who habitually drinks too much alcohol."
+    },
+    "drunkenness": {
+        "definition": "The state of being intoxicated by alcohol."
+    },
+    "emulations": {
+        "definition": "Efforts to match or surpass others, often competitively."
+    },
+    "enslaved": {
+        "definition": "Made a slave or forced into servitude."
+    },
+    "envies": {
+        "definition": "Feelings of jealousy or desire for what others have."
+    },
+    "envy": {
+        "definition": "A feeling of jealousy toward someone else's possessions or qualities."
+    },
+    "envyings": {
+        "definition": "Acts of feeling or showing jealousy."
+    },
+    "evil concupiscence": {
+        "definition": "Strong sinful desire or lust."
+    },
+    "evil desires": {
+        "definition": "Malicious or morally wrong wants or wishes."
+    },
+    "evil eye": {
+        "definition": "A harmful or malevolent look believed to bring misfortune."
+    },
+        "evil human desires": {
+        "definition": "Wicked or morally wrong longings of people."
+    },
+    "evil speaking": {
+        "definition": "The act of saying harmful or malicious things about others."
+    },
+    "evil speakings": {
+        "definition": "Acts of speaking negatively or maliciously about others."
+    },
+    "evil things": {
+        "definition": "Objects, actions, or deeds that are morally wrong or harmful."
+    },
+    "evil thoughts": {
+        "definition": "Sinful or harmful intentions in the mind."
+    },
+    "evils": {
+        "definition": "Harmful acts, wickedness, or morally wrong deeds."
+    },
+    "excess of wine": {
+        "definition": "Overindulgence in drinking alcohol."
+    },
+    "extortion": {
+        "definition": "The act of obtaining something through force or threats."
+    },
+    "extortioner": {
+        "definition": "A person who illegally obtains something by threats or force."
+    },
+    "extortioners": {
+        "definition": "People who practice extortion."
+    },
+    "factions": {
+        "definition": "Small, organized groups within a larger group, often causing conflict."
+    },
+    "false testimony": {
+        "definition": "Giving untrue statements, especially under oath or in a serious context."
+    },
+    "false witness": {
+        "definition": "A person who lies or provides untruthful testimony about someone."
+    },
+    "fierce": {
+        "definition": "Having a violent or intense nature."
+    },
+    "filthy communication": {
+        "definition": "Speech that is morally or socially impure."
+    },
+    "filthy language": {
+        "definition": "Vulgar, obscene, or offensive speech."
+    },
+    "folly": {
+        "definition": "Lack of good sense or foolishness."
+    },
+    "foolish": {
+        "definition": "Lacking sense, judgment, or wisdom."
+    },
+    "foolish controversies": {
+        "definition": "Arguments over trivial or senseless matters."
+    },
+    "foolish questions": {
+        "definition": "Queries that are unwise or lack sense."
+    },
+    "foolishness": {
+        "definition": "The quality of being unwise or lacking judgment."
+    },
+    "fornicate": {
+        "definition": "To engage in sexual relations outside of marriage."
+    },
+        "fornicating": {
+        "definition": "Engaging in sexual relations outside of marriage."
+    },
+    "fornication": {
+        "definition": "Sexual intercourse between people not married to each other."
+    },
+    "fornications": {
+        "definition": "Acts of engaging in sexual relations outside of marriage."
+    },
+    "fornicator": {
+        "definition": "A person who engages in sexual relations outside of marriage."
+    },
+    "fornicators": {
+        "definition": "People who engage in sexual relations outside of marriage."
+    },
+    "genealogies": {
+        "definition": "Records or accounts of family ancestry and descent."
+    },
+    "gossip": {
+        "definition": "Casual or idle talk about others, often involving rumors."
+    },
+    "gossips": {
+        "definition": "People who share rumors or talk about others' private matters."
+    },
+    "greed": {
+        "definition": "Intense desire for wealth or possessions."
+    },
+    "greedy": {
+        "definition": "Having an excessive desire for more than one needs."
+    },
+    "guile": {
+        "definition": "Cunning or deceitful behavior to achieve a goal."
+    },
+    "hated": {
+        "definition": "Regarded with intense dislike or animosity."
+    },
+    "hateful": {
+        "definition": "Full of hatred or strong dislike."
+    },
+    "hater": {
+        "definition": "A person who shows intense dislike or animosity."
+    },
+    "hating": {
+        "definition": "The act of feeling or expressing strong dislike."
+    },
+    "hatred": {
+        "definition": "Intense dislike or ill will toward someone or something."
+    },
+    "haughtiness": {
+        "definition": "The quality of being arrogantly superior or disdainful."
+    },
+    "haughty": {
+        "definition": "Having or showing an attitude of superiority and contempt."
+    },
+    "heady": {
+        "definition": "Intensely exciting, intoxicating, or rashly impulsive."
+    },
+    "heresies": {
+        "definition": "Beliefs or opinions that go against established religious doctrine."
+    },
+        "heretic": {
+        "definition": "A person who holds beliefs contrary to established religious doctrine."
+    },
+    "heretick": {
+        "definition": "An archaic spelling of 'heretic'; someone holding unorthodox beliefs."
+    },
+    "highminded": {
+        "definition": "Having noble or elevated thoughts and principles."
+    },
+    "hypocrisies": {
+        "definition": "Acts of pretending to have beliefs, feelings, or virtues that one does not possess."
+    },
+    "hypocrisy": {
+        "definition": "The practice of claiming to have moral standards or beliefs that one does not follow."
+    },
+    "hypocrite": {
+        "definition": "A person who pretends to have virtues or moral beliefs that they do not actually possess."
+    },
+    "hypocrites": {
+        "definition": "People who engage in hypocrisy."
+    },
+    "hypocritical": {
+        "definition": "Behaving in a way that contradicts claimed beliefs or feelings."
+    },
+    "idolater": {
+        "definition": "A person who worships idols or false gods."
+    },
+    "idolaters": {
+        "definition": "People who practice idolatry or worship false gods."
+    },
+    "idolatries": {
+        "definition": "Acts of worshiping idols or false gods."
+    },
+    "idolatry": {
+        "definition": "The worship of idols or excessive devotion to something other than God."
+    },
+    "immoral": {
+        "definition": "Violating moral principles; unethical or wrong."
+    },
+    "impurity": {
+        "definition": "The state of being unclean or morally tainted."
+    },
+    "incontinent": {
+        "definition": "Unable to control desires, especially sexual or bodily urges."
+    },
+    "inordinate": {
+        "definition": "Excessive or beyond reasonable limits."
+    },
+    "jealousy": {
+        "definition": "A feeling of envy or resentment toward someone else's success or possessions."
+    },
+    "lasciviousness": {
+        "definition": "Excessive or offensive sexual desire."
+    },
+    "lewd": {
+        "definition": "Obscene or indecent in behavior or speech."
+    },
+    "lewdness": {
+        "definition": "The quality of being obscene, indecent, or morally unchaste."
+    },
+        "lust": {
+        "definition": "A strong desire, especially for sexual pleasure."
+    },
+    "lustful": {
+        "definition": "Having intense sexual desire or craving."
+    },
+    "lustfulness": {
+        "definition": "The quality of being filled with sexual desire."
+    },
+    "lusts": {
+        "definition": "Strong desires or cravings, especially sexual."
+    },
+    "lusts of men": {
+        "definition": "Human desires, often sinful or morally wrong."
+    },
+    "lying": {
+        "definition": "The act of intentionally saying something untrue."
+    },
+    "malice": {
+        "definition": "The intention or desire to harm others."
+    },
+    "murder": {
+        "definition": "The unlawful and intentional killing of another person."
+    },
+    "murderer": {
+        "definition": "A person who unlawfully kills another person."
+    },
+    "murderers": {
+        "definition": "People who commit unlawful killings."
+    },
+    "murderous": {
+        "definition": "Having the intent or tendency to kill."
+    },
+    "murders": {
+        "definition": "Acts of unlawfully killing others."
+    },
+    "orgies": {
+        "definition": "Excessive indulgence in sensual pleasures, often involving group sexual activity."
+    },
+    "orgy": {
+        "definition": "An event of excessive indulgence in sensual pleasures."
+    },
+    "passions": {
+        "definition": "Strong emotions or desires."
+    },
+    "pleasures": {
+        "definition": "Things that bring enjoyment, satisfaction, or delight."
+    },
+    "pride": {
+        "definition": "A feeling of self-respect or personal worth; sometimes excessive self-esteem."
+    },
+    "proud": {
+        "definition": "Feeling deep satisfaction or self-respect; can imply arrogance."
+    },
+    "quarrel": {
+        "definition": "A heated argument or disagreement."
+    },
+    "quarreling": {
+        "definition": "The act of having arguments or disputes."
+    },
+    "quarrels": {
+        "definition": "Disagreements or disputes, often angry or prolonged."
+    },
+        "rage": {
+        "definition": "Intense and uncontrolled anger."
+    },
+    "rail": {
+        "definition": "To criticize or complain bitterly."
+    },
+    "railer": {
+        "definition": "A person who complains or criticizes bitterly."
+    },
+    "railing": {
+        "definition": "The act of expressing strong criticism or abuse."
+    },
+    "railings": {
+        "definition": "Expressions of harsh criticism or condemnation."
+    },
+    "rash": {
+        "definition": "Acting without careful consideration; hasty or reckless."
+    },
+    "rashness": {
+        "definition": "The quality of being hasty or reckless."
+    },
+    "revel": {
+        "definition": "To enjoy oneself in a lively and noisy way, often with drinking."
+    },
+    "reveler": {
+        "definition": "A person who engages in lively and noisy festivities."
+    },
+    "revellings": {
+        "definition": "Acts of enjoying lively and noisy celebrations or parties."
+    },
+    "sedition": {
+        "definition": "Conduct or speech inciting people to rebel against authority."
+    },
+    "seditions": {
+        "definition": "Acts or words intended to provoke rebellion against authority."
+    },
+    "self-condemned": {
+        "definition": "Having recognized or acknowledged one's own guilt or wrongdoing."
+    },
+    "selfish ambition": {
+        "definition": "Pursuit of personal gain at the expense of others."
+    },
+    "sexual sin": {
+        "definition": "Immoral or unlawful sexual behavior."
+    },
+    "sexually immoral": {
+        "definition": "Behaving in a way that violates moral sexual standards."
+    },
+    "sexual immorality": {
+        "definition": "Engaging in sexual behavior that violates moral or religious standards."
+    },
+    "sin": {
+        "definition": "An act that goes against divine law or moral principles."
+    },
+    "sinful": {
+        "definition": "Characterized by wrongdoing or moral imperfection."
+    },
+    "sinneth": {
+        "definition": "Archaic form of 'sins'; commits a wrong or moral offense."
+    },
+    "slander": {
+        "definition": "False and damaging statements about someone."
+    },
+        "slanderer": {
+        "definition": "A person who makes false and damaging statements about others."
+    },
+    "slanderers": {
+        "definition": "People who engage in slander."
+    },
+    "slandering": {
+        "definition": "The act of making false and harmful statements about someone."
+    },
+    "slanderous": {
+        "definition": "Containing or expressing false and damaging statements."
+    },
+    "slanders": {
+        "definition": "False and damaging statements about someone."
+    },
+    "speak evil": {
+        "definition": "To say harmful or malicious things about someone."
+    },
+    "strife": {
+        "definition": "Conflict, struggle, or discord between people or groups."
+    },
+    "strifes": {
+        "definition": "Instances of conflict or quarrels."
+    },
+    "strive": {
+        "definition": "To make great efforts or struggle toward a goal."
+    },
+    "strivings": {
+        "definition": "Acts of making efforts or struggling toward something."
+    },
+    "subvert": {
+        "definition": "To undermine or overthrow an established system or authority."
+    },
+    "subverted": {
+        "definition": "Undermined or overthrown, often in a secretive way."
+    },
+    "swellings": {
+        "definition": "Abnormal enlargements or bulges, often in the body or figuratively in tension or pride."
+    },
+    "swindler": {
+        "definition": "A person who cheats or defrauds others."
+    },
+    "swindlers": {
+        "definition": "People who engage in fraud or deceit for personal gain."
+    },
+    "theft": {
+        "definition": "The act of taking another person's property without permission."
+    },
+    "thefts": {
+        "definition": "Acts of stealing."
+    },
+    "traitors": {
+        "definition": "People who betray trust or allegiance, especially to their country or group."
+    },
+    "treacherous": {
+        "definition": "Deceitful, untrustworthy, or dangerous."
+    },
+    "trucebreakers": {
+        "definition": "Those who violate an agreement to stop hostilities."
+    },
+    "tumults": {
+        "definition": "Loud, confused noise, often caused by a crowd or disorder."
+    },
+        "uncleanness": {
+        "definition": "The state of being impure, morally or physically."
+    },
+    "unforgiving": {
+        "definition": "Refusing to pardon or show mercy."
+    },
+    "unholy": {
+        "definition": "Not sacred or morally impure."
+    },
+    "unprofitable": {
+        "definition": "Not yielding benefit, gain, or advantage."
+    },
+    "unthankful": {
+        "definition": "Not showing gratitude; unappreciative."
+    },
+    "useless": {
+        "definition": "Without practical purpose or value."
+    },
+    "vain": {
+        "definition": "Having excessive pride in oneself or lacking real value."
+    },
+    "vanity": {
+        "definition": "Excessive pride or concern with appearance or achievements."
+    },
+    "variance": {
+        "definition": "The state of being different or inconsistent."
+    },
+    "warped": {
+        "definition": "Distorted in form or morally twisted."
+    },
+    "whisper": {
+        "definition": "To speak very quietly, often secretly."
+    },
+    "whispering": {
+        "definition": "The act of speaking softly or secretly."
+    },
+    "whisperings": {
+        "definition": "Quiet or secretive conversations, often gossip."
+    },
+    "wicked": {
+        "definition": "Morally bad or evil."
+    },
+    "wickedness": {
+        "definition": "The quality of being morally wrong or evil."
+    },
+    "witchcraft": {
+        "definition": "The practice of magical arts, often considered evil."
+    },
+    "wrath": {
+        "definition": "Extreme anger or rage."
+    },
+    "wrathful": {
+        "definition": "Full of intense anger."
+    },
+    "wraths": {
+        "definition": "Instances or manifestations of intense anger."
+    },
+        "abusive speech": {
+        "definition": "Harmful, insulting, or offensive language directed at others."
+    },
+    "adulterers": {
+        "definition": "People who engage in sexual relations outside of marriage."
+    },
+    "backstabbers": {
+        "definition": "People who betray others secretly or deceptively."
+    },
+    "cheat": {
+        "definition": "To act dishonestly to gain an advantage."
+    },
+    "cheats": {
+        "definition": "People who act dishonestly to gain an advantage."
+    },
+    "clamor": {
+        "definition": "A loud and persistent outcry or demand."
+    },
+    "conceits": {
+        "definition": "Excessive pride in oneself; vanity."
+    },
+    "covenantbreakers": {
+        "definition": "People who fail to keep promises or agreements."
+    },
+    "coveting": {
+        "definition": "Desiring what belongs to someone else, especially unlawfully or unethically."
+    },
+    "deception": {
+        "definition": "The act of misleading or tricking someone."
+    },
+    "dirty language": {
+        "definition": "Offensive, obscene, or vulgar speech."
+    },
+    "disorderly": {
+        "definition": "Lacking organization or behaving in a chaotic manner."
+    },
+    "disputes": {
+        "definition": "Disagreements or arguments between people or groups."
+    },
+    "dissension": {
+        "definition": "Disagreement that causes conflict or discord."
+    },
+    "division": {
+        "definition": "Separation or disagreement among people or groups."
+    },
+    "divisions": {
+        "definition": "Instances of separation or conflict among people."
+    },
+    "disturbances": {
+        "definition": "Events or actions that disrupt order or peace."
+    },
+    "drunkards": {
+        "definition": "People who habitually consume excessive alcohol."
+    },
+    "effeminate": {
+        "definition": "Having traits, manners, or habits considered feminine; sometimes used negatively."
+    },
+    "evil": {
+        "definition": "Morally wrong, wicked, or harmful."
+    },
+        "evil behavior": {
+        "definition": "Actions that are morally wrong or harmful."
+    },
+    "evil desire": {
+        "definition": "A longing or craving for what is morally wrong or harmful."
+    },
+    "evil-mindedness": {
+        "definition": "The quality of having harmful or wicked intentions."
+    },
+    "evil practices": {
+        "definition": "Recurrent actions or behaviors that are morally wrong or harmful."
+    },
+    "enmities": {
+        "definition": "Mutual hatred or hostility between people or groups."
+    },
+    "faithless": {
+        "definition": "Lacking loyalty, fidelity, or trustworthiness."
+    },
+    "God-hater": {
+        "definition": "A person who despises or opposes God."
+    },
+    "God-haters": {
+        "definition": "People who despise or oppose God."
+    },
+    "haters": {
+        "definition": "People who feel intense dislike or animosity toward others."
+    },
+    "harsh words": {
+        "definition": "Speech that is severe, critical, or unkind."
+    },
+    "heartless": {
+        "definition": "Lacking compassion, kindness, or empathy."
+    },
+    "homosexual": {
+        "definition": "A person attracted to members of the same sex."
+    },
+    "homosexuals": {
+        "definition": "People attracted to members of the same sex."
+    },
+    "homosexuality": {
+        "definition": "The quality or practice of being attracted to members of the same sex."
+    },
+    "idolator": {
+        "definition": "A person who worships idols or false gods."
+    },
+    "immorality": {
+        "definition": "The quality or state of being morally wrong or unethical."
+    },
+    "implacable": {
+        "definition": "Unable to be appeased or pacified."
+    },
+    "insolent": {
+        "definition": "Showing rude or arrogant disrespect."
+    },
+    "jealousies": {
+        "definition": "Feelings of envy or resentment toward others' advantages or possessions."
+    },
+    "lie": {
+        "definition": "A false statement made with deliberate intent to deceive."
+    },
+        "male prostitutes": {
+        "definition": "Men who engage in sexual activity for money."
+    },
+    "malicious": {
+        "definition": "Intending to cause harm or suffering."
+    },
+    "malicious behavior": {
+        "definition": "Actions intended to hurt or harm others."
+    },
+    "maliciousness": {
+        "definition": "The quality of being intentionally harmful or spiteful."
+    },
+    "merciless": {
+        "definition": "Showing no mercy or compassion."
+    },
+    "no fidelity": {
+        "definition": "Lack of loyalty or faithfulness."
+    },
+    "no love": {
+        "definition": "Absence of affection, care, or compassion."
+    },
+    "no mercy": {
+        "definition": "Refusal to show compassion or forgiveness."
+    },
+    "no understanding": {
+        "definition": "Lack of comprehension, empathy, or insight."
+    },
+    "outcry": {
+        "definition": "A strong public expression of protest or disapproval."
+    },
+    "passion": {
+        "definition": "Intense emotion or desire."
+    },
+    "reviler": {
+        "definition": "A person who speaks abusively or insults others."
+    },
+    "revilers": {
+        "definition": "People who verbally attack or insult others."
+    },
+    "revelries": {
+        "definition": "Lively and noisy celebrations or festivities."
+    },
+    "rivalry": {
+        "definition": "Competition or opposition between individuals or groups."
+    },
+    "rivalries": {
+        "definition": "Instances of competition or conflict."
+    },
+    "selfish ambitions": {
+        "definition": "Pursuits motivated primarily by personal gain without regard for others."
+    },
+    "selfishness": {
+        "definition": "Concern only for oneself; lack of consideration for others."
+    },
+    "senseless": {
+        "definition": "Lacking reason, sense, or meaning."
+    },
+    "sensuality": {
+        "definition": "Enjoyment or indulgence in physical pleasures, especially sexual."
+    },
+        "sinning": {
+        "definition": "Engaging in actions that go against moral or divine law."
+    },
+    "sorcery": {
+        "definition": "The use of magical arts, often considered evil or forbidden."
+    },
+    "temper": {
+        "definition": "A person’s state of mind in terms of anger or emotional control."
+    },
+    "tempers": {
+        "definition": "States of mind regarding anger or emotional disposition."
+    },
+    "thieves": {
+        "definition": "People who steal or take another's property unlawfully."
+    },
+    "unloving": {
+        "definition": "Lacking affection or care for others."
+    },
+    "unmerciful": {
+        "definition": "Showing no compassion or forgiveness."
+    },
+    "unrighteous": {
+        "definition": "Morally wrong or unjust."
+    },
+    "unrighteousness": {
+        "definition": "The state of being morally wrong or unjust."
+    },
+    "untrustworthy": {
+        "definition": "Not reliable or dependable."
+    },
+    "wild parties": {
+        "definition": "Lively, often excessive gatherings or celebrations."
+    },
+    "whisperers": {
+        "definition": "People who speak secretly, often spreading rumors or gossip."
+    },
+    "without natural affection": {
+        "definition": "Lacking normal love or care, especially toward family."
+    },
+    "without understanding": {
+        "definition": "Lacking insight, comprehension, or discernment."
+    },
+    "worship idols": {
+        "definition": "To give religious devotion to false gods or objects."
+    },
+    "worships idols": {
+        "definition": "The act of showing devotion to false gods or objects."
+    },
+    "wrongdoers": {
+        "definition": "People who commit immoral or illegal acts."
+    },
+        "malignity": {
+        "definition": "Intense ill will or spitefulness."
+    },
+    "vile": {
+        "definition": "Extremely unpleasant, morally bad, or wicked."
+    },
+    "despiteful": {
+        "definition": "Showing malice or a desire to harm others."
+    },
+    "depravity": {
+        "definition": "Moral corruption or wickedness."
+    },
+    "violent": {
+        "definition": "Using physical force to harm others; aggressive or destructive."
+    },
+    "undiscerning": {
+        "definition": "Lacking insight, judgment, or the ability to perceive clearly."
+    }
+}

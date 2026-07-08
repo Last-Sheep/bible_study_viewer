@@ -1,0 +1,596 @@
+{
+  "Genesis": {
+    "canonical": "Genesis",
+    "display": {
+      "English": "Genesis",
+      "Latin": "Genesis",
+      "Greek": "Γένεσις",
+      "Hebrew": "בראשית"
+    }
+  },
+  "Exodus": {
+    "canonical": "Exodus",
+    "display": {
+      "English": "Exodus",
+      "Latin": "Exodus",
+      "Greek": "Ἔξοδος",
+      "Hebrew": "שמות"
+    }
+  },
+  "Leviticus": {
+    "canonical": "Leviticus",
+    "display": {
+      "English": "Leviticus",
+      "Latin": "Leviticus",
+      "Greek": "Λευιτικόν",
+      "Hebrew": "ויקרא"
+    }
+  },
+  "Numbers": {
+    "canonical": "Numbers",
+    "display": {
+      "English": "Numbers",
+      "Latin": "Numeri",
+      "Greek": "Ἀριθμοί",
+      "Hebrew": "במדבר"
+    }
+  },
+  "Deuteronomy": {
+    "canonical": "Deuteronomy",
+    "display": {
+      "English": "Deuteronomy",
+      "Latin": "Deuteronomium",
+      "Greek": "Δευτερονόμιον",
+      "Hebrew": "דברים"
+    }
+  },
+  "Joshua": {
+    "canonical": "Joshua",
+    "display": {
+      "English": "Joshua",
+      "Latin": "Iesus Nave",
+      "Greek": "Ἰησοῦς",
+      "Hebrew": "יהושע"
+    }
+  },
+  "Judges": {
+    "canonical": "Judges",
+    "display": {
+      "English": "Judges",
+      "Latin": "Iudices",
+      "Greek": "Κριταί",
+      "Hebrew": "שופטים"
+    }
+  },
+  "Ruth": {
+    "canonical": "Ruth",
+    "display": {
+      "English": "Ruth",
+      "Latin": "Ruth",
+      "Greek": "Ῥούθ",
+      "Hebrew": "רות"
+    }
+  },
+  "1 Samuel": {
+    "canonical": "1 Samuel",
+    "display": {
+      "English": "1 Samuel",
+      "Latin": "I Samuel",
+      "Greek": "Αʹ Βασιλειῶν",
+      "Hebrew": "שמואל א"
+    }
+  },
+  "2 Samuel": {
+    "canonical": "2 Samuel",
+    "display": {
+      "English": "2 Samuel",
+      "Latin": "II Samuel",
+      "Greek": "Βʹ Βασιλειῶν",
+      "Hebrew": "שמואל ב"
+    }
+  },
+  "1 Kings": {
+    "canonical": "1 Kings",
+    "display": {
+      "English": "1 Kings",
+      "Latin": "I Kings",
+      "Greek": "Γʹ Βασιλειῶν",
+      "Hebrew": "מלכים א"
+    }
+  },
+  "2 Kings": {
+    "canonical": "2 Kings",
+    "display": {
+      "English": "2 Kings",
+      "Latin": "II Kings",
+      "Greek": "Δʹ Βασιλειῶν",
+      "Hebrew": "מלכים ב"
+    }
+  },
+  "1 Chronicles": {
+    "canonical": "1 Chronicles",
+    "display": {
+      "English": "1 Chronicles",
+      "Latin": "I Chronicles",
+      "Greek": "Παραλειπομένων Αʹ",
+      "Hebrew": "דברי הימים א"
+    }
+  },
+  "2 Chronicles": {
+    "canonical": "2 Chronicles",
+    "display": {
+      "English": "2 Chronicles",
+      "Latin": "II Chronicles",
+      "Greek": "Παραλειπομένων Βʹ",
+      "Hebrew": "דברי הימים ב"
+    }
+  },
+  "Ezra": {
+    "canonical": "Ezra",
+    "display": {
+      "English": "Ezra",
+      "Latin": "Esdras",
+      "Greek": "Ἔσδρας",
+      "Hebrew": "עזרא"
+    }
+  },
+  "Nehemiah": {
+    "canonical": "Nehemiah",
+    "display": {
+      "English": "Nehemiah",
+      "Latin": "Nehemiah",
+      "Greek": "Νεεμίας",
+      "Hebrew": "נחמיה"
+    }
+  },
+  "Esther": {
+    "canonical": "Esther",
+    "display": {
+      "English": "Esther",
+      "Latin": "Esther",
+      "Greek": "Ἐσθήρ",
+      "Hebrew": "אסתר"
+    }
+  },
+  "Job": {
+    "canonical": "Job",
+    "display": {
+      "English": "Job",
+      "Latin": "Iob",
+      "Greek": "Ἰώβ",
+      "Hebrew": "איוב"
+    }
+  },
+  "Psalms": {
+    "canonical": "Psalms",
+    "display": {
+      "English": "Psalms",
+      "Latin": "Psalmi",
+      "Greek": "Ψαλμοί",
+      "Hebrew": "תהילים"
+    }
+  },
+  "Proverbs": {
+    "canonical": "Proverbs",
+    "display": {
+      "English": "Proverbs",
+      "Latin": "Proverbia",
+      "Greek": "Παροιμίαι",
+      "Hebrew": "משלי"
+    }
+  },
+  "Ecclesiastes": {
+    "canonical": "Ecclesiastes",
+    "display": {
+      "English": "Ecclesiastes",
+      "Latin": "Ecclesiastes",
+      "Greek": "Ἐκκλησιαστής",
+      "Hebrew": "קהלת"
+    }
+  },
+  "Song of Solomon": {
+    "canonical": "Song of Solomon",
+    "display": {
+      "English": "Song of Solomon",
+      "Latin": "Canticum Canticorum",
+      "Greek": "ᾎσμα ᾈσμάτων",
+      "Hebrew": "שיר השירים"
+    }
+  },
+  "Isaiah": {
+    "canonical": "Isaiah",
+    "display": {
+      "English": "Isaiah",
+      "Latin": "Isaias",
+      "Greek": "Ἠσαΐας",
+      "Hebrew": "ישעיהו"
+    }
+  },
+  "Jeremiah": {
+    "canonical": "Jeremiah",
+    "display": {
+      "English": "Jeremiah",
+      "Latin": "Ieremias",
+      "Greek": "Ἱερεμίας",
+      "Hebrew": "ירמיהו"
+    }
+  },
+  "Lamentations": {
+    "canonical": "Lamentations",
+    "display": {
+      "English": "Lamentations",
+      "Latin": "Threni",
+      "Greek": "Θρῆνοι",
+      "Hebrew": "איכה"
+    }
+  },
+  "Ezekiel": {
+    "canonical": "Ezekiel",
+    "display": {
+      "English": "Ezekiel",
+      "Latin": "Ezechiel",
+      "Greek": "Ἰεζεκιήλ",
+      "Hebrew": "יחזקאל"
+    }
+  },
+  "Daniel": {
+    "canonical": "Daniel",
+    "display": {
+      "English": "Daniel",
+      "Latin": "Daniel",
+      "Greek": "Δανιήλ",
+      "Hebrew": "דניאל"
+    }
+  },
+  "Hosea": {
+    "canonical": "Hosea",
+    "display": {
+      "English": "Hosea",
+      "Latin": "Osee",
+      "Greek": "Ὡσηέ",
+      "Hebrew": "הושע"
+    }
+  },
+  "Joel": {
+    "canonical": "Joel",
+    "display": {
+      "English": "Joel",
+      "Latin": "Joel",
+      "Greek": "Ἰωήλ",
+      "Hebrew": "יואל"
+    }
+  },
+  "Amos": {
+    "canonical": "Amos",
+    "display": {
+      "English": "Amos",
+      "Latin": "Amos",
+      "Greek": "Ἀμώς",
+      "Hebrew": "עמוס"
+    }
+  },
+  "Obadiah": {
+    "canonical": "Obadiah",
+    "display": {
+      "English": "Obadiah",
+      "Latin": "Abdias",
+      "Greek": "Ἀβδιού",
+      "Hebrew": "עובדיה"
+    }
+  },
+  "Jonah": {
+    "canonical": "Jonah",
+    "display": {
+      "English": "Jonah",
+      "Latin": "Ionas",
+      "Greek": "Ἰωνᾶς",
+      "Hebrew": "יונה"
+    }
+  },
+  "Micah": {
+    "canonical": "Micah",
+    "display": {
+      "English": "Micah",
+      "Latin": "Michaeas",
+      "Greek": "Μιχαίας",
+      "Hebrew": "מיכה"
+    }
+  },
+  "Nahum": {
+    "canonical": "Nahum",
+    "display": {
+      "English": "Nahum",
+      "Latin": "Nahum",
+      "Greek": "Ναούμ",
+      "Hebrew": "נחום"
+    }
+  },
+  "Habakkuk": {
+    "canonical": "Habakkuk",
+    "display": {
+      "English": "Habakkuk",
+      "Latin": "Habakkuk",
+      "Greek": "Ἀββακούμ",
+      "Hebrew": "חבקוק"
+    }
+  },
+  "Zephaniah": {
+    "canonical": "Zephaniah",
+    "display": {
+      "English": "Zephaniah",
+      "Latin": "Zephaniah",
+      "Greek": "Σοφονίας",
+      "Hebrew": "צפניה"
+    }
+  },
+  "Haggai": {
+    "canonical": "Haggai",
+    "display": {
+      "English": "Haggai",
+      "Latin": "Haggai",
+      "Greek": "Ἀγγαῖος",
+      "Hebrew": "חגי"
+    }
+  },
+  "Zechariah": {
+    "canonical": "Zechariah",
+    "display": {
+      "English": "Zechariah",
+      "Latin": "Zechariah",
+      "Greek": "Ζαχαρίας",
+      "Hebrew": "זכריה"
+    }
+  },
+  "Malachi": {
+    "canonical": "Malachi",
+    "display": {
+      "English": "Malachi",
+      "Latin": "Malachi",
+      "Greek": "Μαλαχίας",
+      "Hebrew": "מלאכי"
+    }
+  },
+  "Matthew": {
+    "canonical": "Matthew",
+    "display": {
+      "English": "Matthew",
+      "Latin": "Matthaeus",
+      "Greek": "Ματθαῖος",
+      "Hebrew": "מתתיהו"
+    }
+  },
+  "Mark": {
+    "canonical": "Mark",
+    "display": {
+      "English": "Mark",
+      "Latin": "Marcus",
+      "Greek": "Μᾶρκος",
+      "Hebrew": "מרקוס"
+    }
+  },
+  "Luke": {
+    "canonical": "Luke",
+    "display": {
+      "English": "Luke",
+      "Latin": "Lucas",
+      "Greek": "Λουκᾶς",
+      "Hebrew": "לוקאס"
+    }
+  },
+  "John": {
+    "canonical": "John",
+    "display": {
+      "English": "John",
+      "Latin": "Ioannes",
+      "Greek": "Ἰωάννης",
+      "Hebrew": "יוחנן"
+    }
+  },
+  "Acts": {
+    "canonical": "Acts",
+    "display": {
+      "English": "Acts",
+      "Latin": "Acta Apostolorum",
+      "Greek": "Πράξεις",
+      "Hebrew": "מעשי השליחים"
+    }
+  },
+  "Romans": {
+    "canonical": "Romans",
+    "display": {
+      "English": "Romans",
+      "Latin": "Ad Romanos",
+      "Greek": "Πρὸς Ῥωμαίους",
+      "Hebrew": "אל הרומים"
+    }
+  },
+  "1 Corinthians": {
+    "canonical": "1 Corinthians",
+    "display": {
+      "English": "1 Corinthians",
+      "Latin": "I Corinthios",
+      "Greek": "Αʹ Κορινθίους",
+      "Hebrew": "קורינתים א"
+    }
+  },
+  "2 Corinthians": {
+    "canonical": "2 Corinthians",
+    "display": {
+      "English": "2 Corinthians",
+      "Latin": "II Corinthios",
+      "Greek": "Βʹ Κορινθίους",
+      "Hebrew": "קורינתים ב"
+    }
+  },
+  "Galatians": {
+    "canonical": "Galatians",
+    "display": {
+      "English": "Galatians",
+      "Latin": "Ad Galatas",
+      "Greek": "Πρὸς Γαλάτας",
+      "Hebrew": "גלטים"
+    }
+  },
+  "Ephesians": {
+    "canonical": "Ephesians",
+    "display": {
+      "English": "Ephesians",
+      "Latin": "Ad Ephesios",
+      "Greek": "Πρὸς Ἐφεσίους",
+      "Hebrew": "אפסים"
+    }
+  },
+  "Philippians": {
+    "canonical": "Philippians",
+    "display": {
+      "English": "Philippians",
+      "Latin": "Ad Philippenses",
+      "Greek": "Πρὸς Φιλιππησίους",
+      "Hebrew": "פיליפים"
+    }
+  },
+  "Colossians": {
+    "canonical": "Colossians",
+    "display": {
+      "English": "Colossians",
+      "Latin": "Ad Colossenses",
+      "Greek": "Πρὸς Κολοσσαεῖς",
+      "Hebrew": "קולוסים"
+    }
+  },
+  "1 Thessalonians": {
+    "canonical": "1 Thessalonians",
+    "display": {
+      "English": "1 Thessalonians",
+      "Latin": "I Thessalonicenses",
+      "Greek": "Αʹ Θεσσαλονικεῖς",
+      "Hebrew": "תסלוניקים א"
+    }
+  },
+  "2 Thessalonians": {
+    "canonical": "2 Thessalonians",
+    "display": {
+      "English": "2 Thessalonians",
+      "Latin": "II Thessalonicenses",
+      "Greek": "Βʹ Θεσσαλονικεῖς",
+      "Hebrew": "תסלוניקים ב"
+    }
+  },
+  "1 Timothy": {
+    "canonical": "1 Timothy",
+    "display": {
+      "English": "1 Timothy",
+      "Latin": "I Timotheum",
+      "Greek": "Αʹ Τιμόθεον",
+      "Hebrew": "טימותיאוס א"
+    }
+  },
+  "2 Timothy": {
+    "canonical": "2 Timothy",
+    "display": {
+      "English": "2 Timothy",
+      "Latin": "II Timotheum",
+      "Greek": "Βʹ Τιμόθεον",
+      "Hebrew": "טימותיאוס ב"
+    }
+  },
+  "Titus": {
+    "canonical": "Titus",
+    "display": {
+      "English": "Titus",
+      "Latin": "Titus",
+      "Greek": "Τίτος",
+      "Hebrew": "טיטוס"
+    }
+  },
+  "Philemon": {
+    "canonical": "Philemon",
+    "display": {
+      "English": "Philemon",
+      "Latin": "Philemon",
+      "Greek": "Φιλήμων",
+      "Hebrew": "פילימון"
+    }
+  },
+  "Hebrews": {
+    "canonical": "Hebrews",
+    "display": {
+      "English": "Hebrews",
+      "Latin": "Ad Hebraeos",
+      "Greek": "Πρὸς Ἑβραίους",
+      "Hebrew": "עברים"
+    }
+  },
+  "James": {
+    "canonical": "James",
+    "display": {
+      "English": "James",
+      "Latin": "Iacobus",
+      "Greek": "Ἰάκωβος",
+      "Hebrew": "יעקב"
+    }
+  },
+  "1 Peter": {
+    "canonical": "1 Peter",
+    "display": {
+      "English": "1 Peter",
+      "Latin": "I Petri",
+      "Greek": "Αʹ Πέτρου",
+      "Hebrew": "פטרוס א"
+    }
+  },
+  "2 Peter": {
+    "canonical": "2 Peter",
+    "display": {
+      "English": "2 Peter",
+      "Latin": "II Petri",
+      "Greek": "Βʹ Πέτρου",
+      "Hebrew": "פטרוס ב"
+    }
+  },
+  "1 John": {
+    "canonical": "1 John",
+    "display": {
+      "English": "1 John",
+      "Latin": "I Ioannis",
+      "Greek": "Αʹ Ἰωάννου",
+      "Hebrew": "יוחנן א"
+    }
+  },
+  "2 John": {
+    "canonical": "2 John",
+    "display": {
+      "English": "2 John",
+      "Latin": "II Ioannis",
+      "Greek": "Βʹ Ἰωάννου",
+      "Hebrew": "יוחנן ב"
+    }
+  },
+  "3 John": {
+    "canonical": "3 John",
+    "display": {
+      "English": "3 John",
+      "Latin": "III Ioannis",
+      "Greek": "Γʹ Ἰωάννου",
+      "Hebrew": "יוחנן ג"
+    }
+  },
+  "Jude": {
+    "canonical": "Jude",
+    "display": {
+      "English": "Jude",
+      "Latin": "Iudas",
+      "Greek": "Ἰούδας",
+      "Hebrew": "יהודה"
+    }
+  },
+  "Revelation": {
+    "canonical": "Revelation",
+    "display": {
+      "English": "Revelation",
+      "Latin": "Apocalypsis",
+      "Greek": "Ἀποκάλυψις",
+      "Hebrew": "התגלות"
+    }
+  }
+}

@@ -1,0 +1,786 @@
+{
+  "scripture": {
+    "header": {
+      "id": "firstborn_son",
+      "title": "God's Firstborn Son",
+      "description": "These are verses related to God's firstborn son Israel",
+      "topics": [
+        "Firstborn Son",
+        "Israel"
+      ]
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NASB95",
+      "NKJV",
+      "DRB",
+      "ESV",
+      "LEB",
+      "AMP",
+      "NLT",
+      "AKJV",
+      "NRSV"
+    ],
+    "blocks": [
+      {
+        "id": "exo_4_22_23",
+        "title": "God calls Israel his firstborn son",
+        "description": "",
+        "reference": {
+          "book": "Exodus",
+          "chapter": 4,
+          "start": 22,
+          "end": 23
+        },
+        "rows": [
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "Then say to Pharaoh, 'This is what the LORD says: Israel is my firstborn son,",
+              "KJV": "And thou shalt say unto Pharaoh, Thus saith the Lord, Israel is my son, even my firstborn:",
+              "NASB95": "Then you shall say to Pharaoh, \u2018Thus says the Lord, \u201cIsrael is My son, My firstborn.",
+              "NKJV": "Then you shall say to Pharaoh, \u2018Thus says the Lord: \u201cIsrael is My son, My firstborn.",
+              "DRB": "And thou shalt say to him: Thus saith the Lord: Israel is my son, my firstborn.",
+              "ESV": "Then you shall say to Pharaoh, \u2018Thus says the Lord, Israel is my firstborn son,",
+              "LEB": "And you must say to Pharaoh, \u2018Thus says Yahweh, \u201cIsrael is my son, my firstborn.\u201d",
+              "AMP": "Then you shall say to Pharaoh, \u2018Thus says the LORD, \u201cIsrael is My son, My firstborn.",
+              "NLT": "Then you will tell him, \u2018This is what the Lord says: Israel is my firstborn son.",
+              "AKJV": "And thou shalt say unto Pharaoh, Thus saith the Lord, Israel is my son, even my firstborn:",
+              "NRSV": "Then you shall say to Pharaoh, \u2018Thus says the Lord: Israel is my firstborn son."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "and I told you, \"Let my son go, so he may worship me.\" But you refused to let him go; so I will kill your firstborn son.'\"",
+              "KJV": "And I say unto thee, Let my son go, that he may serve me: and if thou refuse to let him go, behold, I will slay thy son, even thy firstborn.",
+              "NASB95": "So I said to you, \u2018Let My son go that he may serve Me\u2019; but you have refused to let him go. Behold, I will kill your son, your firstborn.\u201d\u2019\u201d",
+              "NKJV": "So I say to you, let My son go that he may serve Me. But if you refuse to let him go, indeed I will kill your son, your firstborn.\u201d \u2019 \u201d",
+              "DRB": "I have said to thee: Let my son go, that he may serve me, and thou wouldst not let him go: behold I will kill thy son, thy firstborn.",
+              "ESV": "and I say to you, \u201cLet my son go that he may serve me.\u201d If you refuse to let him go, behold, I will kill your firstborn son.\u2019\u201d",
+              "LEB": "And I said to you, \u201cRelease my son and let him serve me,\u201d but you refused to release him. Look, I am about to kill your son, your firstborn.\u2019\u201d",
+              "AMP": "So I say to you, \u2018Let My son go so that he may serve Me\u2019; and if you refuse to let him go, behold, I will kill your son, your firstborn.\u201d\u2019\u201d",
+              "NLT": "I commanded you, \u201cLet my son go, so he can worship me.\u201d But since you have refused, I will now kill your firstborn son!\u2019\u201d",
+              "AKJV": "and I say unto thee, Let my son go, that he may serve me: and if thou refuse to let him go, behold, I will slay thy son, even thy firstborn.",
+              "NRSV": "I said to you, \u201cLet my son go that he may serve me.\u201d But you refused to let him go; now I will kill your firstborn son.\u2019 \u201d"
+            }
+          }
+        ]
+      },
+      {
+        "id": "hos_11_1",
+        "title": "Israel was a child",
+        "description": "",
+        "reference": {
+          "book": "Hosea",
+          "chapter": 11,
+          "start": 1,
+          "end": 1
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "\"When Israel was a child, I loved him, and out of Egypt I called my son.",
+              "KJV": "When Israel was a child, then I loved him, and called my son out of Egypt.",
+              "NASB95": "When Israel was a youth I loved him,\nAnd out of Egypt I called My son.",
+              "NKJV": "\u201cWhen Israel was a child, I loved him,\nAnd out of Egypt I called My son.",
+              "DRB": "As the morning passeth, so hath the king of Israel Israel was a child, and I loved him: and I called my son out of Egypt.",
+              "ESV": "When Israel was a child, I loved him,\n    and out of Egypt I called my son.",
+              "LEB": "When Israel was a child, I loved him,\nand out of Egypt I called my son.",
+              "AMP": "When Israel was a child [a young nation], I loved him, And I called My son out of Egypt.",
+              "NLT": "\u201cWhen Israel was a child, I loved him,\n    and I called my son out of Egypt.",
+              "AKJV": "When Israel was a child, then I loved him,\nand called my son out of Egypt.",
+              "NRSV": "When Israel was a child, I loved him,\n    and out of Egypt I called my son."
+            }
+          }
+        ]
+      },
+      {
+        "id": "isa_63_7_9",
+        "title": "Israel sons to God",
+        "description": "",
+        "reference": {
+          "book": "Isaiah",
+          "chapter": 63,
+          "start": 7,
+          "end": 9
+        },
+        "rows": [
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "I will tell of the kindnesses of the LORD, the deeds for which he is to be praised, according to all the LORD has done for us- yes, the many good things he has done for the house of Israel, according to his compassion and many kindnesses.",
+              "KJV": "I will mention the lovingkindnesses of the Lord, and the praises of the Lord, according to all that the Lord hath bestowed on us, and the great goodness toward the house of Israel, which he hath bestowed on them according to his mercies, and according to the multitude of his lovingkindnesses.",
+              "NASB95": "I shall make mention of the lovingkindnesses of the Lord, the praises of the Lord,\nAccording to all that the Lord has granted us,\nAnd the great goodness toward the house of Israel,\nWhich He has granted them according to His compassion\nAnd according to the abundance of His lovingkindnesses.",
+              "NKJV": "I will mention the lovingkindnesses of the Lord\nAnd the praises of the Lord,\nAccording to all that the Lord has bestowed on us,\nAnd the great goodness toward the house of Israel,\nWhich He has bestowed on them according to His mercies,\nAccording to the multitude of His lovingkindnesses.",
+              "DRB": "I will remember the tender mercies of the Lord, the praise of the Lord for all the things that the Lord hath bestowed upon us, and for the multitude of his good things to the house of Israel, which he hath given them according to his kindness, and according to the multitude of his mercies.",
+              "ESV": "I will recount the steadfast love of the Lord,\n    the praises of the Lord,\naccording to all that the Lord has granted us,\n    and the great goodness to the house of Israel\nthat he has granted them according to his compassion,\n    according to the abundance of his steadfast love.",
+              "LEB": "I will mention the loyal love of Yahweh, the praises of Yahweh, according to all that Yahweh has done for us,\n    and the greatness of goodness to the house of Israel that he has done to them according to his mercy and the abundance of his loyal love.",
+              "AMP": "I will tell of the lovingkindnesses of the LORD, and the praiseworthy deeds of the LORD, According to all that the LORD has done for us, And His great goodness toward the house of Israel, Which He has shown them according to His compassion And according to the abundance of His lovingkindnesses.",
+              "NLT": "I will tell of the Lord\u2019s unfailing love.\n    I will praise the Lord for all he has done.\nI will rejoice in his great goodness to Israel,\n    which he has granted according to his mercy and love.",
+              "AKJV": "I will mention the lovingkindnesses of the Lord,\nand the praises of the Lord,\naccording to all that the Lord hath bestowed on us,\nand the great goodness toward the house of Israel,\nwhich he hath bestowed on them according to his mercies,\nand according to the multitude of his lovingkindnesses.",
+              "NRSV": "I will recount the gracious deeds of the Lord,\n    the praiseworthy acts of the Lord,\nbecause of all that the Lord has done for us\n    and the great favor to the house of Israel\nthat he has shown them according to his mercy,\n    according to the abundance of his steadfast love."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "He said, \"Surely they are my people, sons who will not be false to me\"; and so he became their Savior.",
+              "KJV": "For he said, Surely they are my people, children that will not lie: so he was their Saviour.",
+              "NASB95": "For He said, \u201cSurely, they are My people,\nSons who will not deal falsely.\u201d\nSo He became their Savior.",
+              "NKJV": "For He said, \u201cSurely they are My people,\nChildren who will not lie.\u201d\nSo He became their Savior.",
+              "DRB": "And he said: Surely they are my people, children that will not deny: so he became their saviour.",
+              "ESV": "For he said, \u201cSurely they are my people,\n    children who will not deal falsely.\u201d\n    And he became their Savior.",
+              "LEB": "And he said, \u201cSurely my people are children; they will not break faith.\u201d And he became a Savior to them.",
+              "AMP": "For He said, \u201cBe assured, they are My people, Sons who will not be faithless.\u201d So He became their Savior [in all their distresses].",
+              "NLT": "He said, \u201cThey are my very own people.\n    Surely they will not betray me again.\u201d\n    And he became their Savior.",
+              "AKJV": "For he said, Surely they are my people,\nchildren that will not lie:\nso he was their Saviour.",
+              "NRSV": "For he said, \u201cSurely they are my people,\n    children who will not act deceitfully,\u201d\nand he became their savior"
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "In all their distress he too was distressed, and the angel of his presence saved them. In his love and mercy he redeemed them; he lifted them up and carried them all the days of old.",
+              "KJV": "In all their affliction he was afflicted, and the angel of his presence saved them: in his love and in his pity he redeemed them; and he bare them, and carried them all the days of old.",
+              "NASB95": "In all their affliction He was afflicted,\nAnd the angel of His presence saved them;\nIn His love and in His mercy He redeemed them,\nAnd He lifted them and carried them all the days of old.",
+              "NKJV": "In all their affliction He was afflicted,\nAnd the Angel of His Presence saved them;\nIn His love and in His pity He redeemed them;\nAnd He bore them and carried them\nAll the days of old.",
+              "DRB": "In all their affliction he was not troubled, and the angel of his presence saved them: in his love, and in his mercy he redeemed them, and he carried them and lifted them up all the days of old.",
+              "ESV": "In all their affliction he was afflicted,\n    and the angel of his presence saved them;\nin his love and in his pity he redeemed them;\n    he lifted them up and carried them all the days of old.",
+              "LEB": "In all their distress, there was no distress,\n    and the messenger of his presence saved them,\n    in his love and compassion he himself redeemed them,\nand he lifted them up,\n    and he supported them all the days of old.",
+              "AMP": "In all their distress He was distressed, And the angel of His presence saved them, In His love and in His compassion He redeemed them; And He lifted them up and carried them all the days of old.",
+              "NLT": "In all their suffering he also suffered,\n    and he personally rescued them.\nIn his love and mercy he redeemed them.\n    He lifted them up and carried them\n    through all the years.",
+              "AKJV": "In all their affliction he was afflicted,\nand the angel of his presence saved them:\nin his love and in his pity he redeemed them;\nand he bare them, and carried them all the days of old.",
+              "NRSV": "in all their distress.\nIt was no messenger or angel\n    but his presence that saved them;\nin his love and pity it was he who redeemed them;\n    he lifted them up and carried them all the days of old."
+            }
+          }
+        ]
+      },
+      {
+        "id": "isa_63_16_17",
+        "title": "God is our Father",
+        "description": "",
+        "reference": {
+          "book": "Isaiah",
+          "chapter": 63,
+          "start": 16,
+          "end": 17
+        },
+        "rows": [
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "But you are our Father, though Abraham does not know us or Israel acknowledge us; you, O LORD, are our Father, our Redeemer from of old is your name.",
+              "KJV": "Doubtless thou art our father, though Abraham be ignorant of us, and Israel acknowledge us not: thou, O Lord, art our father, our redeemer; thy name is from everlasting.",
+              "NASB95": "For You are our Father, though Abraham does not know us\nAnd Israel does not recognize us.\nYou, O Lord, are our Father,\nOur Redeemer from of old is Your name.",
+              "NKJV": "Doubtless You are our Father,\nThough Abraham was ignorant of us,\nAnd Israel does not acknowledge us.\nYou, O Lord, are our Father;\nOur Redeemer from Everlasting is Your name.",
+              "DRB": "For thou art our father, and Abraham hath not known us, and Israel hath been ignorant of us: thou, O Lord, art our father, our redeemer, from everlasting is thy name.",
+              "ESV": "For you are our Father,\n    though Abraham does not know us,\n    and Israel does not acknowledge us;\nyou, O Lord, are our Father,\n    our Redeemer from of old is your name.",
+              "LEB": "For you are our father, although Abraham does not know us,\n    and Israel does not acknowledge us.\nYou, Yahweh are our father,\n    Our Redeemer from of old is your name.",
+              "AMP": "For [most certainly] You are our Father, even though Abraham [our ancestor] does not know us And Israel does not acknowledge us. You, O LORD, are [still] our Father, Our Redeemer from everlasting is Your name.",
+              "NLT": "Surely you are still our Father!\n    Even if Abraham and Jacob would disown us,\nLord, you would still be our Father.\n    You are our Redeemer from ages past.",
+              "AKJV": "Doubtless thou art our father,\nthough Abraham be ignorant of us,\nand Israel acknowledge us not:\nthou, O Lord, art our father, our redeemer;\nthy name is from everlasting.",
+              "NRSV": "For you are our father,\n    though Abraham does not know us\n    and Israel does not acknowledge us;\nyou, O Lord, are our father;\n    our Redeemer from of old is your name."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "Why, O LORD, do you make us wander from your ways and harden our hearts so we do not revere you? Return for the sake of your servants, the tribes that are your inheritance.",
+              "KJV": "O Lord, why hast thou made us to err from thy ways, and hardened our heart from thy fear? Return for thy servants' sake, the tribes of thine inheritance.",
+              "NASB95": "Why, O Lord, do You cause us to stray from Your ways\nAnd harden our heart from fearing You?\nReturn for the sake of Your servants, the tribes of Your heritage.",
+              "NKJV": "O Lord, why have You made us stray from Your ways,\nAnd hardened our heart from Your fear?\nReturn for Your servants\u2019 sake,\nThe tribes of Your inheritance.",
+              "DRB": "Why hast thou made us to err, O Lord, from thy ways: why hast thou hardened our heart, that we should not fear thee? return for the sake of thy servants, the tribes of thy inheritance.",
+              "ESV": "O Lord, why do you make us wander from your ways\n    and harden our heart, so that we fear you not?\nReturn for the sake of your servants,\n    the tribes of your heritage.",
+              "LEB": "Why do you make us wander, Yahweh?\n    You harden our heart from your ways so that we do not fear you.\nTurn back for the sake of your servants,\n    the tribes of your inheritance.",
+              "AMP": "O LORD, why do You cause us to stray from Your ways And harden our heart from fearing You [with reverence and awe]? Return for Your servants\u2019 sake, the tribes of Your heritage.",
+              "NLT": "Lord, why have you allowed us to turn from your path?\n    Why have you given us stubborn hearts so we no longer fear you?\nReturn and help us, for we are your servants,\n    the tribes that are your special possession.",
+              "AKJV": "O Lord, why hast thou made us to err from thy ways,\nand hardened our heart from thy fear?\nReturn for thy servants\u2019 sake,\nthe tribes of thine inheritance.",
+              "NRSV": "Why, O Lord, do you let us stray from your ways\n    and let our heart harden, so that we do not fear you?\nTurn back for the sake of your servants,\n    the tribes that are your heritage."
+            }
+          }
+        ]
+      },
+      {
+        "id": "jer_31_3_4",
+        "title": "Virgin 'of' Israel",
+        "description": "",
+        "reference": {
+          "book": "Jeremiah",
+          "chapter": 31,
+          "start": 3,
+          "end": 4
+        },
+        "rows": [
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "The LORD appeared to us in the past, saying: \"I have loved you with an everlasting love; I have drawn you with loving-kindness.",
+              "KJV": "The Lord hath appeared of old unto me, saying, Yea, I have loved thee with an everlasting love: therefore with lovingkindness have I drawn thee.",
+              "NASB95": "The Lord appeared to him from afar, saying,\n\u201cI have loved you with an everlasting love;\nTherefore I have drawn you with lovingkindness.",
+              "NKJV": "The Lord has appeared of old to me, saying:\n\u201cYes, I have loved you with an everlasting love;\nTherefore with lovingkindness I have drawn you.",
+              "DRB": "The Lord hath appeared from afar to me. Yea I have loved thee with everlasting love, therefore have I drawn thee, taking pity on thee.",
+              "ESV": "the Lord appeared to him from far away.\nI have loved you with an everlasting love;\n    therefore I have continued my faithfulness to you.",
+              "LEB": "From afar Yahweh appeared to me, saying,\n\u201cI have loved you with an everlasting love.\n    Therefore I have drawn you with loyal love.",
+              "AMP": "The LORD appeared to me (Israel) from ages past, saying, \u201cI have loved you with an everlasting love; Therefore with lovingkindness I have drawn you and continued My faithfulness to you.",
+              "NLT": "Long ago the Lord said to Israel:\n\u201cI have loved you, my people, with an everlasting love.\n    With unfailing love I have drawn you to myself.",
+              "AKJV": "The Lord hath appeared of old unto me, saying,\nYea, I have loved thee with an everlasting love:\ntherefore with lovingkindness have I drawn thee.",
+              "NRSV": "the Lord appeared to him from far away.\nI have loved you with an everlasting love;\n    therefore I have continued my faithfulness to you."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "I will build you up again and you will be rebuilt, O Virgin Israel. Again you will take up your tambourines and go out to dance with the joyful.",
+              "KJV": "Again I will build thee, and thou shalt be built, O virgin of Israel: thou shalt again be adorned with thy tabrets, and shalt go forth in the dances of them that make merry.",
+              "NASB95": "\u201cAgain I will build you and you will be rebuilt,\nO virgin of Israel!\nAgain you will take up your tambourines,\nAnd go forth to the dances of the merrymakers.",
+              "NKJV": "Again I will build you, and you shall be rebuilt,\nO virgin of Israel!\nYou shall again be adorned with your tambourines,\nAnd shall go forth in the dances of those who rejoice.",
+              "DRB": "And I will build thee again, and thou shalt be built, 0 virgin of Israel: thou shalt again be adorned with thy timbrels, and shalt go forth in the dances of them that make merry.",
+              "ESV": "Again I will build you, and you shall be built,\n    O virgin Israel!\nAgain you shall adorn yourself with tambourines\n    and shall go forth in the dance of the merrymakers.",
+              "LEB": "I will again build you,\n    and you will be built, O virgin Israel.\nYou will again adorn yourself with your tambourines,\n    and you will go forth in the dancing in a ring of the merrymakers.",
+              "AMP": "\u201cAgain I will build you and you will be rebuilt, O Virgin Israel! You will again be adorned with your tambourines and timbrels And go out to the dances of those who celebrate.",
+              "NLT": "I will rebuild you, my virgin Israel.\n    You will again be happy\n    and dance merrily with your tambourines.",
+              "AKJV": "Again I will build thee, and thou shalt be built,\nO virgin of Israel:\nthou shalt again be adorned with thy tabrets,\nand shalt go forth in the dances of them that make merry.",
+              "NRSV": "Again I will build you, and you shall be built,\n    O virgin Israel!\nAgain you shall adorn yourself with your tambourines\n    and go forth in the dance of the merrymakers."
+            }
+          }
+        ]
+      },
+      {
+        "id": "jer_31_9_10",
+        "title": "Ephraim is God's firstborn",
+        "description": "",
+        "reference": {
+          "book": "Jeremiah",
+          "chapter": 31,
+          "start": 9,
+          "end": 10
+        },
+        "rows": [
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "They will come with weeping; they will pray as I bring them back. I will lead them beside streams of water on a level path where they will not stumble, because I am Israel's father, and Ephraim is my firstborn son.",
+              "KJV": "They shall come with weeping, and with supplications will I lead them: I will cause them to walk by the rivers of waters in a straight way, wherein they shall not stumble: for I am a father to Israel, and Ephraim is my firstborn.",
+              "NASB95": "\u201cWith weeping they will come,\nAnd by supplication I will lead them;\nI will make them walk by streams of waters,\nOn a straight path in which they will not stumble;\nFor I am a father to Israel,\nAnd Ephraim is My firstborn.\u201d",
+              "NKJV": "They shall come with weeping,\nAnd with supplications I will lead them.\nI will cause them to walk by the rivers of waters,\nIn a straight way in which they shall not stumble;\nFor I am a Father to Israel,\nAnd Ephraim is My firstborn.",
+              "DRB": "They shall come with weeping: and I will bring them back in mercy: and I will bring them through the torrents of waters in a right way, and they shall not stumble in it: for I am a father to Israel, and Ephraim is my firstborn.",
+              "ESV": "With weeping they shall come,\n    and with pleas for mercy I will lead them back,\nI will make them walk by brooks of water,\n    in a straight path in which they shall not stumble,\nfor I am a father to Israel,\n    and Ephraim is my firstborn.",
+              "LEB": "With weeping they will come,\n    and with pleas for mercy I will bring them;\nI will let them walk by streams of water in a straight path.\n    They will not stumble in it,\nfor I have become to Israel a father,\n    and Ephraim, he is my firstborn.\u201d",
+              "AMP": "\u201cThey will come with weeping [in repentance and for joy], And by [their] prayer [for the future] I will lead them; I will make them walk by streams of waters, On a straight path in which they will not stumble, For I am a Father to Israel, And Ephraim (Israel) is My firstborn.\u201d",
+              "NLT": "Tears of joy will stream down their faces,\n    and I will lead them home with great care.\nThey will walk beside quiet streams\n    and on smooth paths where they will not stumble.\nFor I am Israel\u2019s father,\n    and Ephraim is my oldest child.",
+              "AKJV": "They shall come with weeping,\nand with supplications will I lead them:\nI will cause them to walk by the rivers of waters in a straight way,\nwherein they shall not stumble:\nfor I am a father to Israel,\nand Ephraim is my firstborn.",
+              "NRSV": "With weeping they shall come,\n    and with consolations I will lead them back;\nI will let them walk by brooks of water,\n    in a straight path where they shall not stumble,\nfor I have become a father to Israel,\n    and Ephraim is my firstborn."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "\"Hear the word of the LORD, O nations; proclaim it in distant coastlands: 'He who scattered Israel will gather them and will watch over his flock like a shepherd.'",
+              "KJV": "Hear the word of the Lord, O ye nations, and declare it in the isles afar off, and say, He that scattered Israel will gather him, and keep him, as a shepherd doth his flock.",
+              "NASB95": "Hear the word of the Lord, O nations,\nAnd declare in the coastlands afar off,\nAnd say, \u201cHe who scattered Israel will gather him\nAnd keep him as a shepherd keeps his flock.\u201d",
+              "NKJV": "\u201cHear the word of the Lord, O nations,\nAnd declare it in the isles afar off, and say,\n\u2018He who scattered Israel will gather him,\nAnd keep him as a shepherd does his flock.\u2019",
+              "DRB": "Hear the word of the Lord, O ye nations, and declare it in the islands that are afar off, and say: He that scattered Israel will gather him: and he will keep him as the shepherd doth his flock.",
+              "ESV": "\u201cHear the word of the Lord, O nations,\n    and declare it in the coastlands far away;\nsay, \u2018He who scattered Israel will gather him,\n    and will keep him as a shepherd keeps his flock.\u2019",
+              "LEB": "Hear the word of Yahweh, O nations,\n    and declare in the coastlands from afar, and say,\n\u201cThe scatterer of Israel will gather him,\n    and he will keep him as a shepherd his flock.",
+              "AMP": "Hear the word of the LORD, O you nations, And declare it in the isles and coastlands far away, And say, \u201cHe who scattered Israel will gather him And will keep him as a shepherd keeps his flock.\u201d",
+              "NLT": "\u201cListen to this message from the Lord,\n    you nations of the world;\n    proclaim it in distant coastlands:\nThe Lord, who scattered his people,\n    will gather them and watch over them\n    as a shepherd does his flock.",
+              "AKJV": "Hear the word of the Lord, O ye nations,\nand declare it in the isles afar off, and say,\nHe that scattered Israel will gather him, and keep him,\nas a shepherd doth his flock.",
+              "NRSV": "Hear the word of the Lord, O nations,\n    and declare it in the coastlands far away;\nsay, \u201cHe who scattered Israel will gather him\n    and will keep him as a shepherd does a flock.\u201d"
+            }
+          }
+        ]
+      },
+      {
+        "id": "jer_31_20_22",
+        "title": "Ephraim is God's dear son",
+        "description": "",
+        "reference": {
+          "book": "Jeremiah",
+          "chapter": 31,
+          "start": 20,
+          "end": 22
+        },
+        "rows": [
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "Is not Ephraim my dear son, the child in whom I delight? Though I often speak against him, I still remember him. Therefore my heart yearns for him; I have great compassion for him,\" declares the LORD.",
+              "KJV": "Is Ephraim my dear son? is he a pleasant child? for since I spake against him, I do earnestly remember him still: therefore my bowels are troubled for him; I will surely have mercy upon him, saith the Lord.",
+              "NASB95": "\u201cIs Ephraim My dear son?\nIs he a delightful child?\nIndeed, as often as I have spoken against him,\nI certainly still remember him;\nTherefore My heart yearns for him;\nI will surely have mercy on him,\u201d declares the Lord.",
+              "NKJV": "Is Ephraim My dear son?\nIs he a pleasant child?\nFor though I spoke against him,\nI earnestly remember him still;\nTherefore My heart yearns for him;\nI will surely have mercy on him, says the Lord.",
+              "DRB": "Surely Ephraim is an honourable son to me, surely he is a tender child: for since I spoke of him, I will still remember him. Therefore are my bowels troubled for him: pitying I will pity him, saith the Lord.",
+              "ESV": "Is Ephraim my dear son?\n    Is he my darling child?\nFor as often as I speak against him,\n    I do remember him still.\nTherefore my heart yearns for him;\n    I will surely have mercy on him,\ndeclares the Lord.",
+              "LEB": "Is Ephraim my dear son,\n    or the child of my delight?\nFor as often as I have earnestly spoken against him,\n    I still remember him.\nTherefore my bowels are turbulent for him,\n    surely I will have compassion on him,\u201d declares Yahweh.",
+              "AMP": "\u201cIs Ephraim My dear son? Is he a darling and beloved child? For as often as I have spoken against him, I certainly still remember him. Therefore My affection is renewed and My heart longs for him; I will surely have mercy on him,\u201d says the LORD.",
+              "NLT": "\u201cIs not Israel still my son,\n    my darling child?\u201d says the Lord.\n\u201cI often have to punish him,\n    but I still love him.\nThat\u2019s why I long for him\n    and surely will have mercy on him.",
+              "AKJV": "Is Ephraim my dear son?\nis he a pleasant child?\nfor since I spake against him,\nI do earnestly remember him still:\ntherefore my bowels are troubled for him;\nI will surely have mercy upon him, saith the Lord.",
+              "NRSV": "Is Ephraim my dear son?\n    Is he the child in whom I delight?\nAs often as I speak against him,\n    I still remember him.\nTherefore I am deeply moved for him;\n    I will surely have mercy on him,\n            says the Lord."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "\"Set up road signs; put up guideposts. Take note of the highway, the road that you take. Return, O Virgin Israel, return to your towns.",
+              "KJV": "Set thee up waymarks, make thee high heaps: set thine heart toward the highway, even the way which thou wentest: turn again, O virgin of Israel, turn again to these thy cities.",
+              "NASB95": "\u201cSet up for yourself roadmarks,\nPlace for yourself guideposts;\nDirect your mind to the highway,\nThe way by which you went.\nReturn, O virgin of Israel,\nReturn to these your cities.",
+              "NKJV": "\u201cSet up signposts,\nMake landmarks;\nSet your heart toward the highway,\nThe way in which you went.\nTurn back, O virgin of Israel,\nTurn back to these your cities.",
+              "DRB": "Set thee up a watchtower, make to thee bitterness: direct thy heart into the right way, wherein thou hast walked: return, O virgin of Israel, return to these thy cities.",
+              "ESV": "\u201cSet up road markers for yourself;\n    make yourself guideposts;\nconsider well the highway,\n    the road by which you went.\nReturn, O virgin Israel,\n    return to these your cities.",
+              "LEB": "\u201cSet up for yourself road markers,\n    make for yourself signposts,\nset your mind to the main road,\n    the road by which you went.\nReturn, O virgin of Israel,\n    return to these your cities.",
+              "AMP": "\u201cPlace for yourself road signs [toward Canaan], Make for yourself guideposts; Turn your thought and attention to the highway, To the way by which you went [into exile]. Retrace your steps, O virgin of Israel, Return to these your cities.",
+              "NLT": "Set up road signs;\n    put up guideposts.\nMark well the path\n    by which you came.\nCome back again, my virgin Israel;\n    return to your towns here.",
+              "AKJV": "Set thee up waymarks, make thee high heaps:\nset thine heart toward the highway,\neven the way which thou wentest:\nturn again, O virgin of Israel,\nturn again to these thy cities.",
+              "NRSV": "Set up road markers for yourself;\n    make yourself signposts;\nconsider well the highway,\n    the road by which you went.\nReturn, O virgin Israel,\n    return to these your cities."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "How long will you wander, O unfaithful daughter? The LORD will create a new thing on earth- a woman will surround a man.\"",
+              "KJV": "How long wilt thou go about, O thou backsliding daughter? for the Lord hath created a new thing in the earth, A woman shall compass a man.",
+              "NASB95": "\u201cHow long will you go here and there,\nO faithless daughter?\nFor the Lord has created a new thing in the earth\u2014\nA woman will encompass a man.\u201d",
+              "NKJV": "How long will you gad about,\nO you backsliding daughter?\nFor the Lord has created a new thing in the earth\u2014\nA woman shall encompass a man.\u201d",
+              "DRB": "How long wilt thou be dissolute in deliciousness, O wandering daughter? for the Lord hath created a new thing upon the earth: A WOMAN SHALL COMPASS A MAN.",
+              "ESV": "How long will you waver,\n    O faithless daughter?\nFor the Lord has created a new thing on the earth:\n    a woman encircles a man.\u201d",
+              "LEB": "How long will you waver, O unfaithful daughter?\nFor Yahweh has created a new thing on the earth,\n    a woman, she shelters a man.\u201d",
+              "AMP": "\u201cHow long will you hesitate [to return], O you faithless and renegade daughter? For the LORD has created a new thing in the land [of Israel]: A woman will encompass (tenderly love) a man.\u201d",
+              "NLT": "How long will you wander,\n    my wayward daughter?\nFor the Lord will cause something new to happen\u2014\n    Israel will embrace her God.\u201d",
+              "AKJV": "How long wilt thou go about,\nO thou backsliding daughter?\nfor the Lord hath created a new thing in the earth,\nA woman shall compass a man.",
+              "NRSV": "How long will you waver,\n    O faithless daughter?\nFor the Lord has created a new thing on the earth:\n    a woman encompasses a man."
+            }
+          }
+        ]
+      },
+      {
+        "id": "deu_14_1_2",
+        "title": "You are sons of God",
+        "description": "",
+        "reference": {
+          "book": "Deuteronomy",
+          "chapter": 14,
+          "start": 1,
+          "end": 2
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "You are the children of the LORD your God. Do not cut yourselves or shave the front of your heads for the dead,",
+              "KJV": "Ye are the children of the Lord your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead.",
+              "NASB95": "\u201cYou are the sons of the Lord your God; you shall not cut yourselves nor shave your forehead for the sake of the dead.",
+              "NKJV": "\u201cYou are the children of the Lord your God; you shall not cut yourselves nor shave the front of your head for the dead.",
+              "DRB": "Be ye children of the Lord your God: you shall not cut yourselves, no, make any baldness for the dead;",
+              "ESV": "\u201cYou are the sons of the Lord your God. You shall not cut yourselves or make any baldness on your foreheads for the dead.",
+              "LEB": "\u201cYou are children of Yahweh your God; therefore you must not gash yourself, and you must not make your forehead bald for the dead.",
+              "AMP": "\u201cYou are the sons of the LORD your God; you shall not cut yourselves nor shave your forehead for the sake of the dead,",
+              "NLT": "\u201cSince you are the people of the Lord your God, never cut yourselves or shave the hair above your foreheads in mourning for the dead.",
+              "AKJV": "Ye are the children of the Lord your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead.",
+              "NRSV": "\u201cYou are children of the Lord your God. You must not lacerate yourselves or shave your forelocks for the dead."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "for you are a people holy to the LORD your God. Out of all the peoples on the face of the earth, the LORD has chosen you to be his treasured possession.",
+              "KJV": "For thou art an holy people unto the Lord thy God, and the Lord hath chosen thee to be a peculiar people unto himself, above all the nations that are upon the earth.",
+              "NASB95": "For you are a holy people to the Lord your God, and the Lord has chosen you to be a people for His own possession out of all the peoples who are on the face of the earth.",
+              "NKJV": "For you are a holy people to the Lord your God, and the Lord has chosen you to be a people for Himself, a special treasure above all the peoples who are on the face of the earth.",
+              "DRB": "Because thou art a holy people to the Lord thy God: and he chose thee to be his peculiar people of all nations that are upon the earth.",
+              "ESV": "For you are a people holy to the Lord your God, and the Lord has chosen you to be a people for his treasured possession, out of all the peoples who are on the face of the earth.",
+              "LEB": "For you are a people holy to Yahweh your God, and you Yahweh has chosen to be a treasured possession from among all of the peoples that are on the surface of the earth.",
+              "AMP": "for you are a holy people [set apart] to the LORD your God; and the LORD has chosen you out of all the peoples who are on the earth to be a people for His own possession.",
+              "NLT": "You have been set apart as holy to the Lord your God, and he has chosen you from all the nations of the earth to be his own special treasure.",
+              "AKJV": "For thou art an holy people unto the Lord thy God, and the Lord hath chosen thee to be a peculiar people unto himself, above all the nations that are upon the earth.",
+              "NRSV": "For you are a people holy to the Lord your God; it is you the Lord has chosen out of all the peoples on earth to be his people, his treasured possession."
+            }
+          }
+        ]
+      },
+      {
+        "id": "deu_32_6_9",
+        "title": "Is God not Your Father",
+        "description": "",
+        "reference": {
+          "book": "Deuteronomy",
+          "chapter": 32,
+          "start": 6,
+          "end": 9
+        },
+        "rows": [
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Is this the way you repay the LORD, O foolish and unwise people? Is he not your Father, your Creator, who made you and formed you?",
+              "KJV": "Do ye thus requite the Lord, O foolish people and unwise? is not he thy father that hath bought thee? hath he not made thee, and established thee?",
+              "NASB95": "\u201cDo you thus repay the Lord,\nO foolish and unwise people?\nIs not He your Father who has bought you?\nHe has made you and established you.",
+              "NKJV": "Do you thus deal with the Lord,\nO foolish and unwise people?\nIs He not your Father, who bought you?\nHas He not made you and established you?",
+              "DRB": "Is this the return thou makest to the Lord, O foolish and senseless people? Is not he thy father, that hath possessed thee, and made thee, and created thee?",
+              "ESV": "Do you thus repay the Lord,\n    you foolish and senseless people?\nIs not he your father, who created you,\n    who made you and established you?",
+              "LEB": "Like this do you treat Yahweh,\n    foolish and unwise people?\nHas he not, your father, created you?\n    He made you, and he established you.",
+              "AMP": "\u201cDo you thus repay the LORD, O foolish and unwise people? Is not He your Father who has acquired you [as His own]? He has made you and established you [as a nation].",
+              "NLT": "Is this the way you repay the Lord,\n    you foolish and senseless people?\nIsn\u2019t he your Father who created you?\n    Has he not made you and established you?",
+              "AKJV": "Do ye thus requite the Lord, Ofoolish people and unwise?\nis not he thy father that hath bought thee?\nhath he not made thee, and established thee?",
+              "NRSV": "Do you thus repay the Lord,\n    O foolish and senseless people?\nIs not he your father who created you,\n    who made you and established you?"
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Remember the days of old; consider the generations long past. Ask your father and he will tell you, your elders, and they will explain to you.",
+              "KJV": "Remember the days of old, consider the years of many generations: ask thy father, and he will shew thee; thy elders, and they will tell thee.",
+              "NASB95": "\u201cRemember the days of old,\nConsider the years of all generations.\nAsk your father, and he will inform you,\nYour elders, and they will tell you.",
+              "NKJV": "\u201cRemember the days of old,\nConsider the years of many generations.\nAsk your father, and he will show you;\nYour elders, and they will tell you:",
+              "DRB": "Remember the days of old, think upon every generation: ask thy father, and he will declare to thee: thy elders and they will tell thee.",
+              "ESV": "Remember the days of old;\n    consider the years of many generations;\nask your father, and he will show you,\n    your elders, and they will tell you.",
+              "LEB": "Remember the old days, the years long past;\n    ask your father, and he will inform you,\n    your elders and they will tell you.",
+              "AMP": "\u201cRemember the days of old, Consider the years of many generations. Ask your father, and he will inform you, Your elders, and they will tell you.",
+              "NLT": "Remember the days of long ago;\n    think about the generations past.\nAsk your father, and he will inform you.\n    Inquire of your elders, and they will tell you.",
+              "AKJV": "Remember the days of old,\nconsider the years of many generations:\nask thy father, and he will shew thee;\nthy elders, and they will tell thee.",
+              "NRSV": "Remember the days of old;\n    consider the years long past;\nask your father, and he will inform you,\n    your elders, and they will tell you."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "When the Most High gave the nations their inheritance, when he divided all mankind, he set up boundaries for the peoples according to the number of the sons of Israel.",
+              "KJV": "When the Most High divided to the nations their inheritance, when he separated the sons of Adam, he set the bounds of the people according to the number of the children of Israel.",
+              "NASB95": "\u201cWhen the Most High gave the nations their inheritance,\nWhen He separated the sons of man,\nHe set the boundaries of the peoples\nAccording to the number of the sons of Israel.",
+              "NKJV": "When the Most High divided their inheritance to the nations,\nWhen He separated the sons of Adam,\nHe set the boundaries of the peoples\nAccording to the number of the children of Israel.",
+              "DRB": "When the Most High divided the nations: when he separated the sons of Adam, he appointed the bounds of people according to the number of the children of Israel.",
+              "ESV": "When the Most High gave to the nations their inheritance,\n    when he divided mankind,\nhe fixed the borders of the peoples\n    according to the number of the sons of God.",
+              "LEB": "When the Most High apportioned the nations,\n    at his dividing up of the sons of humankind,\nhe fixed the boundaries of the peoples,\n    according to the number of the children of Israel.",
+              "AMP": "\u201cWhen the Most High gave the nations their inheritance, When He separated the sons of man, He set the boundaries of the peoples According to the number of the sons of Israel.",
+              "NLT": "When the Most High assigned lands to the nations,\n    when he divided up the human race,\nhe established the boundaries of the peoples\n    according to the number in his heavenly court.",
+              "AKJV": "When the most High divided to the nations their inheritance,\nwhen he separated the sons of Adam,\nhe set the bounds of the people according to the number of the children of Israel.",
+              "NRSV": "When the Most High apportioned the nations,\n    when he divided humankind,\nhe fixed the boundaries of the peoples\n    according to the number of the gods;"
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "For the LORD's portion is his people, Jacob his allotted inheritance.",
+              "KJV": "For the Lord's portion is his people; Jacob is the lot of his inheritance.",
+              "NASB95": "\u201cFor the Lord\u2019s portion is His people;\nJacob is the allotment of His inheritance.",
+              "NKJV": "For the Lord\u2019s portion is His people;\nJacob is the place of His inheritance.",
+              "DRB": "But the Lord's portion is his people: Jacob the lot of his inheritance.",
+              "ESV": "But the Lord's portion is his people,\n    Jacob his allotted heritage.",
+              "LEB": "For Yahweh\u2019s portion was his people,\n    Jacob the share of his inheritance.",
+              "AMP": "\u201cFor the LORD\u2019S portion and chosen share is His people; Jacob (Israel) is the allotment of His inheritance.",
+              "NLT": "\u201cFor the people of Israel belong to the Lord;\n    Jacob is his special possession.",
+              "AKJV": "For the Lord\u2019s portion is his people;\nJacob is the lot of his inheritance.",
+              "NRSV": "the Lord\u2019s own portion was his people,\n    Jacob his allotted share."
+            }
+          }
+        ]
+      },
+      {
+        "id": "deu_32_19_20",
+        "title": "God rejected them",
+        "description": "",
+        "reference": {
+          "book": "Deuteronomy",
+          "chapter": 32,
+          "start": 19,
+          "end": 20
+        },
+        "rows": [
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "The LORD saw this and rejected them because he was angered by his sons and daughters.",
+              "KJV": "And when the Lord saw it, he abhorred them, because of the provoking of his sons, and of his daughters.",
+              "NASB95": "\u201cThe Lord saw this, and spurned them\nBecause of the provocation of His sons and daughters.",
+              "NKJV": "\u201cAnd when the Lord saw it, He spurned them,\nBecause of the provocation of His sons and His daughters.",
+              "DRB": "The Lord saw, and was moved to wrath: because his own sons and daughters provoked him.",
+              "ESV": "\u201cThe Lord saw it and spurned them,\n    because of the provocation of his sons and his daughters.",
+              "LEB": "Then Yahweh saw, and he spurned them,\n    because of the provocation of his sons and his daughters.",
+              "AMP": "\u201cThe LORD saw it, and rejected them, Out of indignation with His sons and His daughters.",
+              "NLT": "\u201cThe Lord saw this and drew back,\n    provoked to anger by his own sons and daughters.",
+              "AKJV": "And when the Lord saw it, he abhorred them,\nbecause of the provoking of his sons, and of his daughters.",
+              "NRSV": "The Lord saw it and was jealous;\n    he spurned his sons and daughters."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "\"I will hide my face from them,\" he said, \"and see what their end will be; for they are a perverse generation, children who are unfaithful.",
+              "KJV": "And he said, I will hide my face from them, I will see what their end shall be: for they are a very froward generation, children in whom is no faith.",
+              "NASB95": "\u201cThen He said, \u2018I will hide My face from them,\nI will see what their end shall be;\nFor they are a perverse generation,\nSons in whom is no faithfulness.",
+              "NKJV": "And He said: \u2018I will hide My face from them,\nI will see what their end will be,\nFor they are a perverse generation,\nChildren in whom is no faith.",
+              "DRB": "And he said: I will hide my face from them, and will consider what their last end shall be: for it is a perverse generation, and unfaithful children.",
+              "ESV": "And he said, \u2018I will hide my face from them;\n    I will see what their end will be,\nfor they are a perverse generation,\n    children in whom is no faithfulness.",
+              "LEB": "So he said, \u2018I will hide my face from them;\n    I will see what will be their end,\nfor they are a generation of perversity,\n    children in whom there is no faithfulness.",
+              "AMP": "\u201cThen He said, \u2018I will hide My face from them, I will see what their end shall be; For they are a perverse generation, Sons in whom there is no faithfulness.",
+              "NLT": "He said, \u2018I will abandon them;\n    then see what becomes of them.\nFor they are a twisted generation,\n    children without integrity.",
+              "AKJV": "And he said, I will hide my face from them,\nI will see what their end shall be:\nfor they are a very froward generation,\nchildren in whom is no faith.",
+              "NRSV": "He said, \u2018I will hide my face from them;\n    I will see what their end will be,\nfor they are a perverse generation,\n    children in whom there is no faithfulness."
+            }
+          }
+        ]
+      },
+      {
+        "id": "deu_32_28_29",
+        "title": "A Nation without counsel",
+        "description": "",
+        "reference": {
+          "book": "Deuteronomy",
+          "chapter": 32,
+          "start": 28,
+          "end": 29
+        },
+        "rows": [
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "They are a nation without sense, there is no discernment in them.",
+              "KJV": "For they are a nation void of counsel, neither is there any understanding in them.",
+              "NASB95": "\u201cFor they are a nation lacking in counsel,\nAnd there is no understanding in them.",
+              "NKJV": "\u201cFor they are a nation void of counsel,\nNor is there any understanding in them.",
+              "DRB": "They are a nation without counsel, and without wisdom.",
+              "ESV": "\u201cFor they are a nation void of counsel,\n    and there is no understanding in them.",
+              "LEB": "For they are a nation void of sense,\n    and there is not any understanding in them.",
+              "AMP": "\u201cFor they are a nation devoid of counsel, And there is no understanding in them.",
+              "NLT": "\u201cBut Israel is a senseless nation;\n    the people are foolish, without understanding.",
+              "AKJV": "For they are a nation void of counsel,\nneither is there any understanding in them.",
+              "NRSV": "They are a nation void of sense;\n    there is no understanding in them."
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "If only they were wise and would understand this and discern what their end will be!",
+              "KJV": "O that they were wise, that they understood this, that they would consider their latter end!",
+              "NASB95": "\u201cWould that they were wise, that they understood this,\nThat they would discern their future!",
+              "NKJV": "Oh, that they were wise, that they understood this,\nThat they would consider their latter end!",
+              "DRB": "O that they would be wise and would understand, and would provide for their last end.",
+              "ESV": "If they were wise, they would understand this;\n    they would discern their latter end!",
+              "LEB": "If only they were wise, they would understand this;\n    they would discern for themselves their end.",
+              "AMP": "\u201cO that they were wise, that they understood this, That they could discern their future and ultimate fate!",
+              "NLT": "Oh, that they were wise and could understand this!\n    Oh, that they might know their fate!",
+              "AKJV": "O that they were wise, that they understood this,\nthat they would consider their latter end!",
+              "NRSV": "If they were wise, they would understand this;\n    they would discern what their end would be."
+            }
+          }
+        ]
+      },
+      {
+        "id": "deu_32_31_33",
+        "title": "Their rock not like our Rock",
+        "description": "",
+        "reference": {
+          "book": "Deuteronomy",
+          "chapter": 32,
+          "start": 31,
+          "end": 33
+        },
+        "rows": [
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "For their rock is not like our Rock, as even our enemies concede.",
+              "KJV": "For their rock is not as our Rock, even our enemies themselves being judges.",
+              "NASB95": "\u201cIndeed their rock is not like our Rock,\nEven our enemies themselves judge this.",
+              "NKJV": "For their rock is not like our Rock,\nEven our enemies themselves being judges.",
+              "DRB": "For our God is not as their gods: our enemies themselves are judges.",
+              "ESV": "For their rock is not as our Rock;\n    our enemies are by themselves.",
+              "LEB": "For the fact of the matter is,\n    their rock is not like our Rock,\n    and our enemies recognize this.",
+              "AMP": "\u201cFor their rock is not like our Rock, Even our enemies themselves judge this.",
+              "NLT": "But the rock of our enemies is not like our Rock,\n    as even they recognize.",
+              "AKJV": "For their rock is not as our Rock,\neven our enemies themselves being judges.",
+              "NRSV": "Indeed, their rock is not like our Rock;\n    our enemies are fools."
+            }
+          },
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "Their vine comes from the vine of Sodom and from the fields of Gomorrah. Their grapes are filled with poison, and their clusters with bitterness.",
+              "KJV": "For their vine is of the vine of Sodom, and of the fields of Gomorrah: their grapes are grapes of gall, their clusters are bitter:",
+              "NASB95": "\u201cFor their vine is from the vine of Sodom,\nAnd from the fields of Gomorrah;\nTheir grapes are grapes of poison,\nTheir clusters, bitter.",
+              "NKJV": "For their vine is of the vine of Sodom\nAnd of the fields of Gomorrah;\nTheir grapes are grapes of gall,\nTheir clusters are bitter.",
+              "DRB": "Their vines are of the vineyard of Sodom, and of the suburbs of Gomorrha: their grapes are grapes of gall, and their clusters most bitter.",
+              "ESV": "For their vine comes from the vine of Sodom\n    and from the fields of Gomorrah;\ntheir grapes are grapes of poison;\n    their clusters are bitter;",
+              "LEB": "For their vine is from the vine of Sodom,\n    and from the terraces of Gomorrah;\ntheir grapes are grapes of poison;\n    their clusters are bitter.",
+              "AMP": "\u201cFor their vine is from the vine of Sodom, And from the fields of Gomorrah; Their grapes are grapes of poison, Their clusters, bitter.",
+              "NLT": "Their vine grows from the vine of Sodom,\n    from the vineyards of Gomorrah.\nTheir grapes are poison,\n    and their clusters are bitter.",
+              "AKJV": "For their vine is of the vine of Sodom,\nand of the fields of Gomorrah:\ntheir grapes are grapes of gall,\ntheir clusters are bitter:",
+              "NRSV": "Their vine comes from the vinestock of Sodom,\n    from the vineyards of Gomorrah;\ntheir grapes are grapes of poison;\n    their clusters are bitter;"
+            }
+          },
+          {
+            "verse": 33,
+            "texts": {
+              "NIV84": "Their wine is the venom of serpents, the deadly poison of cobras.",
+              "KJV": "Their wine is the poison of dragons, and the cruel venom of asps.",
+              "NASB95": "\u201cTheir wine is the venom of serpents,\nAnd the deadly poison of cobras.",
+              "NKJV": "Their wine is the poison of serpents,\nAnd the cruel venom of cobras.",
+              "DRB": "Their wine is the gall of dragons, and the venom of asps, which is incurable.",
+              "ESV": "their wine is the poison of serpents\n    and the cruel venom of asps.",
+              "LEB": "Their wine is the poison of snakes,\n    and the deadly poison of horned vipers.",
+              "AMP": "\u201cTheir wine is the venom of serpents, And the deadly poison of vipers.",
+              "NLT": "Their wine is the venom of serpents,\n    the deadly poison of cobras.",
+              "AKJV": "their wine is the poison of dragons,\nand the cruel venom of asps.",
+              "NRSV": "their wine is the poison of serpents,\n    the cruel venom of asps."
+            }
+          }
+        ]
+      },
+      {
+        "id": "deu_32_35_36",
+        "title": "The Lord to avenge & repay",
+        "description": "",
+        "reference": {
+          "book": "Deuteronomy",
+          "chapter": 32,
+          "start": 35,
+          "end": 36
+        },
+        "rows": [
+          {
+            "verse": 35,
+            "texts": {
+              "NIV84": "It is mine to avenge; I will repay. In due time their foot will slip; their day of disaster is near and their doom rushes upon them.\"",
+              "KJV": "To me belongeth vengeance and recompence; their foot shall slide in due time: for the day of their calamity is at hand, and the things that shall come upon them make haste.",
+              "NASB95": "\u2018Vengeance is Mine, and retribution,\nIn due time their foot will slip;\nFor the day of their calamity is near,\nAnd the impending things are hastening upon them.\u2019",
+              "NKJV": "Vengeance is Mine, and recompense;\nTheir foot shall slip in due time;\nFor the day of their calamity is at hand,\nAnd the things to come hasten upon them.\u2019",
+              "DRB": "Revenge is mine, and I will repay them in due time, that their foot may slide: the day of destruction is at hand, and the time makes haste to come.",
+              "ESV": "Vengeance is mine, and recompense,\n    for the time when their foot shall slip;\nfor the day of their calamity is at hand,\n    and their doom comes swiftly.\u2019",
+              "LEB": "Vengeance belongs to me and also recompense,\n    for at the time their foot slips,\nbecause the day of their disaster is near,\n    and fate comes quickly for them.\u2019",
+              "AMP": "\u2018Vengeance is Mine, and retribution, In due time their foot will slip; For the day of their disaster is at hand, And their doom hurries to meet them.\u2019",
+              "NLT": "I will take revenge; I will pay them back.\n    In due time their feet will slip.\nTheir day of disaster will arrive,\n    and their destiny will overtake them.\u2019",
+              "AKJV": "To me belongeth vengeance, and recompence;\ntheir foot shall slide in due time:\nfor the day of their calamity is at hand,\nand the things that shall come upon them make haste.",
+              "NRSV": "for the day of vengeance and recompense,\n    for the time when their foot shall slip?\nBecause the day of their calamity is at hand;\n    their doom comes swiftly."
+            }
+          },
+          {
+            "verse": 36,
+            "texts": {
+              "NIV84": "The LORD will judge his people and have compassion on his servants when he sees their strength is gone and no one is left, slave or free.",
+              "KJV": "For the Lord shall judge his people, and repent himself for his servants, when he seeth that their power is gone, and there is none shut up, or left.",
+              "NASB95": "\u201cFor the Lord will vindicate His people,\nAnd will have compassion on His servants,\nWhen He sees that their strength is gone,\nAnd there is none remaining, bond or free.",
+              "NKJV": "\u201cFor the Lord will judge His people\nAnd have compassion on His servants,\nWhen He sees that their power is gone,\nAnd there is no one remaining, bond or free.",
+              "DRB": "The Lord will judge his people, and will have mercy on his servants : he shall see that their hand is weakened, and that they who were shut up have also failed, and they that remained are consumed.",
+              "ESV": "For the Lord will vindicate his people\n    and have compassion on his servants,\nwhen he sees that their power is gone\n    and there is none remaining, bond or free.",
+              "LEB": "For Yahweh will judge on behalf of his people,\n    and concerning his servants;\nhe will change his mind when he sees that their power has disappeared,\n    and there is no one left, confined or free.",
+              "AMP": "\u201cFor the LORD will vindicate His people, And will have compassion on His servants, When He sees that their strength (hand) is gone, And none remains, whether bond or free.",
+              "NLT": "\u201cIndeed, the Lord will give justice to his people,\n    and he will change his mind about his servants,\nwhen he sees their strength is gone\n    and no one is left, slave or free.",
+              "AKJV": "For the Lord shall judge his people,\nand repent himself for his servants,\nwhen he seeth that their power is gone,\nand there is none shut up, or left.",
+              "NRSV": "Indeed, the Lord will vindicate his people,\n    have compassion on his servants,\nwhen he sees that their power is gone,\n    neither bond nor free remaining."
+            }
+          }
+        ]
+      },
+      {
+        "id": "deu_32_39_44",
+        "title": "The Lord will sharpen his sword",
+        "description": "",
+        "reference": {
+          "book": "Deuteronomy",
+          "chapter": 32,
+          "start": 39,
+          "end": 44
+        },
+        "rows": [
+          {
+            "verse": 39,
+            "texts": {
+              "NIV84": "\"See now that I myself am He! There is no god besides me. I put to death and I bring to life, I have wounded and I will heal, and no one can deliver out of my hand.",
+              "KJV": "See now that I, even I, am he, and there is no god with me: I kill, and I make alive; I wound, and I heal: neither is there any that can deliver out of my hand.",
+              "NASB95": "\u2018See now that I, I am He,\nAnd there is no god besides Me;\nIt is I who put to death and give life.\nI have wounded and it is I who heal,\nAnd there is no one who can deliver from My hand.",
+              "NKJV": "\u2018Now see that I, even I, am He,\nAnd there is no God besides Me;\nI kill and I make alive;\nI wound and I heal;\nNor is there any who can deliver from My hand.",
+              "DRB": "See ye that I alone am, and there is no other God besides me: I will kill and I will make to live: I will strike, and I will heal, and there is none that can deliver out of my hand.",
+              "ESV": "\u201c\u2018See now that I, even I, am he,\n    and there is no god beside me;\nI kill and I make alive;\n    I wound and I heal;\n    and there is none that can deliver out of my hand.",
+              "LEB": "See, now, that I, even I am he,\n    and there is not a god besides me;\nI put to death and I give life;\n    I wound and I heal;\n    there is not one who delivers from my hand!",
+              "AMP": "\u2018See now that I, I am He, And there is no god besides Me; It is I who put to death and I who give life. I have wounded and it is I who heal, And there is no one who can deliver from [the power of] My hand.",
+              "NLT": "Look now; I myself am he!\n    There is no other god but me!\nI am the one who kills and gives life;\n    I am the one who wounds and heals;\n    no one can be rescued from my powerful hand!",
+              "AKJV": "See now that I, even I, am he,\nand there is no god with me:\nI kill, and I make alive;\nI wound, and I heal:\nneither is there any that can deliver out of my hand.",
+              "NRSV": "See now that I, even I, am he;\n    there is no god besides me.\nI kill, and I make alive;\n    I wound, and I heal;\n    and no one can deliver from my hand."
+            }
+          },
+          {
+            "verse": 40,
+            "texts": {
+              "NIV84": "I lift my hand to heaven and declare: As surely as I live forever,",
+              "KJV": "For I lift up my hand to heaven, and say, I live for ever.",
+              "NASB95": "\u2018Indeed, I lift up My hand to heaven,\nAnd say, as I live forever,",
+              "NKJV": "For I raise My hand to heaven,\nAnd say, \u201cAs I live forever,",
+              "DRB": "I will lift up my hand to heaven, and I will say: I live for ever.",
+              "ESV": "For I lift up my hand to heaven\n    and swear, As I live forever,",
+              "LEB": "For indeed I lift up my hand to heaven,\n    And I promise as I live forever,",
+              "AMP": "\u2018Indeed, I lift up My hand to heaven, And say (swear an oath), as I live forever,",
+              "NLT": "Now I raise my hand to heaven\n    and declare, \u201cAs surely as I live,",
+              "AKJV": "For I lift up my hand to heaven,\nand say, I live for ever.",
+              "NRSV": "For I lift up my hand to heaven\n    and swear, As I live forever,"
+            }
+          },
+          {
+            "verse": 41,
+            "texts": {
+              "NIV84": "when I sharpen my flashing sword and my hand grasps it in judgment, I will take vengeance on my adversaries and repay those who hate me.",
+              "KJV": "If I whet my glittering sword, and mine hand take hold on judgment; I will render vengeance to mine enemies, and will reward them that hate me.",
+              "NASB95": "If I sharpen My flashing sword,\nAnd My hand takes hold on justice,\nI will render vengeance on My adversaries,\nAnd I will repay those who hate Me.",
+              "NKJV": "If I whet My glittering sword,\nAnd My hand takes hold on judgment,\nI will render vengeance to My enemies,\nAnd repay those who hate Me.",
+              "DRB": "If I shall whet my sword as the lightning, and my hand take hold on judgment: I will render vengeance to my enemies, and repay them that hate me.",
+              "ESV": "if I sharpen my flashing sword\n    and my hand takes hold on judgment,\nI will take vengeance on my adversaries\n    and will repay those who hate me.",
+              "LEB": "When I sharpen my flashing sword,\n    and my hand takes hold of it in judgment,\nI will take reprisals against my foes,\n    and my haters I will repay.",
+              "AMP": "If I sharpen the lightning of My sword, And My hand takes hold of judgment, I will render vengeance on My adversaries, And I will repay those who hate Me.",
+              "NLT": "when I sharpen my flashing sword\n    and begin to carry out justice,\nI will take revenge on my enemies\n    and repay those who reject me.",
+              "AKJV": "If I whet my glittering sword,\nand mine hand take hold on judgment;\nI will render vengeance to mine enemies,\nand will reward them that hate me.",
+              "NRSV": "when I whet my flashing sword\n    and my hand takes hold on judgment,\nI will take vengeance on my adversaries\n    and will repay those who hate me."
+            }
+          },
+          {
+            "verse": 42,
+            "texts": {
+              "NIV84": "I will make my arrows drunk with blood, while my sword devours flesh: the blood of the slain and the captives, the heads of the enemy leaders.\"",
+              "KJV": "I will make mine arrows drunk with blood, and my sword shall devour flesh; and that with the blood of the slain and of the captives, from the beginning of revenges upon the enemy.",
+              "NASB95": "\u2018I will make My arrows drunk with blood,\nAnd My sword will devour flesh,\nWith the blood of the slain and the captives,\nFrom the long-haired leaders of the enemy.\u2019",
+              "NKJV": "I will make My arrows drunk with blood,\nAnd My sword shall devour flesh,\nWith the blood of the slain and the captives,\nFrom the heads of the leaders of the enemy.\u201d \u2019",
+              "DRB": "I will make my arrows drunk with blood, and my sword shall devour flesh, of the blood of the slain and of the captivity, of the bare head of the enemies.",
+              "ESV": "I will make my arrows drunk with blood,\n    and my sword shall devour flesh\u2014\nwith the blood of the slain and the captives,\n    from the long-haired heads of the enemy.\u2019",
+              "LEB": "I will make my arrows drunk with blood,\n    and my sword shall devour flesh with the blood of the slain,\n    and captives from the heads of the leaders of the enemy.\u2019",
+              "AMP": "\u2018I will make My arrows drunk with blood, And My sword will devour flesh, With the blood of the slain and the captives, From the heads of the leaders of the enemy.\u2019",
+              "NLT": "I will make my arrows drunk with blood,\n    and my sword will devour flesh\u2014\nthe blood of the slaughtered and the captives,\n    and the heads of the enemy leaders.\u201d\u2019",
+              "AKJV": "I will make mine arrows drunk with blood,\nand my sword shall devour flesh;\nand that with the blood of the slain and of the captives,\nfrom the beginning of revenges upon the enemy.",
+              "NRSV": "I will make my arrows drunk with blood,\n    and my sword shall devour flesh\u2014\nwith the blood of the slain and the captives,\n    from the long-haired enemy.\u2019"
+            }
+          },
+          {
+            "verse": 43,
+            "texts": {
+              "NIV84": "Rejoice, O nations, with his people,, for he will avenge the blood of his servants; he will take vengeance on his enemies and make atonement for his land and people.",
+              "KJV": "Rejoice, O ye nations, with his people: for he will avenge the blood of his servants, and will render vengeance to his adversaries, and will be merciful unto his land, and to his people.",
+              "NASB95": "\u201cRejoice, O nations, with His people;\nFor He will avenge the blood of His servants,\nAnd will render vengeance on His adversaries,\nAnd will atone for His land and His people.\u201d",
+              "NKJV": "\u201cRejoice, O Gentiles, with His people;\nFor He will avenge the blood of His servants,\nAnd render vengeance to His adversaries;\nHe will provide atonement for His land and His people.\u201d",
+              "DRB": "Praise his people, ye nations, for he will revenge the blood of his servants: and will render vengeance to their enemies, and he will be merciful to the land of his people.",
+              "ESV": "\u201cRejoice with him, O heavens;\n    bow down to him, all gods,\nfor he avenges the blood of his children\n    and takes vengeance on his adversaries.\nHe repays those who hate him\n    and cleanses his people's land.\u201d",
+              "LEB": "Call for songs of joy, O nations, concerning his people,\n    for the blood of his servants he will avenge,\nand he will take reprisals against his foes,\n    and he will make atonement for his land, his people.\u201d",
+              "AMP": "\u201cRejoice, O nations, with His people; For He will avenge the blood of His servants, And will render vengeance on His adversaries, And will atone for His land and His people.\u201d",
+              "NLT": "\u201cRejoice with him, you heavens,\n    and let all of God\u2019s angels worship him.\nRejoice with his people, you Gentiles,\n    and let all the angels be strengthened in him.\nFor he will avenge the blood of his children;\n    he will take revenge against his enemies.\nHe will repay those who hate him\n    and cleanse his people\u2019s land.\u201d",
+              "AKJV": "Rejoice, O ye nations, with his people:\nfor he will avenge the blood of his servants,\nand will render vengeance to his adversaries,\nand will be merciful unto his land, and to his people.",
+              "NRSV": "Praise, O heavens, his people;\n    worship him, all you gods!\nFor he will avenge the blood of his children\n    and take vengeance on his adversaries;\nhe will repay those who hate him\n    and cleanse the land for his people.\u201d"
+            }
+          },
+          {
+            "verse": 44,
+            "texts": {
+              "NIV84": "Moses came with Joshua son of Nun and spoke all the words of this song in the hearing of the people.",
+              "KJV": "And Moses came and spake all the words of this song in the ears of the people, he, and Hoshea the son of Nun.",
+              "NASB95": "Then Moses came and spoke all the words of this song in the hearing of the people, he, with Joshua the son of Nun.",
+              "NKJV": "So Moses came with Joshua the son of Nun and spoke all the words of this song in the hearing of the people.",
+              "DRB": "So Moses came and spoke all the words of this canticle in the ears of the people, and Josue the son of Nun.",
+              "ESV": "Moses came and recited all the words of this song in the hearing of the people, he and Joshua the son of Nun.",
+              "LEB": "And Moses came, and he spoke all the words of this song in the ears of the people; that is, he and Joshua the son of Nun.",
+              "AMP": "Then Moses came and spoke all the words of this song in the hearing of the people, he and Joshua the son of Nun.",
+              "NLT": "So Moses came with Joshua son of Nun and recited all the words of this song to the people.",
+              "AKJV": "And Moses came and spake all the words of this song in the ears of the people, he, and Hoshea the son of Nun.",
+              "NRSV": "Moses came and recited all the words of this song in the hearing of the people, he and Joshua son of Nun."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

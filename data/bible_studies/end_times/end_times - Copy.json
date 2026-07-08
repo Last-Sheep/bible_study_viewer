@@ -1,0 +1,2300 @@
+{
+  "scripture": {
+    "header": {
+      "id": "end_times",
+      "title": "End Times - Last Days",
+      "description": "These are verses about the last days, end times and the day of the Lord",
+      "topics": [
+        "End Times",
+        "Last Days",
+        "Day of the Lord"
+      ]
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NASB95",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "mat_24_1_2",
+        "title": "Destruction of the Temple",
+        "description": "",
+        "reference": {
+          "book": "Matthew",
+          "chapter": 24,
+          "start": 1,
+          "end": 2
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Jesus left the temple and was walking away when his disciples came up to him to call his attention to its buildings.",
+              "KJV": "And Jesus went out, and departed from the temple: and his disciples came to him for to shew him the buildings of the temple.",
+              "NASB95": "Jesus came out from the temple and was going away when His disciples came up to point out the temple buildings to Him.",
+              "NKJV": "Then Jesus went out and departed from the temple, and His disciples came up to show Him the buildings of the temple.",
+              "DRB": "AND Jesus being come out of the temple, went away. And his disciples came to shew him the buildings of the temple."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"Do you see all these things?</span><span style='color:#952004; font-weight:600'>\" he asked. \"I tell you the truth, not one stone here will be left on another; every one will be thrown down.\"</span>",
+              "KJV": "And Jesus said unto them, <span style='color:#952004; font-weight:600'>See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down.</span>",
+              "NASB95": "And He said to them, <span style='color:#952004; font-weight:600'>\u201cDo you not see all these things? Truly I say to you, not one stone here will be left upon another, which will not be torn down.\u201d</span>",
+              "NKJV": "And Jesus said to them, <span style='color:#952004; font-weight:600'>\u201cDo you not see all these things? Assuredly, I say to you, not one stone shall be left here upon another, that shall not be thrown down.\u201d</span>",
+              "DRB": "And he answering, said to them: <span style='color:#952004; font-weight:600'>Do you see all these things? Amen I say to you there shall not be left here a stone upon a stone that shall not be destroyed.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "mrk_13_1_2",
+        "title": "Destruction of the Temple",
+        "description": "",
+        "reference": {
+          "book": "Mark",
+          "chapter": 13,
+          "start": 1,
+          "end": 2
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "As he was leaving the temple, one of his disciples said to him, \"Look, Teacher! What massive stones! What magnificent buildings!\"",
+              "KJV": "And as he went out of the temple, one of his disciples saith unto him, Master, see what manner of stones and what buildings are here!",
+              "NASB95": "As He was going out of the temple, one of His disciples said to Him, \u201cTeacher, behold what wonderful stones and what wonderful buildings!\u201d",
+              "NKJV": "Then as He went out of the temple, one of His disciples said to Him, \u201cTeacher, see what manner of stones and what buildings are here!\u201d",
+              "DRB": "AND as he was going out of the temple, one of his disciples said to him: Master, behold what manner of stones and what buildings are here."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"Do you see all these great buildings?\"</span> replied Jesus. <span style='color:#952004; font-weight:600'>\"Not one stone here will be left on another; every one will be thrown down.\"</span>",
+              "KJV": "And Jesus answering said unto him, <span style='color:#952004; font-weight:600'>Seest thou these great buildings? there shall not be left one stone upon another, that shall not be thrown down.</span>",
+              "NASB95": "And Jesus said to him, <span style='color:#952004; font-weight:600'>\u201cDo you see these great buildings? Not one stone will be left upon another which will not be torn down.\u201d</span>",
+              "NKJV": "And Jesus answered and said to him, <span style='color:#952004; font-weight:600'>\u201cDo you see these great buildings? Not one stone shall be left upon another, that shall not be thrown down.\u201d</span>",
+              "DRB": "And Jesus answering, said to him: <span style='color:#952004; font-weight:600'>Seest thou all these great buildings? There shall not be left a stone upon a stone, that shall not be thrown down.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "luk_21_5_6",
+        "title": "Destruction of the Temple",
+        "description": "",
+        "reference": {
+          "book": "Luke",
+          "chapter": 21,
+          "start": 5,
+          "end": 6
+        },
+        "rows": [
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "Some of his disciples were remarking about how the temple was adorned with beautiful stones and with gifts dedicated to God. But Jesus said,",
+              "KJV": "And as some spake of the temple, how it was adorned with goodly stones and gifts, he said,",
+              "NASB95": "And while some were talking about the temple, that it was adorned with beautiful stones and votive gifts, He said,",
+              "NKJV": "Then, as some spoke of the temple, how it was adorned with beautiful stones and donations, He said,",
+              "DRB": "And some saying of the temple, that it was adorned with goodly stones and gifts, he said:"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"As for what you see here, the time will come when not one stone will be left on another; every one of them will be thrown down.\"</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>As for these things which ye behold, the days will come, in the which there shall not be left one stone upon another, that shall not be thrown down.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>\u201cAs for these things which you are looking at, the days will come in which there will not be left one stone upon another which will not be torn down.\u201d</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cThese things which you see\u2014the days will come in which not one stone shall be left upon another that shall not be thrown down.\u201d</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>These things which you see, the days will come in which there shall not be left a stone upon a stone that shall not be thrown down.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "mat_24_3_14",
+        "title": "Signs of Times & End of the Age",
+        "description": "",
+        "reference": {
+          "book": "Matthew",
+          "chapter": 24,
+          "start": 3,
+          "end": 14
+        },
+        "rows": [
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "As Jesus was sitting on the Mount of Olives, the disciples came to him privately. \"Tell us,\" they said, \"when will this happen, and what will be the sign of your coming and of the end of the age?\"",
+              "KJV": "And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what shall be the sign of thy coming, and of the end of the world?",
+              "NASB95": "As He was sitting on the Mount of Olives, the disciples came to Him privately, saying, \u201cTell us, when will these things happen, and what will be the sign of Your coming, and of the end of the age?\u201d",
+              "NKJV": "Now as He sat on the Mount of Olives, the disciples came to Him privately, saying, \u201cTell us, when will these things be? And what will be the sign of Your coming, and of the end of the age?\u201d",
+              "DRB": "And when he was sitting on mount Olivet, the disciples came to him privately, saying: Tell us when shall these things be? and what shall be the sign of thy coming, and of the consummation of the world?"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Jesus answered: <span style='color:#952004; font-weight:600'>\"Watch out that no one deceives you.</span>",
+              "KJV": "And Jesus answered and said unto them, <span style='color:#952004; font-weight:600'>Take heed that no man deceive you.</span>",
+              "NASB95": "And Jesus answered and said to them, <span style='color:#952004; font-weight:600'>\u201cSee to it that no one misleads you.</span>",
+              "NKJV": "And Jesus answered and said to them: <span style='color:#952004; font-weight:600'>\u201cTake heed that no one deceives you.</span>",
+              "DRB": "And Jesus answering, said to them: <span style='color:#952004; font-weight:600'>Take heed that no man seduce you:</span>"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>For many will come in my name, claiming, 'I am the Christ, 'and will deceive many.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>For many shall come in my name, saying, I am Christ; and shall deceive many.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>For many will come in My name, saying, \u2018I am the Christ,\u2019 and will mislead many.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>For many will come in My name, saying, \u2018I am the Christ,\u2019 and will deceive many.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>For many will come in my name saying, I am Christ: and they will seduce many.</span>"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>You will hear of wars and rumors of wars, but see to it that you are not alarmed. Such things must happen, but the end is still to come.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>You will be hearing of wars and rumors of wars. See that you are not frightened, for those things must take place, but that is not yet the end.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>And you will hear of wars and rumors of wars. See that you are not troubled; for all these things must come to pass, but the end is not yet.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And you shall hear of wars and rumours of wars. See that ye be not troubled. For these things must come to pass, but the end is not yet.</span>"
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Nation will rise against nation, and kingdom against kingdom. There will be famines and earthquakes in various places.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>For nation will rise against nation, and kingdom against kingdom, and in various places there will be famines and earthquakes.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>For nation will rise against nation, and kingdom against kingdom. And there will be famines, pestilences, and earthquakes in various places.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>For nation shall rise against nation, and kingdom against kingdom; and there shall be pestilences, and famines, and earthquakes in places:</span>"
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>All these are the beginning of birth pains.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>All these are the beginning of sorrows.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>But all these things are merely the beginning of birth pangs.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>All these are the beginning of sorrows.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Now all these are the beginnings of sorrows.</span>"
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"Then you will be handed over to be persecuted and put to death, and you will be hated by all nations because of me.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name's sake.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>\u201cThen they will deliver you to tribulation, and will kill you, and you will be hated by all nations because of My name.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cThen they will deliver you up to tribulation and kill you, and you will be hated by all nations for My name\u2019s sake.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Then shall they deliver you up to be afflicted, and shall put you to death: and you shall be hated by all nations for my name's sake.</span>"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>At that time many will turn away from the faith and will betray and hate each other,</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And then shall many be offended, and shall betray one another, and shall hate one another.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>At that time many will fall away and will betray one another and hate one another.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>And then many will be offended, will betray one another, and will hate one another.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And then shall many be scandalized: and shall betray one another: and shall hate one another.</span>"
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>and many false prophets will appear and deceive many people.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And many false prophets shall rise, and shall deceive many.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Many false prophets will arise and will mislead many.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Then many false prophets will rise up and deceive many.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And many false prophets shall rise, and shall seduce many.</span>"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Because of the increase of wickedness, the love of most will grow cold,</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And because iniquity shall abound, the love of many shall wax cold.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Because lawlessness is increased, most people\u2019s love will grow cold.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>And because lawlessness will abound, the love of many will grow cold.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And because iniquity hath abounded, the charity of many shall grow cold.</span>"
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>but he who stands firm to the end will be saved.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But he that shall endure unto the end, the same shall be saved.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>But the one who endures to the end, he will be saved.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>But he who endures to the end shall be saved.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But he that shall persevere to the end, he shall be saved.</span>"
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>And this gospel of the kingdom will be preached in the whole world as a testimony to all nations, and then the end will come.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>This gospel of the kingdom shall be preached in the whole world as a testimony to all the nations, and then the end will come.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>And this gospel of the kingdom will be preached in all the world as a witness to all the nations, and then the end will come.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And this gospel of the kingdom, shall be preached in the whole world, for a testimony to all nations, and then shall the consummation come.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "mrk_13_3_13",
+        "title": "Signs of Times & End of the Age",
+        "description": "",
+        "reference": {
+          "book": "Mark",
+          "chapter": 13,
+          "start": 3,
+          "end": 13
+        },
+        "rows": [
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "As Jesus was sitting on the Mount of Olives opposite the temple, Peter, James, John and Andrew asked him privately,",
+              "KJV": "And as he sat upon the mount of Olives over against the temple, Peter and James and John and Andrew asked him privately,",
+              "NASB95": "As He was sitting on the Mount of Olives opposite the temple, Peter and James and John and Andrew were questioning Him privately,",
+              "NKJV": "Now as He sat on the Mount of Olives opposite the temple, Peter, James, John, and Andrew asked Him privately,",
+              "DRB": "And as he sat on the mount of Olivet over against the temple, Peter and James and John and Andrew asked him apart:"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "\"Tell us, when will these things happen? And what will be the sign that they are all about to be fulfilled?\"",
+              "KJV": "Tell us, when shall these things be? and what shall be the sign when all these things shall be fulfilled?",
+              "NASB95": "\u201cTell us, when will these things be, and what will be the sign when all these things are going to be fulfilled?\u201d",
+              "NKJV": "\u201cTell us, when will these things be? And what will be the sign when all these things will be fulfilled?\u201d",
+              "DRB": "Tell us, when shall these things be? and what shall be the sign when all these things shall begin to be fulfilled?"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "Jesus said to them: <span style='color:#952004; font-weight:600'>\"Watch out that no one deceives you.</span>",
+              "KJV": "And Jesus answering them began to say, <span style='color:#952004; font-weight:600'>Take heed lest any man deceive you:</span>",
+              "NASB95": "And Jesus began to say to them,<span style='color:#952004; font-weight:600'> \u201cSee to it that no one misleads you.</span>",
+              "NKJV": "And Jesus, answering them, began to say: <span style='color:#952004; font-weight:600'>\u201cTake heed that no one deceives you.</span>",
+              "DRB": "And Jesus answering, began to say to them, <span style='color:#952004; font-weight:600'>Take heed lest any man deceive you.</span>"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Many will come in my name, claiming, 'I am he,' and will deceive many.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>For many shall come in my name, saying, I am Christ; and shall deceive many.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Many will come in My name, saying, \u2018I am He!\u2019 and will mislead many.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>For many will come in My name, saying, \u2018I am He,\u2019 and will deceive many.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>For many shall come in my name, saying, I am he; and they shall deceive many.</span>"
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>When you hear of wars and rumors of wars, do not be alarmed. Such things must happen, but the end is still to come.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And when ye shall hear of wars and rumours of wars, be ye not troubled: for such things must needs be; but the end shall not be yet.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>When you hear of wars and rumors of wars, do not be frightened; those things must take place; but that is not yet the end.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>But when you hear of wars and rumors of wars, do not be troubled; for such things must happen, but the end is not yet.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And when you shall hear of wars and rumours of wars, fear ye not. For such things must needs be, but the end is not yet.</span>"
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Nation will rise against nation, and kingdom against kingdom. There will be earthquakes in various places, and famines. These are the beginning of birth pains.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>For nation shall rise against nation, and kingdom against kingdom: and there shall be earthquakes in divers places, and there shall be famines and troubles: these are the beginnings of sorrows.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>For nation will rise up against nation, and kingdom against kingdom; there will be earthquakes in various places; there will also be famines. These things are merely the beginning of birth pangs.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>For nation will rise against nation, and kingdom against kingdom. And there will be earthquakes in various places, and there will be famines and troubles. These are the beginnings of sorrows.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>For nation shall rise against nation and kingdom against kingdom, and there shall be earthquakes in divers places, and famines. These things are the beginning of sorrows.</span>"
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"You must be on your guard. You will be handed over to the local councils and flogged in the synagogues. On account of me you will stand before governors and kings as witnesses to them.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But take heed to yourselves: for they shall deliver you up to councils; and in the synagogues ye shall be beaten: and ye shall be brought before rulers and kings for my sake, for a testimony against them.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>\u201cBut be on your guard; for they will deliver you to the courts, and you will be flogged in the synagogues, and you will stand before governors and kings for My sake, as a testimony to them.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cBut watch out for yourselves, for they will deliver you up to councils, and you will be beaten in the synagogues. You will be brought before rulers and kings for My sake, for a testimony to them.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But look to yourselves. For they shall deliver you up to councils, and in the synagogues you shall be beaten, and you shall stand before governors and kings for my sake, for a testimony unto them.</span>"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>And the gospel must first be preached to all nations.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And the gospel must first be published among all nations.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>The gospel must first be preached to all the nations.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>And the gospel must first be preached to all the nations.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And unto all nations the gospel must first be preached.</span>"
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Whenever you are arrested and brought to trial, do not worry beforehand about what to say. Just say whatever is given you at the time, for it is not you speaking, but the Holy Spirit.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But when they shall lead you, and deliver you up, take no thought beforehand what ye shall speak, neither do ye premeditate: but whatsoever shall be given you in that hour, that speak ye: for it is not ye that speak, but the Holy Ghost.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>When they arrest you and hand you over, do not worry beforehand about what you are to say, but say whatever is given you in that hour; for it is not you who speak, but it is the Holy Spirit</span>.",
+              "NKJV": "<span style='color:#952004; font-weight:600'>But when they arrest you and deliver you up, do not worry beforehand, or premeditate what you will speak. But whatever is given you in that hour, speak that; for it is not you who speak, but the Holy Spirit.",
+              "DRB": "<span style='color:#952004; font-weight:600'>And when they shall lead you and deliver you up, be not thoughtful beforehand what you shall speak; but whatsoever shall be given you in that hour, that speak ye. For it is not you that speak, but the Holy Ghost.</span>"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"Brother will betray brother to death, and a father his child. Children will rebel against their parents and have them put to death.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Now the brother shall betray the brother to death, and the father the son; and children shall rise up against their parents, and shall cause them to be put to death.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Brother will betray brother to death, and a father his child; and children will rise up against parents and have them put to death.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Now brother will betray brother to death, and a father his child; and children will rise up against parents and cause them to be put to death.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And the brother shall betray his brother unto death, and the father his son; and children shall rise up against the parents, and shall work their death.</span>"
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>All men will hate you because of me, but he who stands firm to the end will be saved.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And ye shall be hated of all men for my name's sake: but he that shall endure unto the end, the same shall be saved.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>You will be hated by all because of My name, but the one who endures to the end, he will be saved.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>And you will be hated by all for My name\u2019s sake. But he who endures to the end shall be saved.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And you shall be hated by all men for my name's sake. But he that shall endure unto the end, he shall be saved.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "luk_21_7_19",
+        "title": "Signs of Times & End of the Age",
+        "description": "",
+        "reference": {
+          "book": "Luke",
+          "chapter": 21,
+          "start": 7,
+          "end": 19
+        },
+        "rows": [
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "\"Teacher,\" they asked, \"when will these things happen? And what will be the sign that they are about to take place?\"",
+              "KJV": "And they asked him, saying, Master, but when shall these things be? and what sign will there be when these things shall come to pass?",
+              "NASB95": "They questioned Him, saying, \u201cTeacher, when therefore will these things happen? And what will be the sign when these things are about to take place?\u201d",
+              "NKJV": "So they asked Him, saying, \u201cTeacher, but when will these things be? And what sign will there be when these things are about to take place?\u201d",
+              "DRB": "And they asked him, saying: Master, when shall these things be? and what shall be the sign when they shall begin to come to pass?"
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "He replied: <span style='color:#952004; font-weight:600'>\"Watch out that you are not deceived. For many will come in my name, claiming, 'I am he,' and, 'The time is near.' Do not follow them.</span>",
+              "KJV": "And he said, <span style='color:#952004; font-weight:600'>Take heed that ye be not deceived: for many shall come in my name, saying, I am Christ; and the time draweth near: go ye not therefore after them.</span>",
+              "NASB95": "And He said, <span style='color:#952004; font-weight:600'>\u201cSee to it that you are not misled; for many will come in My name, saying, \u2018I am He,\u2019 and, \u2018The time is near.\u2019 Do not go after them.</span>",
+              "NKJV": "And He said: <span style='color:#952004; font-weight:600'>\u201cTake heed that you not be deceived. For many will come in My name, saying, \u2018I am He,\u2019 and, \u2018The time has drawn near.\u2019 Therefore do not go after them.</span>",
+              "DRB": "Who said: <span style='color:#952004; font-weight:600'>Take heed you be not seduced; for many will come in my name, saying, I am he; and the time is at hand: go ye not therefore after them.</span>"
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>When you hear of wars and revolutions, do not be frightened. These things must happen first, but the end will not come right away.\"</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But when ye shall hear of wars and commotions, be not terrified: for these things must first come to pass; but the end is not by and by.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>When you hear of wars and disturbances, do not be terrified; for these things must take place first, but the end does not follow immediately.\u201d</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>But when you hear of wars and commotions, do not be terrified; for these things must come to pass first, but the end will not come immediately.\u201d</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And when you shall hear of wars and seditions, be not terrified: these things must first come to pass; but the end is not yet presently.</span>"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Then he said to them: <span style='color:#952004; font-weight:600'>\"Nation will rise against nation, and kingdom against kingdom.</span>",
+              "KJV": "Then said he unto them, <span style='color:#952004; font-weight:600'>Nation shall rise against nation, and kingdom against kingdom:</span>",
+              "NASB95": "Then He continued by saying to them, <span style='color:#952004; font-weight:600'>\u201cNation will rise against nation and kingdom against kingdom,</span>",
+              "NKJV": "Then He said to them, <span style='color:#952004; font-weight:600'>\u201cNation will rise against nation, and kingdom against kingdom.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Then he said to them: Nation shall rise against nation, and kingdom against kingdom.</span>"
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>There will be great earthquakes, famines and pestilences in various places, and fearful events and great signs from heaven.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And great earthquakes shall be in divers places, and famines, and pestilences; and fearful sights and great signs shall there be from heaven.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>and there will be great earthquakes, and in various places plagues and famines; and there will be terrors and great signs from heaven.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>And there will be great earthquakes in various places, and famines and pestilences; and there will be fearful sights and great signs from heaven.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And there shall be great earthquakes in divers places, and pestilences, and famines, and terrors from heaven; and there shall be great signs.</span>"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "\"<span style='color:#952004; font-weight:600'>But before all this, they will lay hands on you and persecute you. They will deliver you to synagogues and prisons, and you will be brought before kings and governors, and all on account of my name.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But before all these, they shall lay their hands on you, and persecute you, delivering you up to the synagogues, and into prisons, being brought before kings and rulers for my name's sake.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>\u201cBut before all these things, they will lay their hands on you and will persecute you, delivering you to the synagogues and prisons, bringing you before kings and governors for My name\u2019s sake.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>But before all these things, they will lay their hands on you and persecute you, delivering you up to the synagogues and prisons. You will be brought before kings and rulers for My name\u2019s sake.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But before all these things, they will lay their hands upon you, and persecute you, delivering you up to the synagogues and into prisons, dragging you before kings and governors, for my name's sake.</span>"
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>This will result in your being witnesses to them.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And it shall turn to you for a testimony.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>It will lead to an opportunity for your testimony.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>But it will turn out for you as an occasion for testimony.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And it shall happen unto you for a testimony.</span>"
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>But make up your mind not to worry beforehand how you will defend yourselves.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Settle it therefore in your hearts, not to meditate before what ye shall answer:</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>So make up your minds not to prepare beforehand to defend yourselves;</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Therefore settle it in your hearts not to meditate beforehand on what you will answer;</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Lay it up therefore into your hearts, not to meditate before how you shall answer:</span>"
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>For I will give you words and wisdom that none of your adversaries will be able to resist or contradict.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>For I will give you a mouth and wisdom, which all your adversaries shall not be able to gainsay nor resist.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>for I will give you utterance and wisdom which none of your opponents will be able to resist or refute.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>for I will give you a mouth and wisdom which all your adversaries will not be able to contradict or resist.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>For I will give you a mouth and wisdom, which all your adversaries shall not be able to resist and gainsay.</span>"
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>You will be betrayed even by parents, brothers, relatives and friends, and they will put some of you to death.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And ye shall be betrayed both by parents, and brethren, and kinsfolks, and friends; and some of you shall they cause to be put to death.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>But you will be betrayed even by parents and brothers and relatives and friends, and they will put some of you to death,</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>You will be betrayed even by parents and brothers, relatives and friends; and they will put some of you to death.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And you shall be betrayed by your parents and brethren, and kinsmen and friends; and some of you they will put to death.</span>"
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>All men will hate you because of me.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And ye shall be hated of all men for my name's sake.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>and you will be hated by all because of My name.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>And you will be hated by all for My name\u2019s sake.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And you shall be hated by all men for my name's sake.</span>"
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>But not a hair of your head will perish.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But there shall not an hair of your head perish.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Yet not a hair of your head will perish.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>But not a hair of your head shall be lost.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But a hair of your head shall not perish.</span>"
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>By standing firm you will gain life.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>In your patience possess ye your souls.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>By your endurance you will gain your lives.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>By your patience possess your souls.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>In your patience you shall possess your souls.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "mat_24_15_28",
+        "title": "The Great Tribulation",
+        "description": "",
+        "reference": {
+          "book": "Matthew",
+          "chapter": 24,
+          "start": 15,
+          "end": 28
+        },
+        "rows": [
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"So when you see standing in the holy place 'the abomination that causes desolation,' spoken of through the prophet Daniel--let the reader understand--</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:)</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>\u201cTherefore when you see the abomination of desolation which was spoken of through Daniel the prophet, standing in the holy place (let the reader understand),</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cTherefore when you see the \u2018abomination of desolation,\u2019 spoken of by Daniel the prophet, standing in the holy place\u201d (whoever reads, let him understand),</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>When therefore you shall see the abomination of desolation, which was spoken of by Daniel the prophet, standing in the holy place: he that readeth let him understand.</span>"
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>then let those who are in Judea flee to the mountains.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Then let them which be in Judaea flee into the mountains:</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>then those who are in Judea must flee to the mountains.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cthen let those who are in Judea flee to the mountains.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Then they that are in Judea, let them flee to the mountains:</span>"
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Let no one on the roof of his house go down to take anything out of the house.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Let him which is on the housetop not come down to take any thing out of his house:</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Whoever is on the housetop must not go down to get the things out that are in his house.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Let him who is on the housetop not go down to take anything out of his house.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And he that is on the housetop, let him not come down to take any thing out of his house:</span>"
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Let no one in the field go back to get his cloak.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Neither let him which is in the field return back to take his clothes.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Whoever is in the field must not turn back to get his cloak.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>And let him who is in the field not go back to get his clothes.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And he that is in the field, let him not go back to take his coat.</span>"
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>How dreadful it will be in those days for pregnant women and nursing mothers!</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And woe unto them that are with child, and to them that give suck in those days!</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>But woe to those who are pregnant and to those who are nursing babies in those days!</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>But woe to those who are pregnant and to those who are nursing babies in those days!</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And woe to them that are with child, and that give suck in those days.</span>"
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Pray that your flight will not take place in winter or on the Sabbath.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But pray ye that your flight be not in the winter, neither on the sabbath day:</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>But pray that your flight will not be in the winter, or on a Sabbath.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>And pray that your flight may not be in winter or on the Sabbath.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But pray that your flight be not in the winter, or on the sabbath.</span>"
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>For then there will be great distress, unequaled from the beginning of the world until now--and never to be equaled again.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>For then there will be a great tribulation, such as has not occurred since the beginning of the world until now, nor ever will.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>For then there will be great tribulation, such as has not been since the beginning of the world until this time, no, nor ever shall be.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>For there shall be then great tribulation, such as hath not been from the beginning of the world until now, neither shall be.</span>"
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>If those days had not been cut short, no one would survive, but for the sake of the elect those days will be shortened.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And except those days should be shortened, there should no flesh be saved: but for the elect's sake those days shall be shortened.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Unless those days had been cut short, no life would have been saved; but for the sake of the elect those days will be cut short.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>And unless those days were shortened, no flesh would be saved; but for the elect\u2019s sake those days will be shortened.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And unless those days had been shortened, no flesh should be saved: but for the sake of the elect those days shall be shortened.</span>"
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>At that time if anyone says to you, 'Look, here is the Christ!' or, 'There he is!' do not believe it.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Then if any man shall say unto you, Lo, here is Christ, or there; believe it not.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Then if anyone says to you, \u2018Behold, here is the Christ,\u2019 or \u2018There He is,\u2019 do not believe him.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cThen if anyone says to you, \u2018Look, here is the Christ!\u2019 or \u2018There!\u2019 do not believe it.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Then if any man shall say to you: Lo here is Christ, or there, do not believe him.</span>"
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>For false Christs and false prophets will appear and perform great signs and miracles to deceive even the elect--if that were possible.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if it were possible, they shall deceive the very elect.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>For false Christs and false prophets will arise and will show great signs and wonders, so as to mislead, if possible, even the elect.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>For false christs and false prophets will rise and show great signs and wonders to deceive, if possible, even the elect.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>For there shall arise false Christs and false prophets, and shall show great signs and wonders, insomuch as to deceive (if possible) even the elect.</span>"
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>See, I have told you ahead of time.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Behold, I have told you before.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Behold, I have told you in advance.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>See, I have told you beforehand.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Behold I have told it to you, beforehand.</span>"
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"So if anyone tells you, 'There he is, out in the desert,' do not go out; or, 'Here he is, in the inner rooms,' do not believe it.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Wherefore if they shall say unto you, Behold, he is in the desert; go not forth: behold, he is in the secret chambers; believe it not.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>So if they say to you, \u2018Behold, He is in the wilderness,\u2019 do not go out, or, \u2018Behold, He is in the inner rooms,\u2019 do not believe them.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cTherefore if they say to you, \u2018Look, He is in the desert!\u2019 do not go out; or \u2018Look, He is in the inner rooms!\u2019 do not believe it.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>If therefore they shall say to you: Behold he is in the desert, go ye not out: Behold he is in the closets, believe it not.</span>"
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>For as lightning that comes from the east is visible even in the west, so will be the coming of the Son of Man.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>For as the lightning cometh out of the east, and shineth even unto the west; so shall also the coming of the Son of man be.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>For just as the lightning comes from the east and flashes even to the west, so will the coming of the Son of Man be.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>For as the lightning comes from the east and flashes to the west, so also will the coming of the Son of Man be.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>For as lightning cometh out of the east, and appeareth even into the west: so shall the coming of the Son of man be.</span>"
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Wherever there is a carcass, there the vultures will gather.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>For wheresoever the carcase is, there will the eagles be gathered together.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Wherever the corpse is, there the vultures will gather.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>For wherever the carcass is, there the eagles will be gathered together.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Wheresoever the body shall be, there shall the eagles also be gathered together.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "mrk_13_14_23",
+        "title": "The Great Tribulation",
+        "description": "",
+        "reference": {
+          "book": "Mark",
+          "chapter": 13,
+          "start": 14,
+          "end": 23
+        },
+        "rows": [
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"When you see 'the abomination that causes desolation' standing where it does not belong--let the reader understand--then let those who are in Judea flee to the mountains.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But when ye shall see the abomination of desolation, spoken of by Daniel the prophet, standing where it ought not, (let him that readeth understand,) then let them that be in Judaea flee to the mountains:</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>\u201cBut when you see the abomination of desolation standing where it should not be (let the reader understand), then those who are in Judea must flee to the mountains.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cSo when you see the \u2018abomination of desolation,\u2019 spoken of by Daniel the prophet, standing where it ought not\u201d (let the reader understand), \u201cthen let those who are in Judea flee to the mountains.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And when you shall see the abomination of desolation, standing where it ought not: he that readeth let him understand: then let them that are in Judea, flee unto the mountains:</span>"
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Let no one on the roof of his house go down or enter the house to take anything out.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And let him that is on the housetop not go down into the house, neither enter therein, to take any thing out of his house:</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>The one who is on the housetop must not go down, or go in to get anything out of his house;</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Let him who is on the housetop not go down into the house, nor enter to take anything out of his house.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And let him that is on the housetop, not go down into the house, nor enter therein to take any thing out of the house:</span>"
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Let no one in the field go back to get his cloak.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And let him that is in the field not turn back again for to take up his garment.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>and the one who is in the field must not turn back to get his coat.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>And let him who is in the field not go back to get his clothes.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And let him that shall be in the field, not turn back to take up his garment.</span>"
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>How dreadful it will be in those days for pregnant women and nursing mothers!</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But woe to them that are with child, and to them that give suck in those days!</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>But woe to those who are pregnant and to those who are nursing babies in those days!</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>But woe to those who are pregnant and to those who are nursing babies in those days!</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And woe to them that are with child, and that give suck in those days.</span>"
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Pray that this will not take place in winter,</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And pray ye that your flight be not in the winter.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>But pray that it may not happen in the winter.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>And pray that your flight may not be in winter.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But pray ye, that these things happen not in winter.</span>"
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>because those will be days of distress unequaled from the beginning, when God created the world, until now--and never to be equaled again.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>For in those days shall be affliction, such as was not from the beginning of the creation which God created unto this time, neither shall be.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>For those days will be a time of tribulation such as has not occurred since the beginning of the creation which God created until now, and never will.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>For in those days there will be tribulation, such as has not been since the beginning of the creation which God created until this time, nor ever shall be.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>For in those days shall be such tribulations, as were not from the beginning of the creation which God created until now, neither shall be.</span>"
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>If the Lord had not cut short those days, no one would survive. But for the sake of the elect, whom he has chosen, he has shortened them.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And except that the Lord had shortened those days, no flesh should be saved: but for the elect's sake, whom he hath chosen, he hath shortened the days.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Unless the Lord had shortened those days, no life would have been saved; but for the sake of the elect, whom He chose, He shortened the days.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>And unless the Lord had shortened those days, no flesh would be saved; but for the elect\u2019s sake, whom He chose, He shortened the days.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And unless the Lord had shortened the days, no flesh should be saved: but for the sake of the elect which he hath chosen, he hath shortened the days.</span>"
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>At that time if anyone says to you, 'Look, here is the Christ!' or, 'Look, there he is!' do not believe it.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And then if any man shall say to you, Lo, here is Christ; or, lo, he is there; believe him not:</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>And then if anyone says to you, \u2018Behold, here is the Christ\u2019; or, \u2018Behold, He is there\u2019; do not believe him;</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cThen if anyone says to you, \u2018Look, here is the Christ!\u2019 or, \u2018Look, He is there!\u2019 do not believe it.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And then if any man shall say to you, Lo, here is Christ; lo, he is here: do not believe.</span>"
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>For false Christs and false prophets will appear and perform signs and miracles to deceive the elect--if that were possible.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>For false Christs and false prophets shall rise, and shall shew signs and wonders, to seduce, if it were possible, even the elect.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>for false Christs and false prophets will arise, and will show signs and wonders, in order to lead astray, if possible, the elect.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>For false christs and false prophets will rise and show signs and wonders to deceive, if possible, even the elect.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>For there will rise up false Christs and false prophets, and they shall shew signs and wonders, to seduce (if it were possible) even the elect.</span>"
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>So be on your guard; I have told you everything ahead of time.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But take ye heed: behold, I have foretold you all things.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>But take heed; behold, I have told you everything in advance.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>But take heed; see, I have told you all things beforehand.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Take you heed therefore; behold I have foretold you all things.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "luk_21_20_24",
+        "title": "Destruction of Jerusalem",
+        "description": "",
+        "reference": {
+          "book": "Luke",
+          "chapter": 21,
+          "start": 20,
+          "end": 24
+        },
+        "rows": [
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "\"<span style='color:#952004; font-weight:600'>When you see Jerusalem being surrounded by armies, you will know that its desolation is near.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And when ye shall see Jerusalem compassed with armies, then know that the desolation thereof is nigh.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>\u201cBut when you see Jerusalem surrounded by armies, then recognize that her desolation is near.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cBut when you see Jerusalem surrounded by armies, then know that its desolation is near.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And when you shall see Jerusalem compassed about with an army; then know that the desolation thereof is at hand.</span>"
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Then let those who are in Judea flee to the mountains, let those in the city get out, and let those in the country not enter the city.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Then let them which are in Judaea flee to the mountains; and let them which are in the midst of it depart out; and let not them that are in the countries enter thereinto.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Then those who are in Judea must flee to the mountains, and those who are in the midst of the city must leave, and those who are in the country must not enter the city;</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Then let those who are in Judea flee to the mountains, let those who are in the midst of her depart, and let not those who are in the country enter her.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Then let those who are in Judea, flee to the mountains; and those who are in the midst thereof, depart out: and those who are in the countries, not enter into it.</span>"
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>For this is the time of punishment in fulfillment of all that has been written.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>For these be the days of vengeance, that all things which are written may be fulfilled.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>because these are days of vengeance, so that all things which are written will be fulfilled.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>For these are the days of vengeance, that all things which are written may be fulfilled.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>For these are the days of vengeance, that all things may be fulfilled, that are written.</span>"
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>How dreadful it will be in those days for pregnant women and nursing mothers! There will be great distress in the land and wrath against this people.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But woe unto them that are with child, and to them that give suck, in those days! for there shall be great distress in the land, and wrath upon this people.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Woe to those who are pregnant and to those who are nursing babies in those days; for there will be great distress upon the land and wrath to this people;</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>But woe to those who are pregnant and to those who are nursing babies in those days! For there will be great distress in the land and wrath upon this people.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But woe to them that are with child, and give suck in those days; for there shall be great distress in the land, and wrath upon this people.</span>"
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>They will fall by the sword and will be taken as prisoners to all the nations. Jerusalem will be trampled on by the Gentiles until the times of the Gentiles are fulfilled.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And they shall fall by the edge of the sword, and shall be led away captive into all nations: and Jerusalem shall be trodden down of the Gentiles, until the times of the Gentiles be fulfilled.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>and they will fall by the edge of the sword, and will be led captive into all the nations; and Jerusalem will be trampled under foot by the Gentiles until the times of the Gentiles are fulfilled.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>And they will fall by the edge of the sword, and be led away captive into all nations. And Jerusalem will be trampled by Gentiles until the times of the Gentiles are fulfilled.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And they shall fall by the edge of the sword; and shall be led away captives into all nations; and Jerusalem shall be trodden down by the Gentiles; till the times of the nations be fulfilled.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "mat_24_29_32",
+        "title": "Coming of the Son of Man",
+        "description": "",
+        "reference": {
+          "book": "Matthew",
+          "chapter": 24,
+          "start": 29,
+          "end": 32
+        },
+        "rows": [
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"Immediately after the distress of those days \"'the sun will be darkened, and the moon will not give its light; the stars will fall from the sky, and the heavenly bodies will be shaken.'</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>\u201cBut immediately after the tribulation of those days the sun will be darkened, and the moon will not give its light, and the stars will fall from the sky, and the powers of the heavens will be shaken.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cImmediately after the tribulation of those days the sun will be darkened, and the moon will not give its light; the stars will fall from heaven, and the powers of the heavens will be shaken.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And immediately after the tribulation of those days, the sun shall be darkened and the moon shall not give her light, and the stars shall fall from heaven, and the powers of heaven shall be moved:</span>"
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"At that time the sign of the Son of Man will appear in the sky, and all the nations of the earth will mourn. They will see the Son of Man coming on the clouds of the sky, with power and great glory.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>And then the sign of the Son of Man will appear in the sky, and then all the tribes of the earth will mourn, and they will see the Son of Man coming on the clouds of the sky with power and great glory.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Then the sign of the Son of Man will appear in heaven, and then all the tribes of the earth will mourn, and they will see the Son of Man coming on the clouds of heaven with power and great glory.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And then shall appear the sign of the Son of man in heaven: and then shall all tribes of the earth mourn: and they shall see the Son of man coming in the clouds of heaven with much power and majesty.</span>"
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>And he will send his angels with a loud trumpet call, and they will gather his elect from the four winds, from one end of the heavens to the other.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>And He will send forth His angels with a great trumpet and they will gather together His elect from the four winds, from one end of the sky to the other.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>And He will send His angels with a great sound of a trumpet, and they will gather together His elect from the four winds, from one end of heaven to the other.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And he shall send his angels with a trumpet, and a great voice: and they shall gather together his elect from the four winds, from the farthest parts of the heavens to the utmost bounds of them.</span>"
+            }
+          },
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"Now learn this lesson from the fig tree: As soon as its twigs get tender and its leaves come out, you know that summer is near.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Now learn a parable of the fig tree; When his branch is yet tender, and putteth forth leaves, ye know that summer is nigh:</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>\u201cNow learn the parable from the fig tree: when its branch has already become tender and puts forth its leaves, you know that summer is near;</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cNow learn this parable from the fig tree: When its branch has already become tender and puts forth leaves, you know that summer is near.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And from the fig tree learn a parable: When the branch thereof is now tender, and the leaves come forth, you know that summer is nigh.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "mrk_13_24_27",
+        "title": "Coming of the Son of Man",
+        "description": "",
+        "reference": {
+          "book": "Mark",
+          "chapter": 13,
+          "start": 24,
+          "end": 27
+        },
+        "rows": [
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"But in those days, following that distress, \"'the sun will be darkened, and the moon will not give its light;</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But in those days, after that tribulation, the sun shall be darkened, and the moon shall not give her light,</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>\u201cBut in those days, after that tribulation, the sun will be darkened and the moon will not give its light,</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cBut in those days, after that tribulation, the sun will be darkened, and the moon will not give its light;</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But in those days, after that tribulation, the sun shall be darkened, and the moon shall not give her light.</span>"
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>the stars will fall from the sky, and the heavenly bodies will be shaken.'</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And the stars of heaven shall fall, and the powers that are in heaven shall be shaken.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>and the stars will be falling from heaven, and the powers that are in the heavens will be shaken.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>the stars of heaven will fall, and the powers in the heavens will be shaken.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And the stars of heaven shall be falling down, and the powers that are in heaven, shall be moved.</span>"
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"At that time men will see the Son of Man coming in clouds with great power and glory.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And then shall they see the Son of man coming in the clouds with great power and glory.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Then they will see the Son of Man coming in clouds with great power and glory.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Then they will see the Son of Man coming in the clouds with great power and glory.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And then shall they see the Son of man coming in the clouds, with great power and glory.</span>"
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>And he will send his angels and gather his elect from the four winds, from the ends of the earth to the ends of the heavens.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And then shall he send his angels, and shall gather together his elect from the four winds, from the uttermost part of the earth to the uttermost part of heaven.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>And then He will send forth the angels, and will gather together His elect from the four winds, from the farthest end of the earth to the farthest end of heaven.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>And then He will send His angels, and gather together His elect from the four winds, from the farthest part of earth to the farthest part of heaven.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And then shall he send his angels, and shall gather together his elect from the four winds, from the uttermost part of the earth to the uttermost part of heaven.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "luk_21_25_28",
+        "title": "Coming of the Son of Man",
+        "description": "",
+        "reference": {
+          "book": "Luke",
+          "chapter": 21,
+          "start": 25,
+          "end": 28
+        },
+        "rows": [
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"There will be signs in the sun, moon and stars. On the earth, nations will be in anguish and perplexity at the roaring and tossing of the sea.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, with perplexity; the sea and the waves roaring;</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>\u201cThere will be signs in sun and moon and stars, and on the earth dismay among nations, in perplexity at the roaring of the sea and the waves,</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cAnd there will be signs in the sun, in the moon, and in the stars; and on the earth distress of nations, with perplexity, the sea and the waves roaring;</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, by reason of the confusion of the roaring of the sea and of the waves;</span>"
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Men will faint from terror, apprehensive of what is coming on the world, for the heavenly bodies will be shaken.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Men's hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>men fainting from fear and the expectation of the things which are coming upon the world; for the powers of the heavens will be shaken.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>men\u2019s hearts failing them from fear and the expectation of those things which are coming on the earth, for the powers of the heavens will be shaken.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Men withering away for fear, and expectation of what shall come upon the whole world. For the powers of heaven shall be moved;</span>"
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>At that time they will see the Son of Man coming in a cloud with power and great glory.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And then shall they see the Son of man coming in a cloud with power and great glory.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Then they will see the Son of Man coming in a cloud with power and great glory.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Then they will see the Son of Man coming in a cloud with power and great glory.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And then they shall see the Son of man coming in a cloud, with great power and majesty.</span>"
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>When these things begin to take place, stand up and lift up your heads, because your redemption is drawing near.\"</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And when these things begin to come to pass, then look up, and lift up your heads; for your redemption draweth nigh.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>But when these things begin to take place, straighten up and lift up your heads, because your redemption is drawing near.\u201d</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Now when these things begin to happen, look up and lift up your heads, because your redemption draws near.\u201d</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But when these things begin to come to pass, look up, and lift up your heads, because your redemption is at hand.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "mat_24_33_35",
+        "title": "Parable of the Fig Tree",
+        "description": "",
+        "reference": {
+          "book": "Matthew",
+          "chapter": 24,
+          "start": 33,
+          "end": 35
+        },
+        "rows": [
+          {
+            "verse": 33,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Even so, when you see all these things, you know that it is near, right at the door.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>So likewise ye, when ye shall see all these things, know that it is near, even at the doors.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>so, you too, when you see all these things, recognize that He is near, right at the door.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>So you also, when you see all these things, know that it is near\u2014at the doors!</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>So you also, when you shall see all these things, know ye that it is nigh, even at the doors.</span>"
+            }
+          },
+          {
+            "verse": 34,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>I tell you the truth, this generation will certainly not pass away until all these things have happened.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Verily I say unto you, This generation shall not pass, till all these things be fulfilled.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Truly I say to you, this generation will not pass away until all these things take place.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Assuredly, I say to you, this generation will by no means pass away till all these things take place.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Amen I say to you, that this generation shall not pass, till all these things be done.</span>"
+            }
+          },
+          {
+            "verse": 35,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Heaven and earth will pass away, but my words will never pass away.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Heaven and earth shall pass away, but my words shall not pass away.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Heaven and earth will pass away, but My words will not pass away.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Heaven and earth will pass away, but My words will by no means pass away.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Heaven and earth shall pass, but my words shall not pass.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "mrk_13_28_31",
+        "title": "Parable of the Fig Tree",
+        "description": "",
+        "reference": {
+          "book": "Mark",
+          "chapter": 13,
+          "start": 28,
+          "end": 31
+        },
+        "rows": [
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"Now learn this lesson from the fig tree: As soon as its twigs get tender and its leaves come out, you know that summer is near.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Now learn a parable of the fig tree; When her branch is yet tender, and putteth forth leaves, ye know that summer is near:</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>\u201cNow learn the parable from the fig tree: when its branch has already become tender and puts forth its leaves, you know that summer is near.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cNow learn this parable from the fig tree: When its branch has already become tender, and puts forth leaves, you know that summer is near.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Now of the fig tree learn ye a parable. When the branch thereof is now tender, and the leaves are come forth, you know that summer is very near.</span>"
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Even so, when you see these things happening, you know that it is near, right at the door.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>So ye in like manner, when ye shall see these things come to pass, know that it is nigh, even at the doors.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Even so, you too, when you see these things happening, recognize that He is near, right at the door.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>So you also, when you see these things happening, know that it is near\u2014at the doors!</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>So you also when you shall see these things come to pass, know ye that it is very nigh, even at the doors.</span>"
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>I tell you the truth, this generation will certainly not pass away until all these things have happened.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Verily I say unto you, that this generation shall not pass, till all these things be done.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Truly I say to you, this generation will not pass away until all these things take place.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Assuredly, I say to you, this generation will by no means pass away till all these things take place.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Amen I say to you, that this generation shall not pass, until all these things be done.</span>"
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Heaven and earth will pass away, but my words will never pass away.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Heaven and earth shall pass away: but my words shall not pass away.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Heaven and earth will pass away, but My words will not pass away.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Heaven and earth will pass away, but My words will by no means pass away.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Heaven and earth shall pass away, but my word shall not pass away.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "luk_21_29_33",
+        "title": "Parable of the Fig Tree",
+        "description": "",
+        "reference": {
+          "book": "Luke",
+          "chapter": 21,
+          "start": 29,
+          "end": 33
+        },
+        "rows": [
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "He told them this parable: <span style='color:#952004; font-weight:600'>\"Look at the fig tree and all the trees.</span>",
+              "KJV": "And he spake to them a parable; <span style='color:#952004; font-weight:600'>Behold the fig tree, and all the trees;</span>",
+              "NASB95": "Then He told them a parable: <span style='color:#952004; font-weight:600'>\u201cBehold the fig tree and all the trees;</span>",
+              "NKJV": "Then He spoke to them a parable: <span style='color:#952004; font-weight:600'>\u201cLook at the fig tree, and all the trees.</span>",
+              "DRB": "And he spoke to them in a similitude. <span style='color:#952004; font-weight:600'>See the fig tree, and all the trees:</span>"
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>When they sprout leaves, you can see for yourselves and know that summer is near.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>When they now shoot forth, ye see and know of your own selves that summer is now nigh at hand.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>as soon as they put forth leaves, you see it and know for yourselves that summer is now near.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>When they are already budding, you see and know for yourselves that summer is now near.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>When they now shoot forth their fruit, you know that summer is nigh;</span>"
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Even so, when you see these things happening, you know that the kingdom of God is near.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>So likewise ye, when ye see these things come to pass, know ye that the kingdom of God is nigh at hand.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>So you also, when you see these things happening, recognize that the kingdom of God is near.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>So you also, when you see these things happening, know that the kingdom of God is near.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>So you also, when you shall see these things come to pass, know that the kingdom of God is at hand.</span>"
+            }
+          },
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"I tell you the truth, this generation will certainly not pass away until all these things have happened.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Verily I say unto you, This generation shall not pass away, till all be fulfilled.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Truly I say to you, this generation will not pass away until all things take place.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Assuredly, I say to you, this generation will by no means pass away till all things take place.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Amen, I say to you, this generation shall not pass away, till all things be fulfilled.</span>"
+            }
+          },
+          {
+            "verse": 33,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Heaven and earth will pass away, but my words will never pass away.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Heaven and earth shall pass away: but my words shall not pass away.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Heaven and earth will pass away, but My words will not pass away.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Heaven and earth will pass away, but My words will by no means pass away.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Heaven and earth shall pass away, but my words shall not pass away.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "mat_24_36_51",
+        "title": "Day & Hour Unknown",
+        "description": "",
+        "reference": {
+          "book": "Matthew",
+          "chapter": 24,
+          "start": 36,
+          "end": 51
+        },
+        "rows": [
+          {
+            "verse": 36,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"No one knows about that day or hour, not even the angels in heaven, nor the Son, but only the Father.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But of that day and hour knoweth no man, no, not the angels of heaven, but my Father only.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>\u201cBut of that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father alone.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cBut of that day and hour no one knows, not even the angels of heaven, but My Father only.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But of that day and hour no one knoweth, not the angels of heaven, but the Father alone.</span>"
+            }
+          },
+          {
+            "verse": 37,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>As it was in the days of Noah, so it will be at the coming of the Son of Man.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But as the days of Noah were, so shall also the coming of the Son of man be.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>For the coming of the Son of Man will be just like the days of Noah.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>But as the days of Noah were, so also will the coming of the Son of Man be.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And as in the days of Noe, so shall also the coming of the Son of man be.</span>"
+            }
+          },
+          {
+            "verse": 38,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>For in the days before the flood, people were eating and drinking, marrying and giving in marriage, up to the day Noah entered the ark;</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark,</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>For as in those days before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noah entered the ark,</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>For as in the days before the flood, they were eating and drinking, marrying and giving in marriage, until the day that Noah entered the ark,</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>For as in the days before the flood, they were eating and drinking, marrying and giving in marriage, even till that day in which Noe entered into the ark,</span>"
+            }
+          },
+          {
+            "verse": 39,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>and they knew nothing about what would happen until the flood came and took them all away. That is how it will be at the coming of the Son of Man.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>and they did not understand until the flood came and took them all away; so will the coming of the Son of Man be.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>and did not know until the flood came and took them all away, so also will the coming of the Son of Man be.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And they knew not till the flood came, and took them all away; so also shall the coming of the Son of man be.</span>"
+            }
+          },
+          {
+            "verse": 40,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Two men will be in the field; one will be taken and the other left.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Then shall two be in the field; the one shall be taken, and the other left.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Then there will be two men in the field; one will be taken and one will be left.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Then two men will be in the field: one will be taken and the other left.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Then two shall be in the field: one shall be taken, and one shall be left.</span>"
+            }
+          },
+          {
+            "verse": 41,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Two women will be grinding with a hand mill; one will be taken and the other left.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Two women shall be grinding at the mill; the one shall be taken, and the other left.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Two women will be grinding at the mill; one will be taken and one will be left.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Two women will be grinding at the mill: one will be taken and the other left.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Two women shall be grinding at the mill: one shall be taken, and one shall be left.</span>"
+            }
+          },
+          {
+            "verse": 42,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"Therefore keep watch, because you do not know on what day your Lord will come.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Watch therefore: for ye know not what hour your Lord doth come.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>\u201cTherefore be on the alert, for you do not know which day your Lord is coming.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Watch therefore, for you do not know what hour your Lord is coming.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Watch ye therefore, because ye know not what hour your Lord will come.</span>"
+            }
+          },
+          {
+            "verse": 43,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>But understand this: If the owner of the house had known at what time of night the thief was coming, he would have kept watch and would not have let his house be broken into.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>But be sure of this, that if the head of the house had known at what time of the night the thief was coming, he would have been on the alert and would not have allowed his house to be broken into.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>But know this, that if the master of the house had known what hour the thief would come, he would have watched and not allowed his house to be broken into.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But know this ye, that if the goodman of the house knew at what hour the thief would come, he would certainly watch, and would not suffer his house to be broken open.</span>"
+            }
+          },
+          {
+            "verse": 44,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>So you also must be ready, because the Son of Man will come at an hour when you do not expect him.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>For this reason you also must be ready; for the Son of Man is coming at an hour when you do not think He will.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Therefore you also be ready, for the Son of Man is coming at an hour you do not expect.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Wherefore be you also ready, because at what hour you know not the Son of man will come.</span>"
+            }
+          },
+          {
+            "verse": 45,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"Who then is the faithful and wise servant, whom the master has put in charge of the servants in his household to give them their food at the proper time?</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Who then is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season?</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>\u201cWho then is the faithful and sensible slave whom his master put in charge of his household to give them their food at the proper time?</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cWho then is a faithful and wise servant, whom his master made ruler over his household, to give them food in due season?</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Who, thinkest thou, is a faithful and wise servant, whom his lord hath appointed over his family, to give them meat in season.</span>"
+            }
+          },
+          {
+            "verse": 46,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>It will be good for that servant whose master finds him doing so when he returns</span>.",
+              "KJV": "<span style='color:#952004; font-weight:600'>Blessed is that servant, whom his lord when he cometh shall find so doing.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Blessed is that slave whom his master finds so doing when he comes.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Blessed is that servant whom his master, when he comes, will find so doing.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Blessed is that servant, whom when his lord shall come he shall find so doing.</span>"
+            }
+          },
+          {
+            "verse": 47,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>I tell you the truth, he will put him in charge of all his possessions.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Verily I say unto you, That he shall make him ruler over all his goods</span>.",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Truly I say to you that he will put him in charge of all his possessions.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Assuredly, I say to you that he will make him ruler over all his goods.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Amen I say to you, he shall place him over all his goods.</span>"
+            }
+          },
+          {
+            "verse": 48,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>But suppose that servant is wicked and says to himself, 'My master is staying away a long time,'</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But and if that evil servant shall say in his heart, My lord delayeth his coming;</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>But if that evil slave says in his heart, \u2018My master is not coming for a long time,\u2019</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>But if that evil servant says in his heart, \u2018My master is delaying his coming,\u2019</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But if that evil servant shall say in his heart: My lord is long a coming:</span>"
+            }
+          },
+          {
+            "verse": 49,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>and he then begins to beat his fellow servants and to eat and drink with drunkards.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And shall begin to smite his fellowservants, and to eat and drink with the drunken;</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>and begins to beat his fellow slaves and eat and drink with drunkards;</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>and begins to beat his fellow servants, and to eat and drink with the drunkards,</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And shall begin to strike his fellow servants, and shall eat and drink with drunkards:</span>"
+            }
+          },
+          {
+            "verse": 50,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>The master of that servant will come on a day when he does not expect him and at an hour he is not aware of.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>The lord of that servant shall come in a day when he looketh not for him, and in an hour that he is not aware of,</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>the master of that slave will come on a day when he does not expect him and at an hour which he does not know,</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>the master of that servant will come on a day when he is not looking for him and at an hour that he is not aware of,</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>The lord of that servant shall come in a day that he hopeth not, and at an hour that he knoweth not:</span>"
+            }
+          },
+          {
+            "verse": 51,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>He will cut him to pieces and assign him a place with the hypocrites, where there will be weeping and gnashing of teeth.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And shall cut him asunder, and appoint him his portion with the hypocrites: there shall be weeping and gnashing of teeth.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>and will cut him in pieces and assign him a place with the hypocrites; in that place there will be weeping and gnashing of teeth.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>and will cut him in two and appoint him his portion with the hypocrites. There shall be weeping and gnashing of teeth.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And shall separate him, and appoint his portion with the hypocrites. There shall be weeping and gnashing of teeth.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "mrk_13_32_37",
+        "title": "Day & Hour Unknown",
+        "description": "",
+        "reference": {
+          "book": "Mark",
+          "chapter": 13,
+          "start": 32,
+          "end": 37
+        },
+        "rows": [
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"No one knows about that day or hour, not even the angels in heaven, nor the Son, but only the Father.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But of that day and that hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>But of that day or hour no one knows, not even the angels in heaven, nor the Son, but the Father alone.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cBut of that day and hour no one knows, not even the angels in heaven, nor the Son, but only the Father.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But of that day or hour no man knoweth, neither the angels in heaven, nor the Son, but the Father.</span>"
+            }
+          },
+          {
+            "verse": 33,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Be on guard! Be alert! You do not know when that time will come.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Take ye heed, watch and pray: for ye know not when the time is.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>\u201cTake heed, keep on the alert; for you do not know when the appointed time will come.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Take heed, watch and pray; for you do not know when the time is.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Take ye heed, watch and pray. For ye know not when the time is.</span>"
+            }
+          },
+          {
+            "verse": 34,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>It's like a man going away: He leaves his house and puts his servants in charge, each with his assigned task, and tells the one at the door to keep watch.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>For the Son of Man is as a man taking a far journey, who left his house, and gave authority to his servants, and to every man his work, and commanded the porter to watch.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>It is like a man away on a journey, who upon leaving his house and putting his slaves in charge, assigning to each one his task, also commanded the doorkeeper to stay on the alert.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>It is like a man going to a far country, who left his house and gave authority to his servants, and to each his work, and commanded the doorkeeper to watch.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Even as a man who going into a far country, left his house; and gave authority to his servants over every work, and commanded the porter to watch.</span>"
+            }
+          },
+          {
+            "verse": 35,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"Therefore keep watch because you do not know when the owner of the house will come back--whether in the evening, or at midnight, or when the rooster crows, or at dawn.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Watch ye therefore: for ye know not when the master of the house cometh, at even, or at midnight, or at the cockcrowing, or in the morning:</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Therefore, be on the alert\u2014for you do not know when the master of the house is coming, whether in the evening, at midnight, or when the rooster crows, or in the morning\u2014</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Watch therefore, for you do not know when the master of the house is coming\u2014in the evening, at midnight, at the crowing of the rooster, or in the morning\u2014</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Watch ye therefor, (for you know not when the lord of the house cometh: at even, or at midnight, or at the cockcrowing, or in the morning,)</span>"
+            }
+          },
+          {
+            "verse": 36,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>If he comes suddenly, do not let him find you sleeping.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Lest coming suddenly he find you sleeping.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>in case he should come suddenly and find you asleep.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>lest, coming suddenly, he find you sleeping.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Lest coming on a sudden, he find you sleeping.</span>"
+            }
+          },
+          {
+            "verse": 37,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>What I say to you, I say to everyone: 'Watch!'\"</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And what I say unto you I say unto all, Watch.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>What I say to you I say to all, \u2018Be on the alert!\u2019\u201d</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>And what I say to you, I say to all: Watch!\u201d</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And what I say to you, I say to all: Watch.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "luk_21_34_38",
+        "title": "Day & Hour Unknown",
+        "description": "",
+        "reference": {
+          "book": "Luke",
+          "chapter": 21,
+          "start": 34,
+          "end": 38
+        },
+        "rows": [
+          {
+            "verse": 34,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"Be careful, or your hearts will be weighed down with dissipation, drunkenness and the anxieties of life, and that day will close on you unexpectedly like a trap.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And take heed to yourselves, lest at any time your hearts be overcharged with surfeiting, and drunkenness, and cares of this life, and so that day come upon you unawares.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>\u201cBe on guard, so that your hearts will not be weighted down with dissipation and drunkenness and the worries of life, and that day will not come on you suddenly like a trap;</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cBut take heed to yourselves, lest your hearts be weighed down with carousing, drunkenness, and cares of this life, and that Day come on you unexpectedly.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And take heed to yourselves, lest perhaps your hearts be overcharged with surfeiting and drunkenness, and the cares of this life, and that day come upon you suddenly.</span>"
+            }
+          },
+          {
+            "verse": 35,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>For it will come upon all those who live on the face of the whole earth.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>For as a snare shall it come on all them that dwell on the face of the whole earth.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>for it will come upon all those who dwell on the face of all the earth.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>For it will come as a snare on all those who dwell on the face of the whole earth.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>For as a snare shall it come upon all that sit upon the face of the whole earth.</span>"
+            }
+          },
+          {
+            "verse": 36,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Be always on the watch, and pray that you may be able to escape all that is about to happen, and that you may be able to stand before the Son of Man.\"</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Watch ye therefore, and pray always, that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>But keep on the alert at all times, praying that you may have strength to escape all these things that are about to take place, and to stand before the Son of Man.\u201d</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Watch therefore, and pray always that you may be counted worthy to escape all these things that will come to pass, and to stand before the Son of Man.\u201d</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Watch ye, therefore, praying at all times, that you may be accounted worthy to escape all these things that are to come, and to stand before the Son of man.</span>"
+            }
+          },
+          {
+            "verse": 37,
+            "texts": {
+              "NIV84": "Each day Jesus was teaching at the temple, and each evening he went out to spend the night on the hill called the Mount of Olives,",
+              "KJV": "And in the day time he was teaching in the temple; and at night he went out, and abode in the mount that is called the mount of Olives.",
+              "NASB95": "Now during the day He was teaching in the temple, but at evening He would go out and spend the night on the mount that is called Olivet.",
+              "NKJV": "And in the daytime He was teaching in the temple, but at night He went out and stayed on the mountain called Olivet.",
+              "DRB": "And in the daytime, he was teaching in the temple; but at night, going out, he abode in the mount that is called Olivet."
+            }
+          },
+          {
+            "verse": 38,
+            "texts": {
+              "NIV84": "and all the people came early in the morning to hear him at the temple.",
+              "KJV": "And all the people came early in the morning to him in the temple, for to hear him.",
+              "NASB95": "And all the people would get up early in the morning to come to Him in the temple to listen to Him.",
+              "NKJV": "Then early in the morning all the people came to Him in the temple to hear Him.",
+              "DRB": "And all the people came early in the morning to him in the temple, to hear him."
+            }
+          }
+        ]
+      },
+      {
+        "id": "heb_1_1_4",
+        "title": "God Speaks in the Last Days",
+        "description": "",
+        "reference": {
+          "book": "Hebrews",
+          "chapter": 1,
+          "start": 1,
+          "end": 4
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "In the past God spoke to our forefathers through the prophets at many times and in various ways,",
+              "KJV": "God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,",
+              "NASB95": "God, after He spoke long ago to the fathers in the prophets in many portions and in many ways,",
+              "NKJV": "God, who at various times and in various ways spoke in time past to the fathers by the prophets,",
+              "DRB": "God, who, at sundry times and in divers manners, spoke in times past to the fathers by the prophets, last of all,"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "but in these last days he has spoken to us by his Son, whom he appointed heir of all things, and through whom he made the universe.",
+              "KJV": "Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds;",
+              "NASB95": "in these last days has spoken to us in His Son, whom He appointed heir of all things, through whom also He made the world.",
+              "NKJV": "has in these last days spoken to us by His Son, whom He has appointed heir of all things, through whom also He made the worlds;",
+              "DRB": "In these days hath spoken to us by his Son, whom he hath appointed heir of all things, by whom also he made the world."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "The Son is the radiance of God's glory and the exact representation of his being, sustaining all things by his powerful word. After he had provided purification for sins, he sat down at the right hand of the Majesty in heaven.",
+              "KJV": "Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high:",
+              "NASB95": "And He is the radiance of His glory and the exact representation of His nature, and upholds all things by the word of His power. When He had made purification of sins, He sat down at the right hand of the Majesty on high,",
+              "NKJV": "who being the brightness of His glory and the express image of His person, and upholding all things by the word of His power, when He had by Himself purged our sins, sat down at the right hand of the Majesty on high,",
+              "DRB": "Who being the brightness of his glory, and the figure of his substance, and upholding all things by the word of his power, making purgation of sins, sitteth on the right hand of the majesty on high."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "So he became as much superior to the angels as the name he has inherited is superior to theirs.",
+              "KJV": "Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they.",
+              "NASB95": "having become as much better than the angels, as He has inherited a more excellent name than they.",
+              "NKJV": "having become so much better than the angels, as He has by inheritance obtained a more excellent name than they.",
+              "DRB": "Being made so much better than the angels, as he hath inherited a more excellent name than they."
+            }
+          }
+        ]
+      },
+      {
+        "id": "2ti_3_1_9",
+        "title": "Terrible Times in the Last Days",
+        "description": "",
+        "reference": {
+          "book": "2 Timothy",
+          "chapter": 3,
+          "start": 1,
+          "end": 9
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "But mark this: There will be terrible times in the last days.",
+              "KJV": "This know also, that in the last days perilous times shall come.",
+              "NASB95": "But realize this, that in the last days difficult times will come.",
+              "NKJV": "But know this, that in the last days perilous times will come:",
+              "DRB": "Know also this, that, in the last days, shall come dangerous times."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "People will be lovers of themselves, lovers of money, boastful, proud, abusive, disobedient to their parents, ungrateful, unholy,",
+              "KJV": "For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,",
+              "NASB95": "For men will be lovers of self, lovers of money, boastful, arrogant, revilers, disobedient to parents, ungrateful, unholy,",
+              "NKJV": "For men will be lovers of themselves, lovers of money, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,",
+              "DRB": "Men shall be lovers of themselves, covetous, haughty, proud, blasphemers, disobedient to parents, ungrateful, wicked,"
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "without love, unforgiving, slanderous, without self-control, brutal, not lovers of the good,",
+              "KJV": "Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,",
+              "NASB95": "unloving, irreconcilable, malicious gossips, without self-control, brutal, haters of good,",
+              "NKJV": "unloving, unforgiving, slanderers, without self-control, brutal, despisers of good,",
+              "DRB": "Without affection, without peace, slanderers, incontinent, unmerciful, without kindness,"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "treacherous, rash, conceited, lovers of pleasure rather than lovers of God--",
+              "KJV": "Traitors, heady, highminded, lovers of pleasures more than lovers of God;",
+              "NASB95": "treacherous, reckless, conceited, lovers of pleasure rather than lovers of God,",
+              "NKJV": "traitors, headstrong, haughty, lovers of pleasure rather than lovers of God,",
+              "DRB": "Traitors, stubborn, puffed up, and lovers of pleasures more than of God:"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "having a form of godliness but denying its power. Have nothing to do with them.",
+              "KJV": "Having a form of godliness, but denying the power thereof: from such turn away.",
+              "NASB95": "holding to a form of godliness, although they have denied its power; Avoid such men as these.",
+              "NKJV": "having a form of godliness but denying its power. And from such people turn away!",
+              "DRB": "Having an appearance indeed of godliness, but denying the power thereof. Now these avoid."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "They are the kind who worm their way into homes and gain control over weak-willed women, who are loaded down with sins and are swayed by all kinds of evil desires,",
+              "KJV": "For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,",
+              "NASB95": "For among them are those who enter into households and captivate weak women weighed down with sins, led on by various impulses,",
+              "NKJV": "For of this sort are those who creep into households and make captives of gullible women loaded down with sins, led away by various lusts,",
+              "DRB": "For of these sort are they who creep into houses, and lead captive silly women laden with sins, who are led away with divers desires:"
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "always learning but never able to acknowledge the truth.",
+              "KJV": "Ever learning, and never able to come to the knowledge of the truth.",
+              "NASB95": "always learning and never able to come to the knowledge of the truth.",
+              "NKJV": "always learning and never able to come to the knowledge of the truth.",
+              "DRB": "Ever learning, and never attaining to the knowledge of the truth."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Just as Jannes and Jambres opposed Moses, so also these men oppose the truth--men of depraved minds, who, as far as the faith is concerned, are rejected.",
+              "KJV": "Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith.",
+              "NASB95": "Just as Jannes and Jambres opposed Moses, so these men also oppose the truth, men of depraved mind, rejected in regard to the faith.",
+              "NKJV": "Now as Jannes and Jambres resisted Moses, so do these also resist the truth: men of corrupt minds, disapproved concerning the faith;",
+              "DRB": "Now as Jannes and Mambres resisted Moses, so these also resist the truth, men corrupted in mind, reprobate concerning the faith."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "But they will not get very far because, as in the case of those men, their folly will be clear to everyone.",
+              "KJV": "But they shall proceed no further: for their folly shall be manifest unto all men, as their's also was.",
+              "NASB95": "But they will not make further progress; for their folly will be obvious to all, just as Jannes\u2019s and Jambres\u2019s folly was also.",
+              "NKJV": "but they will progress no further, for their folly will be manifest to all, as theirs also was.",
+              "DRB": "But they shall proceed no farther; for their folly shall be manifest to all men, as theirs also was."
+            }
+          }
+        ]
+      },
+      {
+        "id": "2ti_3_10_17",
+        "title": "Man of God and Word of God",
+        "description": "",
+        "reference": {
+          "book": "2 Timothy",
+          "chapter": 3,
+          "start": 10,
+          "end": 17
+        },
+        "rows": [
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "You, however, know all about my teaching, my way of life, my purpose, faith, patience, love, endurance,",
+              "KJV": "But thou hast fully known my doctrine, manner of life, purpose, faith, longsuffering, charity, patience,",
+              "NASB95": "Now you followed my teaching, conduct, purpose, faith, patience, love, perseverance,",
+              "NKJV": "But you have carefully followed my doctrine, manner of life, purpose, faith, longsuffering, love, perseverance,",
+              "DRB": "But thou hast fully known my doctrine, manner of life, purpose, faith, longsuffering, love, patience,"
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "persecutions, sufferings--what kinds of things happened to me in Antioch, Iconium and Lystra, the persecutions I endured. Yet the Lord rescued me from all of them.",
+              "KJV": "Persecutions, afflictions, which came unto me at Antioch, at Iconium, at Lystra; what persecutions I endured: but out of them all the Lord delivered me.",
+              "NASB95": "persecutions, and sufferings, such as happened to me at Antioch, at Iconium and at Lystra; what persecutions I endured, and out of them all the Lord rescued me!",
+              "NKJV": "persecutions, afflictions, which happened to me at Antioch, at Iconium, at Lystra\u2014what persecutions I endured. And out of them all the Lord delivered me.",
+              "DRB": "Persecutions, afflictions: such as came upon me at Antioch, at Iconium, and at Lystra: what persecutions I endured, and out of them all the Lord delivered me."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "In fact, everyone who wants to live a godly life in Christ Jesus will be persecuted,",
+              "KJV": "Yea, and all that will live godly in Christ Jesus shall suffer persecution.",
+              "NASB95": "Indeed, all who desire to live godly in Christ Jesus will be persecuted.",
+              "NKJV": "Yes, and all who desire to live godly in Christ Jesus will suffer persecution.",
+              "DRB": "And all that will live godly in Christ Jesus, shall suffer persecution."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "while evil men and impostors will go from bad to worse, deceiving and being deceived.",
+              "KJV": "But evil men and seducers shall wax worse and worse, deceiving, and being deceived.",
+              "NASB95": "But evil men and impostors will proceed from bad to worse, deceiving and being deceived.",
+              "NKJV": "But evil men and impostors will grow worse and worse, deceiving and being deceived.",
+              "DRB": "But evil men and seducers shall grow worse and worse: erring, and driving into error."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "But as for you, continue in what you have learned and have become convinced of, because you know those from whom you learned it,",
+              "KJV": "But continue thou in the things which thou hast learned and hast been assured of, knowing of whom thou hast learned them;",
+              "NASB95": "You, however, continue in the things you have learned and become convinced of, knowing from whom you have learned them,",
+              "NKJV": "But you must continue in the things which you have learned and been assured of, knowing from whom you have learned them,",
+              "DRB": "But continue thou in those things which thou hast learned, and which have been committed to thee: knowing of whom thou hast learned them;"
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "and how from infancy you have known the holy Scriptures, which are able to make you wise for salvation through faith in Christ Jesus.",
+              "KJV": "And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus.",
+              "NASB95": "and that from childhood you have known the sacred writings which are able to give you the wisdom that leads to salvation through faith which is in Christ Jesus.",
+              "NKJV": "and that from childhood you have known the Holy Scriptures, which are able to make you wise for salvation through faith which is in Christ Jesus.",
+              "DRB": "And because from thy infancy thou hast known the holy scriptures, which can instruct thee to salvation, by the faith which is in Christ Jesus."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness,",
+              "KJV": "All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:",
+              "NASB95": "All Scripture is inspired by God and profitable for teaching, for reproof, for correction, for training in righteousness;",
+              "NKJV": "All Scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness,",
+              "DRB": "All scripture, inspired of God, is profitable to teach, to reprove, to correct, to instruct in justice,"
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "so that the man of God may be thoroughly equipped for every good work.",
+              "KJV": "That the man of God may be perfect, thoroughly furnished unto all good works.",
+              "NASB95": "so that the man of God may be adequate, equipped for every good work.",
+              "NKJV": "that the man of God may be complete, thoroughly equipped for every good work.",
+              "DRB": "That the man of God may be perfect, furnished to every good work."
+            }
+          }
+        ]
+      },
+      {
+        "id": "jas_5_1_6",
+        "title": "Warning to Rich Oppressors",
+        "description": "",
+        "reference": {
+          "book": "James",
+          "chapter": 5,
+          "start": 1,
+          "end": 6
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Now listen, you rich people, weep and wail because of the misery that is coming upon you.",
+              "KJV": "Go to now, ye rich men, weep and howl for your miseries that shall come upon you.",
+              "NASB95": "Come now, you rich, weep and howl for your miseries which are coming upon you.",
+              "NKJV": "Come now, you rich, weep and howl for your miseries that are coming upon you!",
+              "DRB": "Go to now, ye rich men, weep and howl in your miseries, which shall come upon you."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Your wealth has rotted, and moths have eaten your clothes.",
+              "KJV": "Your riches are corrupted, and your garments are motheaten.",
+              "NASB95": "Your riches have rotted and your garments have become moth-eaten.",
+              "NKJV": "Your riches are corrupted, and your garments are moth-eaten.",
+              "DRB": "Your riches are corrupted: and your garments are motheaten."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "Your gold and silver are corroded. Their corrosion will testify against you and eat your flesh like fire. You have hoarded wealth in the last days.",
+              "KJV": "Your gold and silver is cankered; and the rust of them shall be a witness against you, and shall eat your flesh as it were fire. Ye have heaped treasure together for the last days.",
+              "NASB95": "Your gold and your silver have rusted; and their rust will be a witness against you and will consume your flesh like fire. It is in the last days that you have stored up your treasure!",
+              "NKJV": "Your gold and silver are corroded, and their corrosion will be a witness against you and will eat your flesh like fire. You have heaped up treasure in the last days.",
+              "DRB": "Your gold and silver is cankered: and the rust of them shall be for a testimony against you, and shall eat your flesh like fire. You have stored up to yourselves wrath against the last days."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Look! The wages you failed to pay the workmen who mowed your fields are crying out against you. The cries of the harvesters have reached the ears of the Lord Almighty.",
+              "KJV": "Behold, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, crieth: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth.",
+              "NASB95": "Behold, the pay of the laborers who mowed your fields, and which has been withheld by you, cries out against you; and the outcry of those who did the harvesting has reached the ears of the Lord of Sabaoth.",
+              "NKJV": "Indeed the wages of the laborers who mowed your fields, which you kept back by fraud, cry out; and the cries of the reapers have reached the ears of the Lord of Sabaoth.",
+              "DRB": "Behold the hire of the labourers, who have reaped down your fields, which by fraud has been kept back by you, crieth: and the cry of them hath entered into the ears of the Lord of sabaoth."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "You have lived on earth in luxury and self-indulgence. You have fattened yourselves in the day of slaughter.",
+              "KJV": "Ye have lived in pleasure on the earth, and been wanton; ye have nourished your hearts, as in a day of slaughter.",
+              "NASB95": "You have lived luxuriously on the earth and led a life of wanton pleasure; you have fattened your hearts in a day of slaughter.",
+              "NKJV": "You have lived on the earth in pleasure and luxury; you have fattened your hearts as in a day of slaughter.",
+              "DRB": "You have feasted upon earth: and in riotousness you have nourished your hearts, in the day of slaughter."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "You have condemned and murdered innocent men, who were not opposing you.",
+              "KJV": "Ye have condemned and killed the just; and he doth not resist you.",
+              "NASB95": "You have condemned and put to death the righteous man; he does not resist you.",
+              "NKJV": "You have condemned, you have murdered the just; he does not resist you.",
+              "DRB": "You have condemned and put to death the Just One, and he resisted you not."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1ti_4_1_5",
+        "title": "The Coming Apostasy",
+        "description": "",
+        "reference": {
+          "book": "1 Timothy",
+          "chapter": 4,
+          "start": 1,
+          "end": 5
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "The Spirit clearly says that in later times some will abandon the faith and follow deceiving spirits and things taught by demons.",
+              "KJV": "Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils;",
+              "NASB95": "But the Spirit explicitly says that in later times some will fall away from the faith, paying attention to deceitful spirits and doctrines of demons,",
+              "NKJV": "Now the Spirit expressly says that in latter times some will depart from the faith, giving heed to deceiving spirits and doctrines of demons,",
+              "DRB": "Now the Spirit manifestly saith, that in the last times some shall depart from the faith, giving heed to spirits of error, and doctrines of devils,"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Such teachings come through hypocritical liars, whose consciences have been seared as with a hot iron.",
+              "KJV": "Speaking lies in hypocrisy; having their conscience seared with a hot iron;",
+              "NASB95": "by means of the hypocrisy of liars seared in their own conscience as with a branding iron,",
+              "NKJV": "speaking lies in hypocrisy, having their own conscience seared with a hot iron,",
+              "DRB": "Speaking lies in hypocrisy, and having their conscience seared,"
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "They forbid people to marry and order them to abstain from certain foods, which God created to be received with thanksgiving by those who believe and who know the truth.",
+              "KJV": "Forbidding to marry, and commanding to abstain from meats, which God hath created to be received with thanksgiving of them which believe and know the truth.",
+              "NASB95": "men who forbid marriage and advocate abstaining from foods which God has created to be gratefully shared in by those who believe and know the truth.",
+              "NKJV": "forbidding to marry, and commanding to abstain from foods which God created to be received with thanksgiving by those who believe and know the truth.",
+              "DRB": "Forbidding to marry, to abstain from meats, which God hath created to be received with thanksgiving by the faithful, and by them that have known the truth."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "For everything God created is good, and nothing is to be rejected if it is received with thanksgiving,",
+              "KJV": "For every creature of God is good, and nothing to be refused, if it be received with thanksgiving:",
+              "NASB95": "For everything created by God is good, and nothing is to be rejected if it is received with gratitude;",
+              "NKJV": "For every creature of God is good, and nothing is to be refused if it is received with thanksgiving;",
+              "DRB": "For every creature of God is good, and nothing to be rejected that is received with thanksgiving:"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "because it is consecrated by the word of God and prayer.",
+              "KJV": "For it is sanctified by the word of God and prayer.",
+              "NASB95": "for it is sanctified by means of the word of God and prayer.",
+              "NKJV": "for it is sanctified by the word of God and prayer.",
+              "DRB": "For it is sanctified by the word of God and prayer."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1ti_4_6_11",
+        "title": "A Good Servant of Jesus",
+        "description": "",
+        "reference": {
+          "book": "1 Timothy",
+          "chapter": 4,
+          "start": 6,
+          "end": 11
+        },
+        "rows": [
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "If you point these things out to the brothers, you will be a good minister of Christ Jesus, brought up in the truths of the faith and of the good teaching that you have followed.",
+              "KJV": "If thou put the brethren in remembrance of these things, thou shalt be a good minister of Jesus Christ, nourished up in the words of faith and of good doctrine, whereunto thou hast attained.",
+              "NASB95": "In pointing out these things to the brethren, you will be a good servant of Christ Jesus, constantly nourished on the words of the faith and of the sound doctrine which you have been following.",
+              "NKJV": "If you instruct the brethren in these things, you will be a good minister of Jesus Christ, nourished in the words of faith and of the good doctrine which you have carefully followed.",
+              "DRB": "These things proposing to the brethren, thou shalt be a good minister of Christ Jesus, nourished up in the words of faith, and of the good doctrine which thou hast attained unto."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Have nothing to do with godless myths and old wives' tales; rather, train yourself to be godly.",
+              "KJV": "But refuse profane and old wives' fables, and exercise thyself rather unto godliness.",
+              "NASB95": "But have nothing to do with worldly fables fit only for old women. On the other hand, discipline yourself for the purpose of godliness;",
+              "NKJV": "But reject profane and old wives\u2019 fables, and exercise yourself toward godliness.",
+              "DRB": "But avoid foolish and old wives' fables: and exercise thyself unto godliness."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "For physical training is of some value, but godliness has value for all things, holding promise for both the present life and the life to come.",
+              "KJV": "For bodily exercise profiteth little: but godliness is profitable unto all things, having promise of the life that now is, and of that which is to come.",
+              "NASB95": "for bodily discipline is only of little profit, but godliness is profitable for all things, since it holds promise for the present life and also for the life to come.",
+              "NKJV": "For bodily exercise profits a little, but godliness is profitable for all things, having promise of the life that now is and of that which is to come.",
+              "DRB": "For bodily exercise is profitable to little: but godliness is profitable to all things, having promise of the life that now is, and of that which is to come."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "This is a trustworthy saying that deserves full acceptance",
+              "KJV": "This is a faithful saying and worthy of all acceptation.",
+              "NASB95": "It is a trustworthy statement deserving full acceptance.",
+              "NKJV": "This is a faithful saying and worthy of all acceptance.",
+              "DRB": "A faithful saying and worthy of all acceptation."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "(and for this we labor and strive), that we have put our hope in the living God, who is the Savior of all men, and especially of those who believe.",
+              "KJV": "For therefore we both labour and suffer reproach, because we trust in the living God, who is the Saviour of all men, specially of those that believe.",
+              "NASB95": "For it is for this we labor and strive, because we have fixed our hope on the living God, who is the Savior of all men, especially of believers.",
+              "NKJV": "For to this end we both labor and suffer reproach, because we trust in the living God, who is the Savior of all men, especially of those who believe.",
+              "DRB": "For therefore we labor and are reviled, because we hope in the living God, who is the Saviour of all men, especially of the faithful."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Command and teach these things.",
+              "KJV": "These things command and teach.",
+              "NASB95": "Prescribe and teach these things.",
+              "NKJV": "These things command and teach.",
+              "DRB": "These things command and teach."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1ti_4_12_16",
+        "title": "Take Heed to Your Ministry",
+        "description": "",
+        "reference": {
+          "book": "1 Timothy",
+          "chapter": 4,
+          "start": 12,
+          "end": 16
+        },
+        "rows": [
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Don't let anyone look down on you because you are young, but set an example for the believers in speech, in life, in love, in faith and in purity.",
+              "KJV": "Let no man despise thy youth; but be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity.",
+              "NASB95": "Let no one look down on your youthfulness, but rather in speech, conduct, love, faith and purity, show yourself an example of those who believe.",
+              "NKJV": "Let no one despise your youth, but be an example to the believers in word, in conduct, in love, in spirit, in faith, in purity.",
+              "DRB": "Let no man despise thy youth: but be thou an example of the faithful in word, in conversation, in charity, in faith, in chastity."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Until I come, devote yourself to the public reading of Scripture, to preaching and to teaching.",
+              "KJV": "Till I come, give attendance to reading, to exhortation, to doctrine.",
+              "NASB95": "Until I come, give attention to the public reading of Scripture, to exhortation and teaching.",
+              "NKJV": "Till I come, give attention to reading, to exhortation, to doctrine.",
+              "DRB": "Till I come, attend unto reading, to exhortation, and to doctrine."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "Do not neglect your gift, which was given you through a prophetic message when the body of elders laid their hands on you.",
+              "KJV": "Neglect not the gift that is in thee, which was given thee by prophecy, with the laying on of the hands of the presbytery.",
+              "NASB95": "Do not neglect the spiritual gift within you, which was bestowed on you through prophetic utterance with the laying on of hands by the presbytery.",
+              "NKJV": "Do not neglect the gift that is in you, which was given to you by prophecy with the laying on of the hands of the eldership.",
+              "DRB": "Neglect not the grace that is in thee, which was given thee by prophesy, with imposition of the hands of the priesthood."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Be diligent in these matters; give yourself wholly to them, so that everyone may see your progress.",
+              "KJV": "Meditate upon these things; give thyself wholly to them; that thy profiting may appear to all.",
+              "NASB95": "Take pains with these things; be absorbed in them, so that your progress will be evident to all.",
+              "NKJV": "Meditate on these things; give yourself entirely to them, that your progress may be evident to all.",
+              "DRB": "Meditate upon these things, be wholly in these things: that thy profiting may be manifest to all."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "Watch your life and doctrine closely. Persevere in them, because if you do, you will save both yourself and your hearers.",
+              "KJV": "Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee.",
+              "NASB95": "Pay close attention to yourself and to your teaching; persevere in these things, for as you do this you will ensure salvation both for yourself and for those who hear you.",
+              "NKJV": "Take heed to yourself and to the doctrine. Continue in them, for in doing this you will save both yourself and those who hear you.",
+              "DRB": "Take heed to thyself and to doctrine: be earnest in them. For in doing this thou shalt both save thyself and them that hear thee."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1pe_1_1_2",
+        "title": "Greeting to the Elect",
+        "description": "",
+        "reference": {
+          "book": "1 Peter",
+          "chapter": 1,
+          "start": 1,
+          "end": 2
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Peter, an apostle of Jesus Christ, To God's elect, strangers in the world, scattered throughout Pontus, Galatia, Cappadocia, Asia and Bithynia,",
+              "KJV": "Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,",
+              "NASB95": "Peter, an apostle of Jesus Christ,\nTo those who reside as aliens, scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, who are chosen",
+              "NKJV": "Peter, an apostle of Jesus Christ,\nTo the pilgrims of the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia,",
+              "DRB": "Peter, an apostle of Jesus Christ, to the strangers dispersed through Pontus, Galatia, Cappadocia, Asia, and Bithynia, elect,"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "who have been chosen according to the foreknowledge of God the Father, through the sanctifying work of the Spirit, for obedience to Jesus Christ and sprinkling by his blood: Grace and peace be yours in abundance.",
+              "KJV": "Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied.",
+              "NASB95": "according to the foreknowledge of God the Father, by the sanctifying work of the Spirit, to obey Jesus Christ and be sprinkled with His blood: May grace and peace be yours in the fullest measure.",
+              "NKJV": "elect according to the foreknowledge of God the Father, in sanctification of the Spirit, for obedience and sprinkling of the blood of Jesus Christ:\nGrace to you and peace be multiplied.",
+              "DRB": "According to the foreknowledge of God the Father, unto the sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you and peace be multiplied."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1pe_1_3_12",
+        "title": "A Heavenly Inheritance",
+        "description": "",
+        "reference": {
+          "book": "1 Peter",
+          "chapter": 1,
+          "start": 3,
+          "end": 12
+        },
+        "rows": [
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "Praise be to the God and Father of our Lord Jesus Christ! In his great mercy he has given us new birth into a living hope through the resurrection of Jesus Christ from the dead,",
+              "KJV": "Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,",
+              "NASB95": "Blessed be the God and Father of our Lord Jesus Christ, who according to His great mercy has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead,",
+              "NKJV": "Blessed be the God and Father of our Lord Jesus Christ, who according to His abundant mercy has begotten us again to a living hope through the resurrection of Jesus Christ from the dead,",
+              "DRB": "Blessed be the God and Father of our Lord Jesus Christ, who according to his great mercy hath regenerated us unto a lively hope, by the resurrection of Jesus Christ from the dead,"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "and into an inheritance that can never perish, spoil or fade--kept in heaven for you,",
+              "KJV": "To an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you,",
+              "NASB95": "to obtain an inheritance which is imperishable and undefiled and will not fade away, reserved in heaven for you,",
+              "NKJV": "to an inheritance incorruptible and undefiled and that does not fade away, reserved in heaven for you,",
+              "DRB": "Unto an inheritance incorruptible, and undefiled, and that can not fade, reserved in heaven for you,"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "who through faith are shielded by God's power until the coming of the salvation that is ready to be revealed in the last time.",
+              "KJV": "Who are kept by the power of God through faith unto salvation ready to be revealed in the last time.",
+              "NASB95": "who are protected by the power of God through faith for a salvation ready to be revealed in the last time.",
+              "NKJV": "who are kept by the power of God through faith for salvation ready to be revealed in the last time.",
+              "DRB": "Who, by the power of God, are kept by faith unto salvation, ready to be revealed in the last time."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "In this you greatly rejoice, though now for a little while you may have had to suffer grief in all kinds of trials.",
+              "KJV": "Wherein ye greatly rejoice, though now for a season, if need be, ye are in heaviness through manifold temptations:",
+              "NASB95": "In this you greatly rejoice, even though now for a little while, if necessary, you have been distressed by various trials,",
+              "NKJV": "In this you greatly rejoice, though now for a little while, if need be, you have been grieved by various trials,",
+              "DRB": "Wherein you shall greatly rejoice, if now you must be for a little time made sorrowful in divers temptations:"
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "These have come so that your faith--of greater worth than gold, which perishes even though refined by fire--may be proved genuine and may result in praise, glory and honor when Jesus Christ is revealed.",
+              "KJV": "That the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honour and glory at the appearing of Jesus Christ:",
+              "NASB95": "so that the proof of your faith, being more precious than gold which is perishable, even though tested by fire, may be found to result in praise and glory and honor at the revelation of Jesus Christ;",
+              "NKJV": "that the genuineness of your faith, being much more precious than gold that perishes, though it is tested by fire, may be found to praise, honor, and glory at the revelation of Jesus Christ,",
+              "DRB": "That the trial of your faith (much more precious than gold which is tried by the fire) may be found unto praise and glory and honour at the appearing of Jesus Christ:"
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Though you have not seen him, you love him; and even though you do not see him now, you believe in him and are filled with an inexpressible and glorious joy,",
+              "KJV": "Whom having not seen, ye love; in whom, though now ye see him not, yet believing, ye rejoice with joy unspeakable and full of glory:",
+              "NASB95": "and though you have not seen Him, you love Him, and though you do not see Him now, but believe in Him, you greatly rejoice with joy inexpressible and full of glory,",
+              "NKJV": "whom having not seen you love. Though now you do not see Him, yet believing, you rejoice with joy inexpressible and full of glory,",
+              "DRB": "Whom having not seen, you love: in whom also now, though you see him not, you believe: and believing shall rejoice with joy unspeakable and glorified;"
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "for you are receiving the goal of your faith, the salvation of your souls.",
+              "KJV": "Receiving the end of your faith, even the salvation of your souls.",
+              "NASB95": "obtaining as the outcome of your faith the salvation of your souls.",
+              "NKJV": "receiving the end of your faith\u2014the salvation of your souls.",
+              "DRB": "Receiving the end of your faith, even the salvation of your souls."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Concerning this salvation, the prophets, who spoke of the grace that was to come to you, searched intently and with the greatest care,",
+              "KJV": "Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you:",
+              "NASB95": "As to this salvation, the prophets who prophesied of the grace that would come to you made careful searches and inquiries,",
+              "NKJV": "Of this salvation the prophets have inquired and searched carefully, who prophesied of the grace that would come to you,",
+              "DRB": "Of which salvation the prophets have inquired and diligently searched, who prophesied of the grace to come in you."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "trying to find out the time and circumstances to which the Spirit of Christ in them was pointing when he predicted the sufferings of Christ and the glories that would follow.",
+              "KJV": "Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow.",
+              "NASB95": "seeking to know what person or time the Spirit of Christ within them was indicating as He predicted the sufferings of Christ and the glories to follow.",
+              "NKJV": "searching what, or what manner of time, the Spirit of Christ who was in them was indicating when He testified beforehand the sufferings of Christ and the glories that would follow.",
+              "DRB": "Searching what or what manner of time the Spirit of Christ in them did signify: when it foretold those sufferings that are in Christ, and the glories that should follow:"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "It was revealed to them that they were not serving themselves but you, when they spoke of the things that have now been told you by those who have preached the gospel to you by the Holy Spirit sent from heaven. Even angels long to look into these things.",
+              "KJV": "Unto whom it was revealed, that not unto themselves, but unto us they did minister the things, which are now reported unto you by them that have preached the gospel unto you with the Holy Ghost sent down from heaven; which things the angels desire to look into.",
+              "NASB95": "It was revealed to them that they were not serving themselves, but you, in these things which now have been announced to you through those who preached the gospel to you by the Holy Spirit sent from heaven\u2014things into which angels long to look.",
+              "NKJV": "To them it was revealed that, not to themselves, but to us they were ministering the things which now have been reported to you through those who have preached the gospel to you by the Holy Spirit sent from heaven\u2014things which angels desire to look into.",
+              "DRB": "To whom it was revealed, that not to themselves, but to you they ministered those things which are now declared to you by them that have preached the gospel to you, the Holy Ghost being sent down from heaven, on whom the angels desire to look."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1pe_1_13_21",
+        "title": "Living Before God Our Father",
+        "description": "",
+        "reference": {
+          "book": "1 Peter",
+          "chapter": 1,
+          "start": 13,
+          "end": 21
+        },
+        "rows": [
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Therefore, prepare your minds for action; be self-controlled; set your hope fully on the grace to be given you when Jesus Christ is revealed.",
+              "KJV": "Wherefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ;",
+              "NASB95": "Therefore, prepare your minds for action, keep sober in spirit, fix your hope completely on the grace to be brought to you at the revelation of Jesus Christ.",
+              "NKJV": "Therefore gird up the loins of your mind, be sober, and rest your hope fully upon the grace that is to be brought to you at the revelation of Jesus Christ;",
+              "DRB": "Wherefore having the loins of your mind girt up, being sober, trust perfectly in the grace which is offered you in the revelation of Jesus Christ,"
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "As obedient children, do not conform to the evil desires you had when you lived in ignorance.",
+              "KJV": "As obedient children, not fashioning yourselves according to the former lusts in your ignorance:",
+              "NASB95": "As obedient children, do not be conformed to the former lusts which were yours in your ignorance,",
+              "NKJV": "as obedient children, not conforming yourselves to the former lusts, as in your ignorance;",
+              "DRB": "As children of obedience, not fashioned according to the former desires of your ignorance:"
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "But just as he who called you is holy, so be holy in all you do;",
+              "KJV": "But as he which hath called you is holy, so be ye holy in all manner of conversation;",
+              "NASB95": "but like the Holy One who called you, be holy yourselves also in all your behavior;",
+              "NKJV": "but as He who called you is holy, you also be holy in all your conduct,",
+              "DRB": "But according to him that hath called you, who is holy, be you also in all manner of conversation holy:"
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "for it is written: \"Be holy, because I am holy.\"",
+              "KJV": "Because it is written, Be ye holy; for I am holy.",
+              "NASB95": "because it is written, \u201cYou shall be holy, for I am holy.\u201d",
+              "NKJV": "because it is written, \u201cBe holy, for I am holy.\u201d",
+              "DRB": "Because it is written: You shall be holy, for I am holy."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "Since you call on a Father who judges each man's work impartially, live your lives as strangers here in reverent fear.",
+              "KJV": "And if ye call on the Father, who without respect of persons judgeth according to every man's work, pass the time of your sojourning here in fear:",
+              "NASB95": "If you address as Father the One who impartially judges according to each one\u2019s work, conduct yourselves in fear during the time of your stay on earth;",
+              "NKJV": "And if you call on the Father, who without partiality judges according to each one\u2019s work, conduct yourselves throughout the time of your stay here in fear;",
+              "DRB": "And if you invoke as Father him who, without respect of persons, judgeth according to every one's work: converse in fear during the time of your sojourning here."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "For you know that it was not with perishable things such as silver or gold that you were redeemed from the empty way of life handed down to you from your forefathers,",
+              "KJV": "Forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers;",
+              "NASB95": "knowing that you were not redeemed with perishable things like silver or gold from your futile way of life inherited from your forefathers,",
+              "NKJV": "knowing that you were not redeemed with corruptible things, like silver or gold, from your aimless conduct received by tradition from your fathers,",
+              "DRB": "Knowing that you were not redeemed with corruptible things as gold or silver, from your vain conversation of the tradition of your fathers:"
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "but with the precious blood of Christ, a lamb without blemish or defect.",
+              "KJV": "But with the precious blood of Christ, as of a lamb without blemish and without spot:",
+              "NASB95": "but with precious blood, as of a lamb unblemished and spotless, the blood of Christ.",
+              "NKJV": "but with the precious blood of Christ, as of a lamb without blemish and without spot.",
+              "DRB": "But with the precious blood of Christ, as of a lamb unspotted and undefiled,"
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "He was chosen before the creation of the world, but was revealed in these last times for your sake.",
+              "KJV": "Who verily was foreordained before the foundation of the world, but was manifest in these last times for you,",
+              "NASB95": "For He was foreknown before the foundation of the world, but has appeared in these last times for the sake of you",
+              "NKJV": "He indeed was foreordained before the foundation of the world, but was manifest in these last times for you",
+              "DRB": "Foreknown indeed before the foundation of the world, but manifested in the last times for you,"
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "Through him you believe in God, who raised him from the dead and glorified him, and so your faith and hope are in God.",
+              "KJV": "Who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God.",
+              "NASB95": "who through Him are believers in God, who raised Him from the dead and gave Him glory, so that your faith and hope are in God.",
+              "NKJV": "who through Him believe in God, who raised Him from the dead and gave Him glory, so that your faith and hope are in God.",
+              "DRB": "Who through him are faithful in God, who raised him up from the dead, and hath given him glory, that your faith and hope might be in God."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1pe_1_22_25",
+        "title": "The Enduring Word",
+        "description": "",
+        "reference": {
+          "book": "1 Peter",
+          "chapter": 1,
+          "start": 22,
+          "end": 25
+        },
+        "rows": [
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "Now that you have purified yourselves by obeying the truth so that you have sincere love for your brothers, love one another deeply, from the heart.",
+              "KJV": "Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, see that ye love one another with a pure heart fervently:",
+              "NASB95": "Since you have in obedience to the truth purified your souls for a sincere love of the brethren, fervently love one another from the heart,",
+              "NKJV": "Since you have purified your souls in obeying the truth through the Spirit in sincere love of the brethren, love one another fervently with a pure heart,",
+              "DRB": "Purifying your souls in the obedience of charity, with a brotherly love, from a sincere heart love one another earnestly:"
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "For you have been born again, not of perishable seed, but of imperishable, through the living and enduring word of God.",
+              "KJV": "Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever.",
+              "NASB95": "for you have been born again not of seed which is perishable but imperishable, that is, through the living and enduring word of God.",
+              "NKJV": "having been born again, not of corruptible seed but incorruptible, through the word of God which lives and abides forever,",
+              "DRB": "Being born again not of corruptible seed, but incorruptible, by the word of God who liveth and remaineth for ever."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "For, \"All men are like grass, and all their glory is like the flowers of the field; the grass withers and the flowers fall,",
+              "KJV": "For all flesh is as grass, and all the glory of man as the flower of grass. The grass withereth, and the flower thereof falleth away:",
+              "NASB95": "For,\n\u201cAll flesh is like grass,\nAnd all its glory like the flower of grass.\nThe grass withers,\nAnd the flower falls off,",
+              "NKJV": "because\n\u201cAll flesh is as grass,\nAnd all the glory of man as the flower of the grass.\nThe grass withers,\nAnd its flower falls away,",
+              "DRB": "For all flesh is as grass; and all the glory thereof as the flower of grass. The grass is withered, and the flower thereof is fallen away."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "but the word of the Lord stands forever.\" And this is the word that was preached to you.",
+              "KJV": "But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you.",
+              "NASB95": "But the word of the Lord endures forever.\u201d\nAnd this is the word which was preached to you.",
+              "NKJV": "But the word of the Lord endures forever.\u201d\nNow this is the word which by the gospel was preached to you.",
+              "DRB": "But the word of the Lord endureth for ever. And this is the word which by the gospel hath been preached unto you."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

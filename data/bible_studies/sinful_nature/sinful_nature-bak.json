@@ -1,0 +1,1276 @@
+{
+  "scripture": {
+    "header": {
+      "id": "sinful_nature",
+      "title": "Sinful Nature",
+      "description": "This is a list of verses that identify the sins of the sinful nature.",
+      "topics": [
+        "End Times",
+        "Ungodliness",
+        "Unrighteousness",
+        "Unholiness",
+        "Matters of Heart"
+      ]
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NASB95",
+      "NKJV",
+      "ESV",
+      "DRB",
+      "AMP",
+      "NLT"
+    ],
+    "blocks": [
+      {
+        "id": "mat_15_16_20",
+        "title": "That Which Defiles",
+        "description": "What Jesus says makes a man unclean",
+        "reference": {
+          "book": "Matthew",
+          "chapter": 15,
+          "start": 16,
+          "end": 20
+        },
+        "rows": [
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"Are you still so dull?\"</span> Jesus asked them.",
+              "KJV": "And Jesus said, <span style='color:#952004; font-weight:600'>Are ye also yet without understanding?</span>",
+              "NASB95": "Jesus said, <span style='color:#952004; font-weight:600'>\u201cAre you still lacking in understanding also?</span>",
+              "NKJV": "So Jesus said, <span style='color:#952004; font-weight:600'>\u201cAre you also still without understanding?</span>",
+              "ESV": "And he said, <span style='color:#952004; font-weight:600'>\u201cAre you also still without understanding?</span>",
+              "DRB": "But he said: <span style='color:#952004; font-weight:600'>Are you also yet without understanding?</span>",
+              "AMP": "And He said, <span style='color:#952004; font-weight:600'>\u201cAre you still so dull [and unable to put things together]?</span>",
+              "NLT": "<span style='color:#952004; font-weight:600'>\u201cDon\u2019t you understand yet?\u201d</span> Jesus asked."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"Don't you see that whatever enters the mouth goes into the stomach and then out of the body?</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Do not ye yet understand, that whatsoever entereth in at the mouth goeth into the belly, and is cast out into the draught?</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Do you not understand that everything that goes into the mouth passes into the stomach, and is eliminated?</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Do you not yet understand that whatever enters the mouth goes into the stomach and is eliminated?</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>Do you not see that whatever goes into the mouth passes into the stomach and is expelled?</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Do you not understand, that whatsoever entereth into the mouth, goeth into the belly, and is cast out into the privy?</span>",
+              "AMP": "<span style='color:#952004; font-weight:600'>Do you not understand that whatever goes into the mouth passes into the stomach, and is eliminated?</span>",
+              "NLT": "<span style='color:#952004; font-weight:600'>\u201cAnything you eat passes through the stomach and then goes into the sewer.</span>"
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>But the things that come out of the mouth come from the heart, and these make a man 'unclean.'</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But those things which proceed out of the mouth come forth from the heart; and they defile the man.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>But the things that proceed out of the mouth come from the heart, and those defile the man.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>But those things which proceed out of the mouth come from the heart, and they defile a man.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>But what comes out of the mouth proceeds from the heart, and this defiles a person.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But the things which proceed out of the mouth, come forth from the heart, and those things defile a man.</span>",
+              "AMP": "<span style='color:#952004; font-weight:600'>But whatever [word] comes out of the mouth comes from the heart, and this is what defiles and dishonors the man.</span>",
+              "NLT": "<span style='color:#952004; font-weight:600'>But the words you speak come from the heart\u2014that\u2019s what defiles you.</span>"
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>For out of the heart come evil thoughts, murder, adultery, sexual immorality, theft, false testimony, slander.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies:</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>For out of the heart come evil thoughts, murders, adulteries, fornications, thefts, false witness, slanders.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>For out of the heart come evil thoughts, murder, adultery, sexual immorality, theft, false witness, slander.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>For from the heart come forth evil thoughts, murders, adulteries, fornications, thefts, false testimonies, blasphemies.</span>",
+              "AMP": "<span style='color:#952004; font-weight:600'>For out of the heart come evil thoughts and plans, murders, adulteries, sexual immoralities, thefts, false testimonies, slanders (verbal abuse, irreverent speech, blaspheming).</span>",
+              "NLT": "<span style='color:#952004; font-weight:600'>For from the heart come evil thoughts, murder, adultery, all sexual immorality, theft, lying, and slander.</span>"
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>These are what make a man 'unclean'; but eating with unwashed hands does not make him 'unclean.'\"</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>These are the things which defile a man: but to eat with unwashen hands defileth not a man.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>These are the things which defile the man; but to eat with unwashed hands does not defile the man.\u201d</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>These are the things which defile a man, but to eat with unwashed hands does not defile a man.\u201d</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>These are what defile a person. But to eat with unwashed hands does not defile anyone.\u201d</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>These are the things that defile a man. But to eat with unwashed hands doth not defile a man.</span>",
+              "AMP": "<span style='color:#952004; font-weight:600'>These are the things which defile and dishonor the man; but eating with [ceremonially] unwashed hands does not defile the man.\u201d</span>",
+              "NLT": "<span style='color:#952004; font-weight:600'>These are what defile you. Eating with unwashed hands will never defile you.\u201d</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "mrk_7_20_23",
+        "title": "That Which Defiles",
+        "description": "What Jesus says makes a man unclean",
+        "reference": {
+          "book": "Mark",
+          "chapter": 7,
+          "start": 20,
+          "end": 23
+        },
+        "rows": [
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "He went on: \"What comes out of a man is what makes him 'unclean.'",
+              "KJV": "And he said, That which cometh out of the man, that defileth the man.",
+              "NASB95": "And He was saying, \u201cThat which proceeds out of the man, that is what defiles the man.",
+              "NKJV": "And He said, \u201cWhat comes out of a man, that defiles a man.",
+              "ESV": "And he said, \u201cWhat comes out of a person is what defiles him.",
+              "DRB": "But he said that the things which come out from a man, they defile a man.",
+              "AMP": "And He said, \u201cWhatever comes from [the heart of] a man, that is what defiles and dishonors him.",
+              "NLT": "And then he added, \u201cIt is what comes from inside that defiles you."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "For from within, out of men's hearts, come evil thoughts, sexual immorality, theft, murder, adultery,",
+              "KJV": "For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders,",
+              "NASB95": "For from within, out of the heart of men, proceed the evil thoughts, fornications, thefts, murders, adulteries,",
+              "NKJV": "For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders,",
+              "ESV": "For from within, out of the heart of man, come evil thoughts, sexual immorality, theft, murder, adultery,",
+              "DRB": "For from within out of the heart of men proceed evil thoughts, adulteries, fornications, murders,",
+              "AMP": "For from within, [that is] out the heart of men, come base and malevolent thoughts and schemes, acts of sexual immorality, thefts, murders, adulteries,",
+              "NLT": "For from within, out of a person\u2019s heart, come evil thoughts, sexual immorality, theft, murder,"
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "greed, malice, deceit, lewdness, envy, slander, arrogance and folly.",
+              "KJV": "Thefts, covetousness, wickedness, deceit, lasciviousness, an evil eye, blasphemy, pride, foolishness:",
+              "NASB95": "deeds of coveting and wickedness, as well as deceit, sensuality, envy, slander, pride and foolishness.",
+              "NKJV": "thefts, covetousness, wickedness, deceit, lewdness, an evil eye, blasphemy, pride, foolishness.",
+              "ESV": "coveting, wickedness, deceit, sensuality, envy, slander, pride, foolishness.",
+              "DRB": "Thefts, covetousness, wickedness, deceit, lasciviousness, an evil eye, blasphemy, pride, foolishness.",
+              "AMP": "acts of greed and covetousness, wickedness, deceit, unrestrained conduct, envy and jealousy, slander and profanity, arrogance and self-righteousness and foolishness (poor judgment).",
+              "NLT": "adultery, greed, wickedness, deceit, lustful desires, envy, slander, pride, and foolishness."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "All these evils come from inside and make a man 'unclean.'\"",
+              "KJV": "All these evil things come from within, and defile the man.",
+              "NASB95": "All these evil things proceed from within and defile the man.\u201d",
+              "NKJV": "All these evil things come from within and defile a man.\u201d",
+              "ESV": "All these evil things come from within, and they defile a person.\u201d",
+              "DRB": "All these evil things come from within, and defile a man.",
+              "AMP": "All these evil things [schemes and desires] come from within and defile and dishonor the man.\u201d",
+              "NLT": "All these vile things come from within; they are what defile you.\u201d"
+            }
+          }
+        ]
+      },
+      {
+        "id": "gal_5_19_21",
+        "title": "Acts of the Sinful Nature",
+        "description": "Keywords of the sinful nature",
+        "reference": {
+          "book": "Galatians",
+          "chapter": 5,
+          "start": 19,
+          "end": 21
+        },
+        "rows": [
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "The acts of the sinful nature are obvious: sexual immorality, impurity and debauchery;",
+              "KJV": "Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness,",
+              "NASB95": "Now the deeds of the flesh are evident, which are: immorality, impurity, sensuality,",
+              "NKJV": "Now the works of the flesh are evident, which are: adultery, fornication, uncleanness, lewdness,",
+              "ESV": "Now the works of the flesh are evident: sexual immorality, impurity, sensuality,",
+              "DRB": "Now the works of the flesh are manifest, which are fornication, uncleanness, immodesty, luxury,",
+              "AMP": "Now the practices of the sinful nature are clearly evident: they are sexual immorality, impurity, sensuality (total irresponsibility, lack of self-control),",
+              "NLT": "When you follow the desires of your sinful nature, the results are very clear: sexual immorality, impurity, lustful pleasures,"
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "idolatry and witchcraft; hatred, discord, jealousy, fits of rage, selfish ambition, dissensions, factions",
+              "KJV": "Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,",
+              "NASB95": "idolatry, sorcery, enmities, strife, jealousy, outbursts of anger, disputes, dissensions, factions,",
+              "NKJV": "idolatry, sorcery, hatred, contentions, jealousies, outbursts of wrath, selfish ambitions, dissensions, heresies,",
+              "ESV": "idolatry, sorcery, enmity, strife, jealousy, fits of anger, rivalries, dissensions, divisions,",
+              "DRB": "Idolatry, witchcrafts, enmities, contentions, emulations, wraths, quarrels, dissensions, sects,",
+              "AMP": "idolatry, sorcery, hostility, strife, jealousy, fits of anger, disputes, dissensions, factions [that promote heresies],",
+              "NLT": "idolatry, sorcery, hostility, quarreling, jealousy, outbursts of anger, selfish ambition, dissension, division,"
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "and envy; drunkenness, orgies, and the like. I warn you, as I did before, that those who live like this will not inherit the kingdom of God.",
+              "KJV": "Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God.",
+              "NASB95": "envying, drunkenness, carousing, and things like these, of which I forewarn you, just as I have forewarned you, that those who practice such things will not inherit the kingdom of God.",
+              "NKJV": "envy, murders, drunkenness, revelries, and the like; of which I tell you beforehand, just as I also told you in time past, that those who practice such things will not inherit the kingdom of God.",
+              "ESV": "envy, drunkenness, orgies, and things like these. I warn you, as I warned you before, that those who do such things will not inherit the kingdom of God.",
+              "DRB": "Envies, murders, drunkenness, revellings, and such like. Of the which I foretell you, as I have foretold to you, that they who do such things shall not obtain the kingdom of God.",
+              "AMP": "envy, drunkenness, riotous behavior, and other things like these. I warn you beforehand, just as I did previously, that those who practice such things will not inherit the kingdom of God.",
+              "NLT": "envy, drunkenness, wild parties, and other sins like these. Let me tell you again, as I have before, that anyone living that sort of life will not inherit the Kingdom of God."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1co_6_9_10",
+        "title": "Sinful Acts\n",
+        "description": "Keywords of the sinful nature",
+        "reference": {
+          "book": "1 Corinthians",
+          "chapter": 6,
+          "start": 9,
+          "end": 10
+        },
+        "rows": [
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Do you not know that the wicked will not inherit the kingdom of God? Do not be deceived: Neither the sexually immoral nor idolaters nor adulterers nor male prostitutes nor homosexual offenders",
+              "KJV": "Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,",
+              "NASB95": "Or do you not know that the unrighteous will not inherit the kingdom of God? Do not be deceived; neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor homosexuals,",
+              "NKJV": "Do you not know that the unrighteous will not inherit the kingdom of God? Do not be deceived. Neither fornicators, nor idolaters, nor adulterers, nor homosexuals, nor sodomites,",
+              "ESV": "Or do you not know that the unrighteous will not inherit the kingdom of God? Do not be deceived: neither the sexually immoral, nor idolaters, nor adulterers, nor men who practice homosexuality,",
+              "DRB": "Know you not that the unjust shall not possess the kingdom of God? Do not err: neither fornicators, nor idolaters, nor adulterers,",
+              "AMP": "Do you not know that the unrighteous will not inherit or have any share in the kingdom of God? Do not be deceived; neither the sexually immoral, nor idolaters, nor adulterers, nor (perversely) effeminate, nor homosexuals,",
+              "NLT": "Don\u2019t you realize that those who do wrong will not inherit the Kingdom of God? Don\u2019t fool yourselves. Those who indulge in sexual sin, or who worship idols, or commit adultery, or are male prostitutes, or practice homosexuality,"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "nor thieves nor the greedy nor drunkards nor slanderers nor swindlers will inherit the kingdom of God.",
+              "KJV": "Nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God.",
+              "NASB95": "nor thieves, nor the covetous, nor drunkards, nor revilers, nor swindlers, will inherit the kingdom of God.",
+              "NKJV": "nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners will inherit the kingdom of God.",
+              "ESV": "nor thieves, nor the greedy, nor drunkards, nor revilers, nor swindlers will inherit the kingdom of God.",
+              "DRB": "Nor the effeminate, nor liers with mankind, nor thieves, nor covetous, nor drunkards, nor railers, nor extortioners, shall possess the kingdom of God.",
+              "AMP": "nor thieves, nor the greedy, nor drunkards, nor revilers [whose words are used as weapons to abuse, insult, humiliate, intimidate, or slander], nor swindlers will inherit or have any share in the kingdom of God.",
+              "NLT": "or are thieves, or greedy people, or drunkards, or are abusive, or cheat people\u2014none of these will inherit the Kingdom of God."
+            }
+          }
+        ]
+      },
+      {
+        "id": "col_3_5_9",
+        "title": "Death to the Sinful Nature\n",
+        "description": "Keywords of the sinful nature",
+        "reference": {
+          "book": "Colossians",
+          "chapter": 3,
+          "start": 5,
+          "end": 9
+        },
+        "rows": [
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "Put to death, therefore, whatever belongs to your earthly nature: sexual immorality, impurity, lust, evil desires and greed, which is idolatry.",
+              "KJV": "Mortify therefore your members which are upon the earth; fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, which is idolatry:",
+              "NASB95": "Therefore consider the members of your earthly body as dead to immorality, impurity, passion, evil desire, and greed, which amounts to idolatry.",
+              "NKJV": "Therefore put to death your members which are on the earth: fornication, uncleanness, passion, evil desire, and covetousness, which is idolatry.",
+              "ESV": "Put to death therefore what is earthly in you: sexual immorality, impurity, passion, evil desire, and covetousness, which is idolatry.",
+              "DRB": "Mortify therefore your members which are upon the earth; fornication, uncleanness, lust, evil concupiscence, and covetousness, which is the service of idols.",
+              "AMP": "So put to death and deprive of power the evil longings of your earthly body [with its sensual, self-centered instincts] immorality, impurity, sinful passion, evil desire, and greed, which is [a kind of] idolatry [because it replaces your devotion to God].",
+              "NLT": "So put to death the sinful, earthly things lurking within you. Have nothing to do with sexual immorality, impurity, lust, and evil desires. Don\u2019t be greedy, for a greedy person is an idolater, worshiping the things of this world."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Because of these, the wrath of God is coming.",
+              "KJV": "For which things' sake the wrath of God cometh on the children of disobedience:",
+              "NASB95": "For it is because of these things that the wrath of God will come upon the sons of disobedience,",
+              "NKJV": "Because of these things the wrath of God is coming upon the sons of disobedience,",
+              "ESV": "On account of these the wrath of God is coming.",
+              "DRB": "For which things the wrath of God cometh upon the children of unbelief,",
+              "AMP": "Because of these [sinful] things the [divine] wrath of God is coming on the sons of disobedience [those who fail to listen and who routinely and obstinately disregard God\u2019s precepts],",
+              "NLT": "Because of these sins, the anger of God is coming."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "You used to walk in these ways, in the life you once lived.",
+              "KJV": "In the which ye also walked some time, when ye lived in them.",
+              "NASB95": "and in them you also once walked, when you were living in them.",
+              "NKJV": "in which you yourselves once walked when you lived in them.",
+              "ESV": "In these you too once walked, when you were living in them.",
+              "DRB": "In which you also walked some time, when you lived in them.",
+              "AMP": "and in these [sinful things] you also once walked, when you were habitually living in them [without the knowledge of Christ].",
+              "NLT": "You used to do these things when your life was still part of this world."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "But now you must rid yourselves of all such things as these: anger, rage, malice, slander, and filthy language from your lips.",
+              "KJV": "But now ye also put off all these; anger, wrath, malice, blasphemy, filthy communication out of your mouth.",
+              "NASB95": "But now you also, put them all aside: anger, wrath, malice, slander, and abusive speech from your mouth.",
+              "NKJV": "But now you yourselves are to put off all these: anger, wrath, malice, blasphemy, filthy language out of your mouth.",
+              "ESV": "But now you must put them all away: anger, wrath, malice, slander, and obscene talk from your mouth.",
+              "DRB": "But now put you also all away: anger, indignation, malice, blasphemy, filthy speech out of your mouth.",
+              "AMP": "But now rid yourselves [completely] of all these things: anger, rage, malice, slander, and obscene (abusive, filthy, vulgar) language from your mouth.",
+              "NLT": "But now is the time to get rid of anger, rage, malicious behavior, slander, and dirty language."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Do not lie to each other, since you have taken off your old self with its practices",
+              "KJV": "Lie not one to another, seeing that ye have put off the old man with his deeds;",
+              "NASB95": "Do not lie to one another, since you laid aside the old self with its evil practices,",
+              "NKJV": "Do not lie to one another, since you have put off the old man with his deeds,",
+              "ESV": "Do not lie to one another, seeing that you have put off the old self with its practices",
+              "DRB": "Lie not one to another: stripping yourselves of the old man with his deeds,",
+              "AMP": "Do not lie to one another, for you have stripped off the old self with its evil practices,",
+              "NLT": "Don\u2019t lie to each other, for you have stripped off your old sinful nature and all its wicked deeds."
+            }
+          }
+        ]
+      },
+      {
+        "id": "eph_4_31_31",
+        "title": "Get Rid of Sinful Acts",
+        "description": "Keywords of the sinful nature",
+        "reference": {
+          "book": "Ephesians",
+          "chapter": 4,
+          "start": 31,
+          "end": 31
+        },
+        "rows": [
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "Get rid of all bitterness, rage and anger, brawling and slander, along with every form of malice.",
+              "KJV": "Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:",
+              "NASB95": "Let all bitterness and wrath and anger and clamor and slander be put away from you, along with all malice.",
+              "NKJV": "Let all bitterness, wrath, anger, clamor, and evil speaking be put away from you, with all malice.",
+              "ESV": "Let all bitterness and wrath and anger and clamor and slander be put away from you, along with all malice.",
+              "DRB": "Let all bitterness, and anger, and indignation, and clamour, and blasphemy, be put away from you, with all malice.",
+              "AMP": "Let all bitterness and wrath and anger and clamor [perpetual animosity, resentment, strife, fault-finding] and slander be put away from you, along with every kind of malice [all spitefulness, verbal abuse, malevolence].",
+              "NLT": "Get rid of all bitterness, rage, anger, harsh words, and slander, as well as all types of evil behavior."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1pe_2_1_10",
+        "title": "Rid yourselves of the sinful nature",
+        "description": "Keywords of the sinful nature",
+        "reference": {
+          "book": "1 Peter",
+          "chapter": 2,
+          "start": 1,
+          "end": 10
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Therefore, rid yourselves of all malice and all deceit, hypocrisy, envy, and slander of every kind.",
+              "KJV": "Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings,",
+              "NASB95": "Therefore, putting aside all malice and all deceit and hypocrisy and envy and all slander,",
+              "NKJV": "Therefore, laying aside all malice, all deceit, hypocrisy, envy, and all evil speaking,",
+              "ESV": "So put away all malice and all deceit and hypocrisy and envy and all slander.",
+              "DRB": "Wherefore laying away all malice, and all guile, and dissimulations, and envies, and all detractions,",
+              "AMP": "So put aside every trace of malice and all deceit and hypocrisy and envy and all slander and hateful speech;",
+              "NLT": "So get rid of all evil behavior. Be done with all deceit, hypocrisy, jealousy, and all unkind speech."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Like newborn babies, crave pure spiritual milk, so that by it you may grow up in your salvation,",
+              "KJV": "As newborn babes, desire the sincere milk of the word, that ye may grow thereby:",
+              "NASB95": "like newborn babies, long for the pure milk of the word, so that by it you may grow in respect to salvation,",
+              "NKJV": "as newborn babes, desire the pure milk of the word, that you may grow thereby,",
+              "ESV": "Like newborn infants, long for the pure spiritual milk, that by it you may grow up into salvation\u2014",
+              "DRB": "As newborn babes, desire the rational milk without guile, that thereby you may grow unto salvation:",
+              "AMP": "like newborn babies [you should] long for the pure milk of the word, so that by it you may be nurtured and grow in respect to salvation [its ultimate fulfillment],",
+              "NLT": "Like newborn babies, you must crave pure spiritual milk so that you will grow into a full experience of salvation. Cry out for this nourishment,"
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "now that you have tasted that the Lord is good.",
+              "KJV": "If so be ye have tasted that the Lord is gracious.",
+              "NASB95": "if you have tasted the kindness of the Lord.",
+              "NKJV": "if indeed you have tasted that the Lord is gracious.",
+              "ESV": "if indeed you have tasted that the Lord is good.",
+              "DRB": "If so be you have tasted that the Lord is sweet.",
+              "AMP": "if in fact you have [already] tasted the goodness and gracious kindness of the Lord.",
+              "NLT": "now that you have had a taste of the Lord\u2019s kindness."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "As you come to him, the living Stone--rejected by men but chosen by God and precious to him--",
+              "KJV": "To whom coming, as unto a living stone, disallowed indeed of men, but chosen of God, and precious,",
+              "NASB95": "And coming to Him as to a living stone which has been rejected by men, but is choice and precious in the sight of God,",
+              "NKJV": "Coming to Him as to a living stone, rejected indeed by men, but chosen by God and precious,",
+              "ESV": "As you come to him, a living stone rejected by men but in the sight of God chosen and precious,",
+              "DRB": "Unto whom coming, as to a living stone, rejected indeed by men, but chosen and made honourable by God:",
+              "AMP": "Come to Him [the risen Lord] as to a living Stone which men rejected and threw away, but which is choice and precious in the sight of God.",
+              "NLT": "You are coming to Christ, who is the living cornerstone of God\u2019s temple. He was rejected by people, but he was chosen by God for great honor."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "you also, like living stones, are being built into a spiritual house to be a holy priesthood, offering spiritual sacrifices acceptable to God through Jesus Christ.",
+              "KJV": "Ye also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ.",
+              "NASB95": "you also, as living stones, are being built up as a spiritual house for a holy priesthood, to offer up spiritual sacrifices acceptable to God through Jesus Christ.",
+              "NKJV": "you also, as living stones, are being built up a spiritual house, a holy priesthood, to offer up spiritual sacrifices acceptable to God through Jesus Christ.",
+              "ESV": "you yourselves like living stones are being built up as a spiritual house, to be a holy priesthood, to offer spiritual sacrifices acceptable to God through Jesus Christ.",
+              "DRB": "Be you also as living stones built up, a spiritual house, a holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ.",
+              "AMP": "You [believers], like living stones, are being built up into a spiritual house for a holy and dedicated priesthood, to offer spiritual sacrifices [that are] acceptable and pleasing to God through Jesus Christ.",
+              "NLT": "And you are living stones that God is building into his spiritual temple. What\u2019s more, you are his holy priests. Through the mediation of Jesus Christ, you offer spiritual sacrifices that please God."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "For in Scripture it says: \"See, I lay a stone in Zion, a chosen and precious cornerstone, and the one who trusts in him will never be put to shame.\"",
+              "KJV": "Wherefore also it is contained in the scripture, Behold, I lay in Sion a chief corner stone, elect, precious: and he that believeth on him shall not be confounded.",
+              "NASB95": "For this is contained in Scripture:\n\u201cBehold, I lay in Zion a choice stone, a precious corner stone,\nAnd he who believes in Him will not be disappointed.\u201d",
+              "NKJV": "Therefore it is also contained in the Scripture,\n\u201cBehold, I lay in Zion\nA chief cornerstone, elect, precious,\nAnd he who believes on Him will by no means be put to shame.\u201d",
+              "ESV": "For it stands in Scripture:\n\u201cBehold, I am laying in Zion a stone,\n    a cornerstone chosen and precious,\nand whoever believes in him will not be put to shame.\u201d",
+              "DRB": "Wherefore it is said in the scripture: Behold, I lay in Sion a chief corner stone, elect, precious. And he that shall believe in him, shall not be confounded.",
+              "AMP": "For this is contained in Scripture: \u201cBEHOLD, I AM LAYING IN ZION A CHOSEN STONE, A PRECIOUS (honored) CORNERSTONE, AND HE WHO BELIEVES IN HIM [whoever adheres to, trusts in, and relies on Him] WILL NEVER BE DISAPPOINTED [in his expectations].\u201d",
+              "NLT": "As the Scriptures say, \n\u201cI am placing a cornerstone in Jerusalem,\n    chosen for great honor,\nand anyone who trusts in him\n    will never be disgraced.\u201d"
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Now to you who believe, this stone is precious. But to those who do not believe, \"The stone the builders rejected has become the capstone, \"",
+              "KJV": "Unto you therefore which believe he is precious: but unto them which be disobedient, the stone which the builders disallowed, the same is made the head of the corner,",
+              "NASB95": "This precious value, then, is for you who believe; but for those who disbelieve,\n\u201cThe stone which the builders rejected,\nThis became the very corner stone,\u201d",
+              "NKJV": "Therefore, to you who believe, He is precious; but to those who are disobedient,\n\u201cThe stone which the builders rejected\nHas become the chief cornerstone,\u201d",
+              "ESV": "So the honor is for you who believe, but for those who do not believe,\n\u201cThe stone that the builders rejected\n    has become the cornerstone,\u201d",
+              "DRB": "To you therefore that believe, he is honour: but to them that believe not, the stone which the builders rejected, the same is made the head of the corner:",
+              "AMP": "This precious value, then, is for you who believe [in Him as God\u2019s only Son\u2014the Source of salvation]; but for those who disbelieve, \u201cTHE [very] STONE WHICH THE BUILDERS REJECTED HAS BECOME THE CHIEF CORNERSTONE,\u201d",
+              "NLT": "Yes, you who trust him recognize the honor God has given him. But for those who reject him,\n\u201cThe stone that the builders rejected\n    has now become the cornerstone.\u201d"
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "and, \"A stone that causes men to stumble and a rock that makes them fall.\" They stumble because they disobey the message--which is also what they were destined for.",
+              "KJV": "And a stone of stumbling, and a rock of offence, even to them which stumble at the word, being disobedient: whereunto also they were appointed.",
+              "NASB95": "and,\n\u201cA stone of stumbling and a rock of offense\u201d;\nfor they stumble because they are disobedient to the word, and to this doom they were also appointed.",
+              "NKJV": "and\n\u201cA stone of stumbling\nAnd a rock of offense.\u201d\nThey stumble, being disobedient to the word, to which they also were appointed.",
+              "ESV": "and\n\u201cA stone of stumbling,\n    and a rock of offense.\u201d\nThey stumble because they disobey the word, as they were destined to do.",
+              "DRB": "And a stone of stumbling, and a rock of scandal, to them who stumble at the word, neither do believe, whereunto also they are set.",
+              "AMP": "and, \u201cA STONE OF STUMBLING AND A ROCK OF OFFENSE\u201d; for they stumble because they disobey the word [of God], and to this they [who reject Him as Savior] were also appointed.",
+              "NLT": "And,\n\u201cHe is the stone that makes people stumble,\n    the rock that makes them fall.\u201d\nThey stumble because they do not obey God\u2019s word, and so they meet the fate that was planned for them."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "But you are a chosen people, a royal priesthood, a holy nation, a people belonging to God, that you may declare the praises of him who called you out of darkness into his wonderful light.",
+              "KJV": "But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light;",
+              "NASB95": "But you are a chosen race, a royal priesthood, a holy nation, a people for God\u2019s own possession, so that you may proclaim the excellencies of Him who has called you out of darkness into His marvelous light;",
+              "NKJV": "But you are a chosen generation, a royal priesthood, a holy nation, His own special people, that you may proclaim the praises of Him who called you out of darkness into His marvelous light;",
+              "ESV": "But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light.",
+              "DRB": "But you are a chosen generation, a kingly priesthood, a holy nation, a purchased people: that you may declare his virtues, who hath called you out of darkness into his marvellous light:",
+              "AMP": "But you are A CHOSEN RACE, A royal PRIESTHOOD, A CONSECRATED NATION, A [special] PEOPLE FOR God\u2019s OWN POSSESSION, so that you may proclaim the excellencies [the wonderful deeds and virtues and perfections] of Him who called you out of darkness into His marvelous light.",
+              "NLT": "But you are not like that, for you are a chosen people. You are royal priests, a holy nation, God\u2019s very own possession. As a result, you can show others the goodness of God, for he called you out of the darkness into his wonderful light."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Once you were not a people, but now you are the people of God; once you had not received mercy, but now you have received mercy.",
+              "KJV": "Which in time past were not a people, but are now the people of God: which had not obtained mercy, but now have obtained mercy.",
+              "NASB95": "for you once were not a people, but now you are the people of God; you had not received mercy, but now you have received mercy.",
+              "NKJV": "who once were not a people but are now the people of God, who had not obtained mercy but now have obtained mercy.",
+              "ESV": "Once you were not a people, but now you are God's people; once you had not received mercy, but now you have received mercy.",
+              "DRB": "Who in time past were not a people: but are now the people of God. Who had not obtained mercy; but now have obtained mercy.",
+              "AMP": "Once you were NOT A PEOPLE [at all], but now you are GOD\u2019S PEOPLE; once you had NOT RECEIVED MERCY, but now you have RECEIVED MERCY.",
+              "NLT": "\u201cOnce you had no identity as a people;\n    now you are God\u2019s people.\nOnce you received no mercy;\n    now you have received God\u2019s mercy.\u201d"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1pe_4_1_8",
+        "title": "Do not live the sinful nature",
+        "description": "Keywords of the sinful nature",
+        "reference": {
+          "book": "1 Peter",
+          "chapter": 4,
+          "start": 1,
+          "end": 8
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Therefore, since Christ suffered in his body, arm yourselves also with the same attitude, because he who has suffered in his body is done with sin.",
+              "KJV": "Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin;",
+              "NASB95": "Therefore, since Christ has suffered in the flesh, arm yourselves also with the same purpose, because he who has suffered in the flesh has ceased from sin,",
+              "NKJV": "Therefore, since Christ suffered for us in the flesh, arm yourselves also with the same mind, for he who has suffered in the flesh has ceased from sin,",
+              "ESV": "Since therefore Christ suffered in the flesh, arm yourselves with the same way of thinking, for whoever has suffered in the flesh has ceased from sin,",
+              "DRB": "Christ therefore having suffered in the flesh, be you also armed with the same thought: for he that hath suffered in the flesh, hath ceased from sins:",
+              "AMP": "Therefore, since Christ suffered in the flesh [and died for us], arm yourselves [like warriors] with the same purpose [being willing to suffer for doing what is right and pleasing God], because whoever has suffered in the flesh [being like-minded with Christ] is done with [intentional] sin [having stopped pleasing the world],",
+              "NLT": "So then, since Christ suffered physical pain, you must arm yourselves with the same attitude he had, and be ready to suffer, too. For if you have suffered physically for Christ, you have finished with sin."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "As a result, he does not live the rest of his earthly life for evil human desires, but rather for the will of God.",
+              "KJV": "That he no longer should live the rest of his time in the flesh to the lusts of men, but to the will of God.",
+              "NASB95": "so as to live the rest of the time in the flesh no longer for the lusts of men, but for the will of God.",
+              "NKJV": "that he no longer should live the rest of his time in the flesh for the lusts of men, but for the will of God.",
+              "ESV": "so as to live for the rest of the time in the flesh no longer for human passions but for the will of God.",
+              "DRB": "That now he may live the rest of his time in the flesh , not after the desires of men, but according to the will of God.",
+              "AMP": "so that he can no longer spend the rest of his natural life living for human appetites and desires, but [lives] for the will and purpose of God.",
+              "NLT": "You won\u2019t spend the rest of your lives chasing your own desires, but you will be anxious to do the will of God."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "For you have spent enough time in the past doing what pagans choose to do--living in debauchery, lust, drunkenness, orgies, carousing and detestable idolatry.",
+              "KJV": "For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:",
+              "NASB95": "For the time already past is sufficient for you to have carried out the desire of the Gentiles, having pursued a course of sensuality, lusts, drunkenness, carousing, drinking parties and abominable idolatries.",
+              "NKJV": "For we have spent enough of our past lifetime in doing the will of the Gentiles\u2014when we walked in lewdness, lusts, drunkenness, revelries, drinking parties, and abominable idolatries.",
+              "ESV": "For the time that is past suffices for doing what the Gentiles want to do, living in sensuality, passions, drunkenness, orgies, drinking parties, and lawless idolatry.",
+              "DRB": "For the time past is sufficient to have fulfilled the will of the Gentiles, for them who have walked in riotousness, lusts, excess of wine, revellings, banquetings, and unlawful worshipping of idols.",
+              "AMP": "For the time already past is [more than] enough for doing what the [unsaved] Gentiles like to do\u2014living [unrestrained as you have done] in a course of [shameless] sensuality, lusts, drunkenness, carousing, drinking parties, and wanton idolatries.",
+              "NLT": "You have had enough in the past of the evil things that godless people enjoy\u2014their immorality and lust, their feasting and drunkenness and wild parties, and their terrible worship of idols."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "They think it strange that you do not plunge with them into the same flood of dissipation, and they heap abuse on you.",
+              "KJV": "Wherein they think it strange that ye run not with them to the same excess of riot, speaking evil of you:",
+              "NASB95": "In all this, they are surprised that you do not run with them into the same excesses of dissipation, and they malign you;",
+              "NKJV": "In regard to these, they think it strange that you do not run with them in the same flood of dissipation, speaking evil of you.",
+              "ESV": "With respect to this they are surprised when you do not join them in the same flood of debauchery, and they malign you;",
+              "DRB": "Wherein they think it strange, that you run not with them into the same confusion of riotousness, speaking evil of you.",
+              "AMP": "In [connection with] all this, they [the unbelievers] are resentful and surprised that you do not [think like them, value their values and] run [hand in hand] with them into the same excesses of dissipation and immoral freedom, and they criticize and abuse and ridicule you and make fun of your values.",
+              "NLT": "Of course, your former friends are surprised when you no longer plunge into the flood of wild and destructive things they do. So they slander you."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "But they will have to give account to him who is ready to judge the living and the dead.",
+              "KJV": "Who shall give account to him that is ready to judge the quick and the dead.",
+              "NASB95": "but they will give account to Him who is ready to judge the living and the dead.",
+              "NKJV": "They will give an account to Him who is ready to judge the living and the dead.",
+              "ESV": "but they will give account to him who is ready to judge the living and the dead.",
+              "DRB": "Who shall render account to him, who is ready to judge the living and the dead.",
+              "AMP": "But they will [have to] give an account to Him who is ready to judge and pass sentence on the living and the dead.",
+              "NLT": "But remember that they will have to face God, who stands ready to judge everyone, both the living and the dead."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "For this is the reason the gospel was preached even to those who are now dead, so that they might be judged according to men in regard to the body, but live according to God in regard to the spirit.",
+              "KJV": "For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.",
+              "NASB95": "For the gospel has for this purpose been preached even to those who are dead, that though they are judged in the flesh as men, they may live in the spirit according to the will of God.",
+              "NKJV": "For this reason the gospel was preached also to those who are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.",
+              "ESV": "For this is why the gospel was preached even to those who are dead, that though judged in the flesh the way people are, they might live in the spirit the way God does.",
+              "DRB": "For, for this cause was the gospel preached also to the dead: that they might be judged indeed according to men, in the flesh; but may live according to God, in the Spirit.",
+              "AMP": "For this is why the good news [of salvation] was preached [in their lifetimes] even to those who are dead, that though they were judged in the flesh as men are, they may live in the spirit according to [the will and purpose of] God.",
+              "NLT": "That is why the Good News was preached to those who are now dead\u2014so although they were destined to die like all people, they now live forever with God in the Spirit."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "The end of all things is near. Therefore be clear minded and self-controlled so that you can pray.",
+              "KJV": "But the end of all things is at hand: be ye therefore sober, and watch unto prayer.",
+              "NASB95": "The end of all things is near; therefore, be of sound judgment and sober spirit for the purpose of prayer.",
+              "NKJV": "But the end of all things is at hand; therefore be serious and watchful in your prayers.",
+              "ESV": "The end of all things is at hand; therefore be self-controlled and sober-minded for the sake of your prayers.",
+              "DRB": "But the end of all is at hand. Be prudent therefore, and watch in prayers.",
+              "AMP": "The end and culmination of all things is near. Therefore, be sound-minded and self-controlled for the purpose of prayer [staying balanced and focused on the things of God so that your communication will be clear, reasonable, specific and pleasing to Him.]",
+              "NLT": "The end of the world is coming soon. Therefore, be earnest and disciplined in your prayers."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Above all, love each other deeply, because love covers over a multitude of sins.",
+              "KJV": "And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins.",
+              "NASB95": "Above all, keep fervent in your love for one another, because love covers a multitude of sins.",
+              "NKJV": "And above all things have fervent love for one another, for \u201clove will cover a multitude of sins.\u201d",
+              "ESV": "Above all, keep loving one another earnestly, since love covers a multitude of sins.",
+              "DRB": "But before all things have a constant mutual charity among yourselves: for charity covereth a multitude of sins.",
+              "AMP": "Above all, have fervent and unfailing love for one another, because love covers a multitude of sins [it overlooks unkindness and unselfishly seeks the best for others].",
+              "NLT": "Most important of all, continue to show deep love for each other, for love covers a multitude of sins."
+            }
+          }
+        ]
+      },
+      {
+        "id": "2co_12_20_21",
+        "title": "Paul's concern about sinful acts",
+        "description": "Keywords of the sinful nature",
+        "reference": {
+          "book": "2 Corinthians",
+          "chapter": 12,
+          "start": 20,
+          "end": 21
+        },
+        "rows": [
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "For I am afraid that when I come I may not find you as I want you to be, and you may not find me as you want me to be. I fear that there may be quarreling, jealousy, outbursts of anger, factions, slander, gossip, arrogance and disorder.",
+              "KJV": "For I fear, lest, when I come, I shall not find you such as I would, and that I shall be found unto you such as ye would not: lest there be debates, envyings, wraths, strifes, backbitings, whisperings, swellings, tumults:",
+              "NASB95": "For I am afraid that perhaps when I come I may find you to be not what I wish and may be found by you to be not what you wish; that perhaps there will be strife, jealousy, angry tempers, disputes, slanders, gossip, arrogance, disturbances;",
+              "NKJV": "For I fear lest, when I come, I shall not find you such as I wish, and that I shall be found by you such as you do not wish; lest there be contentions, jealousies, outbursts of wrath, selfish ambitions, backbitings, whisperings, conceits, tumults;",
+              "ESV": "For I fear that perhaps when I come I may find you not as I wish, and that you may find me not as you wish\u2014that perhaps there may be quarreling, jealousy, anger, hostility, slander, gossip, conceit, and disorder.",
+              "DRB": "For I fear lest perhaps when I come I shall not find you such as I would, and that I shall be found by you such as you would not. Lest perhaps contentions, envyings, animosities, dissensions, detractions, whisperings, swellings, seditions, be among you.",
+              "AMP": "For I am afraid that perhaps when I come I may find you not to be as I wish, and that you may find me not as you wish\u2014that perhaps there may be strife, jealousy, angry tempers, disputes, slander, gossip, arrogance and disorder;",
+              "NLT": "For I am afraid that when I come I won\u2019t like what I find, and you won\u2019t like my response. I am afraid that I will find quarreling, jealousy, anger, selfishness, slander, gossip, arrogance, and disorderly behavior."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "I am afraid that when I come again my God will humble me before you, and I will be grieved over many who have sinned earlier and have not repented of the impurity, sexual sin and debauchery in which they have indulged.",
+              "KJV": "And lest, when I come again, my God will humble me among you, and that I shall bewail many which have sinned already, and have not repented of the uncleanness and fornication and lasciviousness which they have committed.",
+              "NASB95": "I am afraid that when I come again my God may humiliate me before you, and I may mourn over many of those who have sinned in the past and not repented of the impurity, immorality and sensuality which they have practiced.",
+              "NKJV": "lest, when I come again, my God will humble me among you, and I shall mourn for many who have sinned before and have not repented of the uncleanness, fornication, and lewdness which they have practiced.",
+              "ESV": "I fear that when I come again my God may humble me before you, and I may have to mourn over many of those who sinned earlier and have not repented of the impurity, sexual immorality, and sensuality that they have practiced.",
+              "DRB": "Lest again, when I come, God humble me among you: and I mourn many of them that sinned before, and have not done penance for the uncleanness, and fornication, and lasciviousness, that they have committed.",
+              "AMP": "I am afraid that when I come again my God may humiliate me before you, and I may mourn over many of those who have sinned in the past and not repented of the impurity, sexual immorality and decadence which they formerly practiced.",
+              "NLT": "Yes, I am afraid that when I come again, God will humble me in your presence. And I will be grieved because many of you have not given up your old sins. You have not repented of your impurity, sexual immorality, and eagerness for lustful pleasure."
+            }
+          }
+        ]
+      },
+      {
+        "id": "tit_3_1_11",
+        "title": "Saved from sinful acts to do good",
+        "description": "Keywords of the sinful nature",
+        "reference": {
+          "book": "Titus",
+          "chapter": 3,
+          "start": 1,
+          "end": 11
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Remind the people to be subject to rulers and authorities, to be obedient, to be ready to do whatever is good,",
+              "KJV": "Put them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work,",
+              "NASB95": "Remind them to be subject to rulers, to authorities, to be obedient, to be ready for every good deed,",
+              "NKJV": "Remind them to be subject to rulers and authorities, to obey, to be ready for every good work,",
+              "ESV": "Remind them to be submissive to rulers and authorities, to be obedient, to be ready for every good work,",
+              "DRB": "Admonish them to be subject to princes and powers, to obey at a word, to be ready to every good work.",
+              "AMP": "Remind people to be subject to rulers and authorities, to be obedient, to be ready and willing to do good,",
+              "NLT": "Remind the believers to submit to the government and its officers. They should be obedient, always ready to do what is good."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "to slander no one, to be peaceable and considerate, and to show true humility toward all men.",
+              "KJV": "To speak evil of no man, to be no brawlers, but gentle, shewing all meekness unto all men.",
+              "NASB95": "to malign no one, to be peaceable, gentle, showing every consideration for all men.",
+              "NKJV": "to speak evil of no one, to be peaceable, gentle, showing all humility to all men.",
+              "ESV": "to speak evil of no one, to avoid quarreling, to be gentle, and to show perfect courtesy toward all people.",
+              "DRB": "To speak evil of no man, not to be litigious, but gentle: shewing all mildness towards all men.",
+              "AMP": "to slander or abuse no one, to be kind and conciliatory and gentle, showing unqualified consideration and courtesy toward everyone.",
+              "NLT": "They must not slander anyone and must avoid quarreling. Instead, they should be gentle and show true humility to everyone."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "At one time we too were foolish, disobedient, deceived and enslaved by all kinds of passions and pleasures. We lived in malice and envy, being hated and hating one another.",
+              "KJV": "For we ourselves also were sometimes foolish, disobedient, deceived, serving divers lusts and pleasures, living in malice and envy, hateful, and hating one another.",
+              "NASB95": "For we also once were foolish ourselves, disobedient, deceived, enslaved to various lusts and pleasures, spending our life in malice and envy, hateful, hating one another.",
+              "NKJV": "For we ourselves were also once foolish, disobedient, deceived, serving various lusts and pleasures, living in malice and envy, hateful and hating one another.",
+              "ESV": "For we ourselves were once foolish, disobedient, led astray, slaves to various passions and pleasures, passing our days in malice and envy, hated by others and hating one another.",
+              "DRB": "For we ourselves also were some time unwise, incredulous, erring, slaves to divers desires and pleasures, living in malice and envy, hateful, and hating one another.",
+              "AMP": "For we too once were foolish, disobedient, deceived, enslaved to various sinful desires and pleasures, spending and wasting our life in malice and envy, hateful, hating one another.",
+              "NLT": "Once we, too, were foolish and disobedient. We were misled and became slaves to many lusts and pleasures. Our lives were full of evil and envy, and we hated each other."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "But when the kindness and love of God our Savior appeared,",
+              "KJV": "But after that the kindness and love of God our Saviour toward man appeared,",
+              "NASB95": "But when the kindness of God our Savior and His love for mankind appeared,",
+              "NKJV": "But when the kindness and the love of God our Savior toward man appeared,",
+              "ESV": "But when the goodness and loving kindness of God our Savior appeared,",
+              "DRB": "But when the goodness and kindness of God our Savior appeared:",
+              "AMP": "But when the goodness and kindness of God our Savior and His love for mankind appeared [in human form as the Man, Jesus Christ],",
+              "NLT": "But\u2014\nWhen God our Savior revealed his kindness and love,"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "he saved us, not because of righteous things we had done, but because of his mercy. He saved us through the washing of rebirth and renewal by the Holy Spirit,",
+              "KJV": "Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost;",
+              "NASB95": "He saved us, not on the basis of deeds which we have done in righteousness, but according to His mercy, by the washing of regeneration and renewing by the Holy Spirit,",
+              "NKJV": "not by works of righteousness which we have done, but according to His mercy He saved us, through the washing of regeneration and renewing of the Holy Spirit,",
+              "ESV": "he saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit,",
+              "DRB": "Not by the works of justice, which we have done, but according to his mercy, he saved us, by the laver of regeneration, and renovation of the Holy Ghost;",
+              "AMP": "He saved us, not because of any works of righteousness that we have done, but because of His own compassion and mercy, by the cleansing of the new birth (spiritual transformation, regeneration) and renewing by the Holy Spirit,",
+              "NLT": "he saved us, not because of the righteous things we had done, but because of his mercy. He washed away our sins, giving us a new birth and new life through the Holy Spirit."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "whom he poured out on us generously through Jesus Christ our Savior,",
+              "KJV": "Which he shed on us abundantly through Jesus Christ our Saviour;",
+              "NASB95": "whom He poured out upon us richly through Jesus Christ our Savior,",
+              "NKJV": "whom He poured out on us abundantly through Jesus Christ our Savior,",
+              "ESV": "whom he poured out on us richly through Jesus Christ our Savior,",
+              "DRB": "Whom he hath poured forth upon us abundantly, through Jesus Christ our Savior:",
+              "AMP": "whom He poured out richly upon us through Jesus Christ our Savior,",
+              "NLT": "He generously poured out the Spirit upon us through Jesus Christ our Savior."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "so that, having been justified by his grace, we might become heirs having the hope of eternal life.",
+              "KJV": "That being justified by his grace, we should be made heirs according to the hope of eternal life.",
+              "NASB95": "so that being justified by His grace we would be made heirs according to the hope of eternal life.",
+              "NKJV": "that having been justified by His grace we should become heirs according to the hope of eternal life.",
+              "ESV": "so that being justified by his grace we might become heirs according to the hope of eternal life.",
+              "DRB": "That, being justified by his grace, we may be heirs, according to hope of life everlasting.",
+              "AMP": "so that we would be justified [made free of the guilt of sin] by His [compassionate, undeserved] grace, and that we would be [acknowledged as acceptable to Him and] made heirs of eternal life [actually experiencing it] according to our hope (His guarantee).",
+              "NLT": "Because of his grace he made us right in his sight and gave us confidence that we will inherit eternal life."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "This is a trustworthy saying. And I want you to stress these things, so that those who have trusted in God may be careful to devote themselves to doing what is good. These things are excellent and profitable for everyone.",
+              "KJV": "This is a faithful saying, and these things I will that thou affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable unto men.",
+              "NASB95": "This is a trustworthy statement; and concerning these things I want you to speak confidently, so that those who have believed God will be careful to engage in good deeds. These things are good and profitable for men.",
+              "NKJV": "This is a faithful saying, and these things I want you to affirm constantly, that those who have believed in God should be careful to maintain good works. These things are good and profitable to men.",
+              "ESV": "The saying is trustworthy, and I want you to insist on these things, so that those who have believed in God may be careful to devote themselves to good works. These things are excellent and profitable for people.",
+              "DRB": "It is a faithful saying: and these things I will have thee affirm constantly: that they, who believe in God, may be careful to excel in good works. These things are good and profitable unto men.",
+              "AMP": "This is a faithful and trustworthy saying; and concerning these things I want you to speak with great confidence, so that those who have believed God [that is, those who have trusted in, relied on, and accepted Christ Jesus as Savior,] will be careful to participate in doing good and honorable things. These things are excellent [in themselves] and profitable for the people.",
+              "NLT": "This is a trustworthy saying, and I want you to insist on these teachings so that all who trust in God will devote themselves to doing good. These teachings are good and beneficial for everyone."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "But avoid foolish controversies and genealogies and arguments and quarrels about the law, because these are unprofitable and useless.",
+              "KJV": "But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain.",
+              "NASB95": "But avoid foolish controversies and genealogies and strife and disputes about the Law, for they are unprofitable and worthless.",
+              "NKJV": "But avoid foolish disputes, genealogies, contentions, and strivings about the law; for they are unprofitable and useless.",
+              "ESV": "But avoid foolish controversies, genealogies, dissensions, and quarrels about the law, for they are unprofitable and worthless.",
+              "DRB": "But avoid foolish questions, and genealogies, and contentions, and strivings about the law. For they are unprofitable and vain.",
+              "AMP": "But avoid foolish and ill-informed and stupid controversies and genealogies and dissensions and quarrels about the Law, for they are unprofitable and useless.",
+              "NLT": "Do not get involved in foolish discussions about spiritual pedigrees or in quarrels and fights about obedience to Jewish laws. These things are useless and a waste of time."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Warn a divisive person once, and then warn him a second time. After that, have nothing to do with him.",
+              "KJV": "A man that is an heretick after the first and second admonition reject;",
+              "NASB95": "Reject a factious man after a first and second warning,",
+              "NKJV": "Reject a divisive man after the first and second admonition,",
+              "ESV": "As for a person who stirs up division, after warning him once and then twice, have nothing more to do with him,",
+              "DRB": "A man that is a heretic, after the first and second admonition, avoid:",
+              "AMP": "After a first and second warning reject a divisive man [who promotes heresy and causes dissension\u2014ban him from your fellowship and have nothing more to do with him],",
+              "NLT": "If people are causing divisions among you, give a first and second warning. After that, have nothing more to do with them."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "You may be sure that such a man is warped and sinful; he is self-condemned.",
+              "KJV": "Knowing that he that is such is subverted, and sinneth, being condemned of himself.",
+              "NASB95": "knowing that such a man is perverted and is sinning, being self-condemned.",
+              "NKJV": "knowing that such a person is warped and sinning, being self-condemned.",
+              "ESV": "knowing that such a person is warped and sinful; he is self-condemned.",
+              "DRB": "Knowing that he, that is such an one, is subverted, and sinneth, being condemned by his own judgment.",
+              "AMP": "well aware that such a person is twisted and is sinning; he is convicted and self-condemned [and is gratified by causing confusion among believers].",
+              "NLT": "For people like that have turned away from the truth, and their own sins condemn them."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1co_5_7_13",
+        "title": "Old bread leavened with malice",
+        "description": "Keywords of the sinful nature",
+        "reference": {
+          "book": "1 Corinthians",
+          "chapter": 5,
+          "start": 7,
+          "end": 13
+        },
+        "rows": [
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Get rid of the old yeast that you may be a new batch without yeast--as you really are. For Christ, our Passover lamb, has been sacrificed.",
+              "KJV": "Purge out therefore the old leaven, that ye may be a new lump, as ye are unleavened. For even Christ our passover is sacrificed for us:",
+              "NASB95": "Clean out the old leaven so that you may be a new lump, just as you are in fact unleavened. For Christ our Passover also has been sacrificed.",
+              "NKJV": "Therefore purge out the old leaven, that you may be a new lump, since you truly are unleavened. For indeed Christ, our Passover, was sacrificed for us.",
+              "ESV": "Cleanse out the old leaven that you may be a new lump, as you really are unleavened. For Christ, our Passover lamb, has been sacrificed.",
+              "DRB": "Purge out the old leaven, that you may be a new paste, as you are unleavened. For Christ our pasch is sacrificed.",
+              "AMP": "Clean out the old leaven so that you may be a new batch, just as you are, still unleavened. For Christ our Passover Lamb has been sacrificed.",
+              "NLT": "Get rid of the old \u201cyeast\u201d by removing this wicked person from among you. Then you will be like a fresh batch of dough made without yeast, which is what you really are. Christ, our Passover Lamb, has been sacrificed for us."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Therefore let us keep the Festival, not with the old yeast, the yeast of malice and wickedness, but with bread without yeast, the bread of sincerity and truth.",
+              "KJV": "Therefore let us keep the feast, not with old leaven, neither with the leaven of malice and wickedness; but with the unleavened bread of sincerity and truth.",
+              "NASB95": "Therefore let us celebrate the feast, not with old leaven, nor with the leaven of malice and wickedness, but with the unleavened bread of sincerity and truth.",
+              "NKJV": "Therefore let us keep the feast, not with old leaven, nor with the leaven of malice and wickedness, but with the unleavened bread of sincerity and truth.",
+              "ESV": "Let us therefore celebrate the festival, not with the old leaven, the leaven of malice and evil, but with the unleavened bread of sincerity and truth.",
+              "DRB": "Therefore let us feast, not with the old leaven, nor with the leaven of malice and wickedness; but with the unleavened bread of sincerity and truth.",
+              "AMP": "Therefore, let us celebrate the feast, not with old leaven, nor with leaven of vice and malice and wickedness, but with the unleavened bread of sincerity and [untainted] truth.",
+              "NLT": "So let us celebrate the festival, not with the old bread of wickedness and evil, but with the new bread of sincerity and truth."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "I have written you in my letter not to associate with sexually immoral people--",
+              "KJV": "I wrote unto you in an epistle not to company with fornicators:",
+              "NASB95": "I wrote you in my letter not to associate with immoral people;",
+              "NKJV": "I wrote to you in my epistle not to keep company with sexually immoral people.",
+              "ESV": "I wrote to you in my letter not to associate with sexually immoral people\u2014",
+              "DRB": "I wrote to you in an epistle, not to keep company with fornicators.",
+              "AMP": "I wrote you in my [previous] letter not to associate with [sexually] immoral people\u2014",
+              "NLT": "When I wrote to you before, I told you not to associate with people who indulge in sexual sin."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "not at all meaning the people of this world who are immoral, or the greedy and swindlers, or idolaters. In that case you would have to leave this world.",
+              "KJV": "Yet not altogether with the fornicators of this world, or with the covetous, or extortioners, or with idolaters; for then must ye needs go out of the world.",
+              "NASB95": "I did not at all mean with the immoral people of this world, or with the covetous and swindlers, or with idolaters, for then you would have to go out of the world.",
+              "NKJV": "Yet I certainly did not mean with the sexually immoral people of this world, or with the covetous, or extortioners, or idolaters, since then you would need to go out of the world.",
+              "ESV": "not at all meaning the sexually immoral of this world, or the greedy and swindlers, or idolaters, since then you would need to go out of the world.",
+              "DRB": "I mean not with the fornicators of this world, or with the covetous, or the extortioners, or the servers of idols; otherwise you must needs go out of this world.",
+              "AMP": "not meaning the immoral people of this world, or the greedy ones and swindlers, or idolaters, for then you would have to get out of the world and human society altogether!",
+              "NLT": "But I wasn\u2019t talking about unbelievers who indulge in sexual sin, or are greedy, or cheat people, or worship idols. You would have to leave this world to avoid people like that."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "But now I am writing you that you must not associate with anyone who calls himself a brother but is sexually immoral or greedy, an idolater or a slanderer, a drunkard or a swindler. With such a man do not even eat.",
+              "KJV": "But now I have written unto you not to keep company, if any man that is called a brother be a fornicator, or covetous, or an idolator, or a railer, or a drunkard, or an extortioner; with such an one no not to eat.",
+              "NASB95": "But actually, I wrote to you not to associate with any so-called brother if he is an immoral person, or covetous, or an idolater, or a reviler, or a drunkard, or a swindler\u2014not even to eat with such a one.",
+              "NKJV": "But now I have written to you not to keep company with anyone named a brother, who is sexually immoral, or covetous, or an idolater, or a reviler, or a drunkard, or an extortioner\u2014not even to eat with such a person.",
+              "ESV": "But now I am writing to you not to associate with anyone who bears the name of brother if he is guilty of sexual immorality or greed, or is an idolater, reviler, drunkard, or swindler\u2014not even to eat with such a one.",
+              "DRB": "But now I have written to you, not to keep company, if any man that is named a brother, be a fornicator, or covetous, or a server of idols, or a railer, or a drunkard, or an extortioner: with such a one, not so much as to eat.",
+              "AMP": "But actually, I have written to you not to associate with any so-called [Christian] brother if he is sexually immoral or greedy, or is an idolater [devoted to anything that takes the place of God], or is a reviler [who insults or slanders or otherwise verbally abuses others], or is a drunkard or a swindler\u2014you must not so much as eat with such a person.",
+              "NLT": "I meant that you are not to associate with anyone who claims to be a believer yet indulges in sexual sin, or is greedy, or worships idols, or is abusive, or is a drunkard, or cheats people. Don\u2019t even eat with such people."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "What business is it of mine to judge those outside the church? Are you not to judge those inside?",
+              "KJV": "For what have I to do to judge them also that are without? do not ye judge them that are within?",
+              "NASB95": "For what have I to do with judging outsiders? Do you not judge those who are within the church?",
+              "NKJV": "For what have I to do with judging those also who are outside? Do you not judge those who are inside?",
+              "ESV": "For what have I to do with judging outsiders? Is it not those inside the church whom you are to judge?",
+              "DRB": "For what have I to do to judge them that are without ? Do not you judge them that are within ?",
+              "AMP": "For what business is it of mine to judge outsiders (non-believers)? Do you not judge those who are within the church [to protect the church as the situation requires]?",
+              "NLT": "It isn\u2019t my responsibility to judge outsiders, but it certainly is your responsibility to judge those inside the church who are sinning."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "God will judge those outside. \"Expel the wicked man from among you.\"",
+              "KJV": "But them that are without God judgeth. Therefore put away from among yourselves that wicked person.",
+              "NASB95": "But those who are outside, God judges. Remove the wicked man from among yourselves.",
+              "NKJV": "But those who are outside God judges. Therefore \u201cput away from yourselves the evil person.\u201d",
+              "ESV": "God judges those outside. \u201cPurge the evil person from among you.\u201d",
+              "DRB": "For them that are without, God will judge. Put away the evil one from among yourselves.",
+              "AMP": "God alone sits in judgment on those who are outside [the faith]. REMOVE THE WICKED ONE FROM AMONG YOU [expel him from your church].",
+              "NLT": "God will judge those on the outside; but as the Scriptures say, \u201cYou must remove the evil person from among you.\u201d"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2ti_3_1_9",
+        "title": "Difficult Time in the Last Days",
+        "description": "Keywords of the sinful nature",
+        "reference": {
+          "book": "2 Timothy",
+          "chapter": 3,
+          "start": 1,
+          "end": 9
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "But mark this: There will be terrible times in the last days.",
+              "KJV": "This know also, that in the last days perilous times shall come.",
+              "NASB95": "But realize this, that in the last days difficult times will come.",
+              "NKJV": "But know this, that in the last days perilous times will come:",
+              "ESV": "But understand this, that in the last days there will come times of difficulty.",
+              "DRB": "Know also this, that, in the last days, shall come dangerous times.",
+              "AMP": "But understand this, that in the last days dangerous times [of great stress and trouble] will come [difficult days that will be hard to bear].",
+              "NLT": "You should know this, Timothy, that in the last days there will be very difficult times."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "People will be lovers of themselves, lovers of money, boastful, proud, abusive, disobedient to their parents, ungrateful, unholy,",
+              "KJV": "For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,",
+              "NASB95": "For men will be lovers of self, lovers of money, boastful, arrogant, revilers, disobedient to parents, ungrateful, unholy,",
+              "NKJV": "For men will be lovers of themselves, lovers of money, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,",
+              "ESV": "For people will be lovers of self, lovers of money, proud, arrogant, abusive, disobedient to their parents, ungrateful, unholy,",
+              "DRB": "Men shall be lovers of themselves, covetous, haughty, proud, blasphemers, disobedient to parents, ungrateful, wicked,",
+              "AMP": "For people will be lovers of self [narcissistic, self-focused], lovers of money [impelled by greed], boastful, arrogant, revilers, disobedient to parents, ungrateful, unholy and profane,",
+              "NLT": "For people will love only themselves and their money. They will be boastful and proud, scoffing at God, disobedient to their parents, and ungrateful. They will consider nothing sacred."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "without love, unforgiving, slanderous, without self-control, brutal, not lovers of the good,",
+              "KJV": "Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,",
+              "NASB95": "unloving, irreconcilable, malicious gossips, without self-control, brutal, haters of good,",
+              "NKJV": "unloving, unforgiving, slanderers, without self-control, brutal, despisers of good,",
+              "ESV": "heartless, unappeasable, slanderous, without self-control, brutal, not loving good,",
+              "DRB": "Without affection, without peace, slanderers, incontinent, unmerciful, without kindness,",
+              "AMP": "[and they will be] unloving [devoid of natural human affection, calloused and inhumane], irreconcilable, malicious gossips, devoid of self-control [intemperate, immoral], brutal, haters of good,",
+              "NLT": "They will be unloving and unforgiving; they will slander others and have no self-control. They will be cruel and hate what is good."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "treacherous, rash, conceited, lovers of pleasure rather than lovers of God--",
+              "KJV": "Traitors, heady, highminded, lovers of pleasures more than lovers of God;",
+              "NASB95": "treacherous, reckless, conceited, lovers of pleasure rather than lovers of God,",
+              "NKJV": "traitors, headstrong, haughty, lovers of pleasure rather than lovers of God,",
+              "ESV": "treacherous, reckless, swollen with conceit, lovers of pleasure rather than lovers of God,",
+              "DRB": "Traitors, stubborn, puffed up, and lovers of pleasures more than of God:",
+              "AMP": "traitors, reckless, conceited, lovers of [sensual] pleasure rather than lovers of God,",
+              "NLT": "They will betray their friends, be reckless, be puffed up with pride, and love pleasure rather than God."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "having a form of godliness but denying its power. Have nothing to do with them.",
+              "KJV": "Having a form of godliness, but denying the power thereof: from such turn away.",
+              "NASB95": "holding to a form of godliness, although they have denied its power; Avoid such men as these.",
+              "NKJV": "having a form of godliness but denying its power. And from such people turn away!",
+              "ESV": "having the appearance of godliness, but denying its power. Avoid such people.",
+              "DRB": "Having an appearance indeed of godliness, but denying the power thereof. Now these avoid.",
+              "AMP": "holding to a form of [outward] godliness (religion), although they have denied its power [for their conduct nullifies their claim of faith]. Avoid such people and keep far away from them.",
+              "NLT": "They will act religious, but they will reject the power that could make them godly. Stay away from people like that!"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "They are the kind who worm their way into homes and gain control over weak-willed women, who are loaded down with sins and are swayed by all kinds of evil desires,",
+              "KJV": "For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,",
+              "NASB95": "For among them are those who enter into households and captivate weak women weighed down with sins, led on by various impulses,",
+              "NKJV": "For of this sort are those who creep into households and make captives of gullible women loaded down with sins, led away by various lusts,",
+              "ESV": "For among them are those who creep into households and capture weak women, burdened with sins and led astray by various passions,",
+              "DRB": "For of these sort are they who creep into houses, and lead captive silly women laden with sins, who are led away with divers desires:",
+              "AMP": "For among them are those who worm their way into homes and captivate morally weak and spiritually-dwarfed women weighed down by [the burden of their] sins, easily swayed by various impulses,",
+              "NLT": "They are the kind who work their way into people\u2019s homes and win the confidence of vulnerable women who are burdened with the guilt of sin and controlled by various desires."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "always learning but never able to acknowledge the truth.",
+              "KJV": "Ever learning, and never able to come to the knowledge of the truth.",
+              "NASB95": "always learning and never able to come to the knowledge of the truth.",
+              "NKJV": "always learning and never able to come to the knowledge of the truth.",
+              "ESV": "always learning and never able to arrive at a knowledge of the truth.",
+              "DRB": "Ever learning, and never attaining to the knowledge of the truth.",
+              "AMP": "always learning and listening to anybody who will teach them, but never able to come to the knowledge of the truth.",
+              "NLT": "(Such women are forever following new teachings, but they are never able to understand the truth.)"
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Just as Jannes and Jambres opposed Moses, so also these men oppose the truth--men of depraved minds, who, as far as the faith is concerned, are rejected.",
+              "KJV": "Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith.",
+              "NASB95": "Just as Jannes and Jambres opposed Moses, so these men also oppose the truth, men of depraved mind, rejected in regard to the faith.",
+              "NKJV": "Now as Jannes and Jambres resisted Moses, so do these also resist the truth: men of corrupt minds, disapproved concerning the faith;",
+              "ESV": "Just as Jannes and Jambres opposed Moses, so these men also oppose the truth, men corrupted in mind and disqualified regarding the faith.",
+              "DRB": "Now as Jannes and Mambres resisted Moses, so these also resist the truth, men corrupted in mind, reprobate concerning the faith.",
+              "AMP": "Just as Jannes and Jambres [the court magicians of Egypt] opposed Moses, so these men also oppose the truth, men of depraved mind, unqualified and worthless [as teachers] in regard to the faith.",
+              "NLT": "These teachers oppose the truth just as Jannes and Jambres opposed Moses. They have depraved minds and a counterfeit faith."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "But they will not get very far because, as in the case of those men, their folly will be clear to everyone.",
+              "KJV": "But they shall proceed no further: for their folly shall be manifest unto all men, as their's also was.",
+              "NASB95": "But they will not make further progress; for their folly will be obvious to all, just as Jannes\u2019s and Jambres\u2019s folly was also.",
+              "NKJV": "but they will progress no further, for their folly will be manifest to all, as theirs also was.",
+              "ESV": "But they will not get very far, for their folly will be plain to all, as was that of those two men.",
+              "DRB": "But they shall proceed no farther; for their folly shall be manifest to all men, as theirs also was.",
+              "AMP": "But they will not get very far, for their meaningless nonsense and ignorance will become obvious to everyone, as was that of Jannes and Jambres.",
+              "NLT": "But they won\u2019t get away with this for long. Someday everyone will recognize what fools they are, just as with Jannes and Jambres."
+            }
+          }
+        ]
+      },
+      {
+        "id": "rom_13_11_14",
+        "title": "The Day is Near",
+        "description": "Keywords of the sinful nature",
+        "reference": {
+          "book": "Romans",
+          "chapter": 13,
+          "start": 11,
+          "end": 14
+        },
+        "rows": [
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "And do this, understanding the present time. The hour has come for you to wake up from your slumber, because our salvation is nearer now than when we first believed.",
+              "KJV": "And that, knowing the time, that now it is high time to awake out of sleep: for now is our salvation nearer than when we believed.",
+              "NASB95": "Do this, knowing the time, that it is already the hour for you to awaken from sleep; for now salvation is nearer to us than when we believed.",
+              "NKJV": "And do this, knowing the time, that now it is high time to awake out of sleep; for now our salvation is nearer than when we first believed.",
+              "ESV": "Besides this you know the time, that the hour has come for you to wake from sleep. For salvation is nearer to us now than when we first believed.",
+              "DRB": "And that knowing the season; that it is now the hour for us to rise from sleep. For now our salvation is nearer than when we believed.",
+              "AMP": "Do this, knowing that this is a critical time. It is already the hour for you to awaken from your sleep [of spiritual complacency]; for our salvation is nearer to us now than when we first believed [in Christ].",
+              "NLT": "This is all the more urgent, for you know how late it is; time is running out. Wake up, for our salvation is nearer now than when we first believed."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "The night is nearly over; the day is almost here. So let us put aside the deeds of darkness and put on the armor of light.",
+              "KJV": "The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light.",
+              "NASB95": "The night is almost gone, and the day is near. Therefore let us lay aside the deeds of darkness and put on the armor of light.",
+              "NKJV": "The night is far spent, the day is at hand. Therefore let us cast off the works of darkness, and let us put on the armor of light.",
+              "ESV": "The night is far gone; the day is at hand. So then let us cast off the works of darkness and put on the armor of light.",
+              "DRB": "The night is passed, and the day is at hand. Let us therefore cast off the works of darkness, and put on the armour of light.",
+              "AMP": "The night [this present evil age] is almost gone and the day [of Christ\u2019s return] is almost here. So let us fling away the works of darkness and put on the [full] armor of light.",
+              "NLT": "The night is almost gone; the day of salvation will soon be here. So remove your dark deeds like dirty clothes, and put on the shining armor of right living."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Let us behave decently, as in the daytime, not in orgies and drunkenness, not in sexual immorality and debauchery, not in dissension and jealousy.",
+              "KJV": "Let us walk honestly, as in the day; not in rioting and drunkenness, not in chambering and wantonness, not in strife and envying.",
+              "NASB95": "Let us behave properly as in the day, not in carousing and drunkenness, not in sexual promiscuity and sensuality, not in strife and jealousy.",
+              "NKJV": "Let us walk properly, as in the day, not in revelry and drunkenness, not in lewdness and lust, not in strife and envy.",
+              "ESV": "Let us walk properly as in the daytime, not in orgies and drunkenness, not in sexual immorality and sensuality, not in quarreling and jealousy.",
+              "DRB": "Let us walk honestly, as in the day: not in rioting and drunkenness, not in chambering and impurities, not in contention and envy:",
+              "AMP": "Let us conduct ourselves properly and honorably as in the [light of] day, not in carousing and drunkenness, not in sexual promiscuity and irresponsibility, not in quarreling and jealousy.",
+              "NLT": "Because we belong to the day, we must live decent lives for all to see. Don\u2019t participate in the darkness of wild parties and drunkenness, or in sexual promiscuity and immoral living, or in quarreling and jealousy."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "Rather, clothe yourselves with the Lord Jesus Christ, and do not think about how to gratify the desires of the sinful nature.",
+              "KJV": "But put ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof.",
+              "NASB95": "But put on the Lord Jesus Christ, and make no provision for the flesh in regard to its lusts.",
+              "NKJV": "But put on the Lord Jesus Christ, and make no provision for the flesh, to fulfill its lusts.",
+              "ESV": "But put on the Lord Jesus Christ, and make no provision for the flesh, to gratify its desires.",
+              "DRB": "But put ye on the Lord Jesus Christ, and make not provision for the flesh in its concupiscences.",
+              "AMP": "But clothe yourselves with the Lord Jesus Christ, and make no provision for [nor even think about gratifying] the flesh in regard to its improper desires.",
+              "NLT": "Instead, clothe yourself with the presence of the Lord Jesus Christ. And don\u2019t let yourself think about ways to indulge your evil desires."
+            }
+          }
+        ]
+      },
+      {
+        "id": "rom_1_29_32",
+        "title": "Unbelief and Its Consequences",
+        "description": "Keywords of the sinful nature",
+        "reference": {
+          "book": "Romans",
+          "chapter": 1,
+          "start": 29,
+          "end": 32
+        },
+        "rows": [
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "They have become filled with every kind of wickedness, evil, greed and depravity. They are full of envy, murder, strife, deceit and malice. They are gossips,",
+              "KJV": "Being filled with all unrighteousness, fornication, wickedness, covetousness, maliciousness; full of envy, murder, debate, deceit, malignity; whisperers,",
+              "NASB95": "being filled with all unrighteousness, wickedness, greed, evil; full of envy, murder, strife, deceit, malice; they are gossips,",
+              "NKJV": "being filled with all unrighteousness, sexual immorality, wickedness, covetousness, maliciousness; full of envy, murder, strife, deceit, evil-mindedness; they are whisperers,",
+              "ESV": "They were filled with all manner of unrighteousness, evil, covetousness, malice. They are full of envy, murder, strife, deceit, maliciousness. They are gossips,",
+              "DRB": "Being filled with all iniquity, malice, fornication, avarice, wickedness, full of envy, murder, contention, deceit, malignity, whisperers,",
+              "AMP": "until they were filled (permeated, saturated) with every kind of unrighteousness, wickedness, greed, evil; full of envy, murder, strife, deceit, malice and mean-spiritedness. They are gossips [spreading rumors],",
+              "NLT": "Their lives became full of every kind of wickedness, sin, greed, hate, envy, murder, quarreling, deception, malicious behavior, and gossip."
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "slanderers, God-haters, insolent, arrogant and boastful; they invent ways of doing evil; they disobey their parents;",
+              "KJV": "Backbiters, haters of God, despiteful, proud, boasters, inventors of evil things, disobedient to parents,",
+              "NASB95": "slanderers, haters of God, insolent, arrogant, boastful, inventors of evil, disobedient to parents,",
+              "NKJV": "backbiters, haters of God, violent, proud, boasters, inventors of evil things, disobedient to parents,",
+              "ESV": "slanderers, haters of God, insolent, haughty, boastful, inventors of evil, disobedient to parents,",
+              "DRB": "Detractors, hateful to God, contumelious, proud, haughty, inventors of evil things, disobedient to parents,",
+              "AMP": "slanderers, haters of God, insolent, arrogant, boastful, inventors [of new forms] of evil, disobedient and disrespectful to parents,",
+              "NLT": "They are backstabbers, haters of God, insolent, proud, and boastful. They invent new ways of sinning, and they disobey their parents."
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "they are senseless, faithless, heartless, ruthless.",
+              "KJV": "Without understanding, covenantbreakers, without natural affection, implacable, unmerciful:",
+              "NASB95": "without understanding, untrustworthy, unloving, unmerciful;",
+              "NKJV": "undiscerning, untrustworthy, unloving, unforgiving, unmerciful;",
+              "ESV": "foolish, faithless, heartless, ruthless.",
+              "DRB": "Foolish, dissolute, without affection, without fidelity, without mercy.",
+              "AMP": "without understanding, untrustworthy, unloving, unmerciful [without pity].",
+              "NLT": "They refuse to understand, break their promises, are heartless, and have no mercy."
+            }
+          },
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "Although they know God's righteous decree that those who do such things deserve death, they not only continue to do these very things but also approve of those who practice them.",
+              "KJV": "Who knowing the judgment of God, that they which commit such things are worthy of death, not only do the same, but have pleasure in them that do them.",
+              "NASB95": "and although they know the ordinance of God, that those who practice such things are worthy of death, they not only do the same, but also give hearty approval to those who practice them.",
+              "NKJV": "who, knowing the righteous judgment of God, that those who practice such things are deserving of death, not only do the same but also approve of those who practice them.",
+              "ESV": "Though they know God's righteous decree that those who practice such things deserve to die, they not only do them but give approval to those who practice them.",
+              "DRB": "Who, having known the justice of God, did not understand that they who do such things, are worthy of death; and not only they that do them, but they also that consent to them that do them.",
+              "AMP": "Although they know God\u2019s righteous decree and His judgment, that those who do such things deserve death, yet they not only do them, but they even [enthusiastically] approve and tolerate others who practice them.",
+              "NLT": "They know God\u2019s justice requires that those who do these things deserve to die, yet they do them anyway. Worse yet, they encourage others to do them, too."
+            }
+          }
+        ]
+      },
+      {
+        "id": "jas_3_13_18",
+        "title": "Two Kinds of Wisdom",
+        "description": "Keywords of the sinful nature",
+        "reference": {
+          "book": "James",
+          "chapter": 3,
+          "start": 13,
+          "end": 18
+        },
+        "rows": [
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Who is wise and understanding among you? Let him show it by his good life, by deeds done in the humility that comes from wisdom.",
+              "KJV": "Who is a wise man and endued with knowledge among you? let him shew out of a good conversation his works with meekness of wisdom.",
+              "NASB95": "Who among you is wise and understanding? Let him show by his good behavior his deeds in the gentleness of wisdom.",
+              "NKJV": "Who is wise and understanding among you? Let him show by good conduct that his works are done in the meekness of wisdom.",
+              "ESV": "Who is wise and understanding among you? By his good conduct let him show his works in the meekness of wisdom.",
+              "DRB": "Who is a wise man, and endued with knowledge among you? Let him shew, by a good conversation, his work in the meekness of wisdom.",
+              "AMP": "Who among you is wise and intelligent? Let him by his good conduct show his [good] deeds with the gentleness and humility of true wisdom.",
+              "NLT": "If you are wise and understand God\u2019s ways, prove it by living an honorable life, doing good works with the humility that comes from wisdom."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "But if you harbor bitter envy and selfish ambition in your hearts, do not boast about it or deny the truth.",
+              "KJV": "But if ye have bitter envying and strife in your hearts, glory not, and lie not against the truth.",
+              "NASB95": "But if you have bitter jealousy and selfish ambition in your heart, do not be arrogant and so lie against the truth.",
+              "NKJV": "But if you have bitter envy and self-seeking in your hearts, do not boast and lie against the truth.",
+              "ESV": "But if you have bitter jealousy and selfish ambition in your hearts, do not boast and be false to the truth.",
+              "DRB": "But if you have bitter zeal, and there be contentions in your hearts; glory not, and be not liars against the truth.",
+              "AMP": "But if you have bitter jealousy and selfish ambition in your hearts, do not be arrogant, and [as a result] be in defiance of the truth.",
+              "NLT": "But if you are bitterly jealous and there is selfish ambition in your heart, don\u2019t cover up the truth with boasting and lying."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Such \"wisdom\" does not come down from heaven but is earthly, unspiritual, of the devil.",
+              "KJV": "This wisdom descendeth not from above, but is earthly, sensual, devilish.",
+              "NASB95": "This wisdom is not that which comes down from above, but is earthly, natural, demonic.",
+              "NKJV": "This wisdom does not descend from above, but is earthly, sensual, demonic.",
+              "ESV": "This is not the wisdom that comes down from above, but is earthly, unspiritual, demonic.",
+              "DRB": "For this is not wisdom, descending from above: but earthly, sensual, devilish.",
+              "AMP": "This [superficial] wisdom is not that which comes down from above, but is earthly (secular), natural (unspiritual), even demonic.",
+              "NLT": "For jealousy and selfishness are not God\u2019s kind of wisdom. Such things are earthly, unspiritual, and demonic."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "For where you have envy and selfish ambition, there you find disorder and every evil practice.",
+              "KJV": "For where envying and strife is, there is confusion and every evil work.",
+              "NASB95": "For where jealousy and selfish ambition exist, there is disorder and every evil thing.",
+              "NKJV": "For where envy and self-seeking exist, confusion and every evil thing are there.",
+              "ESV": "For where jealousy and selfish ambition exist, there will be disorder and every vile practice.",
+              "DRB": "For where envying and contention is, there is inconstancy, and every evil work.",
+              "AMP": "For where jealousy and selfish ambition exist, there is disorder [unrest, rebellion] and every evil thing and morally degrading practice.",
+              "NLT": "For wherever there is jealousy and selfish ambition, there you will find disorder and evil of every kind."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "But the wisdom that comes from heaven is first of all pure; then peace-loving, considerate, submissive, full of mercy and good fruit, impartial and sincere.",
+              "KJV": "But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy.",
+              "NASB95": "But the wisdom from above is first pure, then peaceable, gentle, reasonable, full of mercy and good fruits, unwavering, without hypocrisy.",
+              "NKJV": "But the wisdom that is from above is first pure, then peaceable, gentle, willing to yield, full of mercy and good fruits, without partiality and without hypocrisy.",
+              "ESV": "But the wisdom from above is first pure, then peaceable, gentle, open to reason, full of mercy and good fruits, impartial and sincere.",
+              "DRB": "But the wisdom, that is from above, first indeed is chaste, then peaceable, modest, easy to be persuaded, consenting to the good, full of mercy and good fruits, without judging, without dissimulation.",
+              "AMP": "But the wisdom from above is first pure [morally and spiritually undefiled], then peace-loving [courteous, considerate], gentle, reasonable [and willing to listen], full of compassion and good fruits. It is unwavering, without [self-righteous] hypocrisy [and self-serving guile].",
+              "NLT": "But the wisdom from above is first of all pure. It is also peace loving, gentle at all times, and willing to yield to others. It is full of mercy and the fruit of good deeds. It shows no favoritism and is always sincere."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "Peacemakers who sow in peace raise a harvest of righteousness.",
+              "KJV": "And the fruit of righteousness is sown in peace of them that make peace.",
+              "NASB95": "And the seed whose fruit is righteousness is sown in peace by those who make peace.",
+              "NKJV": "Now the fruit of righteousness is sown in peace by those who make peace.",
+              "ESV": "And a harvest of righteousness is sown in peace by those who make peace.",
+              "DRB": "And the fruit of justice is sown in peace, to them that make peace.",
+              "AMP": "And the seed whose fruit is righteousness (spiritual maturity) is sown in peace by those who make peace [by actively encouraging goodwill between individuals].",
+              "NLT": "And those who are peacemakers will plant seeds of peace and reap a harvest of righteousness."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

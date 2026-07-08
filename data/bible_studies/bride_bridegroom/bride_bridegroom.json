@@ -1,0 +1,2235 @@
+{
+  "scripture": {
+    "header": {
+      "id": "bride_bridegroom",
+      "title": "The Bride and Bridegroom",
+      "description": "These are scriptures about the bride of the Lamb",
+      "topics": [
+        "The Church",
+        "The Body of Christ"
+      ]
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NASB95",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "rev_2_17",
+        "title": "White Stone - New Name",
+        "description": "",
+        "reference": {
+          "book": "Revelation",
+          "chapter": 2,
+          "start": 17,
+          "end": 17
+        },
+        "rows": [
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>He who has an ear, let him hear what the Spirit says to the churches. To him who overcomes, I will give some of the hidden manna. I will also give him a white stone with a new name written on it, known only to him who receives it.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth saving he that receiveth it.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>He who has an ear, let him hear what the Spirit says to the churches. To him who overcomes, to him I will give some of the hidden manna, and I will give him a white stone, and a new name written on the stone which no one knows but he who receives it.\u2019</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cHe who has an ear, let him hear what the Spirit says to the churches. To him who overcomes I will give some of the hidden manna to eat. And I will give him a white stone, and on the stone a new name written which no one knows except him who receives it.\u201d \u2019</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>He, that hath an ear, let him hear what the Spirit saith to the churches: To him that overcometh, I will give the hidden manna, and will give him a white counter, and in the counter, a new name written, which no man knoweth, but he that receiveth it.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rev_3_11_13",
+        "title": "Name of New Jerusalem",
+        "description": "",
+        "reference": {
+          "book": "Revelation",
+          "chapter": 3,
+          "start": 11,
+          "end": 13
+        },
+        "rows": [
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>I am coming soon. Hold on to what you have, so that no one will take your crown.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Behold, I come quickly: hold that fast which thou hast, that no man take thy crown.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>I am coming quickly; hold fast what you have, so that no one will take your crown.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Behold, I am coming quickly! Hold fast what you have, that no one may take your crown.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Behold, I come quickly: hold fast that which thou hast, that no man take thy crown.</span>"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Him who overcomes I will make a pillar in the temple of my God. Never again will he leave it. I will write on him the name of my God and the name of the city of my God, the new Jerusalem, which is coming down out of heaven from my God; and I will also write on him my new name.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out: and I will write upon him the name of my God, and the name of the city of my God, which is new Jerusalem, which cometh down out of heaven from my God: and I will write upon him my new name.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>He who overcomes, I will make him a pillar in the temple of My God, and he will not go out from it anymore; and I will write on him the name of My God, and the name of the city of My God, the new Jerusalem, which comes down out of heaven from My God, and My new name.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>He who overcomes, I will make him a pillar in the temple of My God, and he shall go out no more. I will write on him the name of My God and the name of the city of My God, the New Jerusalem, which comes down out of heaven from My God. And I will write on him My new name.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>He that shall overcome, I will make him a pillar in the temple of my God; and he shall go out no more; and I will write upon him the name of my God, and the name of the city of my God, the new Jerusalem, which cometh down out of heaven from my God, and my new name.</span>"
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>He who has an ear, let him hear what the Spirit says to the churches.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>He that hath an ear, let him hear what the Spirit saith unto the churches.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>He who has an ear, let him hear what the Spirit says to the churches.\u2019</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cHe who has an ear, let him hear what the Spirit says to the churches.\u201d \u2019</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>He that hath an ear, let him hear what the Spirit saith to the churches.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "isa_62_1_12",
+        "title": "Zion\u2019s New Name",
+        "description": "",
+        "reference": {
+          "book": "Isaiah",
+          "chapter": 62,
+          "start": 1,
+          "end": 12
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "For Zion's sake I will not keep silent, for Jerusalem's sake I will not remain quiet, till her righteousness shines out like the dawn, her salvation like a blazing torch.",
+              "KJV": "For Zion's sake will I not hold my peace, and for Jerusalem's sake I will not rest, until the righteousness thereof go forth as brightness, and the salvation thereof as a lamp that burneth.",
+              "NASB95": "For Zion\u2019s sake I will not keep silent,\nAnd for Jerusalem\u2019s sake I will not keep quiet,\nUntil her righteousness goes forth like brightness,\nAnd her salvation like a torch that is burning.",
+              "NKJV": "For Zion\u2019s sake I will not hold My peace,\nAnd for Jerusalem\u2019s sake I will not rest,\nUntil her righteousness goes forth as brightness,\nAnd her salvation as a lamp that burns.",
+              "DRB": "FOR Sion's sake I will not hold my peace, and for the sake of Jerusalem, I will not rest till her just one come forth as brightness, and her saviour be lighted as a lamp."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "The nations will see your righteousness, and all kings your glory; you will be called by a new name that the mouth of the LORD will bestow.",
+              "KJV": "And the Gentiles shall see thy righteousness, and all kings thy glory: and thou shalt be called by a new name, which the mouth of the Lord shall name.",
+              "NASB95": "The nations will see your righteousness,\nAnd all kings your glory;\nAnd you will be called by a new name\nWhich the mouth of the Lord will designate.",
+              "NKJV": "The Gentiles shall see your righteousness,\nAnd all kings your glory.\nYou shall be called by a new name,\nWhich the mouth of the Lord will name.",
+              "DRB": "And the Gentiles shall see thy just one, and all kings thy glorious one: and thou shalt be called by a new name, which the mouth of the Lord shall name."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "You will be a crown of splendor in the LORD's hand, a royal diadem in the hand of your God.",
+              "KJV": "Thou shalt also be a crown of glory in the hand of the Lord, and a royal diadem in the hand of thy God.",
+              "NASB95": "You will also be a crown of beauty in the hand of the Lord,\nAnd a royal diadem in the hand of your God.",
+              "NKJV": "You shall also be a crown of glory\nIn the hand of the Lord,\nAnd a royal diadem\nIn the hand of your God.",
+              "DRB": "And thou shalt be a crown of glory in the hand of the Lord, and a royal diadem in the hand of thy God."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "No longer will they call you Deserted, or name your land Desolate. But you will be called Hephzibah, and your land Beulah; for the LORD will take delight in you, and your land will be married.",
+              "KJV": "Thou shalt no more be termed Forsaken; neither shall thy land any more be termed Desolate: but thou shalt be called Hephzibah, and thy land Beulah: for the Lord delighteth in thee, and thy land shall be married.",
+              "NASB95": "It will no longer be said to you, \u201cForsaken,\u201d\nNor to your land will it any longer be said, \u201cDesolate\u201d;\nBut you will be called, \u201cMy delight is in her,\u201d\nAnd your land, \u201cMarried\u201d;\nFor the Lord delights in you,\nAnd to Him your land will be married.",
+              "NKJV": "You shall no longer be termed Forsaken,\nNor shall your land any more be termed Desolate;\nBut you shall be called Hephzibah, and your land Beulah;\nFor the Lord delights in you,\nAnd your land shall be married.",
+              "DRB": "Thou shalt no more be called Forsaken: and thy land shall no more be called Desolate: but thou shalt be called My pleasure in her, and thy land inhabited. Because the Lord hath been well pleased with thee: and thy land shall be inhabited."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "As a young man marries a maiden, so will your sons marry you; as a bridegroom rejoices over his bride, so will your God rejoice over you.",
+              "KJV": "For as a young man marrieth a virgin, so shall thy sons marry thee: and as the bridegroom rejoiceth over the bride, so shall thy God rejoice over thee.",
+              "NASB95": "For as a young man marries a virgin,\nSo your sons will marry you;\nAnd as the bridegroom rejoices over the bride,\nSo your God will rejoice over you.",
+              "NKJV": "For as a young man marries a virgin,\nSo shall your sons marry you;\nAnd as the bridegroom rejoices over the bride,\nSo shall your God rejoice over you.",
+              "DRB": "For the young man shall dwell with the virgin, and thy children shall dwell in thee. And the bridegroom shall rejoice over the bride, and thy God shall rejoice over thee."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "I have posted watchmen on your walls, O Jerusalem; they will never be silent day or night. You who call on the LORD, give yourselves no rest,",
+              "KJV": "I have set watchmen upon thy walls, O Jerusalem, which shall never hold their peace day nor night: ye that make mention of the Lord, keep not silence,",
+              "NASB95": "On your walls, O Jerusalem, I have appointed watchmen;\nAll day and all night they will never keep silent.\nYou who remind the Lord, take no rest for yourselves;",
+              "NKJV": "I have set watchmen on your walls, O Jerusalem;\nThey shall never hold their peace day or night.\nYou who make mention of the Lord, do not keep silent,",
+              "DRB": "Upon thy walls, O Jerusalem, I have appointed watchmen all the day, and all the night, they shall never hold their peace. You that are mindful of the Lord, hold not your peace,"
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "and give him no rest till he establishes Jerusalem and makes her the praise of the earth.",
+              "KJV": "And give him no rest, till he establish, and till he make Jerusalem a praise in the earth.",
+              "NASB95": "And give Him no rest until He establishes\nAnd makes Jerusalem a praise in the earth.",
+              "NKJV": "And give Him no rest till He establishes\nAnd till He makes Jerusalem a praise in the earth.",
+              "DRB": "And give him no silence till he establish, and till he make Jerusalem a praise in the earth."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "The LORD has sworn by his right hand and by his mighty arm: \"Never again will I give your grain as food for your enemies, and never again will foreigners drink the new wine for which you have toiled;",
+              "KJV": "The Lord hath sworn by his right hand, and by the arm of his strength, Surely I will no more give thy corn to be meat for thine enemies; and the sons of the stranger shall not drink thy wine, for the which thou hast laboured:",
+              "NASB95": "The Lord has sworn by His right hand and by His strong arm,\n\u201cI will never again give your grain as food for your enemies;\nNor will foreigners drink your new wine for which you have labored.\u201d",
+              "NKJV": "The Lord has sworn by His right hand\nAnd by the arm of His strength:\n\u201cSurely I will no longer give your grain\nAs food for your enemies;\nAnd the sons of the foreigner shall not drink your new wine,\nFor which you have labored.",
+              "DRB": "The Lord hath sworn by his right hand, and by the arm of his strength: Surely I will no more give thy corn to be meat for thy enemies: and the sons of the strangers shall not drink thy wine, for which thou hast laboured."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "but those who harvest it will eat it and praise the LORD, and those who gather the grapes will drink it in the courts of my sanctuary.\"",
+              "KJV": "But they that have gathered it shall eat it, and praise the Lord; and they that have brought it together shall drink it in the courts of my holiness.",
+              "NASB95": "But those who garner it will eat it and praise the Lord;\nAnd those who gather it will drink it in the courts of My sanctuary.",
+              "NKJV": "But those who have gathered it shall eat it,\nAnd praise the Lord;\nThose who have brought it together shall drink it in My holy courts.\u201d",
+              "DRB": "For they that gather it, shall eat it, and shall praise the Lord: and they that bring it together, shall drink it in my holy courts."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Pass through, pass through the gates! Prepare the way for the people. Build up, build up the highway! Remove the stones. Raise a banner for the nations.",
+              "KJV": "Go through, go through the gates; prepare ye the way of the people; cast up, cast up the highway; gather out the stones; lift up a standard for the people.",
+              "NASB95": "Go through, go through the gates,\nClear the way for the people;\nBuild up, build up the highway,\nRemove the stones, lift up a standard over the peoples.",
+              "NKJV": "Go through,\nGo through the gates!\nPrepare the way for the people;\nBuild up,\nBuild up the highway!\nTake out the stones,\nLift up a banner for the peoples!",
+              "DRB": "Go through, go through the gates, prepare the way for the people, make the road plain, pick out the stones, and lift up the standard to the people."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "The LORD has made proclamation to the ends of the earth: \"Say to the Daughter of Zion, 'See, your Savior comes! See, his reward is with him, and his recompense accompanies him.'\"",
+              "KJV": "Behold, the Lord hath proclaimed unto the end of the world, Say ye to the daughter of Zion, Behold, thy salvation cometh; behold, his reward is with him, and his work before him.",
+              "NASB95": "Behold, the Lord has proclaimed to the end of the earth,\nSay to the daughter of Zion, \u201cLo, your salvation comes;\nBehold His reward is with Him, and His recompense before Him.\u201d",
+              "NKJV": "Indeed the Lord has proclaimed\nTo the end of the world:\n\u201cSay to the daughter of Zion,\n\u2018Surely your salvation is coming;\nBehold, His reward is with Him,\nAnd His work before Him.\u2019 \u201d",
+              "DRB": "Behold the Lord hath made it to be heard in the ends of the earth, tell the daughter of Sion: Behold thy Saviour cometh: behold his reward is with him, and his work before him."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "They will be called the Holy People, the Redeemed of the LORD; and you will be called Sought After, the City No Longer Deserted.",
+              "KJV": "And they shall call them, The holy people, The redeemed of the Lord: and thou shalt be called, Sought out, A city not forsaken.",
+              "NASB95": "And they will call them, \u201cThe holy people,\nThe redeemed of the Lord\u201d;\nAnd you will be called, \u201cSought out, a city not forsaken.\u201d",
+              "NKJV": "And they shall call them The Holy People,\nThe Redeemed of the Lord;\nAnd you shall be called Sought Out,\nA City Not Forsaken.",
+              "DRB": "And they shall call them, The holy people, the redeemed of the Lord. But thou shalt be called: A city sought after, and not forsaken."
+            }
+          }
+        ]
+      },
+      {
+        "id": "isa_49_14",
+        "title": "Zion as a Bride",
+        "description": "",
+        "reference": {
+          "book": "Isaiah",
+          "chapter": 49,
+          "start": 14,
+          "end": 14
+        },
+        "rows": [
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "But Zion said, \"The LORD has forsaken me, the Lord has forgotten me.\"",
+              "KJV": "But Zion said, The Lord hath forsaken me, and my Lord hath forgotten me.",
+              "NASB95": "But Zion said, \u201cThe Lord has forsaken me,\nAnd the Lord has forgotten me.\u201d",
+              "NKJV": "But Zion said, \u201cThe Lord has forsaken me,\nAnd my Lord has forgotten me.\u201d",
+              "DRB": "And Sion said: The Lord hath forsaken me, and the Lord hath forgotten me."
+            }
+          }
+        ]
+      },
+      {
+        "id": "jer_4_30_31",
+        "title": "Daughter of Zion",
+        "description": "",
+        "reference": {
+          "book": "Jeremiah",
+          "chapter": 4,
+          "start": 30,
+          "end": 31
+        },
+        "rows": [
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "What are you doing, O devastated one? Why dress yourself in scarlet and put on jewels of gold? Why shade your eyes with paint? You adorn yourself in vain. Your lovers despise you; they seek your life.",
+              "KJV": "And when thou art spoiled, what wilt thou do? Though thou clothest thyself with crimson, though thou deckest thee with ornaments of gold, though thou rentest thy face with painting, in vain shalt thou make thyself fair; thy lovers will despise thee, they will seek thy life.",
+              "NASB95": "And you, O desolate one, what will you do?\nAlthough you dress in scarlet,\nAlthough you decorate yourself with ornaments of gold,\nAlthough you enlarge your eyes with paint,\nIn vain you make yourself beautiful.\nYour lovers despise you;\nThey seek your life.",
+              "NKJV": "\u201cAnd when you are plundered,\nWhat will you do?\nThough you clothe yourself with crimson,\nThough you adorn yourself with ornaments of gold,\nThough you enlarge your eyes with paint,\nIn vain you will make yourself fair;\nYour lovers will despise you;\nThey will seek your life.",
+              "DRB": "But when thou art spoiled what wilt thou do? though thou deckest thee with ornaments of gold, and paintest thy eyes with stibic stone, thou shalt dress thyself out in vain: thy lovers have despised thee, they will seek thy life."
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "I hear a cry as of a woman in labor, a groan as of one bearing her first child- the cry of the Daughter of Zion gasping for breath, stretching out her hands and saying, \"Alas! I am fainting; my life is given over to murderers.\"",
+              "KJV": "For I have heard a voice as of a woman in travail, and the anguish as of her that bringeth forth her first child, the voice of the daughter of Zion, that bewaileth herself, that spreadeth her hands, saying, Woe is me now! for my soul is wearied because of murderers.",
+              "NASB95": "For I heard a cry as of a woman in labor,\nThe anguish as of one giving birth to her first child,\nThe cry of the daughter of Zion gasping for breath,\nStretching out her hands, saying,\n\u201cAh, woe is me, for I faint before murderers.\u201d",
+              "NKJV": "\u201cFor I have heard a voice as of a woman in labor,\nThe anguish as of her who brings forth her first child,\nThe voice of the daughter of Zion bewailing herself;\nShe spreads her hands, saying,\n\u2018Woe is me now, for my soul is weary\nBecause of murderers!\u2019",
+              "DRB": "For I have heard the voice as of a woman in travail, anguishes as of a woman in labor of a child. The voice of the daughter of Sion, dying away, spreading her hands: Woe is me, for my soul hath fainted because of them that are slain."
+            }
+          }
+        ]
+      },
+      {
+        "id": "jer_2_1",
+        "title": "Jerusalem as a Bride",
+        "description": "",
+        "reference": {
+          "book": "Jeremiah",
+          "chapter": 2,
+          "start": 1,
+          "end": 1
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "The word of the LORD came to me:",
+              "KJV": "Moreover the word of the Lord came to me, saying,",
+              "NASB95": "Now the word of the Lord came to me saying,",
+              "NKJV": "Moreover the word of the Lord came to me, saying,",
+              "DRB": "And the word of the Lord came to me, saying:"
+            }
+          }
+        ]
+      },
+      {
+        "id": "jer_2_14",
+        "title": "Why is Israel Plundered?",
+        "description": "",
+        "reference": {
+          "book": "Jeremiah",
+          "chapter": 2,
+          "start": 14,
+          "end": 14
+        },
+        "rows": [
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "Is Israel a servant, a slave by birth? Why then has he become plunder?",
+              "KJV": "Is Israel a servant? is he a homeborn slave? why is he spoiled?",
+              "NASB95": "\u201cIs Israel a slave? Or is he a homeborn servant?\nWhy has he become a prey?",
+              "NKJV": "\u201cIs Israel a servant?\nIs he a homeborn slave?\nWhy is he plundered?",
+              "DRB": "Is Israel a bondman, or a homeborn slave? why then is he become prey?"
+            }
+          }
+        ]
+      },
+      {
+        "id": "jer_2_26_37",
+        "title": "A Bride's Wedding Ornaments",
+        "description": "",
+        "reference": {
+          "book": "Jeremiah",
+          "chapter": 2,
+          "start": 26,
+          "end": 37
+        },
+        "rows": [
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "\"As a thief is disgraced when he is caught, so the house of Israel is disgraced- they, their kings and their officials, their priests and their prophets.",
+              "KJV": "As the thief is ashamed when he is found, so is the house of Israel ashamed; they, their kings, their princes, and their priests, and their prophets.",
+              "NASB95": "\u201cAs the thief is shamed when he is discovered,\nSo the house of Israel is shamed;\nThey, their kings, their princes\nAnd their priests and their prophets,",
+              "NKJV": "\u201cAs the thief is ashamed when he is found out,\nSo is the house of Israel ashamed;\nThey and their kings and their princes, and their priests and their prophets,",
+              "DRB": "As the thief is confounded when he is taken, so is the house of Israel confounded, they and their kings, their princes and their priests, and their prophets."
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "They say to wood, 'You are my father,' and to stone, 'You gave me birth.' They have turned their backs to me and not their faces; yet when they are in trouble, they say, 'Come and save us!'",
+              "KJV": "Saying to a stock, Thou art my father; and to a stone, Thou hast brought me forth: for they have turned their back unto me, and not their face: but in the time of their trouble they will say, Arise, and save us.",
+              "NASB95": "Who say to a tree, \u2018You are my father,\u2019\nAnd to a stone, \u2018You gave me birth.\u2019\nFor they have turned their back to Me,\nAnd not their face;\nBut in the time of their trouble they will say,\n\u2018Arise and save us.\u2019",
+              "NKJV": "Saying to a tree, \u2018You are my father,\u2019\nAnd to a stone, \u2018You gave birth to me.\u2019\nFor they have turned their back to Me, and not their face.\nBut in the time of their trouble\nThey will say, \u2018Arise and save us.\u2019",
+              "DRB": "Saying to a stock: Thou art my father: and to a stone: thou hast begotten me: they have turned their back to me, and not their face: and in the time of their affliction they will say: Arise, and deliver us."
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "Where then are the gods you made for yourselves? Let them come if they can save you when you are in trouble! For you have as many gods as you have towns, O Judah.",
+              "KJV": "But where are thy gods that thou hast made thee? let them arise, if they can save thee in the time of thy trouble: for according to the number of thy cities are thy gods, O Judah.",
+              "NASB95": "\u201cBut where are your gods\nWhich you made for yourself?\nLet them arise, if they can save you\nIn the time of your trouble;\nFor according to the number of your cities\nAre your gods, O Judah.",
+              "NKJV": "But where are your gods that you have made for yourselves?\nLet them arise,\nIf they can save you in the time of your trouble;\nFor according to the number of your cities\nAre your gods, O Judah.",
+              "DRB": "Where are the gods, whom thou hast made thee? let them arise and deliver thee in the time of thy affliction: for according to the number of thy cities were thy gods, O Juda."
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "\"Why do you bring charges against me? You have all rebelled against me,\" declares the LORD.",
+              "KJV": "Wherefore will ye plead with me? ye all have transgressed against me, saith the Lord.",
+              "NASB95": "\u201cWhy do you contend with Me?\nYou have all transgressed against Me,\u201d declares the Lord.",
+              "NKJV": "\u201cWhy will you plead with Me?\nYou all have transgressed against Me,\u201d says the Lord.",
+              "DRB": "Why will you contend with me in judgement? you have all forsaken me, saith the Lord."
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "\"In vain I punished your people; they did not respond to correction. Your sword has devoured your prophets like a ravening lion.",
+              "KJV": "In vain have I smitten your children; they received no correction: your own sword hath devoured your prophets, like a destroying lion.",
+              "NASB95": "\u201cIn vain I have struck your sons;\nThey accepted no chastening.\nYour sword has devoured your prophets\nLike a destroying lion.",
+              "NKJV": "\u201cIn vain I have chastened your children;\nThey received no correction.\nYour sword has devoured your prophets\nLike a destroying lion.",
+              "DRB": "In vain have I struck your children, they have not received correction: your sword hath devoured your prophets, your generation is like a ravaging lion."
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "\"You of this generation, consider the word of the LORD: \"Have I been a desert to Israel or a land of great darkness? Why do my people say, 'We are free to roam; we will come to you no more'?",
+              "KJV": "O generation, see ye the word of the Lord. Have I been a wilderness unto Israel? a land of darkness? wherefore say my people, We are lords; we will come no more unto thee?",
+              "NASB95": "\u201cO generation, heed the word of the Lord.\nHave I been a wilderness to Israel,\nOr a land of thick darkness?\nWhy do My people say, \u2018We are free to roam;\nWe will no longer come to You\u2019?",
+              "NKJV": "\u201cO generation, see the word of the Lord!\nHave I been a wilderness to Israel,\nOr a land of darkness?\nWhy do My people say, \u2018We are lords;\nWe will come no more to You\u2019?",
+              "DRB": "See ye the word of the Lord: Am I become a wilderness to Israel, or a lateward springing land? why then have my people said: We are revolted, we will come to thee no more."
+            }
+          },
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "Does a maiden forget her jewelry, a bride her wedding ornaments? Yet my people have forgotten me, days without number.",
+              "KJV": "Can a maid forget her ornaments, or a bride her attire? yet my people have forgotten me days without number.",
+              "NASB95": "\u201cCan a virgin forget her ornaments,\nOr a bride her attire?\nYet My people have forgotten Me\nDays without number.",
+              "NKJV": "Can a virgin forget her ornaments,\nOr a bride her attire?\nYet My people have forgotten Me days without number.",
+              "DRB": "Will a virgin forget her ornament, or a bride her stomacher? but my people hath forgotten me days without number."
+            }
+          },
+          {
+            "verse": 33,
+            "texts": {
+              "NIV84": "How skilled you are at pursuing love! Even the worst of women can learn from your ways.",
+              "KJV": "Why trimmest thou thy way to seek love? therefore hast thou also taught the wicked ones thy ways.",
+              "NASB95": "\u201cHow well you prepare your way\nTo seek love!\nTherefore even the wicked women\nYou have taught your ways.",
+              "NKJV": "\u201cWhy do you beautify your way to seek love?\nTherefore you have also taught\nThe wicked women your ways.",
+              "DRB": "Why dost thou endeavor to shew thy way good to seek my love, thou who has also taught thy malices to be thy ways,"
+            }
+          },
+          {
+            "verse": 34,
+            "texts": {
+              "NIV84": "On your clothes men find the lifeblood of the innocent poor, though you did not catch them breaking in. Yet in spite of all this",
+              "KJV": "Also in thy skirts is found the blood of the souls of the poor innocents: I have not found it by secret search, but upon all these.",
+              "NASB95": "\u201cAlso on your skirts is found\nThe lifeblood of the innocent poor;\nYou did not find them breaking in.\nBut in spite of all these things,",
+              "NKJV": "Also on your skirts is found\nThe blood of the lives of the poor innocents.\nI have not found it by secret search,\nBut plainly on all these things.",
+              "DRB": "And in thy skirts is found the blood of the souls of the poor and innocent? not in ditches have I found them, but in all places, which I mentioned before."
+            }
+          },
+          {
+            "verse": 35,
+            "texts": {
+              "NIV84": "you say, 'I am innocent; he is not angry with me.' But I will pass judgment on you because you say, 'I have not sinned.'",
+              "KJV": "Yet thou sayest, Because I am innocent, surely his anger shall turn from me. Behold, I will plead with thee, because thou sayest, I have not sinned.",
+              "NASB95": "Yet you said, \u2018I am innocent;\nSurely His anger is turned away from me.\u2019\nBehold, I will enter into judgment with you\nBecause you say, \u2018I have not sinned.\u2019",
+              "NKJV": "Yet you say, \u2018Because I am innocent,\nSurely His anger shall turn from me.\u2019\nBehold, I will plead My case against you,\nBecause you say, \u2018I have not sinned.\u2019",
+              "DRB": "And thou hast said: I am without sin and am innocent: and therefore let thy anger be turned away from me. Behold, I will contend with thee in judgement, because thou hast said: I have not sinned."
+            }
+          },
+          {
+            "verse": 36,
+            "texts": {
+              "NIV84": "Why do you go about so much, changing your ways? You will be disappointed by Egypt as you were by Assyria.",
+              "KJV": "Why gaddest thou about so much to change thy way? thou also shalt be ashamed of Egypt, as thou wast ashamed of Assyria.",
+              "NASB95": "\u201cWhy do you go around so much\nChanging your way?\nAlso, you will be put to shame by Egypt\nAs you were put to shame by Assyria.",
+              "NKJV": "Why do you gad about so much to change your way?\nAlso you shall be ashamed of Egypt as you were ashamed of Assyria.",
+              "DRB": "How exceeding base art thou become, going the same ways over again! and thou shalt be ashamed of Egypt, as thou wast ashamed of Assyria."
+            }
+          },
+          {
+            "verse": 37,
+            "texts": {
+              "NIV84": "You will also leave that place with your hands on your head, for the LORD has rejected those you trust; you will not be helped by them.",
+              "KJV": "Yea, thou shalt go forth from him, and thine hands upon thine head: for the Lord hath rejected thy confidences, and thou shalt not prosper in them.",
+              "NASB95": "\u201cFrom this place also you will go out\nWith your hands on your head;\nFor the Lord has rejected those in whom you trust,\nAnd you will not prosper with them.\u201d",
+              "NKJV": "Indeed you will go forth from him\nWith your hands on your head;\nFor the Lord has rejected your trusted allies,\nAnd you will not prosper by them.",
+              "DRB": "For from thence thou shalt go, and thy hand shall be upon thy head: for the Lord hath destroyed thy trust, and thou shalt have nothing prosperous therein."
+            }
+          }
+        ]
+      },
+      {
+        "id": "isa_61_1_11",
+        "title": "Bride Adorns Herself",
+        "description": "",
+        "reference": {
+          "book": "Isaiah",
+          "chapter": 61,
+          "start": 1,
+          "end": 11
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "The Spirit of the Sovereign LORD is on me, because the LORD has anointed me to preach good news to the poor. He has sent me to bind up the brokenhearted, to proclaim freedom for the captives and release from darkness for the prisoners,",
+              "KJV": "The Spirit of the Lord God is upon me; because the Lord hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound;",
+              "NASB95": "The Spirit of the Lord God is upon me,\nBecause the Lord has anointed me\nTo bring good news to the afflicted;\nHe has sent me to bind up the brokenhearted,\nTo proclaim liberty to captives\nAnd freedom to prisoners;",
+              "NKJV": "\u201cThe Spirit of the Lord God is upon Me,\nBecause the Lord has anointed Me\nTo preach good tidings to the poor;\nHe has sent Me to heal the brokenhearted,\nTo proclaim liberty to the captives,\nAnd the opening of the prison to those who are bound;",
+              "DRB": "THE spirit of the Lord is upon me, because the Lord hath anointed me: he hath sent me to preach to the meek, to heal the contrite of heart, and to preach a release to the captives, and deliverance to them that are shut up."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "to proclaim the year of the LORD's favor and the day of vengeance of our God, to comfort all who mourn,",
+              "KJV": "To proclaim the acceptable year of the Lord, and the day of vengeance of our God; to comfort all that mourn;",
+              "NASB95": "To proclaim the favorable year of the Lord\nAnd the day of vengeance of our God;\nTo comfort all who mourn,",
+              "NKJV": "To proclaim the acceptable year of the Lord,\nAnd the day of vengeance of our God;\nTo comfort all who mourn,",
+              "DRB": "To proclaim the acceptable year of the Lord, and the day of vengeance of our God: to comfort all that mourn:"
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "and provide for those who grieve in Zion- to bestow on them a crown of beauty instead of ashes, the oil of gladness instead of mourning, and a garment of praise instead of a spirit of despair. They will be called oaks of righteousness, a planting of the LORD for the display of his splendor.",
+              "KJV": "To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the Lord, that he might be glorified.",
+              "NASB95": "To grant those who mourn in Zion,\nGiving them a garland instead of ashes,\nThe oil of gladness instead of mourning,\nThe mantle of praise instead of a spirit of fainting.\nSo they will be called oaks of righteousness,\nThe planting of the Lord, that He may be glorified.",
+              "NKJV": "To console those who mourn in Zion,\nTo give them beauty for ashes,\nThe oil of joy for mourning,\nThe garment of praise for the spirit of heaviness;\nThat they may be called trees of righteousness,\nThe planting of the Lord, that He may be glorified.\u201d",
+              "DRB": "To appoint to the mourners of Sion, and to give them a crown for ashes, the oil of joy for mourning, a garment of praise for the spirit of grief: and they shall be called in it the mighty ones of justice, the planting of the Lord to glorify him."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "They will rebuild the ancient ruins and restore the places long devastated; they will renew the ruined cities that have been devastated for generations.",
+              "KJV": "And they shall build the old wastes, they shall raise up the former desolations, and they shall repair the waste cities, the desolations of many generations.",
+              "NASB95": "Then they will rebuild the ancient ruins,\nThey will raise up the former devastations;\nAnd they will repair the ruined cities,\nThe desolations of many generations.",
+              "NKJV": "And they shall rebuild the old ruins,\nThey shall raise up the former desolations,\nAnd they shall repair the ruined cities,\nThe desolations of many generations.",
+              "DRB": "And they shall build the places that have been waste from of old, and shall raise up ancient ruins, and shall repair the desolate cities, that were destroyed for generation and generation."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "Aliens will shepherd your flocks; foreigners will work your fields and vineyards.",
+              "KJV": "And strangers shall stand and feed your flocks, and the sons of the alien shall be your plowmen and your vinedressers.",
+              "NASB95": "Strangers will stand and pasture your flocks,\nAnd foreigners will be your farmers and your vinedressers.",
+              "NKJV": "Strangers shall stand and feed your flocks,\nAnd the sons of the foreigner\nShall be your plowmen and your vinedressers.",
+              "DRB": "And strangers shall stand and shall feed your flocks: and the sons of strangers shall be your husbandmen, and the dressers of your vines."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "And you will be called priests of the LORD, you will be named ministers of our God. You will feed on the wealth of nations, and in their riches you will boast.",
+              "KJV": "But ye shall be named the Priests of the Lord: men shall call you the Ministers of our God: ye shall eat the riches of the Gentiles, and in their glory shall ye boast yourselves.",
+              "NASB95": "But you will be called the priests of the Lord;\nYou will be spoken of as ministers of our God.\nYou will eat the wealth of nations,\nAnd in their riches you will boast.",
+              "NKJV": "But you shall be named the priests of the Lord,\nThey shall call you the servants of our God.\nYou shall eat the riches of the Gentiles,\nAnd in their glory you shall boast.",
+              "DRB": "But you shall be called the priests of the Lord: to you it shall be said: Ye ministers of our God: you shall eat the riches of the Gentiles, and you shall pride yourselves in their glory."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Instead of their shame my people will receive a double portion, and instead of disgrace they will rejoice in their inheritance; and so they will inherit a double portion in their land, and everlasting joy will be theirs.",
+              "KJV": "For your shame ye shall have double; and for confusion they shall rejoice in their portion: therefore in their land they shall possess the double: everlasting joy shall be unto them.",
+              "NASB95": "Instead of your shame you will have a double portion,\nAnd instead of humiliation they will shout for joy over their portion.\nTherefore they will possess a double portion in their land,\nEverlasting joy will be theirs.",
+              "NKJV": "Instead of your shame you shall have double honor,\nAnd instead of confusion they shall rejoice in their portion.\nTherefore in their land they shall possess double;\nEverlasting joy shall be theirs.",
+              "DRB": "For your double confusion and shame, they shall praise their part: therefore shall they receive double in their land, everlasting joy shall be unto them."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "\"For I, the LORD, love justice; I hate robbery and iniquity. In my faithfulness I will reward them and make an everlasting covenant with them.",
+              "KJV": "For I the Lord love judgment, I hate robbery for burnt offering; and I will direct their work in truth, and I will make an everlasting covenant with them.",
+              "NASB95": "For I, the Lord, love justice,\nI hate robbery in the burnt offering;\nAnd I will faithfully give them their recompense\nAnd make an everlasting covenant with them.",
+              "NKJV": "\u201cFor I, the Lord, love justice;\nI hate robbery for burnt offering;\nI will direct their work in truth,\nAnd will make with them an everlasting covenant.",
+              "DRB": "For I am the Lord that love judgment, and hate robbery in a holocaust: and I will make their work in truth, and I will make a perpetual covenant with them."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Their descendants will be known among the nations and their offspring among the peoples. All who see them will acknowledge that they are a people the LORD has blessed.\"",
+              "KJV": "And their seed shall be known among the Gentiles, and their offspring among the people: all that see them shall acknowledge them, that they are the seed which the Lord hath blessed.",
+              "NASB95": "Then their offspring will be known among the nations,\nAnd their descendants in the midst of the peoples.\nAll who see them will recognize them\nBecause they are the offspring whom the Lord has blessed.",
+              "NKJV": "Their descendants shall be known among the Gentiles,\nAnd their offspring among the people.\nAll who see them shall acknowledge them,\nThat they are the posterity whom the Lord has blessed.\u201d",
+              "DRB": "And they shall know their seed among the Gentiles, and their offspring in the midst of peoples: all that shall see them, shall know them, that these are the seed which the Lord hath blessed."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "I delight greatly in the LORD; my soul rejoices in my God. For he has clothed me with garments of salvation and arrayed me in a robe of righteousness, as a bridegroom adorns his head like a priest, and as a bride adorns herself with her jewels.",
+              "KJV": "I will greatly rejoice in the Lord, my soul shall be joyful in my God; for he hath clothed me with the garments of salvation, he hath covered me with the robe of righteousness, as a bridegroom decketh himself with ornaments, and as a bride adorneth herself with her jewels.",
+              "NASB95": "I will rejoice greatly in the Lord,\nMy soul will exult in my God;\nFor He has clothed me with garments of salvation,\nHe has wrapped me with a robe of righteousness,\nAs a bridegroom decks himself with a garland,\nAnd as a bride adorns herself with her jewels.",
+              "NKJV": "I will greatly rejoice in the Lord,\nMy soul shall be joyful in my God;\nFor He has clothed me with the garments of salvation,\nHe has covered me with the robe of righteousness,\nAs a bridegroom decks himself with ornaments,\nAnd as a bride adorns herself with her jewels.",
+              "DRB": "I will greatly rejoice in the Lord, and my soul shall be joyful in my God: for he hath clothed me with the garments of salvation: and with the robe of justice he hath covered me, as a bridegroom decked with a crown, and as a bride adorned with her jewels."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "For as the soil makes the sprout come up and a garden causes seeds to grow, so the Sovereign LORD will make righteousness and praise spring up before all nations.",
+              "KJV": "For as the earth bringeth forth her bud, and as the garden causeth the things that are sown in it to spring forth; so the Lord God will cause righteousness and praise to spring forth before all the nations.",
+              "NASB95": "For as the earth brings forth its sprouts,\nAnd as a garden causes the things sown in it to spring up,\nSo the Lord God will cause righteousness and praise\nTo spring up before all the nations.",
+              "NKJV": "For as the earth brings forth its bud,\nAs the garden causes the things that are sown in it to spring forth,\nSo the Lord God will cause righteousness and praise to spring forth before all the nations.",
+              "DRB": "For as the earth bringeth forth her bud, and as the garden causeth her seed to shoot forth: so shall the Lord God make justice to spring forth, and praise before all the nations."
+            }
+          }
+        ]
+      },
+      {
+        "id": "rev_19_6_9",
+        "title": "Bride made ready",
+        "description": "",
+        "reference": {
+          "book": "Revelation",
+          "chapter": 19,
+          "start": 6,
+          "end": 9
+        },
+        "rows": [
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Then I heard what sounded like a great multitude, like the roar of rushing waters and like loud peals of thunder, shouting: \"Hallelujah! For our Lord God Almighty reigns.",
+              "KJV": "And I heard as it were the voice of a great multitude, and as the voice of many waters, and as the voice of mighty thunderings, saying, Alleluia: for the Lord God omnipotent reigneth.",
+              "NASB95": "Then I heard something like the voice of a great multitude and like the sound of many waters and like the sound of mighty peals of thunder, saying,\n\u201cHallelujah! For the Lord our God, the Almighty, reigns.",
+              "NKJV": "And I heard, as it were, the voice of a great multitude, as the sound of many waters and as the sound of mighty thunderings, saying, \u201cAlleluia! For the Lord God Omnipotent reigns!",
+              "DRB": "And I heard as it were the voice of a great multitude, and as the voice of many waters, and as the voice of great thunders, saying, Alleluia: for the Lord our God the Almighty hath reigned."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Let us rejoice and be glad and give him glory! For the wedding of the Lamb has come, and his bride has made herself ready.",
+              "KJV": "Let us be glad and rejoice, and give honour to him: for the marriage of the Lamb is come, and his wife hath made herself ready.",
+              "NASB95": "Let us rejoice and be glad and give the glory to Him, for the marriage of the Lamb has come and His bride has made herself ready.\u201d",
+              "NKJV": "Let us be glad and rejoice and give Him glory, for the marriage of the Lamb has come, and His wife has made herself ready.\u201d",
+              "DRB": "Let us be glad and rejoice, and give glory to him; for the marriage of the Lamb is come, and his wife hath prepared herself."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Fine linen, bright and clean, was given her to wear.\" (Fine linen stands for the righteous acts of the saints.)",
+              "KJV": "And to her was granted that she should be arrayed in fine linen, clean and white: for the fine linen is the righteousness of saints.",
+              "NASB95": "It was given to her to clothe herself in fine linen, bright and clean; for the fine linen is the righteous acts of the saints.",
+              "NKJV": "And to her it was granted to be arrayed in fine linen, clean and bright, for the fine linen is the righteous acts of the saints.",
+              "DRB": "And it is granted to her that she should clothe herself with fine linen, glittering and white. For the fine linen are the justifications of saints."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Then the angel said to me, \"Write: 'Blessed are those who are invited to the wedding supper of the Lamb!'\" And he added, \"These are the true words of God.\"",
+              "KJV": "And he saith unto me, Write, Blessed are they which are called unto the marriage supper of the Lamb. And he saith unto me, These are the true sayings of God.",
+              "NASB95": "Then he said to me, \u201cWrite, \u2018Blessed are those who are invited to the marriage supper of the Lamb.\u2019\u201d And he said to me, \u201cThese are true words of God.\u201d",
+              "NKJV": "Then he said to me, \u201cWrite: \u2018Blessed are those who are called to the marriage supper of the Lamb!\u2019 \u201d And he said to me, \u201cThese are the true sayings of God.\u201d",
+              "DRB": "And he said to me: Write: Blessed are they that are called to the marriage supper of the Lamb. And he saith to me: These words of God are true."
+            }
+          }
+        ]
+      },
+      {
+        "id": "rev_21_1_4",
+        "title": "New Heaven and New Earth",
+        "description": "",
+        "reference": {
+          "book": "Revelation",
+          "chapter": 21,
+          "start": 1,
+          "end": 4
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away, and there was no longer any sea.",
+              "KJV": "And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea.",
+              "NASB95": "Then I saw a new heaven and a new earth; for the first heaven and the first earth passed away, and there is no longer any sea.",
+              "NKJV": "Now I saw a new heaven and a new earth, for the first heaven and the first earth had passed away. Also there was no more sea.",
+              "DRB": "And I saw a new heaven and a new earth. For the first heaven and the first earth was gone, and the sea is now no more."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "I saw the Holy City, the new Jerusalem, coming down out of heaven from God, prepared as a bride beautifully dressed for her husband.",
+              "KJV": "And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband.",
+              "NASB95": "And I saw the holy city, new Jerusalem, coming down out of heaven from God, made ready as a bride adorned for her husband.",
+              "NKJV": "Then I, John, saw the holy city, New Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband.",
+              "DRB": "And I John saw the holy city, the new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "And I heard a loud voice from the throne saying, \"Now the dwelling of God is with men, and he will live with them. They will be his people, and God himself will be with them and be their God.",
+              "KJV": "And I heard a great voice out of heaven saying, Behold, the tabernacle of God is with men, and he will dwell with them, and they shall be his people, and God himself shall be with them, and be their God.",
+              "NASB95": "And I heard a loud voice from the throne, saying, \u201cBehold, the tabernacle of God is among men, and He will dwell among them, and they shall be His people, and God Himself will be among them,",
+              "NKJV": "And I heard a loud voice from heaven saying, \u201cBehold, the tabernacle of God is with men, and He will dwell with them, and they shall be His people. God Himself will be with them and be their God.",
+              "DRB": "And I heard a great voice from the throne, saying: Behold the tabernacle of God with men, and he will dwell with them. And they shall be his people; and God himself with them shall be their God."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain, for the old order of things has passed away.\"",
+              "KJV": "And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.",
+              "NASB95": "and He will wipe away every tear from their eyes; and there will no longer be any death; there will no longer be any mourning, or crying, or pain; the first things have passed away.\u201d",
+              "NKJV": "And God will wipe away every tear from their eyes; there shall be no more death, nor sorrow, nor crying. There shall be no more pain, for the former things have passed away.\u201d",
+              "DRB": "And God shall wipe away all tears from their eyes: and death shall be no more, nor mourning, nor crying, nor sorrow shall be any more, for the former things are passed away."
+            }
+          }
+        ]
+      },
+      {
+        "id": "isa_65_17_25",
+        "title": "New Heaven and New Earth",
+        "description": "",
+        "reference": {
+          "book": "Isaiah",
+          "chapter": 65,
+          "start": 17,
+          "end": 25
+        },
+        "rows": [
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "\"Behold, I will create new heavens and a new earth. The former things will not be remembered, nor will they come to mind.",
+              "KJV": "For, behold, I create new heavens and a new earth: and the former shall not be remembered, nor come into mind.",
+              "NASB95": "\u201cFor behold, I create new heavens and a new earth;\nAnd the former things will not be remembered or come to mind.",
+              "NKJV": "\u201cFor behold, I create new heavens and a new earth;\nAnd the former shall not be remembered or come to mind.",
+              "DRB": "For behold I create new heavens, and a new earth: and the former things shall not be in remembrance, and they shell not come upon the heart."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "But be glad and rejoice forever in what I will create, for I will create Jerusalem to be a delight and its people a joy.",
+              "KJV": "But be ye glad and rejoice for ever in that which I create: for, behold, I create Jerusalem a rejoicing, and her people a joy.",
+              "NASB95": "\u201cBut be glad and rejoice forever in what I create;\nFor behold, I create Jerusalem for rejoicing\nAnd her people for gladness.",
+              "NKJV": "But be glad and rejoice forever in what I create;\nFor behold, I create Jerusalem as a rejoicing,\nAnd her people a joy.",
+              "DRB": "But you shall be glad and rejoice for ever in these things, which I create: for behold I create Jerusalem a rejoicing, end the people thereof joy."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "I will rejoice over Jerusalem and take delight in my people; the sound of weeping and of crying will be heard in it no more.",
+              "KJV": "And I will rejoice in Jerusalem, and joy in my people: and the voice of weeping shall be no more heard in her, nor the voice of crying.",
+              "NASB95": "\u201cI will also rejoice in Jerusalem and be glad in My people;\nAnd there will no longer be heard in her\nThe voice of weeping and the sound of crying.",
+              "NKJV": "I will rejoice in Jerusalem,\nAnd joy in My people;\nThe voice of weeping shall no longer be heard in her,\nNor the voice of crying.",
+              "DRB": "And I will rejoice in Jerusalem, and joy in my people, and the voice of weeping shall no more be heard in her, nor the voice of crying."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "\"Never again will there be in it an infant who lives but a few days, or an old man who does not live out his years; he who dies at a hundred will be thought a mere youth; he who fails to reach a hundred will be considered accursed.",
+              "KJV": "There shall be no more thence an infant of days, nor an old man that hath not filled his days: for the child shall die an hundred years old; but the sinner being an hundred years old shall be accursed.",
+              "NASB95": "\u201cNo longer will there be in it an infant who lives but a few days,\nOr an old man who does not live out his days;\nFor the youth will die at the age of one hundred\nAnd the one who does not reach the age of one hundred\nWill be thought accursed.",
+              "NKJV": "\u201cNo more shall an infant from there live but a few days,\nNor an old man who has not fulfilled his days;\nFor the child shall die one hundred years old,\nBut the sinner being one hundred years old shall be accursed.",
+              "DRB": "There shall no more be an infant of days there, nor an old man that shall not fill up his days: for the child shall die a hundred years old, and the sinner being a hundred years old shall be accursed."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "They will build houses and dwell in them; they will plant vineyards and eat their fruit.",
+              "KJV": "And they shall build houses, and inhabit them; and they shall plant vineyards, and eat the fruit of them.",
+              "NASB95": "\u201cThey will build houses and inhabit them;\nThey will also plant vineyards and eat their fruit.",
+              "NKJV": "They shall build houses and inhabit them;\nThey shall plant vineyards and eat their fruit.",
+              "DRB": "And they shall build houses, and inhabit them; and they shall plant vineyards, and eat the fruits of them."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "No longer will they build houses and others live in them, or plant and others eat. For as the days of a tree, so will be the days of my people; my chosen ones will long enjoy the works of their hands.",
+              "KJV": "They shall not build, and another inhabit; they shall not plant, and another eat: for as the days of a tree are the days of my people, and mine elect shall long enjoy the work of their hands.",
+              "NASB95": "\u201cThey will not build and another inhabit,\nThey will not plant and another eat;\nFor as the lifetime of a tree, so will be the days of My people,\nAnd My chosen ones will wear out the work of their hands.",
+              "NKJV": "They shall not build and another inhabit;\nThey shall not plant and another eat;\nFor as the days of a tree, so shall be the days of My people,\nAnd My elect shall long enjoy the work of their hands.",
+              "DRB": "They shall not build, and another inhabit; they shall not plant, and another eat: for as the days of a tree, so shall be the days of my people, and the works of their hands shall be of long continuance."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "They will not toil in vain or bear children doomed to misfortune; for they will be a people blessed by the LORD, they and their descendants with them.",
+              "KJV": "They shall not labour in vain, nor bring forth for trouble; for they are the seed of the blessed of the Lord, and their offspring with them.",
+              "NASB95": "\u201cThey will not labor in vain,\nOr bear children for calamity;\nFor they are the offspring of those blessed by the Lord,\nAnd their descendants with them.",
+              "NKJV": "They shall not labor in vain,\nNor bring forth children for trouble;\nFor they shall be the descendants of the blessed of the Lord,\nAnd their offspring with them.",
+              "DRB": "My elect shall not labour in vain, nor bring forth in trouble; for they are the seed of the blessed of the Lord, and their posterity with them."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "Before they call I will answer; while they are still speaking I will hear.",
+              "KJV": "And it shall come to pass, that before they call, I will answer; and while they are yet speaking, I will hear.",
+              "NASB95": "It will also come to pass that before they call, I will answer; and while they are still speaking, I will hear.",
+              "NKJV": "\u201cIt shall come to pass\nThat before they call, I will answer;\nAnd while they are still speaking, I will hear.",
+              "DRB": "And it shall come to pass, that before they call, I will hear; as they are yet speaking, I will hear."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "The wolf and the lamb will feed together, and the lion will eat straw like the ox, but dust will be the serpent's food. They will neither harm nor destroy on all my holy mountain,\" says the LORD.",
+              "KJV": "The wolf and the lamb shall feed together, and the lion shall eat straw like the bullock: and dust shall be the serpent's meat. They shall not hurt nor destroy in all my holy mountain, saith the Lord.",
+              "NASB95": "The wolf and the lamb will graze together, and the lion will eat straw like the ox; and dust will be the serpent\u2019s food. They will do no evil or harm in all My holy mountain,\u201d says the Lord.",
+              "NKJV": "The wolf and the lamb shall feed together,\nThe lion shall eat straw like the ox,\nAnd dust shall be the serpent\u2019s food.\nThey shall not hurt nor destroy in all My holy mountain,\u201d\nSays the Lord.",
+              "DRB": "The wolf and the lamb shall feed together; the lion and the ox shall eat straw; and dust shall be the serpent's food: they shall not hurt nor kill in all my holy mountain, saith the Lord."
+            }
+          }
+        ]
+      },
+      {
+        "id": "rev_21_5_8",
+        "title": "New Heaven and New Earth",
+        "description": "",
+        "reference": {
+          "book": "Revelation",
+          "chapter": 21,
+          "start": 5,
+          "end": 8
+        },
+        "rows": [
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "He who was seated on the throne said, \"I am making everything new!\" Then he said, \"Write this down, for these words are trustworthy and true.\"",
+              "KJV": "And he that sat upon the throne said, Behold, I make all things new. And he said unto me, Write: for these words are true and faithful.",
+              "NASB95": "And He who sits on the throne said, \u201cBehold, I am making all things new.\u201d And He said, \u201cWrite, for these words are faithful and true.\u201d",
+              "NKJV": "Then He who sat on the throne said, \u201cBehold, I make all things new.\u201d And He said to me, \u201cWrite, for these words are true and faithful.\u201d",
+              "DRB": "And he that sat on the throne, said: Behold, I make all things new. And he said to me: Write, for these words are most faithful and true."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "He said to me: \"It is done. I am the Alpha and the Omega, the Beginning and the End. To him who is thirsty I will give to drink without cost from the spring of the water of life.",
+              "KJV": "And he said unto me, It is done. I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the fountain of the water of life freely.",
+              "NASB95": "Then He said to me, \u201cIt is done. I am the Alpha and the Omega, the beginning and the end. I will give to the one who thirsts from the spring of the water of life without cost.",
+              "NKJV": "And He said to me, \u201cIt is done! I am the Alpha and the Omega, the Beginning and the End. I will give of the fountain of the water of life freely to him who thirsts.",
+              "DRB": "And he said to me: It is done. I am Alpha and Omega; the beginning and the end. To him that thirsteth, I will give of the fountain of the water of life, freely."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "He who overcomes will inherit all this, and I will be his God and he will be my son.",
+              "KJV": "He that overcometh shall inherit all things; and I will be his God, and he shall be my son.",
+              "NASB95": "He who overcomes will inherit these things, and I will be his God and he will be My son.",
+              "NKJV": "He who overcomes shall inherit all things, and I will be his God and he shall be My son.",
+              "DRB": "He that shall overcome shall possess these things, and I will be his God; and he shall be my son."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "But the cowardly, the unbelieving, the vile, the murderers, the sexually immoral, those who practice magic arts, the idolaters and all liars--their place will be in the fiery lake of burning sulfur. This is the second death.\"",
+              "KJV": "But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death.",
+              "NASB95": "But for the cowardly and unbelieving and abominable and murderers and immoral persons and sorcerers and idolaters and all liars, their part will be in the lake that burns with fire and brimstone, which is the second death.\u201d",
+              "NKJV": "But the cowardly, unbelieving, abominable, murderers, sexually immoral, sorcerers, idolaters, and all liars shall have their part in the lake which burns with fire and brimstone, which is the second death.\u201d",
+              "DRB": "But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, they shall have their portion in the pool burning with fire and brimstone, which is the second death."
+            }
+          }
+        ]
+      },
+      {
+        "id": "rev_21_9_14",
+        "title": "New Jerusalem, Bride of the Lamb",
+        "description": "",
+        "reference": {
+          "book": "Revelation",
+          "chapter": 21,
+          "start": 9,
+          "end": 14
+        },
+        "rows": [
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "One of the seven angels who had the seven bowls full of the seven last plagues came and said to me, \"Come, I will show you the bride, the wife of the Lamb.\"",
+              "KJV": "And there came unto me one of the seven angels which had the seven vials full of the seven last plagues, and talked with me, saying, Come hither, I will shew thee the bride, the Lamb's wife.",
+              "NASB95": "Then one of the seven angels who had the seven bowls full of the seven last plagues came and spoke with me, saying, \u201cCome here, I will show you the bride, the wife of the Lamb.\u201d",
+              "NKJV": "Then one of the seven angels who had the seven bowls filled with the seven last plagues came to me and talked with me, saying, \u201cCome, I will show you the bride, the Lamb\u2019s wife.\u201d",
+              "DRB": "And there came one of the seven angels, who had the vials full of the seven last plagues, and spoke with me, saying: Come, and I will shew thee the bride, the wife of the Lamb."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "And he carried me away in the Spirit to a mountain great and high, and showed me the Holy City, Jerusalem, coming down out of heaven from God.",
+              "KJV": "And he carried me away in the spirit to a great and high mountain, and shewed me that great city, the holy Jerusalem, descending out of heaven from God,",
+              "NASB95": "And he carried me away in the Spirit to a great and high mountain, and showed me the holy city, Jerusalem, coming down out of heaven from God,",
+              "NKJV": "And he carried me away in the Spirit to a great and high mountain, and showed me the great city, the holy Jerusalem, descending out of heaven from God,",
+              "DRB": "And he took me up in spirit to a great and high mountain: and he shewed me the holy city Jerusalem coming down out of heaven from God,"
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "It shone with the glory of God, and its brilliance was like that of a very precious jewel, like a jasper, clear as crystal.",
+              "KJV": "Having the glory of God: and her light was like unto a stone most precious, even like a jasper stone, clear as crystal;",
+              "NASB95": "having the glory of God. Her brilliance was like a very costly stone, as a stone of crystal-clear jasper.",
+              "NKJV": "having the glory of God. Her light was like a most precious stone, like a jasper stone, clear as crystal.",
+              "DRB": "Having the glory of God, and the light thereof was like to a precious stone, as to the jasper stone, even as crystal."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "It had a great, high wall with twelve gates, and with twelve angels at the gates. On the gates were written the names of the twelve tribes of Israel.",
+              "KJV": "And had a wall great and high, and had twelve gates, and at the gates twelve angels, and names written thereon, which are the names of the twelve tribes of the children of Israel:",
+              "NASB95": "It had a great and high wall, with twelve gates, and at the gates twelve angels; and names were written on them, which are the names of the twelve tribes of the sons of Israel.",
+              "NKJV": "Also she had a great and high wall with twelve gates, and twelve angels at the gates, and names written on them, which are the names of the twelve tribes of the children of Israel:",
+              "DRB": "And it had a wall great and high, having twelve gates, and in the gates twelve angels, and names written thereon, which are the names of the twelve tribes of the children of Israel."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "There were three gates on the east, three on the north, three on the south and three on the west.",
+              "KJV": "On the east three gates; on the north three gates; on the south three gates; and on the west three gates.",
+              "NASB95": "There were three gates on the east and three gates on the north and three gates on the south and three gates on the west.",
+              "NKJV": "three gates on the east, three gates on the north, three gates on the south, and three gates on the west.",
+              "DRB": "On the east, three gates: and on the north, three gates: and on the south, three gates: and on the west, three gates."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "The wall of the city had twelve foundations, and on them were the names of the twelve apostles of the Lamb.",
+              "KJV": "And the wall of the city had twelve foundations, and in them the names of the twelve apostles of the Lamb.",
+              "NASB95": "And the wall of the city had twelve foundation stones, and on them were the twelve names of the twelve apostles of the Lamb.",
+              "NKJV": "Now the wall of the city had twelve foundations, and on them were the names of the twelve apostles of the Lamb.",
+              "DRB": "And the wall of the city had twelve foundations, and in them, the twelve names of the twelve apostles of the Lamb."
+            }
+          }
+        ]
+      },
+      {
+        "id": "heb_11_13_16",
+        "title": "Heavenly City Prepared By God",
+        "description": "",
+        "reference": {
+          "book": "Hebrews",
+          "chapter": 11,
+          "start": 13,
+          "end": 16
+        },
+        "rows": [
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "All these people were still living by faith when they died. They did not receive the things promised; they only saw them and welcomed them from a distance. And they admitted that they were aliens and strangers on earth.",
+              "KJV": "These all died in faith, not having received the promises, but having seen them afar off, and were persuaded of them, and embraced them, and confessed that they were strangers and pilgrims on the earth.",
+              "NASB95": "All these died in faith, without receiving the promises, but having seen them and having welcomed them from a distance, and having confessed that they were strangers and exiles on the earth.",
+              "NKJV": "These all died in faith, not having received the promises, but having seen them afar off were assured of them, embraced them and confessed that they were strangers and pilgrims on the earth.",
+              "DRB": "All these died according to faith, not having received the promises, but beholding them afar off, and saluting them, and confessing that they are pilgrims and strangers on the earth."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "People who say such things show that they are looking for a country of their own.",
+              "KJV": "For they that say such things declare plainly that they seek a country.",
+              "NASB95": "For those who say such things make it clear that they are seeking a country of their own.",
+              "NKJV": "For those who say such things declare plainly that they seek a homeland.",
+              "DRB": "For they that say these things, do signify that they seek a country."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "If they had been thinking of the country they had left, they would have had opportunity to return.",
+              "KJV": "And truly, if they had been mindful of that country from whence they came out, they might have had opportunity to have returned.",
+              "NASB95": "And indeed if they had been thinking of that country from which they went out, they would have had opportunity to return.",
+              "NKJV": "And truly if they had called to mind that country from which they had come out, they would have had opportunity to return.",
+              "DRB": "And truly if they had been mindful of that from whence they came out, they had doubtless time to return."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "Instead, they were longing for a better country--a heavenly one. Therefore God is not ashamed to be called their God, for he has prepared a city for them.",
+              "KJV": "But now they desire a better country, that is, an heavenly: wherefore God is not ashamed to be called their God: for he hath prepared for them a city.",
+              "NASB95": "But as it is, they desire a better country, that is, a heavenly one. Therefore God is not ashamed to be called their God; for He has prepared a city for them.",
+              "NKJV": "But now they desire a better, that is, a heavenly country. Therefore God is not ashamed to be called their God, for He has prepared a city for them.",
+              "DRB": "But now they desire a better, that is to say, a heavenly country. Therefore God is not ashamed to be called their God; for he hath prepared for them a city."
+            }
+          }
+        ]
+      },
+      {
+        "id": "gal_4_21_31",
+        "title": "Heavenly Jerusalem",
+        "description": "",
+        "reference": {
+          "book": "Galatians",
+          "chapter": 4,
+          "start": 21,
+          "end": 31
+        },
+        "rows": [
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "Tell me, you who want to be under the law, are you not aware of what the law says?",
+              "KJV": "Tell me, ye that desire to be under the law, do ye not hear the law?",
+              "NASB95": "Tell me, you who want to be under law, do you not listen to the law?",
+              "NKJV": "Tell me, you who desire to be under the law, do you not hear the law?",
+              "DRB": "Tell me, you that desire to be under the law, have you not read the law?"
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "For it is written that Abraham had two sons, one by the slave woman and the other by the free woman.",
+              "KJV": "For it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman.",
+              "NASB95": "For it is written that Abraham had two sons, one by the bondwoman and one by the free woman.",
+              "NKJV": "For it is written that Abraham had two sons: the one by a bondwoman, the other by a freewoman.",
+              "DRB": "For it is written that Abraham had two sons: the one by a bondwoman, and the other by a free woman."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "His son by the slave woman was born in the ordinary way; but his son by the free woman was born as the result of a promise.",
+              "KJV": "But he who was of the bondwoman was born after the flesh; but he of the freewoman was by promise.",
+              "NASB95": "But the son by the bondwoman was born according to the flesh, and the son by the free woman through the promise.",
+              "NKJV": "But he who was of the bondwoman was born according to the flesh, and he of the freewoman through promise,",
+              "DRB": "But he who was of the bondwoman, was born according to the flesh: but he of the free woman, was by promise."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "These things may be taken figuratively, for the women represent two covenants. One covenant is from Mount Sinai and bears children who are to be slaves: This is Hagar.",
+              "KJV": "Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar.",
+              "NASB95": "This is allegorically speaking, for these women are two covenants: one proceeding from Mount Sinai bearing children who are to be slaves; she is Hagar.",
+              "NKJV": "which things are symbolic. For these are the two covenants: the one from Mount Sinai which gives birth to bondage, which is Hagar\u2014",
+              "DRB": "Which things are said by an allegory. For these are the two testaments. The one from mount Sina, engendering unto bondage; which is Agar:"
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "Now Hagar stands for Mount Sinai in Arabia and corresponds to the present city of Jerusalem, because she is in slavery with her children.",
+              "KJV": "For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children.",
+              "NASB95": "Now this Hagar is Mount Sinai in Arabia and corresponds to the present Jerusalem, for she is in slavery with her children.",
+              "NKJV": "for this Hagar is Mount Sinai in Arabia, and corresponds to Jerusalem which now is, and is in bondage with her children\u2014",
+              "DRB": "For Sina is a mountain in Arabia, which hath affinity to that Jerusalem which now is, and is in bondage with her children."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "But the Jerusalem that is above is free, and she is our mother.",
+              "KJV": "But Jerusalem which is above is free, which is the mother of us all.",
+              "NASB95": "But the Jerusalem above is free; she is our mother.",
+              "NKJV": "but the Jerusalem above is free, which is the mother of us all.",
+              "DRB": "But that Jerusalem, which is above, is free: which is our mother."
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "For it is written: \"Be glad, O barren woman, who bears no children; break forth and cry aloud, you who have no labor pains; because more are the children of the desolate woman than of her who has a husband.\"",
+              "KJV": "For it is written, Rejoice, thou barren that bearest not; break forth and cry, thou that travailest not: for the desolate hath many more children than she which hath an husband.",
+              "NASB95": "For it is written,\n\u201cRejoice, barren woman who does not bear;\nBreak forth and shout, you who are not in labor;\nFor more numerous are the children of the desolate\nThan of the one who has a husband.\u201d",
+              "NKJV": "For it is written:\n\u201cRejoice, O barren,\nYou who do not bear!\nBreak forth and shout,\nYou who are not in labor!\nFor the desolate has many more children\nThan she who has a husband.\u201d",
+              "DRB": "For it is written: Rejoice, thou barren, that bearest not: break forth and cry, thou that travailest not: for many are the children of the desolate, more than of her that hath a husband."
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "Now you, brothers, like Isaac, are children of promise.",
+              "KJV": "Now we, brethren, as Isaac was, are the children of promise.",
+              "NASB95": "And you brethren, like Isaac, are children of promise.",
+              "NKJV": "Now we, brethren, as Isaac was, are children of promise.",
+              "DRB": "Now we, brethren, as Isaac was, are the children of promise."
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "At that time the son born in the ordinary way persecuted the son born by the power of the Spirit. It is the same now.",
+              "KJV": "But as then he that was born after the flesh persecuted him that was born after the Spirit, even so it is now.",
+              "NASB95": "But as at that time he who was born according to the flesh persecuted him who was born according to the Spirit, so it is now also.",
+              "NKJV": "But, as he who was born according to the flesh then persecuted him who was born according to the Spirit, even so it is now.",
+              "DRB": "But as then he, that was born according to the flesh, persecuted him that was after the spirit; so also it is now."
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "But what does the Scripture say? \"Get rid of the slave woman and her son, for the slave woman's son will never share in the inheritance with the free woman's son.\"",
+              "KJV": "Nevertheless what saith the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman.",
+              "NASB95": "But what does the Scripture say?\n\u201cCast out the bondwoman and her son,\nFor the son of the bondwoman shall not be an heir with the son of the free woman.\u201d",
+              "NKJV": "Nevertheless what does the Scripture say? \u201cCast out the bondwoman and her son, for the son of the bondwoman shall not be heir with the son of the freewoman.\u201d",
+              "DRB": "But what saith the scripture? Cast out the bondwoman and her son; for the son of the bondwoman shall not be heir with the son of the free woman."
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "Therefore, brothers, we are not children of the slave woman, but of the free woman.",
+              "KJV": "So then, brethren, we are not children of the bondwoman, but of the free.",
+              "NASB95": "So then, brethren, we are not children of a bondwoman, but of the free woman.",
+              "NKJV": "So then, brethren, we are not children of the bondwoman but of the free.",
+              "DRB": "So then, brethren, we are not the children of the bondwoman, but of the free: by the freedom wherewith Christ has made us free."
+            }
+          }
+        ]
+      },
+      {
+        "id": "jer_7_34",
+        "title": "End of Bride and Bridegroom",
+        "description": "",
+        "reference": {
+          "book": "Jeremiah",
+          "chapter": 7,
+          "start": 34,
+          "end": 34
+        },
+        "rows": [
+          {
+            "verse": 34,
+            "texts": {
+              "NIV84": "I will bring an end to the sounds of joy and gladness and to the voices of bride and bridegroom in the towns of Judah and the streets of Jerusalem, for the land will become desolate.",
+              "KJV": "Then will I cause to cease from the cities of Judah, and from the streets of Jerusalem, the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride: for the land shall be desolate.",
+              "NASB95": "Then I will make to cease from the cities of Judah and from the streets of Jerusalem the voice of joy and the voice of gladness, the voice of the bridegroom and the voice of the bride; for the land will become a ruin.",
+              "NKJV": "Then I will cause to cease from the cities of Judah and from the streets of Jerusalem the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride. For the land shall be desolate.",
+              "DRB": "And I will cause ot cease out of the cities of Juda, and out of the streets of Jerusalem, the voice of joy, and the coice of gladness, the voice of the bridegroom and the voice of the bride: for the land shall be desolate."
+            }
+          }
+        ]
+      },
+      {
+        "id": "jer_16_8_9",
+        "title": "End of Bride and Bridegroom",
+        "description": "",
+        "reference": {
+          "book": "Jeremiah",
+          "chapter": 16,
+          "start": 8,
+          "end": 9
+        },
+        "rows": [
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "\"And do not enter a house where there is feasting and sit down to eat and drink.",
+              "KJV": "Thou shalt not also go into the house of feasting, to sit with them to eat and to drink.",
+              "NASB95": "Moreover you shall not go into a house of feasting to sit with them to eat and drink.\u201d",
+              "NKJV": "Also you shall not go into the house of feasting to sit with them, to eat and drink.\u201d",
+              "DRB": "And do not thou go into the house of feasting, to sit with them, and to eat and drink."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "For this is what the LORD Almighty, the God of Israel, says: Before your eyes and in your days I will bring an end to the sounds of joy and gladness and to the voices of bride and bridegroom in this place.",
+              "KJV": "For thus saith the Lord of hosts, the God of Israel; Behold, I will cause to cease out of this place in your eyes, and in your days, the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride.",
+              "NASB95": "For thus says the Lord of hosts, the God of Israel: \u201cBehold, I am going to eliminate from this place, before your eyes and in your time, the voice of rejoicing and the voice of gladness, the voice of the groom and the voice of the bride.",
+              "NKJV": "For thus says the Lord of hosts, the God of Israel: \u201cBehold, I will cause to cease from this place, before your eyes and in your days, the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride.",
+              "DRB": "For thus saith the Lord of hosts, the God of Israel: Behold I will take away out of this place in your sight, and in your days the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride."
+            }
+          }
+        ]
+      },
+      {
+        "id": "jer_25_10",
+        "title": "End of Bride and Bridegroom once more",
+        "description": "",
+        "reference": {
+          "book": "Jeremiah",
+          "chapter": 25,
+          "start": 10,
+          "end": 10
+        },
+        "rows": [
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "I will banish from them the sounds of joy and gladness, the voices of bride and bridegroom, the sound of millstones and the light of the lamp.",
+              "KJV": "Moreover I will take from them the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride, the sound of the millstones, and the light of the candle.",
+              "NASB95": "Moreover, I will take from them the voice of joy and the voice of gladness, the voice of the bridegroom and the voice of the bride, the sound of the millstones and the light of the lamp.",
+              "NKJV": "Moreover I will take from them the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride, the sound of the millstones and the light of the lamp.",
+              "DRB": "And I will take away from them the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride, the sound of the mill, and the light of the lamp."
+            }
+          }
+        ]
+      },
+      {
+        "id": "psa_19_1_6",
+        "title": "Bridegroom Coming Out",
+        "description": "",
+        "reference": {
+          "book": "Psalm",
+          "chapter": 19,
+          "start": 1,
+          "end": 6
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "The heavens declare the glory of God; the skies proclaim the work of his hands.",
+              "KJV": "The heavens declare the glory of God; and the firmament sheweth his handywork.",
+              "NASB95": "The heavens are telling of the glory of God;\nAnd their expanse is declaring the work of His hands.",
+              "NKJV": "The heavens declare the glory of God;\nAnd the firmament shows His handiwork.",
+              "DRB": "Unto the end. A psalm for David. The heavens shew forth the glory of God, and the firmament declareth the work of his hands."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Day after day they pour forth speech; night after night they display knowledge.",
+              "KJV": "Day unto day uttereth speech, and night unto night sheweth knowledge.",
+              "NASB95": "Day to day pours forth speech,\nAnd night to night reveals knowledge.",
+              "NKJV": "Day unto day utters speech,\nAnd night unto night reveals knowledge.",
+              "DRB": "Day to day uttereth speech, and night to night sheweth knowledge."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "There is no speech or language where their voice is not heard.",
+              "KJV": "There is no speech nor language, where their voice is not heard.",
+              "NASB95": "There is no speech, nor are there words;\nTheir voice is not heard.",
+              "NKJV": "There is no speech nor language\nWhere their voice is not heard.",
+              "DRB": "There are no speeches nor languages, where their voices are not heard."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Their voice goes out into all the earth, their words to the ends of the world. In the heavens he has pitched a tent for the sun,",
+              "KJV": "Their line is gone out through all the earth, and their words to the end of the world. In them hath he set a tabernacle for the sun,",
+              "NASB95": "Their line has gone out through all the earth,\nAnd their utterances to the end of the world.\nIn them He has placed a tent for the sun,",
+              "NKJV": "Their line has gone out through all the earth,\nAnd their words to the end of the world. \nIn them He has set a tabernacle for the sun,",
+              "DRB": "Their sound hath gone forth into all the earth: and their words unto the ends of the world."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "which is like a bridegroom coming forth from his pavilion, like a champion rejoicing to run his course.",
+              "KJV": "Which is as a bridegroom coming out of his chamber, and rejoiceth as a strong man to run a race.",
+              "NASB95": "Which is as a bridegroom coming out of his chamber;\nIt rejoices as a strong man to run his course.",
+              "NKJV": "Which is like a bridegroom coming out of his chamber,\nAnd rejoices like a strong man to run its race.",
+              "DRB": "He hath set his tabernacle in the sun: and he, as a bridegroom coming out of his bride chamber, Hath rejoiced as a giant to run the way:"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "It rises at one end of the heavens and makes its circuit to the other; nothing is hidden from its heat.",
+              "KJV": "His going forth is from the end of the heaven, and his circuit unto the ends of it: and there is nothing hid from the heat thereof.",
+              "NASB95": "Its rising is from one end of the heavens,\nAnd its circuit to the other end of them;\nAnd there is nothing hidden from its heat.",
+              "NKJV": "Its rising is from one end of heaven,\nAnd its circuit to the other end;\nAnd there is nothing hidden from its heat.",
+              "DRB": "His going out is from the end of heaven, And his circuit even to the end thereof: and there is no one that can hide himself from his heat."
+            }
+          }
+        ]
+      },
+      {
+        "id": "joe_2_12_17",
+        "title": "Bridegroom and Bride Chamber",
+        "description": "",
+        "reference": {
+          "book": "Joel",
+          "chapter": 2,
+          "start": 12,
+          "end": 17
+        },
+        "rows": [
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "\"Even now,\" declares the LORD, \"return to me with all your heart, with fasting and weeping and mourning.\"",
+              "KJV": "Therefore also now, saith the Lord, turn ye even to me with all your heart, and with fasting, and with weeping, and with mourning:",
+              "NASB95": "\u201cYet even now,\u201d declares the Lord,\n\u201cReturn to Me with all your heart,\nAnd with fasting, weeping and mourning;",
+              "NKJV": "\u201cNow, therefore,\u201d says the Lord,\n\u201cTurn to Me with all your heart,\nWith fasting, with weeping, and with mourning.\u201d",
+              "DRB": "Now therefore saith the Lord: Be converted to me with all your heart, in fasting, and in weeping, and in mourning."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Rend your heart and not your garments. Return to the LORD your God, for he is gracious and compassionate, slow to anger and abounding in love, and he relents from sending calamity.",
+              "KJV": "And rend your heart, and not your garments, and turn unto the Lord your God: for he is gracious and merciful, slow to anger, and of great kindness, and repenteth him of the evil.",
+              "NASB95": "And rend your heart and not your garments.\u201d\nNow return to the Lord your God,\nFor He is gracious and compassionate,\nSlow to anger, abounding in lovingkindness\nAnd relenting of evil.",
+              "NKJV": "So rend your heart, and not your garments;\nReturn to the Lord your God,\nFor He is gracious and merciful,\nSlow to anger, and of great kindness;\nAnd He relents from doing harm.",
+              "DRB": "And rend your hearts, and not your garments, and turn to the Lord your God: for he is gracious and merciful, patient and rich in mercy, and ready to repent of the evil."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "Who knows? He may turn and have pity and leave behind a blessing- grain offerings and drink offerings for the LORD your God.",
+              "KJV": "Who knoweth if he will return and repent, and leave a blessing behind him; even a meat offering and a drink offering unto the Lord your God?",
+              "NASB95": "Who knows whether He will not turn and relent\nAnd leave a blessing behind Him,\nEven a grain offering and a drink offering\nFor the Lord your God?",
+              "NKJV": "Who knows if He will turn and relent,\nAnd leave a blessing behind Him\u2014\nA grain offering and a drink offering\nFor the Lord your God?",
+              "DRB": "Who knoweth but he will return, and forgive, and leave a blessing behind him, sacrifice and libation to the Lord your God?"
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Blow the trumpet in Zion, declare a holy fast, call a sacred assembly.",
+              "KJV": "Blow the trumpet in Zion, sanctify a fast, call a solemn assembly:",
+              "NASB95": "Blow a trumpet in Zion,\nConsecrate a fast, proclaim a solemn assembly,",
+              "NKJV": "Blow the trumpet in Zion,\nConsecrate a fast,\nCall a sacred assembly;",
+              "DRB": "Blow the trumpet in Sion, sanctify a fast, call a solemn assembly,"
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "Gather the people, consecrate the assembly; bring together the elders, gather the children, those nursing at the breast. Let the bridegroom leave his room and the bride her chamber.",
+              "KJV": "Gather the people, sanctify the congregation, assemble the elders, gather the children, and those that suck the breasts: let the bridegroom go forth of his chamber, and the bride out of her closet.",
+              "NASB95": "Gather the people, sanctify the congregation,\nAssemble the elders,\nGather the children and the nursing infants.\nLet the bridegroom come out of his room\nAnd the bride out of her bridal chamber.",
+              "NKJV": "Gather the people,\nSanctify the congregation,\nAssemble the elders,\nGather the children and nursing babes;\nLet the bridegroom go out from his chamber,\nAnd the bride from her dressing room.",
+              "DRB": "Gather together the people, sanctify the church, assemble the ancients, gather together the little ones, and them that suck at the breasts: let the bridegroom go forth from his bed, and the bride out of her bride chamber."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "Let the priests, who minister before the LORD, weep between the temple porch and the altar. Let them say, \"Spare your people, O LORD. Do not make your inheritance an object of scorn, a byword among the nations. Why should they say among the peoples, 'Where is their God?'\"",
+              "KJV": "Let the priests, the ministers of the Lord, weep between the porch and the altar, and let them say, Spare thy people, O Lord, and give not thine heritage to reproach, that the heathen should rule over them: wherefore should they say among the people, Where is their God?",
+              "NASB95": "Let the priests, the Lord\u2019s ministers,\nWeep between the porch and the altar,\nAnd let them say, \u201cSpare Your people, O Lord,\nAnd do not make Your inheritance a reproach,\nA byword among the nations.\nWhy should they among the peoples say,\n\u2018Where is their God?\u2019\u201d",
+              "NKJV": "Let the priests, who minister to the Lord,\nWeep between the porch and the altar;\nLet them say, \u201cSpare Your people, O Lord,\nAnd do not give Your heritage to reproach,\nThat the nations should rule over them.\nWhy should they say among the peoples,\n\u2018Where is their God?\u2019 \u201d",
+              "DRB": "Between the porch and the altar the priests the Lord's ministers shall weep, and shall say: Spare, O Lord, spare thy people: and give not thy inheritance to reproach, that the heathen should rule over them. Why should they say among the nations: Where is their God?"
+            }
+          }
+        ]
+      },
+      {
+        "id": "jhn_3_22_36",
+        "title": "Friend Attends the Bridegroom",
+        "description": "",
+        "reference": {
+          "book": "John",
+          "chapter": 3,
+          "start": 22,
+          "end": 36
+        },
+        "rows": [
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "After this, Jesus and his disciples went out into the Judean countryside, where he spent some time with them, and baptized.",
+              "KJV": "After these things came Jesus and his disciples into the land of Judaea; and there he tarried with them, and baptized.",
+              "NASB95": "After these things Jesus and His disciples came into the land of Judea, and there He was spending time with them and baptizing.",
+              "NKJV": "After these things Jesus and His disciples came into the land of Judea, and there He remained with them and baptized.",
+              "DRB": "After these things Jesus and his disciples came into the land of Judea: and there he abode with them, and baptized."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "Now John also was baptizing at Aenon near Salim, because there was plenty of water, and people were constantly coming to be baptized.",
+              "KJV": "And John also was baptizing in Aenon near to Salim, because there was much water there: and they came, and were baptized.",
+              "NASB95": "John also was baptizing in Aenon near Salim, because there was much water there; and people were coming and were being baptized\u2014",
+              "NKJV": "Now John also was baptizing in Aenon near Salim, because there was much water there. And they came and were baptized.",
+              "DRB": "And John also was baptizing in Ennon near Salim; because there was much water there; and they came and were baptized."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "(This was before John was put in prison.)",
+              "KJV": "For John was not yet cast into prison.",
+              "NASB95": "for John had not yet been thrown into prison.",
+              "NKJV": "For John had not yet been thrown into prison.",
+              "DRB": "For John was not yet cast into prison."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "An argument developed between some of John's disciples and a certain Jew over the matter of ceremonial washing.",
+              "KJV": "Then there arose a question between some of John's disciples and the Jews about purifying.",
+              "NASB95": "Therefore there arose a discussion on the part of John\u2019s disciples with a Jew about purification.",
+              "NKJV": "Then there arose a dispute between some of John\u2019s disciples and the Jews about purification.",
+              "DRB": "And there arose a question between some of John's disciples and the Jews concerning purification:"
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "They came to John and said to him, \"Rabbi, that man who was with you on the other side of the Jordan--the one you testified about--well, he is baptizing, and everyone is going to him.\"",
+              "KJV": "And they came unto John, and said unto him, Rabbi, he that was with thee beyond Jordan, to whom thou barest witness, behold, the same baptizeth, and all men come to him.",
+              "NASB95": "And they came to John and said to him, \u201cRabbi, He who was with you beyond the Jordan, to whom you have testified, behold, He is baptizing and all are coming to Him.\u201d",
+              "NKJV": "And they came to John and said to him, \u201cRabbi, He who was with you beyond the Jordan, to whom you have testified\u2014behold, He is baptizing, and all are coming to Him!\u201d",
+              "DRB": "And they came to John, and said to him: Rabbi, he that was with thee beyond the Jordan, to whom thou gavest testimony, behold he baptizeth, and all men come to him."
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "To this John replied, \"A man can receive only what is given him from heaven.",
+              "KJV": "John answered and said, A man can receive nothing, except it be given him from heaven.",
+              "NASB95": "John answered and said, \u201cA man can receive nothing unless it has been given him from heaven.",
+              "NKJV": "John answered and said, \u201cA man can receive nothing unless it has been given to him from heaven.",
+              "DRB": "John answered, and said: A man cannot receive any thing, unless it be given him from heaven."
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "You yourselves can testify that I said, 'I am not the Christ but am sent ahead of him.'",
+              "KJV": "Ye yourselves bear me witness, that I said, I am not the Christ, but that I am sent before him.",
+              "NASB95": "You yourselves are my witnesses that I said, \u2018I am not the Christ,\u2019 but, \u2018I have been sent ahead of Him.\u2019",
+              "NKJV": "You yourselves bear me witness, that I said, \u2018I am not the Christ,\u2019 but, \u2018I have been sent before Him.\u2019",
+              "DRB": "You yourselves do bear me witness, that I said, I am not Christ, but that I am sent before him."
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "The bride belongs to the bridegroom. The friend who attends the bridegroom waits and listens for him, and is full of joy when he hears the bridegroom's voice. That joy is mine, and it is now complete.",
+              "KJV": "He that hath the bride is the bridegroom: but the friend of the bridegroom, which standeth and heareth him, rejoiceth greatly because of the bridegroom's voice: this my joy therefore is fulfilled.",
+              "NASB95": "He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom\u2019s voice. So this joy of mine has been made full.",
+              "NKJV": "He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom\u2019s voice. Therefore this joy of mine is fulfilled.",
+              "DRB": "He that hath the bride, is the bridegroom: but the friend of the bridegroom, who standeth and heareth him, rejoiceth with joy because of the bridegroom's voice. This my joy therefore is fulfilled."
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "He must become greater; I must become less.",
+              "KJV": "He must increase, but I must decrease.",
+              "NASB95": "He must increase, but I must decrease.",
+              "NKJV": "He must increase, but I must decrease.",
+              "DRB": "He must increase, but I must decrease."
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "\"The one who comes from above is above all; the one who is from the earth belongs to the earth, and speaks as one from the earth. The one who comes from heaven is above all.",
+              "KJV": "He that cometh from above is above all: he that is of the earth is earthly, and speaketh of the earth: he that cometh from heaven is above all.",
+              "NASB95": "\u201cHe who comes from above is above all, he who is of the earth is from the earth and speaks of the earth. He who comes from heaven is above all.",
+              "NKJV": "He who comes from above is above all; he who is of the earth is earthly and speaks of the earth. He who comes from heaven is above all.",
+              "DRB": "He that cometh from above, is above all. He that is of the earth, of the earth he is, and of the earth he speaketh. He that cometh from heaven, is above all."
+            }
+          },
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "He testifies to what he has seen and heard, but no one accepts his testimony.",
+              "KJV": "And what he hath seen and heard, that he testifieth; and no man receiveth his testimony.",
+              "NASB95": "What He has seen and heard, of that He testifies; and no one receives His testimony.",
+              "NKJV": "And what He has seen and heard, that He testifies; and no one receives His testimony.",
+              "DRB": "And what he hath seen and heard, that he testifieth: and no man receiveth his testimony."
+            }
+          },
+          {
+            "verse": 33,
+            "texts": {
+              "NIV84": "The man who has accepted it has certified that God is truthful.",
+              "KJV": "He that hath received his testimony hath set to his seal that God is true.",
+              "NASB95": "He who has received His testimony has set his seal to this, that God is true.",
+              "NKJV": "He who has received His testimony has certified that God is true.",
+              "DRB": "He that hath received his testimony, hath set to his seal that God is true."
+            }
+          },
+          {
+            "verse": 34,
+            "texts": {
+              "NIV84": "For the one whom God has sent speaks the words of God, for God gives the Spirit without limit.",
+              "KJV": "For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure unto him.",
+              "NASB95": "For He whom God has sent speaks the words of God; for He gives the Spirit without measure.",
+              "NKJV": "For He whom God has sent speaks the words of God, for God does not give the Spirit by measure.",
+              "DRB": "For he whom God hath sent, speaketh the words of God: for God doth not give the Spirit by measure."
+            }
+          },
+          {
+            "verse": 35,
+            "texts": {
+              "NIV84": "The Father loves the Son and has placed everything in his hands.",
+              "KJV": "The Father loveth the Son, and hath given all things into his hand.",
+              "NASB95": "The Father loves the Son and has given all things into His hand.",
+              "NKJV": "The Father loves the Son, and has given all things into His hand.",
+              "DRB": "The Father loveth the Son: and he hath given all things into his hand."
+            }
+          },
+          {
+            "verse": 36,
+            "texts": {
+              "NIV84": "Whoever believes in the Son has eternal life, but whoever rejects the Son will not see life, for God's wrath remains on him.\"",
+              "KJV": "He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him.",
+              "NASB95": "He who believes in the Son has eternal life; but he who does not obey the Son will not see life, but the wrath of God abides on him.\u201d",
+              "NKJV": "He who believes in the Son has everlasting life; and he who does not believe the Son shall not see life, but the wrath of God abides on him.\u201d",
+              "DRB": "He that believeth in the Son, hath life everlasting; but he that believeth not the Son, shall not see life; but the wrath of God abideth on him."
+            }
+          }
+        ]
+      },
+      {
+        "id": "mat_9_14_17",
+        "title": "Guests of the Bridegroom",
+        "description": "",
+        "reference": {
+          "book": "Matthew",
+          "chapter": 9,
+          "start": 14,
+          "end": 17
+        },
+        "rows": [
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "Then John's disciples came and asked him, \"How is it that we and the Pharisees fast, but your disciples do not fast?\"",
+              "KJV": "Then came to him the disciples of John, saying, Why do we and the Pharisees fast oft, but thy disciples fast not?",
+              "NASB95": "Then the disciples of John came to Him, asking, \u201cWhy do we and the Pharisees fast, but Your disciples do not fast?\u201d",
+              "NKJV": "Then the disciples of John came to Him, saying, \u201cWhy do we and the Pharisees fast often, but Your disciples do not fast?\u201d",
+              "DRB": "Then came to him the disciples of John, saying: Why do we and the Pharisees fast often, but thy disciples do not fast?"
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Jesus answered, <span style='color:#952004; font-weight:600'>\"How can the guests of the bridegroom mourn while he is with them? The time will come when the bridegroom will be taken from them; then they will fast.</span>",
+              "KJV": "And Jesus said unto them, <span style='color:#952004; font-weight:600'>Can the children of the bridechamber mourn, as long as the bridegroom is with them? but the days will come, when the bridegroom shall be taken from them, and then shall they fast.</span>",
+              "NASB95": "And Jesus said to them, <span style='color:#952004; font-weight:600'>\u201cThe attendants of the bridegroom cannot mourn as long as the bridegroom is with them, can they? But the days will come when the bridegroom is taken away from them, and then they will fast.</span>",
+              "NKJV": "And Jesus said to them, <span style='color:#952004; font-weight:600'>\u201cCan the friends of the bridegroom mourn as long as the bridegroom is with them? But the days will come when the bridegroom will be taken away from them, and then they will fast.</span>",
+              "DRB": "And Jesus said to them: <span style='color:#952004; font-weight:600'>Can the children of the bridegroom mourn, as long as the bridegroom is with them? But the days will come, when the bridegroom shall be taken away from them, and then they shall fast.</span>"
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "\"<span style='color:#952004; font-weight:600'>No one sews a patch of unshrunk cloth on an old garment, for the patch will pull away from the garment, making the tear worse.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>No man putteth a piece of new cloth unto an old garment, for that which is put in to fill it up taketh from the garment, and the rent is made worse.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>But no one puts a patch of unshrunk cloth on an old garment; for the patch pulls away from the garment, and a worse tear results.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>No one puts a piece of unshrunk cloth on an old garment; for the patch pulls away from the garment, and the tear is made worse.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And nobody putteth a piece of raw cloth unto an old garment. For it taketh away the fullness thereof from the garment, and there is made a greater rent.</span>"
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Neither do men pour new wine into old wineskins. If they do, the skins will burst, the wine will run out and the wineskins will be ruined. No, they pour new wine into new wineskins, and both are preserved.\"</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Neither do men put new wine into old bottles: else the bottles break, and the wine runneth out, and the bottles perish: but they put new wine into new bottles, and both are preserved.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Nor do people put new wine into old wineskins; otherwise the wineskins burst, and the wine pours out and the wineskins are ruined; but they put new wine into fresh wineskins, and both are preserved.\u201d</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Nor do they put new wine into old wineskins, or else the wineskins break, the wine is spilled, and the wineskins are ruined. But they put new wine into new wineskins, and both are preserved.\u201d</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Neither do they put new wine into old bottles. Otherwise the bottles break, and the wine runneth out, and the bottles perish. But new wine they put into new bottles: and both are preserved.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "mrk_2_18_22",
+        "title": "Guests of the Bridegroom",
+        "description": "",
+        "reference": {
+          "book": "Mark",
+          "chapter": 2,
+          "start": 18,
+          "end": 22
+        },
+        "rows": [
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "Now John's disciples and the Pharisees were fasting. Some people came and asked Jesus, \"How is it that John's disciples and the disciples of the Pharisees are fasting, but yours are not?\"",
+              "KJV": "And the disciples of John and of the Pharisees used to fast: and they come and say unto him, Why do the disciples of John and of the Pharisees fast, but thy disciples fast not?",
+              "NASB95": "John\u2019s disciples and the Pharisees were fasting; and they came and said to Him, \u201cWhy do John\u2019s disciples and the disciples of the Pharisees fast, but Your disciples do not fast?\u201d",
+              "NKJV": "The disciples of John and of the Pharisees were fasting. Then they came and said to Him, \u201cWhy do the disciples of John and of the Pharisees fast, but Your disciples do not fast?\u201d",
+              "DRB": "And the disiples of John and the Pharisees used to fast; and they come and say to him: Why do the disciples of John and of the Pharisees fast; but thy disciples do not fast?"
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "Jesus answered, <span style='color:#952004; font-weight:600'>\"How can the guests of the bridegroom fast while he is with them? They cannot, so long as they have him with them.</span>",
+              "KJV": "And Jesus said unto them, <span style='color:#952004; font-weight:600'>Can the children of the bridechamber fast, while the bridegroom is with them? as long as they have the bridegroom with them, they cannot fast.</span>",
+              "NASB95": "And Jesus said to them, <span style='color:#952004; font-weight:600'>\u201cWhile the bridegroom is with them, the attendants of the bridegroom cannot fast, can they? So long as they have the bridegroom with them, they cannot fast.</span>",
+              "NKJV": "And Jesus said to them, <span style='color:#952004; font-weight:600'>\u201cCan the friends of the bridegroom fast while the bridegroom is with them? As long as they have the bridegroom with them they cannot fast.</span>",
+              "DRB": "And Jesus saith to them: <span style='color:#952004; font-weight:600'>Can the children of the marriage fast, as long as the bridegroom is with them? As long as they have the bridegroom with them, they cannot fast.</span>"
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>But the time will come when the bridegroom will be taken from them, and on that day they will fast.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>But the days will come when the bridegroom is taken away from them, and then they will fast in that day.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>But the days will come when the bridegroom will be taken away from them, and then they will fast in those days.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But the days will come when the bridegroom shall be taken away from them; and then they shall fast in those days.</span>"
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"No one sews a patch of unshrunk cloth on an old garment. If he does, the new piece will pull away from the old, making the tear worse.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>No man also seweth a piece of new cloth on an old garment: else the new piece that filled it up taketh away from the old, and the rent is made worse.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>\u201cNo one sews a patch of unshrunk cloth on an old garment; otherwise the patch pulls away from it, the new from the old, and a worse tear results.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>No one sews a piece of unshrunk cloth on an old garment; or else the new piece pulls away from the old, and the tear is made worse.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>No man seweth a piece of raw cloth to an old garment: otherwise the new piecing taketh away from the old, and there is made a greater rent.</span>"
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>And no one pours new wine into old wineskins. If he does, the wine will burst the skins, and both the wine and the wineskins will be ruined. No, he pours new wine into new wineskins.\"</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And no man putteth new wine into old bottles: else the new wine doth burst the bottles, and the wine is spilled, and the bottles will be marred: but new wine must be put into new bottles.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>No one puts new wine into old wineskins; otherwise the wine will burst the skins, and the wine is lost and the skins as well; but one puts new wine into fresh wineskins.\u201d</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>And no one puts new wine into old wineskins; or else the new wine bursts the wineskins, the wine is spilled, and the wineskins are ruined. But new wine must be put into new wineskins.\u201d</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And no man putteth new wine into old bottles: otherwise the wine will burst the bottles, and both the wine will be spilled, and the bottles will be lost. But new wine must be put into new bottles.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "luk_5_33_39",
+        "title": "Guests of the Bridegroom",
+        "description": "",
+        "reference": {
+          "book": "Luke",
+          "chapter": 5,
+          "start": 33,
+          "end": 39
+        },
+        "rows": [
+          {
+            "verse": 33,
+            "texts": {
+              "NIV84": "They said to him, \"John's disciples often fast and pray, and so do the disciples of the Pharisees, but yours go on eating and drinking.\"",
+              "KJV": "And they said unto him, Why do the disciples of John fast often, and make prayers, and likewise the disciples of the Pharisees; but thine eat and drink?",
+              "NASB95": "And they said to Him, \u201cThe disciples of John often fast and offer prayers, the disciples of the Pharisees also do the same, but Yours eat and drink.\u201d",
+              "NKJV": "Then they said to Him, \u201cWhy do the disciples of John fast often and make prayers, and likewise those of the Pharisees, but Yours eat and drink?\u201d",
+              "DRB": "And they said to him: Why do the disciples of John fast often, and make prayers, and the disciples of the Pharisees in like manner; but thine eat and drink?"
+            }
+          },
+          {
+            "verse": 34,
+            "texts": {
+              "NIV84": "Jesus answered, <span style='color:#952004; font-weight:600'>\"Can you make the guests of the bridegroom fast while he is with them?</span>",
+              "KJV": "And he said unto them, <span style='color:#952004; font-weight:600'>Can ye make the children of the bridechamber fast, while the bridegroom is with them?</span>",
+              "NASB95": "And Jesus said to them, <span style='color:#952004; font-weight:600'>\u201cYou cannot make the attendants of the bridegroom fast while the bridegroom is with them, can you?</span>",
+              "NKJV": "And He said to them, <span style='color:#952004; font-weight:600'>\u201cCan you make the friends of the bridegroom fast while the bridegroom is with them?</span>",
+              "DRB": "To whom he said: <span style='color:#952004; font-weight:600'>Can you make the children of the bridegroom fast, whilst the bridegroom is with them?</span>"
+            }
+          },
+          {
+            "verse": 35,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>But the time will come when the bridegroom will be taken from them; in those days they will fast.\"</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>But the days will come; and when the bridegroom is taken away from them, then they will fast in those days.\u201d</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>But the days will come when the bridegroom will be taken away from them; then they will fast in those days.\u201d</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But the days will come, when the bridegroom shall be taken away from them, then shall they fast in those days.</span>"
+            }
+          },
+          {
+            "verse": 36,
+            "texts": {
+              "NIV84": "He told them this parable: <span style='color:#952004; font-weight:600'>\"No one tears a patch from a new garment and sews it on an old one. If he does, he will have torn the new garment, and the patch from the new will not match the old.</span>",
+              "KJV": "And he spake also a parable unto them; <span style='color:#952004; font-weight:600'>No man putteth a piece of a new garment upon an old; if otherwise, then both the new maketh a rent, and the piece that was taken out of the new agreeth not with the old.</span>",
+              "NASB95": "And He was also telling them a parable: <span style='color:#952004; font-weight:600'>\u201cNo one tears a piece of cloth from a new garment and puts it on an old garment; otherwise he will both tear the new, and the piece from the new will not match the old.</span>",
+              "NKJV": "Then He spoke a parable to them: <span style='color:#952004; font-weight:600'>\u201cNo one puts a piece from a new garment on an old one; otherwise the new makes a tear, and also the piece that was taken out of the new does not match the old.</span>",
+              "DRB": "And he spoke also a similitude to them: <span style='color:#952004; font-weight:600'>That no man putteth a piece from a new garment upon an old garment; otherwise he both rendeth the new, and the piece taken from the new agreeth not with the old.</span>"
+            }
+          },
+          {
+            "verse": 37,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>And no one pours new wine into old wineskins. If he does, the new wine will burst the skins, the wine will run out and the wineskins will be ruined.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And no man putteth new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles shall perish.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>And no one puts new wine into old wineskins; otherwise the new wine will burst the skins and it will be spilled out, and the skins will be ruined.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>And no one puts new wine into old wineskins; or else the new wine will burst the wineskins and be spilled, and the wineskins will be ruined.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And no man putteth new wine into old bottle: otherwise the new wine will break the bottles, and it will be spilled, and the bottles will be lost.</span>"
+            }
+          },
+          {
+            "verse": 38,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>No, new wine must be poured into new wineskins.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But new wine must be put into new bottles; and both are preserved.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>But new wine must be put into fresh wineskins.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>But new wine must be put into new wineskins, and both are preserved.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But new wine must be put into new bottles; and both are preserved.</span>"
+            }
+          },
+          {
+            "verse": 39,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>And no one after drinking old wine wants the new, for he says, 'The old is better.'\"</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>No man also having drunk old wine straightway desireth new: for he saith, The old is better.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>And no one, after drinking old wine wishes for new; for he says, \u2018The old is good enough.\u2019\u201d</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>And no one, having drunk old wine, immediately desires new; for he says, \u2018The old is better.\u2019 \u201d</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And no man drinking old, hath presently a mind to new: for he saith, The old is better.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "mat_22_1_14",
+        "title": "Parable of the Wedding Banquet",
+        "description": "",
+        "reference": {
+          "book": "Matthew",
+          "chapter": 22,
+          "start": 1,
+          "end": 14
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Jesus spoke to them again in parables, saying:",
+              "KJV": "And Jesus answered and spake unto them again by parables, and said,",
+              "NASB95": "Jesus spoke to them again in parables, saying,",
+              "NKJV": "And Jesus answered and spoke to them again by parables and said:",
+              "DRB": "AND Jesus answering, spoke again in parables to them, saying:"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"The kingdom of heaven is like a king who prepared a wedding banquet for his son.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>The kingdom of heaven is like unto a certain king, which made a marriage for his son,</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>\u201cThe kingdom of heaven may be compared to a king who gave a wedding feast for his son.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cThe kingdom of heaven is like a certain king who arranged a marriage for his son,</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>The kingdom of heaven is likened to a king, who made a marriage for his son.</span>"
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>He sent his servants to those who had been invited to the banquet to tell them to come, but they refused to come.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And sent forth his servants to call them that were bidden to the wedding: and they would not come.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>And he sent out his slaves to call those who had been invited to the wedding feast, and they were unwilling to come.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>and sent out his servants to call those who were invited to the wedding; and they were not willing to come.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And he sent his servants, to call them that were invited to the marriage; and they would not come.</span>"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"Then he sent some more servants and said, 'Tell those who have been invited that I have prepared my dinner: My oxen and fattened cattle have been butchered, and everything is ready. Come to the wedding banquet.'</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Again, he sent forth other servants, saying, Tell them which are bidden, Behold, I have prepared my dinner: my oxen and my fatlings are killed, and all things are ready: come unto the marriage.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Again he sent out other slaves saying, \u2018Tell those who have been invited, \u201cBehold, I have prepared my dinner; my oxen and my fattened livestock are all butchered and everything is ready; come to the wedding feast.\u201d\u2019</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Again, he sent out other servants, saying, \u2018Tell those who are invited, \u201cSee, I have prepared my dinner; my oxen and fatted cattle are killed, and all things are ready. Come to the wedding.\u201d \u2019</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Again he sent other servants, saying: Tell them that were invited, Behold, I have prepared my dinner; my beeves and fatlings are killed, and all things are ready: come ye to the marriage.</span>"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"But they paid no attention and went off--one to his field, another to his business.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But they made light of it, and went their ways, one to his farm, another to his merchandise:</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>But they paid no attention and went their way, one to his own farm, another to his business,</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>But they made light of it and went their ways, one to his own farm, another to his business.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But they neglected, and went their own ways, one to his farm, and another to his merchandise.</span>"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>The rest seized his servants, mistreated them and killed them.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And the remnant took his servants, and entreated them spitefully, and slew them.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>and the rest seized his slaves and mistreated them and killed them.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>And the rest seized his servants, treated them spitefully, and killed them.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And the rest laid hands on his servants, and having treated them contumeliously, put them to death.</span>"
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>The king was enraged. He sent his army and destroyed those murderers and burned their city.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But when the king heard thereof, he was wroth: and he sent forth his armies, and destroyed those murderers, and burned up their city.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>But the king was enraged, and he sent his armies and destroyed those murderers and set their city on fire.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>But when the king heard about it, he was furious. And he sent out his armies, destroyed those murderers, and burned up their city.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But when the king had heard of it, he was angry, and sending his armies, he destroyed those murderers, and burnt their city.</span>"
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"Then he said to his servants, 'The wedding banquet is ready, but those I invited did not deserve to come.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Then saith he to his servants, The wedding is ready, but they which were bidden were not worthy.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Then he said to his slaves, \u2018The wedding is ready, but those who were invited were not worthy.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Then he said to his servants, \u2018The wedding is ready, but those who were invited were not worthy.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Then he saith to his servants: The marriage indeed is ready; but they that were invited were not worthy.</span>"
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Go to the street corners and invite to the banquet anyone you find.'</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Go ye therefore into the highways, and as many as ye shall find, bid to the marriage.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Go therefore to the main highways, and as many as you find there, invite to the wedding feast.\u2019</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Therefore go into the highways, and as many as you find, invite to the wedding.\u2019</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Go ye therefore into the highways; and as many as you shall find, call to the marriage.</span>"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>So the servants went out into the streets and gathered all the people they could find, both good and bad, and the wedding hall was filled with guests.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>So those servants went out into the highways, and gathered together all as many as they found, both bad and good: and the wedding was furnished with guests.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Those slaves went out into the streets and gathered together all they found, both evil and good; and the wedding hall was filled with dinner guests.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>So those servants went out into the highways and gathered together all whom they found, both bad and good. And the wedding hall was filled with guests.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And his servants going forth into the ways, gathered together all that they found, both bad and good: and the marriage was filled with guests.</span>"
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"But when the king came in to see the guests, he noticed a man there who was not wearing wedding clothes.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And when the king came in to see the guests, he saw there a man which had not on a wedding garment:</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>\u201cBut when the king came in to look over the dinner guests, he saw a man there who was not dressed in wedding clothes,</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cBut when the king came in to see the guests, he saw a man there who did not have on a wedding garment.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And the king went in to see the guests: and he saw there a man who had not on a wedding garment.</span>"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "'<span style='color:#952004; font-weight:600'>Friend,' he asked, 'how did you get in here without wedding clothes?' The man was speechless.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And he saith unto him, Friend, how camest thou in hither not having a wedding garment? And he was speechless.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>and he said to him, \u2018Friend, how did you come in here without wedding clothes?\u2019 And the man was speechless.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>So he said to him, \u2018Friend, how did you come in here without a wedding garment?\u2019 And he was speechless.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And he saith to him: Friend, how camest thou in hither not having a wedding garment? But he was silent.</span>"
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"Then the king told the attendants, 'Tie him hand and foot, and throw him outside, into the darkness, where there will be weeping and gnashing of teeth.</span>'",
+              "KJV": "<span style='color:#952004; font-weight:600'>Then said the king to the servants, Bind him hand and foot, and take him away, and cast him into outer darkness, there shall be weeping and gnashing of teeth.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Then the king said to the servants, \u2018Bind him hand and foot, and throw him into the outer darkness; in that place there will be weeping and gnashing of teeth.\u2019</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Then the king said to the servants, \u2018Bind him hand and foot, take him away, and cast him into outer darkness; there will be weeping and gnashing of teeth.\u2019</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Then the king said to the waiters: Bind his hands and feet, and cast him into the exterior darkness: there shall be weeping and gnashing of teeth.</span>"
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"For many are invited, but few are chosen.\"</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>For many are called, but few are chosen.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>For many are called, but few are chosen.\u201d</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cFor many are called, but few are chosen.\u201d</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>For many are called, but few are chosen.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "mat_25_1_13",
+        "title": "Parable of the Ten Virgins",
+        "description": "",
+        "reference": {
+          "book": "Matthew",
+          "chapter": 25,
+          "start": 1,
+          "end": 13
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"At that time the kingdom of heaven will be like ten virgins who took their lamps and went out to meet the bridegroom.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>\u201cThen the kingdom of heaven will be comparable to ten virgins, who took their lamps and went out to meet the bridegroom.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cThen the kingdom of heaven shall be likened to ten virgins who took their lamps and went out to meet the bridegroom.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>THEN shall the kingdom of heaven be like to ten virgins, who taking their lamps went out to meet the bridegroom and the bride.</span>"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Five of them were foolish and five were wise.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And five of them were wise, and five were foolish.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Five of them were foolish, and five were prudent.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Now five of them were wise, and five were foolish.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And five of them were foolish, and five wise.</span>"
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>The foolish ones took their lamps but did not take any oil with them.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>They that were foolish took their lamps, and took no oil with them:</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>For when the foolish took their lamps, they took no oil with them,</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Those who were foolish took their lamps and took no oil with them,</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But the five foolish, having taken their lamps, did not take oil with them:</span>"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>The wise, however, took oil in jars along with their lamps.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But the wise took oil in their vessels with their lamps.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>but the prudent took oil in flasks along with their lamps.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>but the wise took oil in their vessels with their lamps.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But the wise took oil in their vessels with the lamps.</span>"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>The bridegroom was a long time in coming, and they all became drowsy and fell asleep.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>While the bridegroom tarried, they all slumbered and slept.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Now while the bridegroom was delaying, they all got drowsy and began to sleep.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>But while the bridegroom was delayed, they all slumbered and slept.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And the bridegroom tarrying, they all slumbered and slept.</span>"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"At midnight the cry rang out: 'Here's the bridegroom! Come out to meet him!'</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>But at midnight there was a shout, \u2018Behold, the bridegroom! Come out to meet him.\u2019</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cAnd at midnight a cry was heard: \u2018Behold, the bridegroom is coming; go out to meet him!\u2019</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And at midnight there was a cry made: Behold the bridegroom cometh, go ye forth to meet him.</span>"
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"Then all the virgins woke up and trimmed their lamps.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Then all those virgins arose, and trimmed their lamps.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Then all those virgins rose and trimmed their lamps.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Then all those virgins arose and trimmed their lamps.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Then all those virgins arose and trimmed their lamps.</span>"
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>The foolish ones said to the wise, 'Give us some of your oil; our lamps are going out.'</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And the foolish said unto the wise, Give us of your oil; for our lamps are gone out.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>The foolish said to the prudent, \u2018Give us some of your oil, for our lamps are going out.\u2019</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>And the foolish said to the wise, \u2018Give us some of your oil, for our lamps are going out.\u2019</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And the foolish said to the wise: Give us of your oil, for our lamps are gone out.</span>"
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"'No,' they replied, 'there may not be enough for both us and you. Instead, go to those who sell oil and buy some for yourselves.'</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But the wise answered, saying, Not so; lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>But the prudent answered, \u2018No, there will not be enough for us and you too; go instead to the dealers and buy some for yourselves.\u2019</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>But the wise answered, saying, \u2018No, lest there should not be enough for us and you; but go rather to those who sell, and buy for yourselves.\u2019</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>The wise answered, saying: Lest perhaps there be not enough for us and for you, go ye rather to them that sell, and buy for yourselves.</span>"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"But while they were on their way to buy the oil, the bridegroom arrived. The virgins who were ready went in with him to the wedding banquet. And the door was shut.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>And while they were going away to make the purchase, the bridegroom came, and those who were ready went in with him to the wedding feast; and the door was shut.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>And while they went to buy, the bridegroom came, and those who were ready went in with him to the wedding; and the door was shut.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Now whilst they went to buy, the bridegroom came: and they that were ready, went in with him to the marriage, and the door was shut.</span>"
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"Later the others also came. 'Sir! Sir!' they said. 'Open the door for us!'</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Afterward came also the other virgins, saying, Lord, Lord, open to us.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Later the other virgins also came, saying, \u2018Lord, lord, open up for us.\u2019</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cAfterward the other virgins came also, saying, \u2018Lord, Lord, open to us!\u2019</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But at last come also the other virgins, saying: Lord, Lord, open to us.</span>"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"But he replied, 'I tell you the truth, I don't know you.'</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But he answered and said, Verily I say unto you, I know you not.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>But he answered, \u2018Truly I say to you, I do not know you.\u2019</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>But he answered and said, \u2018Assuredly, I say to you, I do not know you.\u2019</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But he answering said: Amen I say to you, I know you not.</span>"
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"Therefore keep watch, because you do not know the day or the hour.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Be on the alert then, for you do not know the day nor the hour.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cWatch therefore, for you know neither the day nor the hour in which the Son of Man is coming.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Watch ye therefore, because you know not the day nor the hour.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "luk_12_35_48",
+        "title": "Waiting for Master to Return",
+        "description": "",
+        "reference": {
+          "book": "Luke",
+          "chapter": 12,
+          "start": 35,
+          "end": 48
+        },
+        "rows": [
+          {
+            "verse": 35,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"Be dressed ready for service and keep your lamps burning,</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Let your loins be girded about, and your lights burning;</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>\u201cBe dressed in readiness, and keep your lamps lit.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cLet your waist be girded and your lamps burning;</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Let your loins be girt, and lamps burning in your hands.</span>"
+            }
+          },
+          {
+            "verse": 36,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>like men waiting for their master to return from a wedding banquet, so that when he comes and knocks they can immediately open the door for him.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And ye yourselves like unto men that wait for their lord, when he will return from the wedding; that when he cometh and knocketh, they may open unto him immediately.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Be like men who are waiting for their master when he returns from the wedding feast, so that they may immediately open the door to him when he comes and knocks.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>and you yourselves be like men who wait for their master, when he will return from the wedding, that when he comes and knocks they may open to him immediately.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And you yourselves like to men who wait for their lord, when he shall return from the wedding; that when he cometh and knocketh, they may open to him immediately.</span>"
+            }
+          },
+          {
+            "verse": 37,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>It will be good for those servants whose master finds them watching when he comes. I tell you the truth, he will dress himself to serve, will have them recline at the table and will come and wait on them.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Blessed are those servants, whom the lord when he cometh shall find watching: verily I say unto you, that he shall gird himself, and make them to sit down to meat, and will come forth and serve them.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Blessed are those slaves whom the master will find on the alert when he comes; truly I say to you, that he will gird himself to serve, and have them recline at the table, and will come up and wait on them.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Blessed are those servants whom the master, when he comes, will find watching. Assuredly, I say to you that he will gird himself and have them sit down to eat, and will come and serve them.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Blessed are those servants, whom the Lord when he cometh, shall find watching. Amen I say to you, that he will gird himself, and make them sit down to meat, and passing will minister unto them.</span>"
+            }
+          },
+          {
+            "verse": 38,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>It will be good for those servants whose master finds them ready, even if he comes in the second or third watch of the night.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And if he shall come in the second watch, or come in the third watch, and find them so, blessed are those servants.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Whether he comes in the second watch, or even in the third, and finds them so, blessed are those slaves.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>And if he should come in the second watch, or come in the third watch, and find them so, blessed are those servants.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And if he shall come in the second watch, or come in the third watch, and find them so, blessed are those servants.</span>"
+            }
+          },
+          {
+            "verse": 39,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>But understand this: If the owner of the house had known at what hour the thief was coming, he would not have let his house be broken into.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And this know, that if the goodman of the house had known what hour the thief would come, he would have watched, and not have suffered his house to be broken through.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>\u201cBut be sure of this, that if the head of the house had known at what hour the thief was coming, he would not have allowed his house to be broken into.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>But know this, that if the master of the house had known what hour the thief would come, he would have watched and not allowed his house to be broken into.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But this know ye, that if the householder did know at what hour the thief would come, he would surely watch, and would not suffer his house to be broken open.</span>"
+            }
+          },
+          {
+            "verse": 40,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>You also must be ready, because the Son of Man will come at an hour when you do not expect him.\"</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Be ye therefore ready also: for the Son of man cometh at an hour when ye think not.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>You too, be ready; for the Son of Man is coming at an hour that you do not expect.\u201d</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Therefore you also be ready, for the Son of Man is coming at an hour you do not expect.\u201d</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Be you then also ready: for at what hour you think not, the Son of man will come.</span>"
+            }
+          },
+          {
+            "verse": 41,
+            "texts": {
+              "NIV84": "Peter asked, \"Lord, are you telling this parable to us, or to everyone?\"",
+              "KJV": "Then Peter said unto him, Lord, speakest thou this parable unto us, or even to all?",
+              "NASB95": "Peter said, \u201cLord, are You addressing this parable to us, or to everyone else as well?\u201d",
+              "NKJV": "Then Peter said to Him, \u201cLord, do You speak this parable only to us, or to all people?\u201d",
+              "DRB": "And Peter said to him: Lord, dost thou speak this parable to us, or likewise to all?"
+            }
+          },
+          {
+            "verse": 42,
+            "texts": {
+              "NIV84": "The Lord answered, <span style='color:#952004; font-weight:600'>\"Who then is the faithful and wise manager, whom the master puts in charge of his servants to give them their food allowance at the proper time?</span>",
+              "KJV": "And the Lord said, <span style='color:#952004; font-weight:600'>Who then is that faithful and wise steward, whom his lord shall make ruler over his household, to give them their portion of meat in due season?</span>",
+              "NASB95": "And the Lord said, <span style='color:#952004; font-weight:600'>\u201cWho then is the faithful and sensible steward, whom his master will put in charge of his servants, to give them their rations at the proper time?</span>",
+              "NKJV": "And the Lord said, <span style='color:#952004; font-weight:600'>\u201cWho then is that faithful and wise steward, whom his master will make ruler over his household, to give them their portion of food in due season?</span>",
+              "DRB": "And the Lord said: <span style='color:#952004; font-weight:600'>Who (thinkest thou) is the faithful and wise steward, whom his lord setteth over his family, to give them their measure of wheat in due season?</span>"
+            }
+          },
+          {
+            "verse": 43,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>It will be good for that servant whom the master finds doing so when he returns.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Blessed is that servant, whom his lord when he cometh shall find so doing.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Blessed is that slave whom his master finds so doing when he comes.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Blessed is that servant whom his master will find so doing when he comes.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Blessed is that servant, whom when his lord shall come, he shall find so doing.</span>"
+            }
+          },
+          {
+            "verse": 44,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>I tell you the truth, he will put him in charge of all his possessions.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Of a truth I say unto you, that he will make him ruler over all that he hath.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Truly I say to you that he will put him in charge of all his possessions.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Truly, I say to you that he will make him ruler over all that he has.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Verily I say to you, he will set him over all that he possesseth.</span>"
+            }
+          },
+          {
+            "verse": 45,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>But suppose the servant says to himself, 'My master is taking a long time in coming,' and he then begins to beat the menservants and maidservants and to eat and drink and get drunk.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But and if that servant say in his heart, My lord delayeth his coming; and shall begin to beat the menservants and maidens, and to eat and drink, and to be drunken;</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>But if that slave says in his heart, \u2018My master will be a long time in coming,\u2019 and begins to beat the slaves, both men and women, and to eat and drink and get drunk;</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>But if that servant says in his heart, \u2018My master is delaying his coming,\u2019 and begins to beat the male and female servants, and to eat and drink and be drunk,</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But if that servant shall say in his heart: My lord is long a coming; and shall begin to strike the menservants and maidservants, and to eat and to drink and be drunk:</span>"
+            }
+          },
+          {
+            "verse": 46,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>The master of that servant will come on a day when he does not expect him and at an hour he is not aware of. He will cut him to pieces and assign him a place with the unbelievers.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>The lord of that servant will come in a day when he looketh not for him, and at an hour when he is not aware, and will cut him in sunder, and will appoint him his portion with the unbelievers.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>the master of that slave will come on a day when he does not expect him and at an hour he does not know, and will cut him in pieces, and assign him a place with the unbelievers.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>the master of that servant will come on a day when he is not looking for him, and at an hour when he is not aware, and will cut him in two and appoint him his portion with the unbelievers.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>The lord of that servant will come in the day that he hopeth not, and at the hour that he knoweth not, and shall separate him, and shall appoint him his portion with unbelievers.</span>"
+            }
+          },
+          {
+            "verse": 47,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"That servant who knows his master's will and does not get ready or does not do what his master wants will be beaten with many blows.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And that servant, which knew his lord's will, and prepared not himself, neither did according to his will, shall be beaten with many stripes.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>And that slave who knew his master\u2019s will and did not get ready or act in accord with his will, will receive many lashes,</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>And that servant who knew his master\u2019s will, and did not prepare himself or do according to his will, shall be beaten with many stripes.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And that servant who knew the will of his lord, and prepared not himself, and did not according to his will, shall be beaten with many stripes.</span>"
+            }
+          },
+          {
+            "verse": 48,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>But the one who does not know and does things deserving punishment will be beaten with few blows. From everyone who has been given much, much will be demanded; and from the one who has been entrusted with much, much more will be asked.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But he that knew not, and did commit things worthy of stripes, shall be beaten with few stripes. For unto whomsoever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>but the one who did not know it, and committed deeds worthy of a flogging, will receive but few. From everyone who has been given much, much will be required; and to whom they entrusted much, of him they will ask all the more.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>But he who did not know, yet committed things deserving of stripes, shall be beaten with few. For everyone to whom much is given, from him much will be required; and to whom much has been committed, of him they will ask the more.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But he that knew not, and did things worthy of stripes, shall be beaten with few stripes. And unto whomsoever much is given, of him much shall be required: and to whom they have committed much, of him they will demand the more.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rev_18_23",
+        "title": "Final End of Bride and Bridegroom",
+        "description": "",
+        "reference": {
+          "book": "Revelation",
+          "chapter": 18,
+          "start": 23,
+          "end": 23
+        },
+        "rows": [
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "The light of a lamp will never shine in you again. The voice of bridegroom and bride will never be heard in you again. Your merchants were the world's great men. By your magic spell all the nations were led astray.",
+              "KJV": "And the light of a candle shall shine no more at all in thee; and the voice of the bridegroom and of the bride shall be heard no more at all in thee: for thy merchants were the great men of the earth; for by thy sorceries were all nations deceived.",
+              "NASB95": "and the light of a lamp will not shine in you any longer; and the voice of the bridegroom and bride will not be heard in you any longer; for your merchants were the great men of the earth, because all the nations were deceived by your sorcery.",
+              "NKJV": "The light of a lamp shall not shine in you anymore, and the voice of bridegroom and bride shall not be heard in you anymore. For your merchants were the great men of the earth, for by your sorcery all the nations were deceived.",
+              "DRB": "And the light of the lamp shall shine no more at all in thee; and the voice of the bridegroom and the bride shall be heard no more at all in thee: for thy merchants were the great men of the earth, for all nations have been deceived by thy enchantments."
+            }
+          }
+        ]
+      },
+      {
+        "id": "isa_25_6_8",
+        "title": "Death Swallowed Forever",
+        "description": "",
+        "reference": {
+          "book": "Isaiah",
+          "chapter": 25,
+          "start": 6,
+          "end": 8
+        },
+        "rows": [
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "On this mountain the LORD Almighty will prepare a feast of rich food for all peoples, a banquet of aged wine- the best of meats and the finest of wines.",
+              "KJV": "And in this mountain shall the Lord of hosts make unto all people a feast of fat things, a feast of wines on the lees, of fat things full of marrow, of wines on the lees well refined.",
+              "NASB95": "The Lord of hosts will prepare a lavish banquet for all peoples on this mountain;\nA banquet of aged wine, choice pieces with marrow,\nAnd refined, aged wine.",
+              "NKJV": "And in this mountain\nThe Lord of hosts will make for all people\nA feast of choice pieces,\nA feast of wines on the lees,\nOf fat things full of marrow,\nOf well-refined wines on the lees.",
+              "DRB": "And the Lord of hosts shall make unto all people in this mountain, a feast of fat things, a feast of wine, of fat things full of marrow, of wine purified from the lees."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "On this mountain he will destroy the shroud that enfolds all peoples, the sheet that covers all nations;",
+              "KJV": "And he will destroy in this mountain the face of the covering cast over all people, and the vail that is spread over all nations.",
+              "NASB95": "And on this mountain He will swallow up the covering which is over all peoples,\nEven the veil which is stretched over all nations.",
+              "NKJV": "And He will destroy on this mountain\nThe surface of the covering cast over all people,\nAnd the veil that is spread over all nations.",
+              "DRB": "And he shall destroy in this mountain the face of the bond with which all pie were tied, and the web that he over all nations."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "he will swallow up death forever. The Sovereign LORD will wipe away the tears from all faces; he will remove the disgrace of his people from all the earth. The LORD has spoken.",
+              "KJV": "He will swallow up death in victory; and the Lord God will wipe away tears from off all faces; and the rebuke of his people shall he take away from off all the earth: for the Lord hath spoken it.",
+              "NASB95": "He will swallow up death for all time,\nAnd the Lord God will wipe tears away from all faces,\nAnd He will remove the reproach of His people from all the earth;\nFor the Lord has spoken.",
+              "NKJV": "He will swallow up death forever,\nAnd the Lord God will wipe away tears from all faces;\nThe rebuke of His people\nHe will take away from all the earth;\nFor the Lord has spoken.",
+              "DRB": "He shall cast death down headlong forever: and the Lord God shall wipe away tears from every face, and the reproach of his people he shall take away from off the whole earth: for the Lord hath spoken it."
+            }
+          }
+        ]
+      },
+      {
+        "id": "rev_22_17_19",
+        "title": "The Spirit and the Bride",
+        "description": "",
+        "reference": {
+          "book": "Revelation",
+          "chapter": 22,
+          "start": 17,
+          "end": 19
+        },
+        "rows": [
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "The Spirit and the bride say, \"Come!\" And let him who hears say, \"Come!\" Whoever is thirsty, let him come; and whoever wishes, let him take the free gift of the water of life.",
+              "KJV": "And the Spirit and the bride say, Come. And let him that heareth say, Come. And let him that is athirst come. And whosoever will, let him take the water of life freely.",
+              "NASB95": "The Spirit and the bride say, \u201cCome.\u201d And let the one who hears say, \u201cCome.\u201d And let the one who is thirsty come; let the one who wishes take the water of life without cost.",
+              "NKJV": "And the Spirit and the bride say, \u201cCome!\u201d And let him who hears say, \u201cCome!\u201d And let him who thirsts come. Whoever desires, let him take the water of life freely.",
+              "DRB": "And the spirit and the bride say: Come. And he that heareth, let him say: Come. And he that thirsteth, let him come: and he that will, let him take the water of life, freely."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "I warn everyone who hears the words of the prophecy of this book: If anyone adds anything to them, God will add to him the plagues described in this book.",
+              "KJV": "For I testify unto every man that heareth the words of the prophecy of this book, If any man shall add unto these things, God shall add unto him the plagues that are written in this book:",
+              "NASB95": "I testify to everyone who hears the words of the prophecy of this book: if anyone adds to them, God will add to him the plagues which are written in this book;",
+              "NKJV": "For I testify to everyone who hears the words of the prophecy of this book: If anyone adds to these things, God will add to him the plagues that are written in this book;",
+              "DRB": "For I testify to every one that heareth the words of the prophecy of this book: If any man shall add to these things, God shall add unto him the plagues written in this book."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "And if anyone takes words away from this book of prophecy, God will take away from him his share in the tree of life and in the holy city, which are described in this book.",
+              "KJV": "And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and from the things which are written in this book.",
+              "NASB95": "and if anyone takes away from the words of the book of this prophecy, God will take away his part from the tree of life and from the holy city, which are written in this book.",
+              "NKJV": "and if anyone takes away from the words of the book of this prophecy, God shall take away his part from the Book of Life, from the holy city, and from the things which are written in this book.",
+              "DRB": "And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and from these things that are written in this book."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
