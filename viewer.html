@@ -11,7 +11,6 @@
 /* ============================================================
 BASE LAYOUT (3-PANEL SYSTEM)
 ============================================================ */
-
 body{
 margin:0;
 padding: 0.25rem;
@@ -55,7 +54,6 @@ box-sizing:border-box;
 /* ============================================================
 PANEL VISIBILITY CONTROL BECOMES: DRAWER VISIBILITY CONTROL
 ============================================================ */
-
 /* Used instead of inline style.display="none"
    Keeps layout engine stable for mobile + desktop */
 .panel-hidden{
@@ -79,47 +77,32 @@ background:#fff;  /* This prevents visual transparency issues and reinforces blo
 /* ============================================================
 CENTER PANEL (MAIN CONTENT) BECOMES: VIEWING AREA (MAIN CONTENT)
 ============================================================ */
-
 .center-panel{
 flex:1;
 min-width:0;
-min-height:0; /* page scroll */
-border:0px solid #000080; /* old color #0038b8 #fff */
+min-height:0; /* Allows internal page scroll */
+border:0 solid #000080; /* old color #0038b8 #fff */
 border-radius:var(--border-radius-lg);
 padding:0.25rem; /* This creates internal content padding inside each panel NOT layout spacing */
 box-sizing:border-box;
 overflow:auto; /* ensures ONLY center scroll exists */
 }
 
-/* ========== CENTER PANEL BECOMES: VIEWER SCROLLBAR SETTINGS ========== */
-
-.center-panel{  /* Hides the scrollbar (Firefox) */
-scrollbar-width:none; 
-}
-
-.center-panel::-webkit-scrollbar{ /* Hides the scrollbar */
-width:0px;
-height:0px;
-}
-
 /* ========== CENTER PANEL BECOMES: VIEWER SCROLLBAR VISIBLE/HIDDEN ========== */
-
-/* DEFAULT STATE (scrollbar hidden) */
-.center-panel{
+.center-panel{ /* Hides the scrollbar (Firefox) */
 scrollbar-width:none;
 }
 
-.center-panel::-webkit-scrollbar{
+.center-panel::-webkit-scrollbar{ /* Hides the scrollbar (Chrome/Edge/Safari) */
 width:0;
 height:0;
 }
 
-/* ON STATE (scrollbar visible) */
-.center-panel.show-scrollbar{
+.center-panel.show-scrollbar{ /* Shows the scrollbar (Firefox) */
 scrollbar-width:auto;
 }
 
-.center-panel.show-scrollbar::-webkit-scrollbar{
+.center-panel.show-scrollbar::-webkit-scrollbar{  /* Shows the scrollbar (Chrome/Edge/Safari) */
 width:8px;
 height:8px;
 }
@@ -311,7 +294,6 @@ min-width: 0;             /* prevents content (emoji/buttons) from expanding the
 
 /* ============================================================
 VERSE TOOLBAR ROW: LOCKED GEOMETRY (OPTION B CORE FIX)
-
 - stops flex rebalancing
 - prevents width recalculation jitter
 - makes toolbar row follow verse row layout instead of competing
@@ -518,8 +500,8 @@ gap:0.5rem;           /* consistent spacing */
 
 .study-toolbar-right button,
 .study-toolbar-right label{
-    display:flex;
-    align-items:center;
+display:flex;
+align-items:center;
 }
 
 .study-toolbar-center{
@@ -567,7 +549,6 @@ background: #fff;
 color: #000080;
 cursor: pointer;
 }
-
 /* END: STUDY TOOLBAR */
 
 /* ============================================================
@@ -905,9 +886,6 @@ let debugOverlayVisible=true;
 /* persistent UI bindings object */
 let ui = {studySelect: null};
 
-let navbarHidden = false;
-let navbarClosedByUser = false;
-
 /* ============================================================
 VERSE TOOLBAR CELL STATE SYSTEM
 ============================================================ */
@@ -936,41 +914,19 @@ const VERSE_TOOLBAR_STATE = { /* action state */
 
 /* ============================================================
 VERSE TOOLBAR ROW STATE
-============================================================ 
-
-// Tracks which verse currently has its actions row open
-// Format: Book|Chapter|Verse
-let activeActionsKey=null;*/
-
-/* ============================================================
-VERSE TOOLBAR STATE TRANSITION LOGIC
-============================================================ */
-
-/*
-    Handles cycling behavior for action cells:
-
-    CLOSED → OPEN → PINNED → PINNED ...
-
-    This replaces ALL previous toggle logic and
-    removes the need for row-level "active key" tracking.
-*/
+============================================================*/
 function nextVerseToolbarState(currentState){
-
     if(currentState === VERSE_TOOLBAR_STATE.CLOSED){
         return VERSE_TOOLBAR_STATE.OPEN;
     }
-
     if(currentState === VERSE_TOOLBAR_STATE.OPEN){
         return VERSE_TOOLBAR_STATE.PINNED;
     }
-
     if(currentState === VERSE_TOOLBAR_STATE.PINNED){
     return VERSE_TOOLBAR_STATE.OPEN;
 }
-
     return VERSE_TOOLBAR_STATE.CLOSED;
 }
-
 /*
     Hard reset used by Close button.
     Always fully clears state.
@@ -982,15 +938,11 @@ function closeVerseToolbarState(){
 /* ============================================================
 DEBUG OVERLAY
 ============================================================ */
-
 function initDebugOverlay(){
-
     let debug=document.getElementById("debugOverlay");
-
     if(!debug){
         debug=document.createElement("div");
         debug.id="debugOverlay";
-
         debug.style.position="fixed";
         debug.style.bottom="10px";
         debug.style.right="10px";
@@ -1002,37 +954,27 @@ function initDebugOverlay(){
         debug.style.fontFamily="monospace";
         debug.style.borderRadius="6px";
         debug.style.pointerEvents="none";
-
         document.body.appendChild(debug);
-
         debug.style.display=
             debugOverlayVisible ? "block" : "none";
     }
-
     return debug;
 }
 /* ============================================================
 DEBUG OVERLAY TOGGLE ON/OFF
 ============================================================ */
 function toggleDebugOverlay(){
-
     debugOverlayVisible=!debugOverlayVisible;
-
     const debug=document.getElementById("debugOverlay");
-
     if(debug){
-
         debug.style.display=
             debugOverlayVisible ? "block" : "none";
-
     }
-
 }
 
 /* ============================================================
 LAYOUT SNAPSHOT
 ============================================================ */
-
 function createLayoutSnapshot(){
     return {
         width:window.innerWidth,
@@ -1044,32 +986,8 @@ function createLayoutSnapshot(){
 }
 
 /* ============================================================
-VERSE TOOLBAR KEY GENERATOR
-============================================================ */
-/*
-    Builds unique key per version-cell.
-
-    This must match your rendering structure exactly.
-*/
-function getVerseToolbarKey(version, block, row){
-
-    return `${version}|${block.reference.book}|${block.reference.chapter}|${row.verse}`;
-}
-
-/* ============================================================
-VERSE KEY GENERATOR
-============================================================ */
-
-function getVerseKey(block,row){
-
-    return `${block.reference.book}|${block.reference.chapter}|${row.verse}`;
-
-}
-
-/* ============================================================
 ACTION ROW VISIBILITY ENGINE (STATE-DRIVEN, FIXED)
 ============================================================
-
 RULES:
 - CLOSED  → hidden, transparent cell
 - OPEN    → visible, default background/border
@@ -1079,9 +997,7 @@ NOTE:
 - Uses actionState map as single source of truth
 - CSS handles visual styling; JS only toggles visibility classes
 ============================================================ */
-
 function updateVerseToolbarVisibility(){
-
     /* ============================================================
     CELL TOOLBAR VISIBILITY (ONLY RESPONSIBILITY OF THIS FUNCTION)
     ============================================================
@@ -1089,30 +1005,24 @@ function updateVerseToolbarVisibility(){
     - Uses verseToolbarState map only
     ============================================================ */
     document.querySelectorAll(".verse-toolbar-container").forEach(container => {
-
         if(!container || !container.dataset) return;
-
         const key = container.dataset.verseToolbarKey;
         if(!key) return;
-
         /* ============================================================
         VISIBILITY RESOLUTION (SINGLE SOURCE OF TRUTH)
         ============================================================ */
         const state = verseToolbarState[key] || VERSE_TOOLBAR_STATE.CLOSED;
-
         /* CLOSED STATE */
         if(state === VERSE_TOOLBAR_STATE.CLOSED){
             container.classList.add("verse-toolbar-closed");
             return; // do not touch visible styling for CLOSED
         }
-
         /* OPEN / PINNED STATE */
         if(state === VERSE_TOOLBAR_STATE.OPEN || state === VERSE_TOOLBAR_STATE.PINNED){
             container.classList.remove("verse-toolbar-closed");
             return; // visible toolbars use CSS background/border
         }
     });
-
 }
 /* ============================================================
 END ACTION ROW VISIBILITY ENGINE (STATE-DRIVEN, FIXED)
@@ -1121,40 +1031,29 @@ END ACTION ROW VISIBILITY ENGINE (STATE-DRIVEN, FIXED)
 /* ============================================================
 VISIBLE VERSIONS
 ============================================================ */
-
 function getVisibleVersions(){
     return versions.slice(windowStart, windowStart + windowSize);
 }
 
-
 /* ============================================================
 CORE RENDER
 ============================================================ */
-
 function renderApp(){
-
     const layout=createLayoutSnapshot();
-
     syncWindowToLayout(layout);
-
     const dpr=layout.dpr;
     const cssWidth=layout.width;
     const physicalWidth=Math.round(cssWidth*dpr);
-
     const computedColumns=calculateColumnCount(layout);
-
     const visibleVersions=getVisibleVersions();
-
     const centerPanel=document.querySelector(".center-panel");
     const leftPanel=document.querySelector(".left-panel");
     const rightPanel=document.querySelector(".right-panel");
     const headerEl=document.querySelector(".header");
-
     const leftPanelWidth=leftPanel?Math.round(leftPanel.getBoundingClientRect().width):0;
     const rightPanelWidth=rightPanel?Math.round(rightPanel.getBoundingClientRect().width):0;
     const centerPanelWidth=centerPanel?Math.round(centerPanel.getBoundingClientRect().width):0;
     const headerWidth=headerEl?Math.round(headerEl.getBoundingClientRect().width):0;
-
     const debug=document.getElementById("debugOverlay");
 
 /* ============================================================
@@ -1183,31 +1082,24 @@ DEBUG STATE SNAPSHOT EXTENSION (NON-BREAKING)
         ACTIVE TOOLBAR CELLS: ${Object.keys(verseToolbarState).length}
         `;
     }
-
         renderStructure();
         updateVisibleColumns();
 
         /* ============================================================
         POST RENDER PHASE (SAFE DOM SYNC)
         ============================================================ */
-
         requestAnimationFrame(() => {
-
             attachReferenceClickHandlers();
 
         });
-
         // update bottom viewer navbar after every render
         updateViewerNavbar();
-
         }
 
 /* ============================================================
 PANEL TOGGLES
 ============================================================ */
-
 function toggleLeftPanel(){
-
     leftPanelCollapsed=!leftPanelCollapsed;
     const panel=document.querySelector(".left-panel");
     if(panel){
@@ -1230,67 +1122,48 @@ function toggleRightPanel(){
 /* ============================================================
 LOAD STUDY
 ============================================================ */
-
 async function loadSelectedStudy(){
-
     const studyId=document.getElementById("studySelect").value;
-
     currentStudy = studyId;
-
     study = await (
         await fetch(
             `./data/bible_studies/${studyId}/${studyId}.json?cacheBust=${Date.now()}`
         )
     ).json();
-
     try {
-
         highlights = await (
             await fetch(
                 `./data/bible_studies/${studyId}/highlights.json?cacheBust=${Date.now()}`
             )
         ).json();
-
     } catch(e){
         highlights={};
     }
-
     try {
         keywords = await (
             await fetch(
                 `./data/bible_studies/${studyId}/keywords.json?cacheBust=${Date.now()}`
             )
         ).json();
-
     } catch(e){
         keywords={};
     }
-
     versions = study.scripture?.versions || [];
-
     windowStart=0;
-
     document.title =
         `Bible Study Viewer - ${study.scripture?.header?.title || studyId}`;
-
     renderApp();
-
     resetScroll();
 }
 
 /* ============================================================
 COLUMN ENGINE
 ============================================================ */
-
 function calculateColumnCount(layout){
-
     const width=layout.width;
-
     let base=1;
-
     const isMobilePortrait = width <= 600;
     const isMobileLandscape = width > 600 && width <= 900;
-
     if(isMobilePortrait){
         base=1;
     }
@@ -1303,17 +1176,12 @@ function calculateColumnCount(layout){
     else{
         base=4;
     }
-
     let bonus=0;
-
     if(layout.leftCollapsed) bonus++;
     if(layout.rightCollapsed) bonus++;
-
     let total=base+bonus;
-
     if(total<1) total=1;
     if(total>6) total=6;
-
     return total;
 }
 
@@ -1324,12 +1192,10 @@ function syncWindowToLayout(layout){
 /* ============================================================
 RENDER STRUCTURE (STUDY JSON FORMAT)
 ============================================================ */
-
 function renderStructure(){
-
     const app=document.getElementById("app");
-    app.innerHTML="";
 
+    app.innerHTML="";
     /*const header=document.createElement("div");
     header.className="header";
 
@@ -1342,72 +1208,45 @@ function renderStructure(){
         app.innerHTML = "NO SCRIPTURE BLOCKS FOUND";
         return;
     }
-
     study.scripture.blocks.forEach((block)=>{
-
         const section=document.createElement("section");
-
         const titleEl=document.createElement("div");
-
         titleEl.className="block-title";
-
         const reference =
             block.reference.start === block.reference.end
                 ? `${block.reference.book} ${block.reference.chapter}:${block.reference.start}`
                 : `${block.reference.book} ${block.reference.chapter}:${block.reference.start}-${block.reference.end}`;
-
         titleEl.textContent =
             `${reference} - ${block.title}`;
-
         section.appendChild(titleEl);
-
         for(const row of block.rows){
-
             const rowEl=document.createElement("div");
-
             rowEl.className="row";
-
             rowEl.rowData=row;
-
             rowEl.blockData=block;
-
             const verseToolbarRow=document.createElement("div");
-
             verseToolbarRow.className="row verse-toolbar-row";
-
             verseToolbarRow.rowData=row;
-
             verseToolbarRow.blockData=block;
-
             section.appendChild(rowEl);
-
             section.appendChild(verseToolbarRow);
         }
         app.appendChild(section);
-
     });
 }
 
 /* ============================================================
 COLUMN POPULATION (WITH ACTION ROW SUPPORT)
 ============================================================ */
-
 function updateVisibleColumns(){
-
     const visible=getVisibleVersions();
-
     document.querySelectorAll(".row").forEach(rowEl=>{
-
         const fragment=document.createDocumentFragment();
-
         const row=rowEl.rowData;
         const block=rowEl.blockData;
-
         const isVerseToolbarRow=rowEl.classList.contains("verse-toolbar-row");
-
         if(isVerseToolbarRow){
-
-            /*
+                /*
                 ============================================================
                 VERSE TOOLBAR ROW RENDER (STATE-DRIVEN, NO DOM SCANNING)
 
@@ -1418,38 +1257,27 @@ function updateVisibleColumns(){
 
                 KEY FORMAT:
                 VERSION|BOOK|CHAPTER|VERSE
-                ============================================================
-            */
-
+                ============================================================ 
+                */
             const verseBase = `${block.reference.book}|${block.reference.chapter}|${row.verse}`;
-
             const visibleVersions = getVisibleVersions();
-
             let rowHasActiveState = false;
-
             for(const v of visibleVersions){
-
                 const key = `${v}|${verseBase}`;
-
                 const state = verseToolbarState[key] ?? VERSE_TOOLBAR_STATE.CLOSED;
-
                 if(state !== VERSE_TOOLBAR_STATE.CLOSED){
                     rowHasActiveState = true;
                     break;
                 }
             }
-
             /*
                 ============================================================
                 BUILD ACTION CELLS (UNCHANGED STRUCTURE, NO LOGIC CHANGE)
                 ============================================================
             */
-
             for(const v of visibleVersions){
-
                 const cell=document.createElement("div");
                 cell.className="cell";
-
                 /*
     VERSE TOOLBAR HTML STRUCTURE
 
@@ -1512,7 +1340,6 @@ function updateVisibleColumns(){
 
                     </div>
                 `;
-
                 fragment.appendChild(cell);
             }
 
@@ -1521,9 +1348,7 @@ function updateVisibleColumns(){
                 FINAL ROW VISIBILITY DECISION (STATE ONLY)
                 ============================================================
             */
-
             rowEl.replaceChildren(fragment);
-
             /*
                 ROW VISIBILITY DECISION
                 - hide entire toolbar row if no toolbar is open/pinned
@@ -1534,24 +1359,17 @@ function updateVisibleColumns(){
             }else{
                 rowEl.style.display="none";
             }
-
             return;
         }
-
         for(const v of visible){
-
             const cell=document.createElement("div");
             cell.className="cell";
-
             const highlightKey =
             `${block.reference.book}|${block.reference.chapter}|${row.verse}`;
-
             const highlight=highlights?.[highlightKey];
             const highlightColor=highlight?.color;
-
             const temp=document.createElement("div");
             temp.innerHTML=row.texts?.[v]??"[missing]";
-
             temp.querySelectorAll("span").forEach(span=>{
                 if(span.getAttribute("style")?.includes("#952004")){
                     span.classList.add("jesus-words");
@@ -1575,10 +1393,8 @@ function updateVisibleColumns(){
 
             fragment.appendChild(cell);
         }
-
         rowEl.replaceChildren(fragment);
     });
-
         // APPLY CURRENT VERSE TOOLBAR STATE AFTER DOM REBUILD
         updateVerseToolbarVisibility();
 }
@@ -1586,7 +1402,6 @@ function updateVisibleColumns(){
 /* ============================================================
 NAVIGATION
 ============================================================ */
-
 function moveLeft(){
     if(windowStart<versions.length-windowSize){
         windowStart++;
@@ -1605,9 +1420,7 @@ function moveRight(){
 VIEWER NAVBAR KEYBOARD NAVIGATION
 ============================================================ */
 function handleViewerKeyboardNavigation(e){
-
     const active = document.activeElement;
-
     if (
         active &&
         (
@@ -1634,12 +1447,9 @@ function handleViewerKeyboardNavigation(e){
 SCROLLBAR
 ============================================================ */
 function toggleScrollbar(){
-
     const center=document.querySelector(".center-panel");
     if(!center)return;
-
     scrollbarVisible=!scrollbarVisible;
-
     if(scrollbarVisible){
         center.classList.add("show-scrollbar");
     }else{
@@ -1656,25 +1466,17 @@ function resetScroll(){
 RESIZE
 ============================================================ */
 window.addEventListener("resize",()=>{
-
     clearTimeout(resizeTimer);
-
     resizeTimer=setTimeout(()=>{
-
         renderApp();
-
         positionTOC();
-
         // PHASE 4: keep navbar label responsive
         updateViewerNavbar();
-
     },120);
-
 });
 
 /* ============================================================
 ACTION BUTTON EVENT DELEGATION (STATE SYSTEM - FIXED)
-
 SYSTEM BEHAVIOR:
 - Every action button click resolves to a single action key
 - That key is used for ALL state updates
@@ -1685,27 +1487,23 @@ document.addEventListener("keydown", (e) => {
     if (e.key.toLowerCase() === "n") {
         const navbar = document.querySelector(".viewer-navbar");
         if (!navbar) return;
-
         // 🔓 unlock navbar
         navbar.dataset.locked = "false";
         navbar.classList.remove("hidden");
     }
 });
 document.addEventListener("click", function(e){
-
     /*
     Find clicked verse toolbar button (only responds to .verse-toolbar-btn)
     */
     const btn = e.target.closest(".verse-toolbar-btn");
     if(!btn) return;
-
     /*
     Find containing verse toolbar container
     This is REQUIRED for retrieving toolbar dataset key
     */
     const container = btn.closest(".verse-toolbar-container");
     if(!container) return;
-
     /*
     PRIMARY TOOLBAR STATE KEY (single source of truth)
     Format:
@@ -1713,7 +1511,6 @@ document.addEventListener("click", function(e){
     */
     const key = container.dataset.verseToolbarKey;
     if(!key) return;
-
     /*
     Route to toolbar state machine
     (ONLY ONE ENTRY POINT)
@@ -1725,22 +1522,17 @@ document.addEventListener("click", function(e){
 DISCOVER STUDY JSON FILES
 ============================================================ */
 async function getStudyEntries(){
-
     try{
         const response = await fetch(
             "./data/bible_studies/manifest.json?cacheBust=" + Date.now()
         );
-
         if(!response.ok){
             return [];
         }
-
         const manifest = await response.json();
-
         if(!Array.isArray(manifest)){
             return [];
         }
-
         return manifest
             .filter(entry => entry && entry.id)
             .map(entry => ({
@@ -1748,42 +1540,31 @@ async function getStudyEntries(){
                 title: entry.title || entry.id
             }))
             .sort((a, b) => a.title.localeCompare(b.title));
-
     }catch(e){
         return [];
     }
-}
-
-async function getStudyIds(){
-    return (await getStudyEntries()).map(entry => entry.id);
 }
 
 /* ============================================================
 INIT
 ============================================================ */
 async function init(){
-
     initDebugOverlay();
-
     const studySelect = document.getElementById("studySelect");
     if (!studySelect) {
         throw new Error("studySelect missing — study-toolbar DOM not loaded correctly");
     }
-
     const studyEntries = await getStudyEntries();
     studySelect.innerHTML = "";
-
     for(const study of studyEntries){
         const option=document.createElement("option");
         option.value=study.id;
         option.textContent=study.title || study.id;
         studySelect.appendChild(option);
     }
-
     studySelect.addEventListener("change",()=>{
         loadSelectedStudy();
     });
-
     if(studyEntries.length){
         studySelect.value=studyEntries[0].id;
         await loadSelectedStudy();
@@ -1794,16 +1575,13 @@ async function init(){
 VERSE TOOLBAR ACTION STATE HANDLER (FIXED CLOSE + TOGGLE BEHAVIOR)
 ============================================================ */
 function handleVerseToolbarClick(key, action){
-
     if(action === "close"){
         verseToolbarState[key] = closeVerseToolbarState();
         renderApp();
         return;
     }
-
     const current =
         verseToolbarState[key] || VERSE_TOOLBAR_STATE.CLOSED;
-
     const next =
         nextVerseToolbarState(current);
     verseToolbarState[key] = next;
@@ -1819,58 +1597,42 @@ RULE:
 We open every version cell that matches the verse key
 ============================================================ */
 function attachReferenceClickHandlers(){
-
     document.querySelectorAll(".version-reference").forEach(el=>{
-
         if(el.dataset.bound === "true") return;
         el.dataset.bound = "true";
-
         el.addEventListener("click", ()=>{
-
             if(window.getSelection().toString().length > 0) return;
-
             const rowEl = el.closest(".row");
             const row = rowEl?.rowData;
             const block = rowEl?.blockData;
-
             if(!row || !block) return;
 
         /* ============================================================
         VERSE CLICK → EXCLUSIVE OPEN PER VERSE ROW
         ============================================================ */
         const verseKey = `${block.reference.book}|${block.reference.chapter}|${row.verse}`;
-
         const visibleVersions = getVisibleVersions();
-
         /*
         CLOSE ALL NON-PINNED TOOLBARS FOR THIS VERSE
         (prevents accumulation bug)
         */
         for(const v of visibleVersions){
-
             const key = `${v}|${verseKey}`;
-
             const state = verseToolbarState[key] || VERSE_TOOLBAR_STATE.CLOSED;
-
             if(state !== VERSE_TOOLBAR_STATE.PINNED){
                 verseToolbarState[key] = closeVerseToolbarState();
             }
         }
-
         /*
         OPEN ONLY THE CLICKED VERSION CELL
         */
         const clickedVersion = el.textContent.split("-")[0].trim();
-
         const activeKey = `${clickedVersion}|${verseKey}`;
-
         verseToolbarState[activeKey] = VERSE_TOOLBAR_STATE.OPEN;
-
         /*
         APPLY VISIBILITY UPDATE
         */
         renderApp();
-
         });
     });
 }
@@ -1879,7 +1641,7 @@ function attachReferenceClickHandlers(){
 HOT RELOAD
 ============================================================ */
 function hotReloadStudy(){
-    location.reload(true);
+    location.reload();
 }
 
 /* ============================================================
@@ -1887,12 +1649,9 @@ POSITION TOC MODAL
 Keeps the TOC attached below the Study Toolbar
 ============================================================ */
 function positionTOC(){
-
     const toolbar=document.querySelector(".study-toolbar");
     const modal=document.getElementById("tocModal");
-
     if(!toolbar || !modal) return;
-
     const rect=toolbar.getBoundingClientRect();
     modal.style.top=rect.bottom+"px";
 }
@@ -1902,33 +1661,22 @@ TABLE OF CONTENTS (TOC)
 OPEN MODAL
 ============================================================ */
 function openTOC(){
-
     const list=document.getElementById("tocList");
-
     list.innerHTML="";
-
     document.querySelectorAll(".block-title").forEach((title)=>{
-
         const item=document.createElement("div");
-
         item.textContent=title.textContent;
-
         item.className="toc-item";
-
         item.onclick=()=>{
             title.scrollIntoView({
-
                 behavior:"smooth",
                 block:"start"
             });
             closeTOC();
         };
-
         list.appendChild(item);
     });
-
     positionTOC();
-
     document
         .getElementById("tocModal")
         .classList.remove("panel-hidden");
@@ -1948,49 +1696,33 @@ function closeTOC(){
 EXPORT
 ============================================================ */
 function exportFullStudy(){
-
     const exportMain=document.createElement("main");
     exportMain.id="app";
-
     const visible=versions.slice(0,versions.length);
-
     const header=document.createElement("div");
     header.className="header";
     header.textContent =
     study?.scripture?.header?.title || "Export View";
-
     exportMain.appendChild(header);
-
     study.scripture.blocks.forEach((block)=>{
-
         const section=document.createElement("section");
-
         const titleEl=document.createElement("div");
         titleEl.className="block-title";
         titleEl.textContent =
         `${block.reference.book} ${block.reference.chapter}:${block.reference.start}-${block.reference.end} - ${block.title}`;
-
         section.appendChild(titleEl);
-
         for(const row of block.rows){
-
             const rowEl=document.createElement("div");
             rowEl.className="row";
-
             const fragment=document.createDocumentFragment();
-
             for(const v of visible){
-
                 const cell=document.createElement("div");
                 cell.className="cell";
-
                 const temp=document.createElement("div");
                 temp.innerHTML=row.texts?.[v]??"[missing]";
-
                 const highlightKey=`${block.reference.book}|${block.reference.chapter}|${row.verse}`;
                 const highlight=highlights?.[highlightKey];
                 const highlightColor=highlight?.color;
-
                 temp.querySelectorAll("span").forEach(span=>{
                     if(span.getAttribute("style")?.includes("#952004")){
                         span.className="jesus-words";
@@ -2009,11 +1741,9 @@ function exportFullStudy(){
 
                 fragment.appendChild(cell);
             }
-
             rowEl.replaceChildren(fragment);
             section.appendChild(rowEl);
         }
-
         exportMain.appendChild(section);
     });
 
@@ -2042,55 +1772,21 @@ section{ page-break-inside:avoid; }
 }
 
 /* ============================================================
-VIEWER NAVBAR BINDING
+VIEWER-NAVBAR WITH CLOSE BUTTON
 ============================================================ */
 function bindViewerNavbar(){
-
     const navbar = document.querySelector(".viewer-navbar");
     if(!navbar) return;
-
     const leftBtn = navbar.querySelector(".nav-left");
     const rightBtn = navbar.querySelector(".nav-right");
-
-    const label = navbar.querySelector(".nav-label");
-
-    if(leftBtn){
-        leftBtn.addEventListener("click", () => {
-            moveLeft();
-        });
-    }
-
-    if(rightBtn){
-        rightBtn.addEventListener("click", () => {
-            moveRight();
-        });
-    }
-
-}
-
-/* ============================================================
-VIEWER-NAVBAR CLOSE BUTTON
-============================================================ */
-function bindViewerNavbar(){
-
-    const navbar = document.querySelector(".viewer-navbar");
-    if(!navbar) return;
-
-    const leftBtn = navbar.querySelector(".nav-left");
-    const rightBtn = navbar.querySelector(".nav-right");
-
     const closeBtn = navbar.querySelector(".nav-close");
-
     if(leftBtn) leftBtn.onclick = () => moveLeft();
     if(rightBtn) rightBtn.onclick = () => moveRight();
-
     if(closeBtn){
         closeBtn.onclick = () => {
             const navbar = document.querySelector(".viewer-navbar");
             if (!navbar) return;
-
             navbar.classList.add("hidden");
-
             // only mark as user-hidden (NOT locked)
             navbar.dataset.userHidden = "true";
         };
@@ -2101,38 +1797,26 @@ function bindViewerNavbar(){
 EDGE-TRIGGER FOR VIEWER-NAVBAR
 ============================================================ */
 function initNavbarEdgeTrigger() {
-
     const navbar = document.querySelector(".viewer-navbar");
     if (!navbar) return;
-
     const EDGE = 85;
-
     let visible = false;
-
     function setVisible(state) {
-
         // only block if explicitly disabled in future (not used yet)
         if (navbar.dataset.disabled === "true") return;
-
         if (visible === state) return;
         visible = state;
-
         if (state) {
             navbar.classList.remove("hidden");
         } else {
             navbar.classList.add("hidden");
         }
     }
-
     document.addEventListener("mousemove", (e) => {
-
         // If you want close button to fully override:
         if (navbar.dataset.locked === "true") return;
-
         const distFromBottom = window.innerHeight - e.clientY;
-
         const inZone = distFromBottom <= EDGE;
-
         if (navbar.dataset.userHidden === "true") {
             // allow reopen via edge
             setVisible(inZone);
@@ -2146,38 +1830,28 @@ function initNavbarEdgeTrigger() {
 ADD VERSION LABEL
 ============================================================ */
 function updateViewerNavbar(){
-
     const navbar = document.querySelector(".viewer-navbar");
     if(!navbar) return;
-
     const label = navbar.querySelector(".nav-label");
     if(!label) return;
-
     const total = versions.length || 0;
     const current = total ? Math.min(windowStart + 1, total) : 0;
-
     const width = window.innerWidth;
-
     let text = "";
-
     // ULTRA SMALL (minimal)
     if(width <= 420){
         text = `${current}`;
     }
-
     // COMPACT
     else if(width <= 700){
         text = `${current} / ${total}`;
     }
-
     // FULL LABEL
     else{
         text = `Version ${current} of ${total}`;
     }
-
     label.textContent = text;
 }
-
 /* START APP */
 // ============================================================
 // FIX: Ensure DOM is fully constructed before init runs
@@ -2187,12 +1861,9 @@ window.addEventListener("DOMContentLoaded", () => {
     init();
     bindViewerNavbar();
     initNavbarEdgeTrigger();
-
     // ✅ FIX: enable keyboard navigation
     document.addEventListener("keydown", handleViewerKeyboardNavigation);
 });
-
 </script>
-
 </body>
 </html>
