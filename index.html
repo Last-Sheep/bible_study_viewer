@@ -1,0 +1,1869 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bible Study Viewer</title>
+<link rel="icon" type="image/x-icon" href="images/favicon.png">
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet" />
+
+<style>
+/* ============================================================
+BASE LAYOUT (3-PANEL SYSTEM)
+============================================================ */
+body{
+margin:0;
+padding: 0.25rem;
+font-family:'Roboto',Arial,sans-serif;
+background:#fff;
+height:100vh;        /* locks app to browser viewport */
+overflow:hidden;     /* ensures ONLY center scroll exists and Prevents body/page scrolling */
+display:flex;              /* Creates vertical app-shell layout */
+flex-direction:column;     /* Stacks header above layout */
+box-sizing:border-box;
+
+/* These are used in .left-panel, .rightpanel */
+/* These wil be changed to .left-drawer, .right-right */
+--left-panel-width:15rem;       /* 256px */ /* used in .left-panel CHANGE TO: left.drawer */
+--right-panel-width:15rem;      /* 256px */ /* used in right-panel CHANGE TO: .right-drawer */
+--study-toolbar-side-width:clamp(10rem,24vw,16rem);
+
+--panel-gap: 0.25rem;           /* 4px */ /* used in .layout */
+--block-gap: 0.25rem;
+--cell-padding: 0.25rem;
+--row-gap:0.25rem;              /* 4px */ /* used in .layout */
+
+--border-thin: 0.0625rem;   /* 1px */
+--border-thick: 0.25rem;   /* 4px */
+--border-radius-med: 0.1875rem;   /* 3px */
+--border-radius-lg: 0.25rem;   /* 4px */
+--border-radius-xlg: 0.375rem;   /* 6px */
+
+} /*END {body} */
+
+.layout{ 
+display:flex;   /* This creates spacing between left panel center panel and right panel */
+gap:var(--panel-gap); /* This also creates spacing between left panel center panel and right panel */
+flex:1;            /* Fills remaining space below header */
+min-height:0;      /* CRITICAL: allows center-panel scrolling */
+overflow:hidden;     /* ensures ONLY center scroll exists and prevents layout expansion */
+align-items:stretch;   /* IMPORTANT FIX for scrolling behavior */
+box-sizing:border-box;
+}
+
+/* ============================================================
+PANEL VISIBILITY CONTROL BECOMES: DRAWER VISIBILITY CONTROL
+============================================================ */
+/* Used instead of inline style.display="none"
+   Keeps layout engine stable for mobile + desktop */
+.panel-hidden{
+    display:none !important;
+}
+
+/* ============================================================
+LEFT PANEL BECOMES: LEFT DRAWER
+============================================================ */
+.left-panel{
+width:var(--left-panel-width);
+border:var(--border-thin) solid #000080;
+border-radius:var(--border-radius-lg);
+padding:0.25rem; /* This creates internal content padding inside each panel NOT layout spacing */
+box-sizing:border-box;
+overflow:hidden;    /* prevents internal page scroll */
+min-height:0; /* page scroll */
+background:#fff;  /* This prevents visual transparency issues and reinforces block separation */
+}
+
+/* ============================================================
+CENTER PANEL (MAIN CONTENT) BECOMES: VIEWING AREA (MAIN CONTENT)
+============================================================ */
+.center-panel{
+flex:1;
+min-width:0;
+min-height:0; /* Allows internal page scroll */
+border:0 solid #000080; /* old color #0038b8 #fff */
+border-radius:var(--border-radius-lg);
+padding:0.25rem; /* This creates internal content padding inside each panel NOT layout spacing */
+box-sizing:border-box;
+overflow:auto; /* ensures ONLY center scroll exists */
+}
+
+/* ========== CENTER PANEL BECOMES: VIEWER SCROLLBAR VISIBLE/HIDDEN ========== */
+.center-panel{ /* Hides the scrollbar (Firefox) */
+scrollbar-width:none;
+}
+
+.center-panel::-webkit-scrollbar{ /* Hides the scrollbar (Chrome/Edge/Safari) */
+width:0;
+height:0;
+}
+
+.center-panel.show-scrollbar{ /* Shows the scrollbar (Firefox) */
+scrollbar-width:auto;
+}
+
+.center-panel.show-scrollbar::-webkit-scrollbar{  /* Shows the scrollbar (Chrome/Edge/Safari) */
+width:8px;
+height:8px;
+}
+
+/* ============================================================
+RIGHT PANEL BECOMES: RIGHT DRAWER
+============================================================ */
+.right-panel{
+width:var(--right-panel-width);
+border:var(--border-thin) solid #000080;
+border-radius:var(--border-radius-lg);
+padding:0.25rem; /* This creates internal content padding inside each panel NOT layout spacing */
+box-sizing:border-box;
+overflow:hidden;    /* prevents internal page scroll */
+min-height:0; /* page scroll */
+background:#fff; /* This prevents visual transparency issues and reinforces block separation */
+}
+
+/* ============================================================
+EXISTING APP AREA (UNCHANGED VISUALLY)
+============================================================ */
+#app{
+width:100%;
+}
+
+/* OWNERSHIP theme title → first section spacing */
+#app > .header {
+  margin-bottom: 0.25rem;
+}
+
+/* ============================================================
+RESPONSIVE BEHAVIOR (BASIC DEFAULTS)
+============================================================ */
+@media (max-width: 56.25rem){ /* was 900px */
+
+.left-panel{
+width:10.0rem; /* was 160px */
+}
+
+.right-panel{
+width:10.0rem; /* was 160px */
+}
+
+}
+
+@media (max-width: 37.5rem){ /* was 600px */
+
+.left-panel{
+display:none;
+}
+
+.right-panel{
+display:none;
+}
+
+.center-panel{
+flex:1;
+}
+
+}
+
+header{
+margin-bottom:0.25rem;
+border:var(--border-thin) solid #000080; /* border-bottom:1px solid #0038b8; */
+border-radius:var(--border-radius-med);
+background:#fff;
+display:flex;
+justify-content:center;
+align-items:center;
+}
+
+/* GRID STYLING for app loading? */
+
+.controls{
+display:flex;
+gap:0.5rem;
+padding:0.5rem;
+background:#fff;
+border-bottom:none; /* 1px solid #0038b8 */
+flex-wrap:wrap;
+justify-content:center;
+width:fit-content;
+margin:0 auto;
+}
+
+.controls-icon{
+width:1rem;
+height:1rem;
+background:none;
+display:block;
+}
+
+/* DEBUG ON/OFF TOGGLE SWITCH */
+.debug-toggle{
+position:relative;
+display:inline-flex;
+align-items:center;
+vertical-align:middle;
+width:2.5rem;
+height:1.35rem;
+}
+
+.debug-toggle input{
+opacity:0;
+width:0;
+height:0;
+}
+
+.debug-slider{
+position:absolute;
+cursor:pointer;
+top:0;
+left:0;
+right:0;
+bottom:0;
+background:#999;
+transition:.2s;
+border-radius:999px;
+}
+
+.debug-slider:before{
+content:"";
+position:absolute;
+height:1rem;
+width:1rem;
+left:0.18rem;
+bottom:0.18rem;
+background:#fff;
+transition:.2s;
+border-radius:50%;
+}
+
+.debug-toggle input:checked + .debug-slider{
+background:#000080;
+}
+
+.debug-toggle input:checked + .debug-slider:before{
+transform:translateX(1.15rem);
+}
+/* END: DEBUG ON/OFF TOGGLE SWITCH */
+
+/* OWNERSHIP block-title → rows and row → row */
+/* This creates spacing betweeen all children inside <section> .header, .block-title, .rows */
+/* ***This is the MOST IMPORTANT spacing rule*** */
+section{ 
+display:flex;
+flex-direction:column;
+gap:var(--block-gap); /* content rhythm system */
+margin-top: 0.25rem;
+}
+
+.header{
+padding:0.25rem;
+font-weight:bold;
+border-bottom:0px solid #000080;
+color:#000080;
+}
+
+.block-title{
+padding:0.25rem; /* This creates internal spacing for every block-title */
+font-weight:bold;
+color:#000080;
+background:#f7f7f7; /* #f7f7f7 */
+border:var(--border-thin) solid #cd8800;
+border-radius:var(--border-radius-med);
+}
+
+.row{
+display:flex;
+gap:var(--row-gap); /* OWNERSHIP: This creates horizontal spacing between .cells (no verticle spacing) */
+}
+
+.cell{
+flex:1;
+min-width:0;
+border:var(--border-thin) solid #cc8800;
+border-radius:var(--border-radius-med);
+padding:var(--cell-padding); /* OWNERSHIP: This creates internal text content spacing for the .cell */
+overflow-wrap:break-word;
+font-size:0.75rem;
+line-height:1.3;
+}
+
+.row .cell{
+box-sizing: border-box;   /* removes padding-induced drift under zoom */
+flex: 1 1 0;              /* forces identical column widths across BOTH rows */
+min-width: 0;             /* prevents content (emoji/buttons) from expanding the cell */
+}
+
+/* ============================================================
+VERSE TOOLBAR ROW: LOCKED GEOMETRY (OPTION B CORE FIX)
+- stops flex rebalancing
+- prevents width recalculation jitter
+- makes toolbar row follow verse row layout instead of competing
+============================================================ */
+.verse-toolbar-row .cell{
+box-sizing: border-box;
+flex: 1 1 0;   /* MUST match verse row for alignment */
+min-width: 0;
+background:#28283c;
+}
+
+.verse-line{
+display:inline;
+}
+
+.version-reference{
+font-size:0.6rem;
+font-weight:600;
+white-space:nowrap;
+}
+
+.verse-text{
+font-size:0.75rem;
+line-height:1.2;
+margin-left:0.25rem; /* controlled spacing instead of browser spacing */
+overflow-wrap:break-word;
+}
+
+.jesus-words{
+color:#952004;
+font-weight:600;
+}
+
+/* ============================================================
+START: VERSE TOOLBAR ROW CONTAINER
+VERSE TOOLBAR ROW LAYOUT
+- mirrors verse-row geometry
+- width controlled by .verse-toolbar-row .cell flex rules
+- toolbar width follows verse column width
+============================================================ */
+.verse-toolbar-row {
+display:flex;
+margin-top:-0.125rem;
+align-items:stretch;
+}
+
+/* ============================================================
+VERSE TOOLBAR CELL VISUAL STATES (CLOSED = PURE WHITESPACE) */
+.cell.verse-toolbar-closed{
+border:none;            /* removes visible box */
+background:transparent; /* ensures whitespace only */
+}
+
+/* ============================================================
+VERSE TOOLBAR CONTAINER
+- prevents wrapping jitter
+- prevents multi-line toolbars
+- keeps toolbar constrained to column width
+- preserves predictable rendering across zoom levels
+============================================================ */
+.verse-toolbar-container {
+display:flex;
+flex-wrap:nowrap;       /* CRITICAL: toolbar must remain one line */
+justify-content:center;
+align-items:center;
+width:100%;
+max-width:100%;
+overflow:hidden;
+font-variant-ligatures:none;
+text-rendering:geometricPrecision;
+box-sizing:border-box;
+}
+
+/* ============================================================
+VERSE TOOLBAR VISUAL STATES
+============================================================ */
+
+/* === START: HIDDEN TOOLBARS (CLOSED STATE) === */
+.verse-toolbar-container.verse-toolbar-closed {
+display:none;
+background:transparent !important;
+border:none !important;
+}
+/* === END: HIDDEN TOOLBARS (CLOSED STATE) === */
+
+/* === START: VISIBLE TOOLBARS (OPEN / PINNED STATE) === */
+.verse-toolbar-container:not(.verse-toolbar-closed) {
+display:flex;
+background-color:#28283c;
+border:var(--border-thin) solid #cc8800;
+border-radius:var(--border-radius-lg);
+padding:0.25rem;
+box-sizing:border-box;
+}
+/* === END: VISIBLE TOOLBARS (OPEN / PINNED STATE) === */
+
+/* ============================================================
+ROW CELLS (STABLE LAYOUT)
+- toolbar visibility handled separately
+- cell remains layout placeholder
+============================================================ */
+.row.verse-toolbar-row .cell {
+background:transparent;
+border:none;
+}
+
+/* ============================================================
+VERSE TOOLBAR BUTTON (STABLE SIZE MODEL)
+- fixed intrinsic sizing
+- prevents flex distortion
+- prevents toolbar jitter
+============================================================ */
+.verse-toolbar-btn {
+display:flex;
+flex:0 0 auto;      /* keep buttons fixed-size */
+white-space:nowrap;
+font-size:0.8rem;
+padding:0.15rem;
+border:0 solid #cc8800;
+border-radius:0.2rem;
+background:#28283c;
+cursor:pointer;
+line-height:1;
+width:1.4rem;
+height:1.4rem;
+justify-content:center;
+align-items:center;
+}
+
+/* ============================================================
+VERSE TOOLBAR CONTENT CONTAINER
+PURPOSE:
+- keeps all toolbar buttons on one line
+- maintains edge spacing
+- allows toolbar content to scale gracefully
+- prevents edge icons from touching toolbar border
+============================================================ */
+.verse-toolbar {
+display:flex;
+flex-wrap:nowrap;      /* CRITICAL: single-line toolbar */
+justify-content:center;
+align-items:center;
+gap:clamp(0.15rem,0.4vw,0.4rem);
+width:auto;
+max-width:100%;
+padding-left:0.15rem;
+padding-right:0.15rem;
+box-sizing:border-box;
+}
+
+/* ============================================================
+REMOVE VARIABLE SPACING PRESSURE
+Auto-margins create per-cell layout differences,
+which causes column drift perception.
+============================================================ */
+.bookmark-btn,
+.close-btn{
+    margin:0;
+}
+
+/* ============================================================
+VERSE TOOLBAR ICONS
+PURPOSE:
+- preserve toolbar edge spacing on narrow columns
+- allow slight responsive scaling
+- maintain consistent icon proportions
+============================================================ */
+.verse-toolbar-icon{
+width:1rem;
+height:1rem;
+display:block;
+}
+
+/* ============================================================
+END: TOOLBAR ROW CONTAINER
+============================================================ */
+
+/* ============================================================
+STUDY TOOLBAR
+OUTSIDE .layout
+DOES NOT COLLAPSE WITH DRAWERS
+============================================================ */
+.study-toolbar{
+display:grid;
+grid-template-columns:1fr auto 1fr;
+align-items:center;
+padding:0.25rem;
+/* border:1px solid #0038b8;
+border-radius:3px; */
+}
+
+.study-toolbar-left{
+justify-self:start;
+}
+
+.study-toolbar-right{
+justify-self:end;
+text-align: right;
+display:flex;
+align-items:center;   /* 🔥 vertical centering */
+justify-content:flex-end;
+gap:0.5rem;           /* consistent spacing */
+}
+
+.study-toolbar-right button,
+.study-toolbar-right label{
+display:flex;
+align-items:center;
+}
+
+.study-toolbar-center{
+flex:1;
+display:flex;
+align-items:center;
+justify-content:center;
+position: relative;
+gap:4rem;
+/* border:1px solid #0038b8;
+border-radius:3px; */
+}
+
+.study-toolbar-center select{
+padding-right: 1rem; /* space for arrow */
+font-family: inherit;
+font-size: 0.85rem;
+padding-left: 0.25rem;
+border:var(--border-thin) solid #000080;
+border-radius:var(--border-radius-med);
+background: #fff;
+color: #000080;
+cursor: pointer;
+outline: none;
+height: 1.6rem;
+line-height: 1.6rem;
+}
+
+.study-toolbar-center::after{
+content: "▾";
+position: absolute;
+right: 0.75rem;
+pointer-events: none;
+color: #000080;
+font-size: 0.8rem;
+}
+
+#studySelect{
+font-family: inherit;
+font-size: 0.85rem;
+padding: 0.25rem 0.5rem;
+border:var(--border-thin) solid #000080;
+border-radius:var(--border-radius-med);
+background: #fff;
+color: #000080;
+cursor: pointer;
+}
+/* END: STUDY TOOLBAR */
+
+/* ============================================================
+TABLE OF CONTENTS MODAL
+============================================================ */
+.toc-modal{
+position:fixed; /* Makes the overlay stick to or cover the browser window */
+left:0;
+right:0;
+bottom:0;
+background:rgba(0,0,0,.35); /* Creates the dark transparent backdrop. */
+display:flex;
+justify-content:center;
+align-items:flex-start;
+z-index:9999; /* Makes sure it appears above everything else */
+}
+
+.toc-window{
+width:min(500px,90vw);  /* means 500px wide and never exceed 90% of browser width */
+height:min(80vh,400px); /* means 700px tall unless 80% of the screen is smaller */
+background:#fff;
+border:var(--border-thick) solid #000080;
+border-radius:var(--border-radius-xlg);
+display:flex;
+flex-direction:column;
+overflow:hidden;
+}
+
+.toc-header{
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:.5rem;
+border-bottom:var(--border-thin) solid #cc8800;
+background: #000080;
+}
+
+.toc-title{
+font-size:1.5rem;
+font-weight:bold;
+color:whitesmoke;
+}
+
+.toc-item{
+cursor:pointer;
+padding:.35rem;
+color:#000080;
+}
+
+.toc-item:hover{
+background:#000080;
+color:whitesmoke;
+}
+
+.toc-list{
+flex:1;
+overflow:auto;
+padding:.5rem;
+color:#000080;
+}
+
+.toc-header button{
+background:#ffffff;
+color:#000080;
+border:var(--border-thin) solid #000080;
+border-radius:var(--border-radius-lg);
+padding:.35rem .75rem;
+cursor:pointer;
+}
+
+.toc-header button:hover{
+background:#000080;
+color:white;
+}
+
+/* ============================================================
+VIEWER NAVBAR
+- fixed bottom overlay
+- centered horizontally in viewport
+- independent of flex/layout system
+============================================================ */
+.viewer-navbar{
+position:fixed;
+bottom:0.75rem;
+left:50%;
+transform:translateX(-50%);
+z-index:10000;
+display:flex;
+align-items:center;
+gap:0.75rem;
+padding:0.4rem 0.6rem;
+background:#fff;
+border:var(--border-thin) solid #000080;
+border-radius:var(--border-radius-xlg);
+box-shadow:0 2px 10px rgba(0,0,0,0.15);
+font-family:inherit;
+}
+
+.viewer-navbar-icon{
+display:block;
+width:0.75rem;
+height:0.75rem;
+padding:0.10rem;
+}
+
+.viewer-navbar button{
+display:flex;
+align-items:center;
+justify-content:center;
+width:1rem;
+height:1rem;
+border:0px solid #000080;
+background:#fff;
+color:#000080;
+border-radius:var(--border-radius-lg);
+cursor:pointer;
+}
+
+.viewer-navbar button:hover{
+background:#e5f1fe;
+color:#fff;
+}
+
+.viewer-navbar .nav-label{
+font-size:0.85rem;
+font-weight:600;
+color:#000080;
+white-space:nowrap;
+}
+/* END VIEWER NAVBAR */
+
+@media (max-width: 420px){
+.viewer-navbar{
+    gap:0.4rem;
+    padding:0.35rem 0.5rem;
+}
+
+.viewer-navbar button{
+    width:1.5rem;
+    height:1.5rem;
+    font-size:0.9rem;
+}
+
+.viewer-navbar .nav-label{
+    font-size:0.75rem;
+}
+}
+
+.viewer-navbar.hidden{
+    opacity:0;
+    pointer-events:none;
+    transform:translate(-50%, 20px);
+    transition: opacity 120ms ease, transform 120ms ease;
+}
+
+</style>
+</head>
+
+<body>
+
+    <header>
+        <div class="header">
+            Bible Study Viewer
+        </div>               
+    </header>
+
+    <header>
+        <div class="controls">
+        <button onclick="toggleLeftPanel()"
+            data-control="show-hide-left"
+            title="Show/Hide Left Panel"> <!-- BECOMES: Left Drawer  -->
+            <img src="images/icons/side-right-view.svg" class="controls-icon" />
+        </button>
+
+        <button onclick="toggleRightPanel()"
+            data-control="show-hide-right"
+            title="Show/Hide Right Panel"> <!-- BECOMES: Right Drawer  -->
+            <img src="images/icons/side-left-view.svg" class="controls-icon" />
+        </button>
+        </div>
+    </header>
+
+    <!-- ============================================================
+    STUDY TOOLBAR (OUTSIDE LAYOUT)
+    CENTER COLUMN ALIGNED ONLY
+    ============================================================ -->
+<div class="study-toolbar">
+
+    <!-- LEFT: Export -->
+    <div class="study-toolbar-left">
+        <button aria-label="Export full study"
+            onclick="exportFullStudy()"
+            data-control="export-study"
+            title="Export Study">
+            <img src="images/icons/export-study.svg" class="controls-icon" />
+        </button>
+    </div>
+
+    <!-- CENTER: Study Select + TOC -->
+    <div class="study-toolbar-center">
+
+        <select id="studySelect"></select>
+
+        <button onclick="openTOC()" title="Table of Contents">
+            TOC
+        </button>
+
+    </div>
+
+    <!-- RIGHT: Hot Refresh + Debug -->
+    <div class="study-toolbar-right">
+
+        <button onclick="hotReloadStudy()"
+            data-control="hot-refresh"
+            title="Hot Refresh">
+            <img src="images/icons/hot-refresh.svg" class="controls-icon" />
+        </button>
+
+        <label class="debug-toggle" title="Show / Hide Debug Overlay">
+            <input
+                type="checkbox"
+                id="debugToggle"
+                checked
+                onchange="toggleDebugOverlay()">
+            <span class="debug-slider"></span>
+        </label>
+    </div>
+</div>
+
+<!-- ============================================================
+TABLE OF CONTENTS MODAL
+============================================================ -->
+<div id="tocModal" class="toc-modal panel-hidden">
+    <div class="toc-window">
+        <div class="toc-header">
+            <div class="toc-title">Table of Contents</div>
+            <button onclick="closeTOC()">Close</button>
+        </div>
+        <div id="tocList" class="toc-list">
+        </div><!-- closes .toc-header -->
+    </div><!-- closes .toc-window -->
+</div><!-- closes #tocModal -->
+
+<div class="layout">
+    <!-- ========================================================
+    LEFT PANEL BECOMES: LEFT DRAWER (CONTROLS / TOPIC NAV / FUTURE UI)
+    ======================================================== -->
+    <aside class="left-panel"> <!-- BECOMES: left-drawer -->
+        <!-- you can move your controls here later -->
+        <div class="header">Left Panel <br> BECOMES: Left Drawer</div> 
+
+        <div contenteditable="true" style="border: 1px solid #ccc; padding: 10px; min-height: 100px;">
+        Start typing here...
+        </div>
+
+    </aside>
+
+    <!-- ========================================================
+    CENTER PANEL BECOMES: VIEWER AREA (YOUR EXISTING APP RENDERS HERE)
+    ======================================================== -->
+    <main class="center-panel">
+
+        <!-- IMPORTANT: your script still targets #app -->
+        <div id="app"></div>
+
+    </main>
+
+    <!-- ========================================================
+    RIGHT PANEL BECOMES: RIGHT DRAWER (FUTURE: NOTES / COMPARISON / EXTRA VIEWS)
+    ======================================================== -->
+    <aside class="right-panel">
+        <div class="header">Right Panel <br> BECOMES: Right Drawer</div>
+        <div class="controls">
+            <button id="scrollbarToggleBtn" onclick="toggleScrollbar()">
+            Scrollbar
+            </button>
+        </div>
+    </aside>
+</div>
+<!-- ============================================================
+VIEWER NAVBAR
+============================================================ -->
+<div class="viewer-navbar">
+    <button class="nav-left" title="Move Left">
+        <img src="images/icons/arrow-triangle-left.svg" class="viewer-navbar-icon">
+    </button>
+
+    <div class="nav-label">
+        4 of 8
+    </div>
+
+    <button class="nav-right" title="Move Right">
+        <img src="images/icons/arrow-triangle-right.svg" class="viewer-navbar-icon">
+    </button>
+
+    <button class="nav-close">
+        <img src="images/icons/close-drk-blue.svg" class="viewer-navbar-icon">
+    </button>
+</div>
+<script>
+
+/* ============================================================
+GLOBAL STATE
+============================================================ */
+
+let study=null;
+let versions=[];
+
+/* highlight overlay map (loaded per study) */
+let highlights={};
+
+/* keyword data (loaded per study) */
+let keywords={};
+
+/* window paging (VERSION WINDOW ONLY) */
+let windowStart=0;
+let windowSize=4;
+
+/* resize debounce */
+let resizeTimer=null;
+
+/* current study (authoritative source) */
+let currentStudy=null;
+
+/* panel state */
+let leftPanelCollapsed=false;
+let rightPanelCollapsed=false;
+
+/* scrollbar state */
+let scrollbarVisible=false;
+
+/* debug overlay visibility */
+let debugOverlayVisible=true;
+
+/* persistent UI bindings object */
+let ui = {studySelect: null};
+
+/* ============================================================
+VERSE TOOLBAR CELL STATE SYSTEM
+============================================================ */
+/*
+    This object stores the open/pinned/closed state
+    for EACH individual verse-version action cell.
+
+    KEY FORMAT:
+    "VERSION|BOOK|CHAPTER|VERSE"
+    Example:
+    "NIV84|Revelation|2|17"
+
+    VALUE FORMAT:
+    "closed" | "open" | "pinned"
+*/
+const verseToolbarState = {}; 
+/*
+    Defines valid states for clarity and consistency.
+    This avoids accidental string mismatches later.
+*/
+const VERSE_TOOLBAR_STATE = { /* action state */
+    CLOSED: "closed",
+    OPEN: "open",
+    PINNED: "pinned"
+};
+
+/* ============================================================
+VERSE TOOLBAR ROW STATE
+============================================================*/
+function nextVerseToolbarState(currentState){
+    if(currentState === VERSE_TOOLBAR_STATE.CLOSED){
+        return VERSE_TOOLBAR_STATE.OPEN;
+    }
+    if(currentState === VERSE_TOOLBAR_STATE.OPEN){
+        return VERSE_TOOLBAR_STATE.PINNED;
+    }
+    if(currentState === VERSE_TOOLBAR_STATE.PINNED){
+    return VERSE_TOOLBAR_STATE.OPEN;
+}
+    return VERSE_TOOLBAR_STATE.CLOSED;
+}
+/*
+    Hard reset used by Close button.
+    Always fully clears state.
+*/
+function closeVerseToolbarState(){
+    return VERSE_TOOLBAR_STATE.CLOSED;
+}
+
+/* ============================================================
+DEBUG OVERLAY
+============================================================ */
+function initDebugOverlay(){
+    let debug=document.getElementById("debugOverlay");
+    if(!debug){
+        debug=document.createElement("div");
+        debug.id="debugOverlay";
+        debug.style.position="fixed";
+        debug.style.bottom="10px";
+        debug.style.right="10px";
+        debug.style.zIndex="99999";
+        debug.style.background="rgba(0,0,0,0.75)";
+        debug.style.color="#fff";
+        debug.style.padding="10px";
+        debug.style.fontSize="12px";
+        debug.style.fontFamily="monospace";
+        debug.style.borderRadius="6px";
+        debug.style.pointerEvents="none";
+        document.body.appendChild(debug);
+        debug.style.display=
+            debugOverlayVisible ? "block" : "none";
+    }
+    return debug;
+}
+/* ============================================================
+DEBUG OVERLAY TOGGLE ON/OFF
+============================================================ */
+function toggleDebugOverlay(){
+    debugOverlayVisible=!debugOverlayVisible;
+    const debug=document.getElementById("debugOverlay");
+    if(debug){
+        debug.style.display=
+            debugOverlayVisible ? "block" : "none";
+    }
+}
+
+/* ============================================================
+LAYOUT SNAPSHOT
+============================================================ */
+function createLayoutSnapshot(){
+    return {
+        width:window.innerWidth,
+        dpr:window.devicePixelRatio,
+        leftCollapsed:leftPanelCollapsed,
+        rightCollapsed:rightPanelCollapsed,
+        time:performance.now()
+    };
+}
+
+/* ============================================================
+ACTION ROW VISIBILITY ENGINE (STATE-DRIVEN, FIXED)
+============================================================
+RULES:
+- CLOSED  → hidden, transparent cell
+- OPEN    → visible, default background/border
+- PINNED  → visible, default background/border
+
+NOTE:
+- Uses actionState map as single source of truth
+- CSS handles visual styling; JS only toggles visibility classes
+============================================================ */
+function updateVerseToolbarVisibility(){
+    /* ============================================================
+    CELL TOOLBAR VISIBILITY (ONLY RESPONSIBILITY OF THIS FUNCTION)
+    ============================================================
+    - Controls individual verse-toolbar-container visibility
+    - Uses verseToolbarState map only
+    ============================================================ */
+    document.querySelectorAll(".verse-toolbar-container").forEach(container => {
+        if(!container || !container.dataset) return;
+        const key = container.dataset.verseToolbarKey;
+        if(!key) return;
+        /* ============================================================
+        VISIBILITY RESOLUTION (SINGLE SOURCE OF TRUTH)
+        ============================================================ */
+        const state = verseToolbarState[key] || VERSE_TOOLBAR_STATE.CLOSED;
+        /* CLOSED STATE */
+        if(state === VERSE_TOOLBAR_STATE.CLOSED){
+            container.classList.add("verse-toolbar-closed");
+            return; // do not touch visible styling for CLOSED
+        }
+        /* OPEN / PINNED STATE */
+        if(state === VERSE_TOOLBAR_STATE.OPEN || state === VERSE_TOOLBAR_STATE.PINNED){
+            container.classList.remove("verse-toolbar-closed");
+            return; // visible toolbars use CSS background/border
+        }
+    });
+}
+/* ============================================================
+END ACTION ROW VISIBILITY ENGINE (STATE-DRIVEN, FIXED)
+============================================================ */
+
+/* ============================================================
+VISIBLE VERSIONS
+============================================================ */
+function getVisibleVersions(){
+    return versions.slice(windowStart, windowStart + windowSize);
+}
+
+/* ============================================================
+CORE RENDER
+============================================================ */
+function renderApp(){
+    const layout=createLayoutSnapshot();
+    syncWindowToLayout(layout);
+    const dpr=layout.dpr;
+    const cssWidth=layout.width;
+    const physicalWidth=Math.round(cssWidth*dpr);
+    const computedColumns=calculateColumnCount(layout);
+    const visibleVersions=getVisibleVersions();
+    const centerPanel=document.querySelector(".center-panel");
+    const leftPanel=document.querySelector(".left-panel");
+    const rightPanel=document.querySelector(".right-panel");
+    const headerEl=document.querySelector(".header");
+    const leftPanelWidth=leftPanel?Math.round(leftPanel.getBoundingClientRect().width):0;
+    const rightPanelWidth=rightPanel?Math.round(rightPanel.getBoundingClientRect().width):0;
+    const centerPanelWidth=centerPanel?Math.round(centerPanel.getBoundingClientRect().width):0;
+    const headerWidth=headerEl?Math.round(headerEl.getBoundingClientRect().width):0;
+    const debug=document.getElementById("debugOverlay");
+
+/* ============================================================
+DEBUG STATE SNAPSHOT EXTENSION (NON-BREAKING)
+============================================================ */
+    if(debug){
+        debug.innerHTML=`
+        DPR: ${dpr}<br>
+        PHYSICAL WIDTH: ${physicalWidth}<br>
+        CSS WIDTH: ${cssWidth}<br>
+        CSS HEIGHT: ${window.innerHeight}<br>
+
+        HEADER WIDTH: ${headerWidth}px<br>
+        LEFT PANEL: ${leftPanelWidth}px<br>
+        CENTER PANEL: ${centerPanelWidth}px<br>
+        RIGHT PANEL: ${rightPanelWidth}px<br>
+
+        LEFT PANEL: ${layout.leftCollapsed ? "CLOSED" : "OPEN"}<br>
+        RIGHT PANEL: ${layout.rightCollapsed ? "CLOSED" : "OPEN"}<br>
+
+        COLUMNS: ${computedColumns}<br>
+        WINDOW SIZE: ${windowSize}<br>
+
+        VISIBLE VERSIONS: ${visibleVersions.length}<br>
+        TOTAL VERSIONS: ${versions.length}<br>
+        ACTIVE TOOLBAR CELLS: ${Object.keys(verseToolbarState).length}
+        `;
+    }
+        renderStructure();
+        updateVisibleColumns();
+
+        /* ============================================================
+        POST RENDER PHASE (SAFE DOM SYNC)
+        ============================================================ */
+        requestAnimationFrame(() => {
+            attachReferenceClickHandlers();
+
+        });
+        // update bottom viewer navbar after every render
+        updateViewerNavbar();
+        }
+
+/* ============================================================
+PANEL TOGGLES
+============================================================ */
+function toggleLeftPanel(){
+    leftPanelCollapsed=!leftPanelCollapsed;
+    const panel=document.querySelector(".left-panel");
+    if(panel){
+        panel.classList.toggle("panel-hidden",leftPanelCollapsed);
+    }
+    renderApp();
+    positionTOC();
+}
+
+function toggleRightPanel(){
+    rightPanelCollapsed=!rightPanelCollapsed;
+    const panel=document.querySelector(".right-panel");
+    if(panel){
+        panel.classList.toggle("panel-hidden",rightPanelCollapsed);
+    }
+    renderApp();
+    positionTOC();
+}
+
+/* ============================================================
+LOAD STUDY
+============================================================ */
+async function loadSelectedStudy(){
+    const studyId=document.getElementById("studySelect").value;
+    currentStudy = studyId;
+    study = await (
+        await fetch(
+            `./data/bible_studies/${studyId}/${studyId}.json?cacheBust=${Date.now()}`
+        )
+    ).json();
+    try {
+        highlights = await (
+            await fetch(
+                `./data/bible_studies/${studyId}/highlights.json?cacheBust=${Date.now()}`
+            )
+        ).json();
+    } catch(e){
+        highlights={};
+    }
+    try {
+        keywords = await (
+            await fetch(
+                `./data/bible_studies/${studyId}/keywords.json?cacheBust=${Date.now()}`
+            )
+        ).json();
+    } catch(e){
+        keywords={};
+    }
+    versions = study.scripture?.versions || [];
+    windowStart=0;
+    document.title =
+        `Bible Study Viewer - ${study.scripture?.header?.title || studyId}`;
+    renderApp();
+    resetScroll();
+}
+
+/* ============================================================
+COLUMN ENGINE
+============================================================ */
+function calculateColumnCount(layout){
+    const width=layout.width;
+    let base=1;
+    const isMobilePortrait = width <= 600;
+    const isMobileLandscape = width > 600 && width <= 900;
+    if(isMobilePortrait){
+        base=1;
+    }
+    else if(isMobileLandscape){
+        base=2;
+    }
+    else if(width <= 900){
+        base=3;
+    }
+    else{
+        base=4;
+    }
+    let bonus=0;
+    if(layout.leftCollapsed) bonus++;
+    if(layout.rightCollapsed) bonus++;
+    let total=base+bonus;
+    if(total<1) total=1;
+    if(total>6) total=6;
+    return total;
+}
+
+function syncWindowToLayout(layout){
+    windowSize = calculateColumnCount(layout);
+}
+
+/* ============================================================
+RENDER STRUCTURE (STUDY JSON FORMAT)
+============================================================ */
+function renderStructure(){
+    const app=document.getElementById("app");
+
+    app.innerHTML="";
+    /*const header=document.createElement("div");
+    header.className="header";
+
+    header.textContent =
+        study?.scripture?.header?.title || "Study";
+
+    app.appendChild(header);*/
+
+    if(!study?.scripture?.blocks || !Array.isArray(study.scripture.blocks)){
+        app.innerHTML = "NO SCRIPTURE BLOCKS FOUND";
+        return;
+    }
+    study.scripture.blocks.forEach((block)=>{
+        const section=document.createElement("section");
+        const titleEl=document.createElement("div");
+        titleEl.className="block-title";
+        const reference =
+            block.reference.start === block.reference.end
+                ? `${block.reference.book} ${block.reference.chapter}:${block.reference.start}`
+                : `${block.reference.book} ${block.reference.chapter}:${block.reference.start}-${block.reference.end}`;
+        titleEl.textContent =
+            `${reference} - ${block.title}`;
+        section.appendChild(titleEl);
+        for(const row of block.rows){
+            const rowEl=document.createElement("div");
+            rowEl.className="row";
+            rowEl.rowData=row;
+            rowEl.blockData=block;
+            const verseToolbarRow=document.createElement("div");
+            verseToolbarRow.className="row verse-toolbar-row";
+            verseToolbarRow.rowData=row;
+            verseToolbarRow.blockData=block;
+            section.appendChild(rowEl);
+            section.appendChild(verseToolbarRow);
+        }
+        app.appendChild(section);
+    });
+}
+
+/* ============================================================
+COLUMN POPULATION (WITH ACTION ROW SUPPORT)
+============================================================ */
+function updateVisibleColumns(){
+    const visible=getVisibleVersions();
+    document.querySelectorAll(".row").forEach(rowEl=>{
+        const fragment=document.createDocumentFragment();
+        const row=rowEl.rowData;
+        const block=rowEl.blockData;
+        const isVerseToolbarRow=rowEl.classList.contains("verse-toolbar-row");
+        if(isVerseToolbarRow){
+                /*
+                ============================================================
+                VERSE TOOLBAR ROW RENDER (STATE-DRIVEN, NO DOM SCANNING)
+
+                PURPOSE:
+                - Build toolbar cells per visible version
+                - Determine row visibility from verseToolbarState only
+                - Eliminate all post-render DOM reconciliation logic
+
+                KEY FORMAT:
+                VERSION|BOOK|CHAPTER|VERSE
+                ============================================================ 
+                */
+            const verseBase = `${block.reference.book}|${block.reference.chapter}|${row.verse}`;
+            const visibleVersions = getVisibleVersions();
+            let rowHasActiveState = false;
+            for(const v of visibleVersions){
+                const key = `${v}|${verseBase}`;
+                const state = verseToolbarState[key] ?? VERSE_TOOLBAR_STATE.CLOSED;
+                if(state !== VERSE_TOOLBAR_STATE.CLOSED){
+                    rowHasActiveState = true;
+                    break;
+                }
+            }
+            /*
+                ============================================================
+                BUILD ACTION CELLS (UNCHANGED STRUCTURE, NO LOGIC CHANGE)
+                ============================================================
+            */
+            for(const v of visibleVersions){
+                const cell=document.createElement("div");
+                cell.className="cell";
+                /*
+    VERSE TOOLBAR HTML STRUCTURE
+
+    IMPORTANT:
+    - Toolbar buttons now live directly inside .verse-toolbar
+    - Old .action-center-group wrapper removed
+    - No additional container introduced
+                */
+                cell.innerHTML=`
+                    <div class="verse-toolbar-container"
+                        data-verse-toolbar-key="${v}|${block.reference.book}|${block.reference.chapter}|${row.verse}">
+
+                        <button class="verse-toolbar-btn pin-verse-btn"
+                            data-action="pin-verse"
+                            title="Pin Toolbar">
+                            <img src="images/icons/pin2.svg" class="verse-toolbar-icon" />
+                        </button>
+
+                        <button class="verse-toolbar-btn bookmark-btn"
+                            data-action="bookmark"
+                            title="Bookmark Verse">
+                            <img src="images/icons/bookmark1.svg" class="verse-toolbar-icon" />
+                        </button>
+
+                        <button class="verse-toolbar-btn"
+                            data-action="notes"
+                            title="Notes">
+                            <img src="images/icons/notes.svg" class="verse-toolbar-icon" />
+                        </button>
+
+                        <button class="verse-toolbar-btn"
+                            data-action="dictionary"
+                            title="Dictionary">
+                            <img src="images/icons/dictionary.svg" class="verse-toolbar-icon" />
+                        </button>
+
+                        <button class="verse-toolbar-btn"
+                            data-action="concordance"
+                            title="Concordance / Strong's">
+                            <img src="images/icons/concordance.svg" class="verse-toolbar-icon" />
+                        </button>
+
+                        <button class="verse-toolbar-btn"
+                            data-action="cross-reference"
+                            title="Cross References">
+                            <img src="images/icons/crossref.svg" class="verse-toolbar-icon" />
+                        </button>
+
+                        <button class="verse-toolbar-btn"
+                            data-action="audio"
+                            title="Play Audio">
+                            <img src="images/icons/audio.svg" class="verse-toolbar-icon" />
+                        </button>
+
+                        <button class="verse-toolbar-btn close-btn"
+                            data-action="close"
+                            title="Close Toolbar">
+                            <img src="images/icons/arrow-hide-up.svg" class="verse-toolbar-icon" />
+                        </button>
+
+                    </div>
+                `;
+                fragment.appendChild(cell);
+            }
+
+            /*
+                ============================================================
+                FINAL ROW VISIBILITY DECISION (STATE ONLY)
+                ============================================================
+            */
+            rowEl.replaceChildren(fragment);
+            /*
+                ROW VISIBILITY DECISION
+                - hide entire toolbar row if no toolbar is open/pinned
+                - keep row visible when any version cell is active
+            */
+            if(rowHasActiveState){
+                rowEl.style.display="flex";
+            }else{
+                rowEl.style.display="none";
+            }
+            return;
+        }
+        for(const v of visible){
+            const cell=document.createElement("div");
+            cell.className="cell";
+            const highlightKey =
+            `${block.reference.book}|${block.reference.chapter}|${row.verse}`;
+            const highlight=highlights?.[highlightKey];
+            const highlightColor=highlight?.color;
+            const temp=document.createElement("div");
+            temp.innerHTML=row.texts?.[v]??"[missing]";
+            temp.querySelectorAll("span").forEach(span=>{
+                if(span.getAttribute("style")?.includes("#952004")){
+                    span.classList.add("jesus-words");
+                    span.removeAttribute("style");
+                }
+            });
+
+            const headerHTML =
+            `<span class="version-reference">
+            ${v}-${block.reference.book} ${block.reference.chapter}:${row.verse}
+            </span>`;
+
+            cell.innerHTML=
+                `<span class="verse-line">`+
+                headerHTML+
+                `<span class="verse-text"
+                    style="${highlightColor ? `background-color:${highlightColor};padding:0.1rem;border-radius:0.15rem;` : ``}">
+                    ${temp.innerHTML}
+                </span>`+
+                `</span>`;
+
+            fragment.appendChild(cell);
+        }
+        rowEl.replaceChildren(fragment);
+    });
+        // APPLY CURRENT VERSE TOOLBAR STATE AFTER DOM REBUILD
+        updateVerseToolbarVisibility();
+}
+
+/* ============================================================
+NAVIGATION
+============================================================ */
+function moveLeft(){
+    if(windowStart<versions.length-windowSize){
+        windowStart++;
+        renderApp();
+    }
+}
+
+function moveRight(){
+    if(windowStart>0){
+        windowStart--;
+        renderApp();
+    }
+}
+
+/* ============================================================
+VIEWER NAVBAR KEYBOARD NAVIGATION
+============================================================ */
+function handleViewerKeyboardNavigation(e){
+    const active = document.activeElement;
+    if (
+        active &&
+        (
+            active.tagName === "INPUT" ||
+            active.tagName === "TEXTAREA" ||
+            active.isContentEditable
+        )
+    ){
+        return;
+    }
+
+    if (e.key === "ArrowLeft"){
+        e.preventDefault();
+        moveRight(); // previous
+    }
+
+    if (e.key === "ArrowRight"){
+        e.preventDefault();
+        moveLeft(); // next
+    }
+}
+
+/* ============================================================
+SCROLLBAR
+============================================================ */
+function toggleScrollbar(){
+    const center=document.querySelector(".center-panel");
+    if(!center)return;
+    scrollbarVisible=!scrollbarVisible;
+    if(scrollbarVisible){
+        center.classList.add("show-scrollbar");
+    }else{
+        center.classList.remove("show-scrollbar");
+    }
+}
+
+function resetScroll(){
+    const c=document.querySelector(".center-panel");
+    if(c) c.scrollTop=0;
+}
+
+/* ============================================================
+RESIZE
+============================================================ */
+window.addEventListener("resize",()=>{
+    clearTimeout(resizeTimer);
+    resizeTimer=setTimeout(()=>{
+        renderApp();
+        positionTOC();
+        // PHASE 4: keep navbar label responsive
+        updateViewerNavbar();
+    },120);
+});
+
+/* ============================================================
+ACTION BUTTON EVENT DELEGATION (STATE SYSTEM - FIXED)
+SYSTEM BEHAVIOR:
+- Every action button click resolves to a single action key
+- That key is used for ALL state updates
+- No duplicate handlers
+- No structured object passing (prevents drift bugs)
+============================================================ */
+document.addEventListener("keydown", (e) => {
+    if (e.key.toLowerCase() === "n") {
+        const navbar = document.querySelector(".viewer-navbar");
+        if (!navbar) return;
+        // 🔓 unlock navbar
+        navbar.dataset.locked = "false";
+        navbar.classList.remove("hidden");
+    }
+});
+document.addEventListener("click", function(e){
+    /*
+    Find clicked verse toolbar button (only responds to .verse-toolbar-btn)
+    */
+    const btn = e.target.closest(".verse-toolbar-btn");
+    if(!btn) return;
+    /*
+    Find containing verse toolbar container
+    This is REQUIRED for retrieving toolbar dataset key
+    */
+    const container = btn.closest(".verse-toolbar-container");
+    if(!container) return;
+    /*
+    PRIMARY TOOLBAR STATE KEY (single source of truth)
+    Format:
+    VERSION|BOOK|CHAPTER|VERSE
+    */
+    const key = container.dataset.verseToolbarKey;
+    if(!key) return;
+    /*
+    Route to toolbar state machine
+    (ONLY ONE ENTRY POINT)
+    */
+    handleVerseToolbarClick(key, btn.dataset.action);
+});
+
+/* ============================================================
+DISCOVER STUDY JSON FILES
+============================================================ */
+async function getStudyEntries(){
+    try{
+        const response = await fetch(
+            "./data/bible_studies/manifest.json?cacheBust=" + Date.now()
+        );
+        if(!response.ok){
+            return [];
+        }
+        const manifest = await response.json();
+        if(!Array.isArray(manifest)){
+            return [];
+        }
+        return manifest
+            .filter(entry => entry && entry.id)
+            .map(entry => ({
+                id: entry.id,
+                title: entry.title || entry.id
+            }))
+            .sort((a, b) => a.title.localeCompare(b.title));
+    }catch(e){
+        return [];
+    }
+}
+
+/* ============================================================
+INIT
+============================================================ */
+async function init(){
+    initDebugOverlay();
+    const studySelect = document.getElementById("studySelect");
+    if (!studySelect) {
+        throw new Error("studySelect missing — study-toolbar DOM not loaded correctly");
+    }
+    const studyEntries = await getStudyEntries();
+    studySelect.innerHTML = "";
+    for(const study of studyEntries){
+        const option=document.createElement("option");
+        option.value=study.id;
+        option.textContent=study.title || study.id;
+        studySelect.appendChild(option);
+    }
+    studySelect.addEventListener("change",()=>{
+        loadSelectedStudy();
+    });
+    if(studyEntries.length){
+        studySelect.value=studyEntries[0].id;
+        await loadSelectedStudy();
+    }
+}
+
+/* ============================================================
+VERSE TOOLBAR ACTION STATE HANDLER (FIXED CLOSE + TOGGLE BEHAVIOR)
+============================================================ */
+function handleVerseToolbarClick(key, action){
+    if(action === "close"){
+        verseToolbarState[key] = closeVerseToolbarState();
+        renderApp();
+        return;
+    }
+    const current =
+        verseToolbarState[key] || VERSE_TOOLBAR_STATE.CLOSED;
+    const next =
+        nextVerseToolbarState(current);
+    verseToolbarState[key] = next;
+    renderApp();
+}
+
+/* ============================================================
+VERSE REFERENCE CLICK HANDLER (REPLACEMENT SYSTEM)
+BEHAVIOR:
+- Clicking verse reference opens ALL action bars for that verse row
+- Uses actionState map (not single active key anymore)
+RULE:
+We open every version cell that matches the verse key
+============================================================ */
+function attachReferenceClickHandlers(){
+    document.querySelectorAll(".version-reference").forEach(el=>{
+        if(el.dataset.bound === "true") return;
+        el.dataset.bound = "true";
+        el.addEventListener("click", ()=>{
+            if(window.getSelection().toString().length > 0) return;
+            const rowEl = el.closest(".row");
+            const row = rowEl?.rowData;
+            const block = rowEl?.blockData;
+            if(!row || !block) return;
+
+        /* ============================================================
+        VERSE CLICK → EXCLUSIVE OPEN PER VERSE ROW
+        ============================================================ */
+        const verseKey = `${block.reference.book}|${block.reference.chapter}|${row.verse}`;
+        const visibleVersions = getVisibleVersions();
+        /*
+        CLOSE ALL NON-PINNED TOOLBARS FOR THIS VERSE
+        (prevents accumulation bug)
+        */
+        for(const v of visibleVersions){
+            const key = `${v}|${verseKey}`;
+            const state = verseToolbarState[key] || VERSE_TOOLBAR_STATE.CLOSED;
+            if(state !== VERSE_TOOLBAR_STATE.PINNED){
+                verseToolbarState[key] = closeVerseToolbarState();
+            }
+        }
+        /*
+        OPEN ONLY THE CLICKED VERSION CELL
+        */
+        const clickedVersion = el.textContent.split("-")[0].trim();
+        const activeKey = `${clickedVersion}|${verseKey}`;
+        verseToolbarState[activeKey] = VERSE_TOOLBAR_STATE.OPEN;
+        /*
+        APPLY VISIBILITY UPDATE
+        */
+        renderApp();
+        });
+    });
+}
+
+/* ============================================================
+HOT RELOAD
+============================================================ */
+function hotReloadStudy(){
+    location.reload();
+}
+
+/* ============================================================
+POSITION TOC MODAL
+Keeps the TOC attached below the Study Toolbar
+============================================================ */
+function positionTOC(){
+    const toolbar=document.querySelector(".study-toolbar");
+    const modal=document.getElementById("tocModal");
+    if(!toolbar || !modal) return;
+    const rect=toolbar.getBoundingClientRect();
+    modal.style.top=rect.bottom+"px";
+}
+
+/* ============================================================
+TABLE OF CONTENTS (TOC)
+OPEN MODAL
+============================================================ */
+function openTOC(){
+    const list=document.getElementById("tocList");
+    list.innerHTML="";
+    document.querySelectorAll(".block-title").forEach((title)=>{
+        const item=document.createElement("div");
+        item.textContent=title.textContent;
+        item.className="toc-item";
+        item.onclick=()=>{
+            title.scrollIntoView({
+                behavior:"smooth",
+                block:"start"
+            });
+            closeTOC();
+        };
+        list.appendChild(item);
+    });
+    positionTOC();
+    document
+        .getElementById("tocModal")
+        .classList.remove("panel-hidden");
+}
+
+/* ============================================================
+TABLE OF CONTENTS (TOC)
+CLOSE MODAL
+============================================================ */
+function closeTOC(){
+    document
+        .getElementById("tocModal")
+        .classList.add("panel-hidden");
+}
+
+/* ============================================================
+EXPORT
+============================================================ */
+function exportFullStudy(){
+    const exportMain=document.createElement("main");
+    exportMain.id="app";
+    const visible=versions.slice(0,versions.length);
+    const header=document.createElement("div");
+    header.className="header";
+    header.textContent =
+    study?.scripture?.header?.title || "Export View";
+    exportMain.appendChild(header);
+    study.scripture.blocks.forEach((block)=>{
+        const section=document.createElement("section");
+        const titleEl=document.createElement("div");
+        titleEl.className="block-title";
+        titleEl.textContent =
+        `${block.reference.book} ${block.reference.chapter}:${block.reference.start}-${block.reference.end} - ${block.title}`;
+        section.appendChild(titleEl);
+        for(const row of block.rows){
+            const rowEl=document.createElement("div");
+            rowEl.className="row";
+            const fragment=document.createDocumentFragment();
+            for(const v of visible){
+                const cell=document.createElement("div");
+                cell.className="cell";
+                const temp=document.createElement("div");
+                temp.innerHTML=row.texts?.[v]??"[missing]";
+                const highlightKey=`${block.reference.book}|${block.reference.chapter}|${row.verse}`;
+                const highlight=highlights?.[highlightKey];
+                const highlightColor=highlight?.color;
+                temp.querySelectorAll("span").forEach(span=>{
+                    if(span.getAttribute("style")?.includes("#952004")){
+                        span.className="jesus-words";
+                        span.removeAttribute("style");
+                    }
+                });
+
+                cell.innerHTML=
+                `<span class="version-reference">
+                ${v}-${block.reference.book} ${block.reference.chapter}:${row.verse}
+                </span>
+                <span class="verse-text"
+                    style="${highlightColor ? `background-color:${highlightColor};padding:0.1rem;border-radius:0.15rem;` : ``}">
+                    ${temp.innerHTML}
+                </span>`;
+
+                fragment.appendChild(cell);
+            }
+            rowEl.replaceChildren(fragment);
+            section.appendChild(rowEl);
+        }
+        exportMain.appendChild(section);
+    });
+
+    const html=
+`<!DOCTYPE html>
+<html>
+<head>
+${document.head.innerHTML}
+<style>
+html, body { height:auto !important; overflow:visible !important; }
+.layout,.center-panel,body { overflow:visible !important; height:auto !important; display:block !important; }
+.row{ break-inside:avoid; }
+section{ page-break-inside:avoid; }
+</style>
+</head>
+<body>${exportMain.outerHTML}</body>
+</html>`;
+
+    const blob=new Blob([html],{type:"text/html"});
+    const a=document.createElement("a");
+    a.href=URL.createObjectURL(blob);
+    a.download="bible-study-export.html";
+    a.click();
+
+    URL.revokeObjectURL(a.href);
+}
+
+/* ============================================================
+VIEWER-NAVBAR WITH CLOSE BUTTON
+============================================================ */
+function bindViewerNavbar(){
+    const navbar = document.querySelector(".viewer-navbar");
+    if(!navbar) return;
+    const leftBtn = navbar.querySelector(".nav-left");
+    const rightBtn = navbar.querySelector(".nav-right");
+    const closeBtn = navbar.querySelector(".nav-close");
+    if(leftBtn) leftBtn.onclick = () => moveLeft();
+    if(rightBtn) rightBtn.onclick = () => moveRight();
+    if(closeBtn){
+        closeBtn.onclick = () => {
+            const navbar = document.querySelector(".viewer-navbar");
+            if (!navbar) return;
+            navbar.classList.add("hidden");
+            // only mark as user-hidden (NOT locked)
+            navbar.dataset.userHidden = "true";
+        };
+    }
+}
+
+/* ============================================================
+EDGE-TRIGGER FOR VIEWER-NAVBAR
+============================================================ */
+function initNavbarEdgeTrigger() {
+    const navbar = document.querySelector(".viewer-navbar");
+    if (!navbar) return;
+    const EDGE = 85;
+    let visible = false;
+    function setVisible(state) {
+        // only block if explicitly disabled in future (not used yet)
+        if (navbar.dataset.disabled === "true") return;
+        if (visible === state) return;
+        visible = state;
+        if (state) {
+            navbar.classList.remove("hidden");
+        } else {
+            navbar.classList.add("hidden");
+        }
+    }
+    document.addEventListener("mousemove", (e) => {
+        // If you want close button to fully override:
+        if (navbar.dataset.locked === "true") return;
+        const distFromBottom = window.innerHeight - e.clientY;
+        const inZone = distFromBottom <= EDGE;
+        if (navbar.dataset.userHidden === "true") {
+            // allow reopen via edge
+            setVisible(inZone);
+        } else {
+            setVisible(inZone);
+        }
+    });
+}
+
+/* ============================================================
+ADD VERSION LABEL
+============================================================ */
+function updateViewerNavbar(){
+    const navbar = document.querySelector(".viewer-navbar");
+    if(!navbar) return;
+    const label = navbar.querySelector(".nav-label");
+    if(!label) return;
+    const total = versions.length || 0;
+    const current = total ? Math.min(windowStart + 1, total) : 0;
+    const width = window.innerWidth;
+    let text = "";
+    // ULTRA SMALL (minimal)
+    if(width <= 420){
+        text = `${current}`;
+    }
+    // COMPACT
+    else if(width <= 700){
+        text = `${current} / ${total}`;
+    }
+    // FULL LABEL
+    else{
+        text = `Version ${current} of ${total}`;
+    }
+    label.textContent = text;
+}
+/* START APP */
+// ============================================================
+// FIX: Ensure DOM is fully constructed before init runs
+// This prevents missing #studySelect after DOM restructure
+// ============================================================
+window.addEventListener("DOMContentLoaded", () => {
+    init();
+    bindViewerNavbar();
+    initNavbarEdgeTrigger();
+    // ✅ FIX: enable keyboard navigation
+    document.addEventListener("keydown", handleViewerKeyboardNavigation);
+});
+</script>
+</body>
+</html>
