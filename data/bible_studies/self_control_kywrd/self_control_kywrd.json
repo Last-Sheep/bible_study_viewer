@@ -1,0 +1,1625 @@
+{
+  "scripture": {
+    "header": {
+      "id": "",
+      "title": "self-control keyword",
+      "description": "These are references to the keyword self-control in seven versions",
+      "topics": [
+        "self-control",
+        "Sinful Nature",
+        "Last Days",
+        "End Times"
+      ]
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NASB95",
+      "NKJV",
+      "DRB",
+      "ESV",
+      "LEB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_16_32",
+        "title": "He who rules his spirit",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 16,
+          "start": 32,
+          "end": 32
+        },
+        "rows": [
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "Better a patient man than a warrior, a man who controls his temper than one who takes a city.",
+              "KJV": "He that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city.",
+              "NASB95": "He who is slow to anger is better than the mighty,\nAnd he who rules his spirit, than he who captures a city.",
+              "NKJV": "He who is slow to anger is better than the mighty,\nAnd he who rules his spirit than he who takes a city.",
+              "DRB": "The patient man is better than the valiant: and he that ruleth his spirit than he that taketh cities.",
+              "ESV": "Whoever is slow to anger is better than the mighty,\n    and he who rules his spirit than he who takes a city.",
+              "LEB": "He who is slow to anger is better than him who is mighty,\n    and he who controls his spirit than him who captures a city."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_25_28",
+        "title": "A man who lacks self-control",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 25,
+          "start": 28,
+          "end": 28
+        },
+        "rows": [
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "Like a city whose walls are broken down is a man who lacks self-control.",
+              "KJV": "He that hath no rule over his own spirit is like a city that is broken down, and without walls.",
+              "NASB95": "Like a city that is broken into and without walls\nIs a man who has no control over his spirit.",
+              "NKJV": "Whoever has no rule over his own spirit\nIs like a city broken down, without walls.",
+              "DRB": "As a city that lieth open and is not compassed with walls, so is a man that cannot refrain his own spirit in speaking.",
+              "ESV": "A man without self-control\n    is like a city broken into and left without walls.",
+              "LEB": "A breached city where there is no wall\n    is like a man who has no self-control for his spirit."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1co_7_1_9",
+        "title": "Marriage and self-control",
+        "description": "",
+        "reference": {
+          "book": "1 Corinthians",
+          "chapter": 7,
+          "start": 1,
+          "end": 9
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Now for the matters you wrote about: It is good for a man not to marry.",
+              "KJV": "Now concerning the things whereof ye wrote unto me: It is good for a man not to touch a woman.",
+              "NASB95": "Now concerning the things about which you wrote, it is good for a man not to touch a woman.",
+              "NKJV": "Now concerning the things of which you wrote to me:\nIt is good for a man not to touch a woman.",
+              "DRB": "NOW concerning the thing whereof you wrote to me: It is good for a man not to touch a woman.",
+              "ESV": "Now concerning the matters about which you wrote: \u201cIt is good for a man not to have sexual relations with a woman.\u201d",
+              "LEB": "Now concerning the things about which you wrote: \u201cIt is good for a man not to touch a woman.\u201d"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "But since there is so much immorality, each man should have his own wife, and each woman her own husband.",
+              "KJV": "Nevertheless, to avoid fornication, let every man have his own wife, and let every woman have her own husband.",
+              "NASB95": "But because of immoralities, each man is to have his own wife, and each woman is to have her own husband.",
+              "NKJV": "Nevertheless, because of sexual immorality, let each man have his own wife, and let each woman have her own husband.",
+              "DRB": "But for fear of fornication, let every man have his own wife, and let every woman have her own husband.",
+              "ESV": "But because of the temptation to sexual immorality, each man should have his own wife and each woman her own husband.",
+              "LEB": "But because of sexual immorality, let each man have his own wife and let each woman have her own husband."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "The husband should fulfill his marital duty to his wife, and likewise the wife to her husband.",
+              "KJV": "Let the husband render unto the wife due benevolence: and likewise also the wife unto the husband.",
+              "NASB95": "The husband must fulfill his duty to his wife, and likewise also the wife to her husband.",
+              "NKJV": "Let the husband render to his wife the affection due her, and likewise also the wife to her husband.",
+              "DRB": "Let the husband render the debt to his wife, and the wife also in like manner to the husband.",
+              "ESV": "The husband should give to his wife her conjugal rights, and likewise the wife to her husband.",
+              "LEB": "The husband must fulfill his obligation to his wife, and likewise also the wife to her husband."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "The wife's body does not belong to her alone but also to her husband. In the same way, the husband's body does not belong to him alone but also to his wife.",
+              "KJV": "The wife hath not power of her own body, but the husband: and likewise also the husband hath not power of his own body, but the wife.",
+              "NASB95": "The wife does not have authority over her own body, but the husband does; and likewise also the husband does not have authority over his own body, but the wife does.",
+              "NKJV": "The wife does not have authority over her own body, but the husband does. And likewise the husband does not have authority over his own body, but the wife does.",
+              "DRB": "The wife hath not power of her own body, but the husband. And in like manner the husband also hath not power of his own body, but the wife.",
+              "ESV": "For the wife does not have authority over her own body, but the husband does. Likewise the husband does not have authority over his own body, but the wife does.",
+              "LEB": "The wife does not have authority over her own body, but her husband does. And likewise also the husband does not have authority over his own body, but his wife does."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "Do not deprive each other except by mutual consent and for a time, so that you may devote yourselves to prayer. Then come together again so that Satan will not tempt you because of your lack of self-control.",
+              "KJV": "Defraud ye not one the other, except it be with consent for a time, that ye may give yourselves to fasting and prayer; and come together again, that Satan tempt you not for your incontinency.",
+              "NASB95": "Stop depriving one another, except by agreement for a time, so that you may devote yourselves to prayer, and come together again so that Satan will not tempt you because of your lack of self-control.",
+              "NKJV": "Do not deprive one another except with consent for a time, that you may give yourselves to fasting and prayer; and come together again so that Satan does not tempt you because of your lack of self-control.",
+              "DRB": "Defraud not one another, except, perhaps, by consent, for a time, that you may give yourselves to prayer; and return together again, lest Satan tempt you for your incontinency.",
+              "ESV": "Do not deprive one another, except perhaps by agreement for a limited time, that you may devote yourselves to prayer; but then come together again, so that Satan may not tempt you because of your lack of self-control.",
+              "LEB": "Do not defraud one another, except perhaps by agreement, for a time, in order that you may devote yourselves to prayer, and then you should be together again, lest Satan tempt you because of your lack of self control."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "I say this as a concession, not as a command.",
+              "KJV": "But I speak this by permission, and not of commandment.",
+              "NASB95": "But this I say by way of concession, not of command.",
+              "NKJV": "But I say this as a concession, not as a commandment.",
+              "DRB": "But I speak this by indulgence, not by commandment.",
+              "ESV": "Now as a concession, not a command, I say this.",
+              "LEB": "But I say this as a concession, not as a command."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "I wish that all men were as I am. But each man has his own gift from God; one has this gift, another has that.",
+              "KJV": "For I would that all men were even as I myself. But every man hath his proper gift of God, one after this manner, and another after that.",
+              "NASB95": "Yet I wish that all men were even as I myself am. However, each man has his own gift from God, one in this manner, and another in that.",
+              "NKJV": "For I wish that all men were even as I myself. But each one has his own gift from God, one in this manner and another in that.",
+              "DRB": "For I would that all men were even as myself: but every one hath his proper gift from God; one after this manner, and another after that.",
+              "ESV": "I wish that all were as I myself am. But each has his own gift from God, one of one kind and one of another.",
+              "LEB": "I wish all people could be like myself, but each one has his own gift from God, one in this way and another in that way."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Now to the unmarried and the widows I say: It is good for them to stay unmarried, as I am.",
+              "KJV": "I say therefore to the unmarried and widows, it is good for them if they abide even as I.",
+              "NASB95": "But I say to the unmarried and to widows that it is good for them if they remain even as I.",
+              "NKJV": "But I say to the unmarried and to the widows: It is good for them if they remain even as I am;",
+              "DRB": "But I say to the unmarried, and to the widows: It is good for them if they so continue, even as I.",
+              "ESV": "To the unmarried and the widows I say that it is good for them to remain single, as I am.",
+              "LEB": "Now I say to the unmarried and to the widows: It is good for them if they remain as I am."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "But if they cannot control themselves, they should marry, for it is better to marry than to burn with passion.",
+              "KJV": "But if they cannot contain, let them marry: for it is better to marry than to burn.",
+              "NASB95": "But if they do not have self-control, let them marry; for it is better to marry than to burn with passion.",
+              "NKJV": "but if they cannot exercise self-control, let them marry. For it is better to marry than to burn with passion.",
+              "DRB": "But if they do not contain themselves, let them marry. For it is better to marry than to be burnt.",
+              "ESV": "But if they cannot exercise self-control, they should marry. For it is better to marry than to burn with passion.",
+              "LEB": "But if they cannot control themselves, they should marry, for it is better to marry than to burn with sexual desire."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1co_9_24_27",
+        "title": "Master self-discpline",
+        "description": "",
+        "reference": {
+          "book": "1 Corinthians",
+          "chapter": 9,
+          "start": 24,
+          "end": 27
+        },
+        "rows": [
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "Do you not know that in a race all the runners run, but only one gets the prize? Run in such a way as to get the prize.",
+              "KJV": "Know ye not that they which run in a race run all, but one receiveth the prize? So run, that ye may obtain.",
+              "NASB95": "Do you not know that those who run in a race all run, but only one receives the prize? Run in such a way that you may win.",
+              "NKJV": "Do you not know that those who run in a race all run, but one receives the prize? Run in such a way that you may obtain it.",
+              "DRB": "Know you not that they that run in the race, all run indeed, but one receiveth the prize ? So run that you may obtain.",
+              "ESV": "Do you not know that in a race all the runners run, but only one receives the prize? So run that you may obtain it.",
+              "LEB": "Do you not know that those who run in the stadium all run, but one receives the prize? Run in such a way that you may win."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "Everyone who competes in the games goes into strict training. They do it to get a crown that will not last; but we do it to get a crown that will last forever.",
+              "KJV": "And every man that striveth for the mastery is temperate in all things. Now they do it to obtain a corruptible crown; but we an incorruptible.",
+              "NASB95": "Everyone who competes in the games exercises self-control in all things. They then do it to receive a perishable wreath, but we an imperishable.",
+              "NKJV": "And everyone who competes for the prize is temperate in all things. Now they do it to obtain a perishable crown, but we for an imperishable crown.",
+              "DRB": "And every one that striveth for the mastery, refraineth himself from all things: and they indeed that they may receive a corruptible crown; but we an incorruptible one.",
+              "ESV": "Every athlete exercises self-control in all things. They do it to receive a perishable wreath, but we an imperishable.",
+              "LEB": "And everyone who competes exercises self-control in all things. Thus those do so in order that they may receive a perishable crown, but we an imperishable one."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "Therefore I do not run like a man running aimlessly; I do not fight like a man beating the air.",
+              "KJV": "I therefore so run, not as uncertainly; so fight I, not as one that beateth the air:",
+              "NASB95": "Therefore I run in such a way, as not without aim; I box in such a way, as not beating the air;",
+              "NKJV": "Therefore I run thus: not with uncertainty. Thus I fight: not as one who beats the air.",
+              "DRB": "I therefore so run, not as at an uncertainty: I so fight, not as one beating the air:",
+              "ESV": "So I do not run aimlessly; I do not box as one beating the air.",
+              "LEB": "Therefore I run in this way, not as running aimlessly; I box in this way, not as beating the air."
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "No, I beat my body and make it my slave so that after I have preached to others, I myself will not be disqualified for the prize.",
+              "KJV": "But I keep under my body, and bring it into subjection: lest that by any means, when I have preached to others, I myself should be a castaway.",
+              "NASB95": "but I discipline my body and make it my slave, so that, after I have preached to others, I myself will not be disqualified.",
+              "NKJV": "But I discipline my body and bring it into subjection, lest, when I have preached to others, I myself should become disqualified.",
+              "DRB": "But I chastise my body, and bring it into subjection: lest perhaps, when I have preached to others, I myself should become a castaway.",
+              "ESV": "But I discipline my body and keep it under control, lest after preaching to others I myself should be disqualified.",
+              "LEB": "But I discipline my body and subjugate it, lest somehow after preaching to others, I myself should become disqualified."
+            }
+          }
+        ]
+      },
+      {
+        "id": "gal_5_16_26",
+        "title": "Fruit of the Spirit",
+        "description": "",
+        "reference": {
+          "book": "Galatians",
+          "chapter": 5,
+          "start": 16,
+          "end": 26
+        },
+        "rows": [
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "So I say, live by the Spirit, and you will not gratify the desires of the sinful nature.",
+              "KJV": "This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh.",
+              "NASB95": "But I say, walk by the Spirit, and you will not carry out the desire of the flesh.",
+              "NKJV": "I say then: Walk in the Spirit, and you shall not fulfill the lust of the flesh.",
+              "DRB": "I say then, walk in the spirit, and you shall not fulfil the lusts of the flesh.",
+              "ESV": "But I say, walk by the Spirit, and you will not gratify the desires of the flesh.",
+              "LEB": "But I say, live by the Spirit, and you will never carry out the desire of the flesh."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "For the sinful nature desires what is contrary to the Spirit, and the Spirit what is contrary to the sinful nature. They are in conflict with each other, so that you do not do what you want.",
+              "KJV": "For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would.",
+              "NASB95": "For the flesh sets its desire against the Spirit, and the Spirit against the flesh; for these are in opposition to one another, so that you may not do the things that you please.",
+              "NKJV": "For the flesh lusts against the Spirit, and the Spirit against the flesh; and these are contrary to one another, so that you do not do the things that you wish.",
+              "DRB": "For the flesh lusteth against the spirit: and the spirit against the flesh; for these are contrary one to another: so that you do not the things that you would.",
+              "ESV": "For the desires of the flesh are against the Spirit, and the desires of the Spirit are against the flesh, for these are opposed to each other, to keep you from doing the things you want to do.",
+              "LEB": "For the flesh desires against the Spirit, and the Spirit against the flesh, for these are in opposition to one another, so that whatever you want, you may not do these things."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "But if you are led by the Spirit, you are not under law.",
+              "KJV": "But if ye be led of the Spirit, ye are not under the law.",
+              "NASB95": "But if you are led by the Spirit, you are not under the Law.",
+              "NKJV": "But if you are led by the Spirit, you are not under the law.",
+              "DRB": "But if you are led by the spirit, you are not under the law.",
+              "ESV": "But if you are led by the Spirit, you are not under the law.",
+              "LEB": "But if you are led by the Spirit, you are not under the law."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "The acts of the sinful nature are obvious: sexual immorality, impurity and debauchery;",
+              "KJV": "Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness,",
+              "NASB95": "Now the deeds of the flesh are evident, which are: immorality, impurity, sensuality,",
+              "NKJV": "Now the works of the flesh are evident, which are: adultery, fornication, uncleanness, lewdness,",
+              "DRB": "Now the works of the flesh are manifest, which are fornication, uncleanness, immodesty, luxury,",
+              "ESV": "Now the works of the flesh are evident: sexual immorality, impurity, sensuality,",
+              "LEB": "Now the deeds of the flesh are evident, which are sexual immorality, impurity, licentiousness,"
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "idolatry and witchcraft; hatred, discord, jealousy, fits of rage, selfish ambition, dissensions, factions",
+              "KJV": "Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,",
+              "NASB95": "idolatry, sorcery, enmities, strife, jealousy, outbursts of anger, disputes, dissensions, factions,",
+              "NKJV": "idolatry, sorcery, hatred, contentions, jealousies, outbursts of wrath, selfish ambitions, dissensions, heresies,",
+              "DRB": "Idolatry, witchcrafts, enmities, contentions, emulations, wraths, quarrels, dissensions, sects,",
+              "ESV": "idolatry, sorcery, enmity, strife, jealousy, fits of anger, rivalries, dissensions, divisions,",
+              "LEB": "idolatry, sorcery, enmity, strife, jealousy, outbursts of anger, selfish ambition, dissension, factions,"
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "and envy; drunkenness, orgies, and the like. I warn you, as I did before, that those who live like this will not inherit the kingdom of God.",
+              "KJV": "Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God.",
+              "NASB95": "envying, drunkenness, carousing, and things like these, of which I forewarn you, just as I have forewarned you, that those who practice such things will not inherit the kingdom of God.",
+              "NKJV": "envy, murders, drunkenness, revelries, and the like; of which I tell you beforehand, just as I also told you in time past, that those who practice such things will not inherit the kingdom of God.",
+              "DRB": "Envies, murders, drunkenness, revellings, and such like. Of the which I foretell you, as I have foretold to you, that they who do such things shall not obtain the kingdom of God.",
+              "ESV": "envy, drunkenness, orgies, and things like these. I warn you, as I warned you before, that those who do such things will not inherit the kingdom of God.",
+              "LEB": "envy, drunkenness, carousing, and things like these, things which I am telling you in advance, just as I said before, that the ones who practice such things will not inherit the kingdom of God."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,",
+              "KJV": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,",
+              "NASB95": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,",
+              "NKJV": "But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness,",
+              "DRB": "But the fruit of the Spirit is, charity, joy, peace, patience, benignity, goodness, longanimity,",
+              "ESV": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,",
+              "LEB": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,"
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "gentleness and self-control. Against such things there is no law.",
+              "KJV": "Meekness, temperance: against such there is no law.",
+              "NASB95": "gentleness, self-control; against such things there is no law.",
+              "NKJV": "gentleness, self-control. Against such there is no law.",
+              "DRB": "Mildness, faith, modesty, continency, chastity. Against such there is no law.",
+              "ESV": "gentleness, self-control; against such things there is no law.",
+              "LEB": "gentleness, self control. Against such things there is no law."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "Those who belong to Christ Jesus have crucified the sinful nature with its passions and desires.",
+              "KJV": "And they that are Christ's have crucified the flesh with the affections and lusts.",
+              "NASB95": "Now those who belong to Christ Jesus have crucified the flesh with its passions and desires.",
+              "NKJV": "And those who are Christ\u2019s have crucified the flesh with its passions and desires.",
+              "DRB": "And they that are Christ's, have crucified their flesh, with the vices and concupiscences.",
+              "ESV": "And those who belong to Christ Jesus have crucified the flesh with its passions and desires.",
+              "LEB": "Now those who belong to Christ have crucified the flesh together with its feelings and its desires."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "Since we live by the Spirit, let us keep in step with the Spirit.",
+              "KJV": "If we live in the Spirit, let us also walk in the Spirit.",
+              "NASB95": "If we live by the Spirit, let us also walk by the Spirit.",
+              "NKJV": "If we live in the Spirit, let us also walk in the Spirit.",
+              "DRB": "If we live in the Spirit, let us also walk in the Spirit.",
+              "ESV": "If we live by the Spirit, let us also keep in step with the Spirit.",
+              "LEB": "If we live by the Spirit, we must also follow the Spirit."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "Let us not become conceited, provoking and envying each other.",
+              "KJV": "Let us not be desirous of vain glory, provoking one another, envying one another.",
+              "NASB95": "Let us not become boastful, challenging one another, envying one another.",
+              "NKJV": "Let us not become conceited, provoking one another, envying one another.",
+              "DRB": "Let us not be made desirous of vain glory, provoking one another, envying on another.",
+              "ESV": "Let us not become conceited, provoking one another, envying one another.",
+              "LEB": "We must not become conceited, provoking one another, envying one another."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1ti_3_1_7",
+        "title": "Qualifications of Overseers",
+        "description": "",
+        "reference": {
+          "book": "1 Timothy",
+          "chapter": 3,
+          "start": 1,
+          "end": 7
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Here is a trustworthy saying: If anyone sets his heart on being an overseer, he desires a noble task.",
+              "KJV": "This is a true saying, if a man desire the office of a bishop, he desireth a good work.",
+              "NASB95": "It is a trustworthy statement: if any man aspires to the office of overseer, it is a fine work he desires to do.",
+              "NKJV": "This is a faithful saying: If a man desires the position of a bishop, he desires a good work.",
+              "DRB": "A faithful saying: if a man desire the office of a bishop, he desireth a good work.",
+              "ESV": "The saying is trustworthy: If anyone aspires to the office of overseer, he desires a noble task.",
+              "LEB": "The saying is trustworthy: if anyone aspires to supervision, he desires a good work."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Now the overseer must be above reproach, the husband of but one wife, temperate, self-controlled, respectable, hospitable, able to teach,",
+              "KJV": "A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach;",
+              "NASB95": "An overseer, then, must be above reproach, the husband of one wife, temperate, prudent, respectable, hospitable, able to teach,",
+              "NKJV": "A bishop then must be blameless, the husband of one wife, temperate, sober-minded, of good behavior, hospitable, able to teach;",
+              "DRB": "It behoveth therefore a bishop to be blameless, the husband of one wife, sober, prudent, of good behaviour, chaste, given to hospitality, a teacher,",
+              "ESV": "Therefore an overseer must be above reproach, the husband of one wife, sober-minded, self-controlled, respectable, hospitable, able to teach,",
+              "LEB": "Therefore the overseer must be irreproachable, the husband of one wife, temperate, self-controlled, respectable, hospitable, skillful in teaching,"
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "not given to drunkenness, not violent but gentle, not quarrelsome, not a lover of money.",
+              "KJV": "Not given to wine, no striker, not greedy of filthy lucre; but patient, not a brawler, not covetous;",
+              "NASB95": "not addicted to wine or pugnacious, but gentle, peaceable, free from the love of money.",
+              "NKJV": "not given to wine, not violent, not greedy for money, but gentle, not quarrelsome, not covetous;",
+              "DRB": "Not given to wine, no striker, but modest, not quarrelsome, not covetous, but",
+              "ESV": "not a drunkard, not violent but gentle, not quarrelsome, not a lover of money.",
+              "LEB": "not addicted to wine, not a violent person, but gentle, peaceable, not loving money,"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "He must manage his own family well and see that his children obey him with proper respect.",
+              "KJV": "One that ruleth well his own house, having his children in subjection with all gravity;",
+              "NASB95": "He must be one who manages his own household well, keeping his children under control with all dignity",
+              "NKJV": "one who rules his own house well, having his children in submission with all reverence",
+              "DRB": "One that ruleth well his own house, having his children in subjection with all chastity.",
+              "ESV": "He must manage his own household well, with all dignity keeping his children submissive,",
+              "LEB": "managing his own household well, having children in submission with all dignity"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "(If anyone does not know how to manage his own family, how can he take care of God's church?)",
+              "KJV": "(For if a man know not how to rule his own house, how shall he take care of the church of God?)",
+              "NASB95": "(but if a man does not know how to manage his own household, how will he take care of the church of God?),",
+              "NKJV": "(for if a man does not know how to rule his own house, how will he take care of the church of God?);",
+              "DRB": "But if a man know not how to rule his own house, how shall he take care of the church of God?",
+              "ESV": "for if someone does not know how to manage his own household, how will he care for God's church?",
+              "LEB": "(but if someone does not know how to manage his own household, how will he take care of the church of God?),"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "He must not be a recent convert, or he may become conceited and fall under the same judgment as the devil.",
+              "KJV": "Not a novice, lest being lifted up with pride he fall into the condemnation of the devil.",
+              "NASB95": "and not a new convert, so that he will not become conceited and fall into the condemnation incurred by the devil.",
+              "NKJV": "not a novice, lest being puffed up with pride he fall into the same condemnation as the devil.",
+              "DRB": "Not a neophyte: lest being puffed up with pride, he fall into the judgment of the devil.",
+              "ESV": "He must not be a recent convert, or he may become puffed up with conceit and fall into the condemnation of the devil.",
+              "LEB": "not newly converted, lest he become conceited and fall into the condemnation of the devil."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "He must also have a good reputation with outsiders, so that he will not fall into disgrace and into the devil's trap.",
+              "KJV": "Moreover he must have a good report of them which are without; lest he fall into reproach and the snare of the devil.",
+              "NASB95": "And he must have a good reputation with those outside the church, so that he will not fall into reproach and the snare of the devil.",
+              "NKJV": "Moreover he must have a good testimony among those who are outside, lest he fall into reproach and the snare of the devil.",
+              "DRB": "Moreover he must have a good testimony of them who are without: lest he fall into reproach and the snare of the devil.",
+              "ESV": "Moreover, he must be well thought of by outsiders, so that he may not fall into disgrace, into a snare of the devil.",
+              "LEB": "But he must also have a good testimony from those outside, in order that he may not fall into disgrace and the trap of the devil."
+            }
+          }
+        ]
+      },
+      {
+        "id": "2ti_1_1_2",
+        "title": "Greeting",
+        "description": "",
+        "reference": {
+          "book": "2 Timothy",
+          "chapter": 1,
+          "start": 1,
+          "end": 2
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Paul, an apostle of Christ Jesus by the will of God, according to the promise of life that is in Christ Jesus,",
+              "KJV": "Paul, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,",
+              "NASB95": "Paul, an apostle of Christ Jesus by the will of God, according to the promise of life in Christ Jesus,",
+              "NKJV": "Paul, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,",
+              "DRB": "Paul, an apostle of Jesus Christ, by the will of God, according to the promise of life, which is in Christ Jesus.",
+              "ESV": "Paul, an apostle of Christ Jesus by the will of God according to the promise of the life that is in Christ Jesus,",
+              "LEB": "Paul, an apostle of Christ Jesus through the will of God, according to the promise of life which is in Christ Jesus,"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "To Timothy, my dear son: Grace, mercy and peace from God the Father and Christ Jesus our Lord.",
+              "KJV": "To Timothy, my dearly beloved son: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord.",
+              "NASB95": "To Timothy, my beloved son: Grace, mercy and peace from God the Father and Christ Jesus our Lord.",
+              "NKJV": "To Timothy, a beloved son:\nGrace, mercy, and peace from God the Father and Christ Jesus our Lord.",
+              "DRB": "To Timothy my dearly beloved son, grace, mercy, and peace, from God the Father, and from Christ Jesus our Lord.",
+              "ESV": "To Timothy, my beloved child:\nGrace, mercy, and peace from God the Father and Christ Jesus our Lord.",
+              "LEB": "to Timothy, my dear child. Grace, mercy, and peace from God the Father and Christ Jesus our Lord."
+            }
+          }
+        ]
+      },
+      {
+        "id": "2ti_1_3_7",
+        "title": "Timothy\u2019s Faith and Heritage",
+        "description": "",
+        "reference": {
+          "book": "2 Timothy",
+          "chapter": 1,
+          "start": 3,
+          "end": 7
+        },
+        "rows": [
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "I thank God, whom I serve, as my forefathers did, with a clear conscience, as night and day I constantly remember you in my prayers.",
+              "KJV": "I thank God, whom I serve from my forefathers with pure conscience, that without ceasing I have remembrance of thee in my prayers night and day;",
+              "NASB95": "I thank God, whom I serve with a clear conscience the way my forefathers did, as I constantly remember you in my prayers night and day,",
+              "NKJV": "I thank God, whom I serve with a pure conscience, as my forefathers did, as without ceasing I remember you in my prayers night and day,",
+              "DRB": "I give thanks to God, whom I serve from my forefathers with a pure conscience, that without ceasing, I have a remembrance of thee in my prayers, night and day.",
+              "ESV": "I thank God whom I serve, as did my ancestors, with a clear conscience, as I remember you constantly in my prayers night and day.",
+              "LEB": "I am thankful to God, whom I have served with a clear conscience as my ancestors did, when I remember you constantly in my prayers night and day,"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Recalling your tears, I long to see you, so that I may be filled with joy.",
+              "KJV": "Greatly desiring to see thee, being mindful of thy tears, that I may be filled with joy;",
+              "NASB95": "longing to see you, even as I recall your tears, so that I may be filled with joy.",
+              "NKJV": "greatly desiring to see you, being mindful of your tears, that I may be filled with joy,",
+              "DRB": "Desiring to see thee, being mindful of thy tears, that I may be filled with joy,",
+              "ESV": "As I remember your tears, I long to see you, that I may be filled with joy.",
+              "LEB": "longing to see you as I remember your tears, so that I may be filled with joy,"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "I have been reminded of your sincere faith, which first lived in your grandmother Lois and in your mother Eunice and, I am persuaded, now lives in you also.",
+              "KJV": "When I call to remembrance the unfeigned faith that is in thee, which dwelt first in thy grandmother Lois, and thy mother Eunice; and I am persuaded that in thee also.",
+              "NASB95": "For I am mindful of the sincere faith within you, which first dwelt in your grandmother Lois and your mother Eunice, and I am sure that it is in you as well.",
+              "NKJV": "when I call to remembrance the genuine faith that is in you, which dwelt first in your grandmother Lois and your mother Eunice, and I am persuaded is in you also.",
+              "DRB": "Calling to mind that faith which is in thee unfeigned, which also dwelt first in thy grandmother Lois, and in thy mother Eunice, and I am certain that in thee also.",
+              "ESV": "I am reminded of your sincere faith, a faith that dwelt first in your grandmother Lois and your mother Eunice and now, I am sure, dwells in you as well.",
+              "LEB": "remembering the sincere faith in you, which lived first in your grandmother Lois and your mother Eunice, and I am convinced that is in you also,"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "For this reason I remind you to fan into flame the gift of God, which is in you through the laying on of my hands.",
+              "KJV": "Wherefore I put thee in remembrance that thou stir up the gift of God, which is in thee by the putting on of my hands.",
+              "NASB95": "For this reason I remind you to kindle afresh the gift of God which is in you through the laying on of my hands.",
+              "NKJV": "Therefore I remind you to stir up the gift of God which is in you through the laying on of my hands.",
+              "DRB": "For which cause I admonish thee, that thou stir up the grace of God which is in thee, by the imposition of my hands.",
+              "ESV": "For this reason I remind you to fan into flame the gift of God, which is in you through the laying on of my hands,",
+              "LEB": "for which reason I remind you to rekindle the gift of God that is in you through the laying on of my hands."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "For God did not give us a spirit of timidity, but a spirit of power, of love and of self-discipline.",
+              "KJV": "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.",
+              "NASB95": "For God has not given us a spirit of timidity, but of power and love and discipline.",
+              "NKJV": "For God has not given us a spirit of fear, but of power and of love and of a sound mind.",
+              "DRB": "For God hath not given us the spirit of fear: but of power, and of love, and of sobriety.",
+              "ESV": "for God gave us a spirit not of fear but of power and love and self-control.",
+              "LEB": "For God has not given us a spirit of cowardice, but of power and love and self-discipline."
+            }
+          }
+        ]
+      },
+      {
+        "id": "2ti_1_8_12",
+        "title": "Not Ashamed of the Gospel",
+        "description": "",
+        "reference": {
+          "book": "2 Timothy",
+          "chapter": 1,
+          "start": 8,
+          "end": 12
+        },
+        "rows": [
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "So do not be ashamed to testify about our Lord, or ashamed of me his prisoner. But join with me in suffering for the gospel, by the power of God,",
+              "KJV": "Be not thou therefore ashamed of the testimony of our Lord, nor of me his prisoner: but be thou partaker of the afflictions of the gospel according to the power of God;",
+              "NASB95": "Therefore do not be ashamed of the testimony of our Lord or of me His prisoner, but join with me in suffering for the gospel according to the power of God,",
+              "NKJV": "Therefore do not be ashamed of the testimony of our Lord, nor of me His prisoner, but share with me in the sufferings for the gospel according to the power of God,",
+              "DRB": "Be not thou therefore ashamed of the testimony of our Lord, nor of me his prisoner: but labour with the gospel, according to the power of God,",
+              "ESV": "Therefore do not be ashamed of the testimony about our Lord, nor of me his prisoner, but share in suffering for the gospel by the power of God,",
+              "LEB": "Therefore, do not be ashamed of the testimony about our Lord, nor me his prisoner, but suffer along with me for the gospel, according to the power of God,"
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "who has saved us and called us to a holy life--not because of anything we have done but because of his own purpose and grace. This grace was given us in Christ Jesus before the beginning of time,",
+              "KJV": "Who hath saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began,",
+              "NASB95": "who has saved us and called us with a holy calling, not according to our works, but according to His own purpose and grace which was granted us in Christ Jesus from all eternity,",
+              "NKJV": "who has saved us and called us with a holy calling, not according to our works, but according to His own purpose and grace which was given to us in Christ Jesus before time began,",
+              "DRB": "Who hath delivered us and called us by his holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the times of the world.",
+              "ESV": "who saved us and called us to a holy calling, not because of our works but because of his own purpose and grace, which he gave us in Christ Jesus before the ages began,",
+              "LEB": "who saved us and called us with a holy calling, not according to our works but according to his own purpose and grace that was given to us in Christ Jesus before time began,"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "but it has now been revealed through the appearing of our Savior, Christ Jesus, who has destroyed death and has brought life and immortality to light through the gospel.",
+              "KJV": "But is now made manifest by the appearing of our Saviour Jesus Christ, who hath abolished death, and hath brought life and immortality to light through the gospel:",
+              "NASB95": "but now has been revealed by the appearing of our Savior Christ Jesus, who abolished death and brought life and immortality to light through the gospel,",
+              "NKJV": "but has now been revealed by the appearing of our Savior Jesus Christ, who has abolished death and brought life and immortality to light through the gospel,",
+              "DRB": "But is now made manifest by the illumination of our Saviour Jesus Christ, who hath destroyed death, and hath brought to light life and incorruption by the gospel:",
+              "ESV": "and which now has been manifested through the appearing of our Savior Christ Jesus, who abolished death and brought life and immortality to light through the gospel,",
+              "LEB": "but has now been disclosed by the appearing of our Savior Jesus Christ, who has abolished death and brought to light life and immortality through the gospel,"
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "And of this gospel I was appointed a herald and an apostle and a teacher.",
+              "KJV": "Whereunto I am appointed a preacher, and an apostle, and a teacher of the Gentiles.",
+              "NASB95": "for which I was appointed a preacher and an apostle and a teacher.",
+              "NKJV": "to which I was appointed a preacher, an apostle, and a teacher of the Gentiles.",
+              "DRB": "Wherein I am appointed a preacher, and an apostle, and teacher of the Gentiles.",
+              "ESV": "for which I was appointed a preacher and apostle and teacher,",
+              "LEB": "for which I was appointed a proclaimer and an apostle and a teacher,"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "That is why I am suffering as I am. Yet I am not ashamed, because I know whom I have believed, and am convinced that he is able to guard what I have entrusted to him for that day.",
+              "KJV": "For the which cause I also suffer these things: nevertheless I am not ashamed: for I know whom I have believed, and am persuaded that he is able to keep that which I have committed unto him against that day.",
+              "NASB95": "For this reason I also suffer these things, but I am not ashamed; for I know whom I have believed and I am convinced that He is able to guard what I have entrusted to Him until that day.",
+              "NKJV": "For this reason I also suffer these things; nevertheless I am not ashamed, for I know whom I have believed and am persuaded that He is able to keep what I have committed to Him until that Day.",
+              "DRB": "For which cause I also suffer these things: but I am not ashamed. For I know whom I have believed, and I am certain that he is able to keep that which I have committed unto him, against that day.",
+              "ESV": "which is why I suffer as I do. But I am not ashamed, for I know whom I have believed, and I am convinced that he is able to guard until that day what has been entrusted to me.",
+              "LEB": "for which reason also I suffer these things. But I am not ashamed, because I know in whom I have believed, and I am convinced that he is able to guard what I have entrusted until that day."
+            }
+          }
+        ]
+      },
+      {
+        "id": "2ti_1_13_18",
+        "title": "Be Loyal to the Faith",
+        "description": "",
+        "reference": {
+          "book": "2 Timothy",
+          "chapter": 1,
+          "start": 13,
+          "end": 18
+        },
+        "rows": [
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "What you heard from me, keep as the pattern of sound teaching, with faith and love in Christ Jesus.",
+              "KJV": "Hold fast the form of sound words, which thou hast heard of me, in faith and love which is in Christ Jesus.",
+              "NASB95": "Retain the standard of sound words which you have heard from me, in the faith and love which are in Christ Jesus.",
+              "NKJV": "Hold fast the pattern of sound words which you have heard from me, in faith and love which are in Christ Jesus.",
+              "DRB": "Hold the form of sound words, which thou hast heard of me in faith, and in the love which is in Christ Jesus.",
+              "ESV": "Follow the pattern of the sound words that you have heard from me, in the faith and love that are in Christ Jesus.",
+              "LEB": "Hold fast to the pattern of sound words which you heard from me, in the faith and love that are in Christ Jesus."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "Guard the good deposit that was entrusted to you--guard it with the help of the Holy Spirit who lives in us.",
+              "KJV": "That good thing which was committed unto thee keep by the Holy Ghost which dwelleth in us.",
+              "NASB95": "Guard, through the Holy Spirit who dwells in us, the treasure which has been entrusted to you.",
+              "NKJV": "That good thing which was committed to you, keep by the Holy Spirit who dwells in us.",
+              "DRB": "Keep the good thing committed to thy trust by the Holy Ghost, who dwelleth in us.",
+              "ESV": "By the Holy Spirit who dwells within us, guard the good deposit entrusted to you.",
+              "LEB": "Guard the good deposit through the Holy Spirit who lives in us."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "You know that everyone in the province of Asia has deserted me, including Phygelus and Hermogenes.",
+              "KJV": "This thou knowest, that all they which are in Asia be turned away from me; of whom are Phygellus and Hermogenes.",
+              "NASB95": "You are aware of the fact that all who are in Asia turned away from me, among whom are Phygelus and Hermogenes.",
+              "NKJV": "This you know, that all those in Asia have turned away from me, among whom are Phygellus and Hermogenes.",
+              "DRB": "Thou knowest this, that all they who are in Asia, are turned away from me: of whom are Phigellus and Hermogenes.",
+              "ESV": "You are aware that all who are in Asia turned away from me, among whom are Phygelus and Hermogenes.",
+              "LEB": "You know this, that all those in Asia turned away from me, among whom are Phygelus and Hermogenes."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "May the Lord show mercy to the household of Onesiphorus, because he often refreshed me and was not ashamed of my chains.",
+              "KJV": "The Lord give mercy unto the house of Onesiphorus; for he oft refreshed me, and was not ashamed of my chain:",
+              "NASB95": "The Lord grant mercy to the house of Onesiphorus, for he often refreshed me and was not ashamed of my chains;",
+              "NKJV": "The Lord grant mercy to the household of Onesiphorus, for he often refreshed me, and was not ashamed of my chain;",
+              "DRB": "The Lord give mercy to the house of Onesiphorus: because he hath often refreshed me, and hath not been ashamed of my chain:",
+              "ESV": "May the Lord grant mercy to the household of Onesiphorus, for he often refreshed me and was not ashamed of my chains,",
+              "LEB": "May the Lord grant mercy to the household of Onesiphorus, because he refreshed me many times, and was not ashamed of my imprisonment,"
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "On the contrary, when he was in Rome, he searched hard for me until he found me.",
+              "KJV": "But, when he was in Rome, he sought me out very diligently, and found me.",
+              "NASB95": "but when he was in Rome, he eagerly searched for me and found me\u2014",
+              "NKJV": "but when he arrived in Rome, he sought me out very zealously and found me.",
+              "DRB": "But when he was come to Rome, he carefully sought me, and found me.",
+              "ESV": "but when he arrived in Rome he searched for me earnestly and found me\u2014",
+              "LEB": "but when he was in Rome, he diligently sought me and found me."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "May the Lord grant that he will find mercy from the Lord on that day! You know very well in how many ways he helped me in Ephesus.",
+              "KJV": "The Lord grant unto him that he may find mercy of the Lord in that day: and in how many things he ministered unto me at Ephesus, thou knowest very well.",
+              "NASB95": "the Lord grant to him to find mercy from the Lord on that day\u2014and you know very well what services he rendered at Ephesus.",
+              "NKJV": "The Lord grant to him that he may find mercy from the Lord in that Day\u2014and you know very well how many ways he ministered to me at Ephesus.",
+              "DRB": "The Lord grant unto him to find mercy of the Lord in that day: and in how many things he ministered unto me at Ephesus, thou very well knowest.",
+              "ESV": "may the Lord grant him to find mercy from the Lord on that day!\u2014and you well know all the service he rendered at Ephesus.",
+              "LEB": "May the Lord grant him to find mercy from the Lord in that day! And how much he served me in Ephesus you know very well."
+            }
+          }
+        ]
+      },
+      {
+        "id": "tit_1_5_16",
+        "title": "Qualified Elders and Tasks",
+        "description": "",
+        "reference": {
+          "book": "Titus",
+          "chapter": 1,
+          "start": 5,
+          "end": 16
+        },
+        "rows": [
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "The reason I left you in Crete was that you might straighten out what was left unfinished and appoint elders in every town, as I directed you.",
+              "KJV": "For this cause left I thee in Crete, that thou shouldest set in order the things that are wanting, and ordain elders in every city, as I had appointed thee:",
+              "NASB95": "For this reason I left you in Crete, that you would set in order what remains and appoint elders in every city as I directed you,",
+              "NKJV": "For this reason I left you in Crete, that you should set in order the things that are lacking, and appoint elders in every city as I commanded you\u2014",
+              "DRB": "For this cause I left thee in Crete, that thou shouldest set in order the things that are wanting, and shouldest ordain priests in every city, as I also appointed thee:",
+              "ESV": "This is why I left you in Crete, so that you might put what remained into order, and appoint elders in every town as I directed you\u2014",
+              "LEB": "On account of this, I left you behind in Crete, in order that what remains may be set in order and you may appoint elders in every town, as I ordered you."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "An elder must be blameless, the husband of but one wife, a man whose children believe and are not open to the charge of being wild and disobedient.",
+              "KJV": "If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly.",
+              "NASB95": "namely, if any man is above reproach, the husband of one wife, having children who believe, not accused of dissipation or rebellion.",
+              "NKJV": "if a man is blameless, the husband of one wife, having faithful children not accused of dissipation or insubordination.",
+              "DRB": "If any be without crime, the husband of one wife, having faithful children, not accused of riot, or unruly.",
+              "ESV": "if anyone is above reproach, the husband of one wife, and his children are believers and not open to the charge of debauchery or insubordination.",
+              "LEB": "If anyone is blameless, the husband of one wife, having faithful children, not accused of dissipation or rebellious."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Since an overseer is entrusted with God's work, he must be blameless--not overbearing, not quick-tempered, not given to drunkenness, not violent, not pursuing dishonest gain.",
+              "KJV": "For a bishop must be blameless, as the steward of God; not selfwilled, not soon angry, not given to wine, no striker, not given to filthy lucre;",
+              "NASB95": "For the overseer must be above reproach as God\u2019s steward, not self-willed, not quick-tempered, not addicted to wine, not pugnacious, not fond of sordid gain,",
+              "NKJV": "For a bishop must be blameless, as a steward of God, not self-willed, not quick-tempered, not given to wine, not violent, not greedy for money,",
+              "DRB": "For a bishop must be without crime, as the steward of God: not proud, not subject to anger, not given to wine, no striker, not greedy of filthy lucre:",
+              "ESV": "For an overseer, as God's steward, must be above reproach. He must not be arrogant or quick-tempered or a drunkard or violent or greedy for gain,",
+              "LEB": "For it is necessary for the overseer to be blameless as God\u2019s steward, not self-willed, not quick-tempered, not addicted to wine, not violent, not greedy for dishonest gain,"
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Rather he must be hospitable, one who loves what is good, who is self-controlled, upright, holy and disciplined.",
+              "KJV": "But a lover of hospitality, a lover of good men, sober, just, holy, temperate;",
+              "NASB95": "but hospitable, loving what is good, sensible, just, devout, self-controlled,",
+              "NKJV": "but hospitable, a lover of what is good, sober-minded, just, holy, self-controlled,",
+              "DRB": "But given to hospitality, gentle, sober, just, holy, continent:",
+              "ESV": "but hospitable, a lover of good, self-controlled, upright, holy, and disciplined.",
+              "LEB": "but hospitable, loving what is good, prudent, just, devout, self-controlled,"
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "He must hold firmly to the trustworthy message as it has been taught, so that he can encourage others by sound doctrine and refute those who oppose it.",
+              "KJV": "Holding fast the faithful word as he hath been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers.",
+              "NASB95": "holding fast the faithful word which is in accordance with the teaching, so that he will be able both to exhort in sound doctrine and to refute those who contradict.",
+              "NKJV": "holding fast the faithful word as he has been taught, that he may be able, by sound doctrine, both to exhort and convict those who contradict.",
+              "DRB": "Embracing that faithful word which is according to doctrine, that he may be able to exhort in sound doctrine, and to convince the gainsayers.",
+              "ESV": "He must hold firm to the trustworthy word as taught, so that he may be able to give instruction in sound doctrine and also to rebuke those who contradict it.",
+              "LEB": "holding fast to the faithful message according to the teaching, in order that he may be able both to exhort with sound instruction and to reprove those who speak against it."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "For there are many rebellious people, mere talkers and deceivers, especially those of the circumcision group.",
+              "KJV": "For there are many unruly and vain talkers and deceivers, specially they of the circumcision:",
+              "NASB95": "For there are many rebellious men, empty talkers and deceivers, especially those of the circumcision,",
+              "NKJV": "For there are many insubordinate, both idle talkers and deceivers, especially those of the circumcision,",
+              "DRB": "For there are also many disobedient, vain talkers, and seducers: especially they who are of the circumcision:",
+              "ESV": "For there are many who are insubordinate, empty talkers and deceivers, especially those of the circumcision party.",
+              "LEB": "For there are many rebellious people, idle talkers and deceivers, especially those of the circumcision,"
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "They must be silenced, because they are ruining whole households by teaching things they ought not to teach--and that for the sake of dishonest gain.",
+              "KJV": "Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy lucre's sake.",
+              "NASB95": "who must be silenced because they are upsetting whole families, teaching things they should not teach for the sake of sordid gain.",
+              "NKJV": "whose mouths must be stopped, who subvert whole households, teaching things which they ought not, for the sake of dishonest gain.",
+              "DRB": "Who must be reproved, who subvert whole houses, teaching things which they ought not, for filthy lucre's sake.",
+              "ESV": "They must be silenced, since they are upsetting whole families by teaching for shameful gain what they ought not to teach.",
+              "LEB": "whom it is necessary to silence, whoever are ruining whole families by teaching things which must not be taught for the sake of dishonest gain."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Even one of their own prophets has said, \"Cretans are always liars, evil brutes, lazy gluttons.\"",
+              "KJV": "One of themselves, even a prophet of their own, said, the Cretians are alway liars, evil beasts, slow bellies.",
+              "NASB95": "One of themselves, a prophet of their own, said, \u201cCretans are always liars, evil beasts, lazy gluttons.\u201d",
+              "NKJV": "One of them, a prophet of their own, said, \u201cCretans are always liars, evil beasts, lazy gluttons.\u201d",
+              "DRB": "One of them a prophet of their own, said, The Cretians are always liars, evil beasts, slothful bellies.",
+              "ESV": "One of the Cretans, a prophet of their own, said, \u201cCretans are always liars, evil beasts, lazy gluttons.\u201d",
+              "LEB": "A certain one of them, one of their own prophets, has said, \u201cCretans are always liars, evil beasts, lazy gluttons.\u201d"
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "This testimony is true. Therefore, rebuke them sharply, so that they will be sound in the faith",
+              "KJV": "This witness is true. Wherefore rebuke them sharply, that they may be sound in the faith;",
+              "NASB95": "This testimony is true. For this reason reprove them severely so that they may be sound in the faith,",
+              "NKJV": "This testimony is true. Therefore rebuke them sharply, that they may be sound in the faith,",
+              "DRB": "This testimony is true. Wherefore rebuke them sharply, that they may be sound in the faith;",
+              "ESV": "This testimony is true. Therefore rebuke them sharply, that they may be sound in the faith,",
+              "LEB": "This testimony is true, for which reason reprove them severely, in order that they may be sound in the faith,"
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "and will pay no attention to Jewish myths or to the commands of those who reject the truth.",
+              "KJV": "Not giving heed to Jewish fables, and commandments of men, that turn from the truth.",
+              "NASB95": "not paying attention to Jewish myths and commandments of men who turn away from the truth.",
+              "NKJV": "not giving heed to Jewish fables and commandments of men who turn from the truth.",
+              "DRB": "Not giving heed to Jewish fables and commandments of men, who turn themselves away from the truth.",
+              "ESV": "not devoting themselves to Jewish myths and the commands of people who turn away from the truth.",
+              "LEB": "not paying attention to Jewish myths and commandments of people who turn away from the truth."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "To the pure, all things are pure, but to those who are corrupted and do not believe, nothing is pure. In fact, both their minds and consciences are corrupted.",
+              "KJV": "Unto the pure all things are pure: but unto them that are defiled and unbelieving is nothing pure; but even their mind and conscience is defiled.",
+              "NASB95": "To the pure, all things are pure; but to those who are defiled and unbelieving, nothing is pure, but both their mind and their conscience are defiled.",
+              "NKJV": "To the pure all things are pure, but to those who are defiled and unbelieving nothing is pure; but even their mind and conscience are defiled.",
+              "DRB": "All things are clean to the clean: but to them that are defiled, and to unbelievers, nothing is clean: but both their mind and their conscience are defiled.",
+              "ESV": "To the pure, all things are pure, but to the defiled and unbelieving, nothing is pure; but both their minds and their consciences are defiled.",
+              "LEB": "To the pure all things are pure, but to those who are defiled and unbelieving nothing is pure, but both their mind and conscience are defiled."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "They claim to know God, but by their actions they deny him. They are detestable, disobedient and unfit for doing anything good.",
+              "KJV": "They profess that they know God; but in works they deny him, being abominable, and disobedient, and unto every good work reprobate.",
+              "NASB95": "They profess to know God, but by their deeds they deny Him, being detestable and disobedient and worthless for any good deed.",
+              "NKJV": "They profess to know God, but in works they deny Him, being abominable, disobedient, and disqualified for every good work.",
+              "DRB": "They profess that they know God: but in their works they deny him; being abominable, and incredulous, and to every good work reprobate.",
+              "ESV": "They profess to know God, but they deny him by their works. They are detestable, disobedient, unfit for any good work.",
+              "LEB": "They profess to know God, but by their deeds they deny him, because they are detestable and disobedient, and unfit for every good deed."
+            }
+          }
+        ]
+      },
+      {
+        "id": "tit_2_1_15",
+        "title": "Qualities of a Sound Church",
+        "description": "",
+        "reference": {
+          "book": "Titus",
+          "chapter": 2,
+          "start": 1,
+          "end": 15
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "You must teach what is in accord with sound doctrine.",
+              "KJV": "But speak thou the things which become sound doctrine:",
+              "NASB95": "But as for you, speak the things which are fitting for sound doctrine.",
+              "NKJV": "But as for you, speak the things which are proper for sound doctrine:",
+              "DRB": "But speak thou the things that become sound doctrine:",
+              "ESV": "But as for you, teach what accords with sound doctrine.",
+              "LEB": "But you, speak the things which are fitting for sound instruction."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Teach the older men to be temperate, worthy of respect, self-controlled, and sound in faith, in love and in endurance.",
+              "KJV": "That the aged men be sober, grave, temperate, sound in faith, in charity, in patience.",
+              "NASB95": "Older men are to be temperate, dignified, sensible, sound in faith, in love, in perseverance.",
+              "NKJV": "that the older men be sober, reverent, temperate, sound in faith, in love, in patience;",
+              "DRB": "That the aged men be sober, chaste, prudent, sound in faith, in love, in patience.",
+              "ESV": "Older men are to be sober-minded, dignified, self-controlled, sound in faith, in love, and in steadfastness.",
+              "LEB": "Older men are to be temperate, worthy of respect, self-controlled, sound in faith, in love, and in endurance."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "Likewise, teach the older women to be reverent in the way they live, not to be slanderers or addicted to much wine, but to teach what is good.",
+              "KJV": "The aged women likewise, that they be in behaviour as becometh holiness, not false accusers, not given to much wine, teachers of good things;",
+              "NASB95": "Older women likewise are to be reverent in their behavior, not malicious gossips nor enslaved to much wine, teaching what is good,",
+              "NKJV": "the older women likewise, that they be reverent in behavior, not slanderers, not given to much wine, teachers of good things\u2014",
+              "DRB": "The aged women, in like manner, in holy attire, not false accusers, not given to much wine, teaching well:",
+              "ESV": "Older women likewise are to be reverent in behavior, not slanderers or slaves to much wine. They are to teach what is good,",
+              "LEB": "Older women likewise are to be reverent in their behavior, not slanderous, not enslaved to much wine, teaching what is good,"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Then they can train the younger women to love their husbands and children,",
+              "KJV": "That they may teach the young women to be sober, to love their husbands, to love their children,",
+              "NASB95": "so that they may encourage the young women to love their husbands, to love their children,",
+              "NKJV": "that they admonish the young women to love their husbands, to love their children,",
+              "DRB": "That they may teach the young women to be wise, to love their husbands, to love their children,",
+              "ESV": "and so train the young women to love their husbands and children,",
+              "LEB": "in order that they may encourage the young women to love their husbands and to love their children,"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "to be self-controlled and pure, to be busy at home, to be kind, and to be subject to their husbands, so that no one will malign the word of God.",
+              "KJV": "To be discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed.",
+              "NASB95": "to be sensible, pure, workers at home, kind, being subject to their own husbands, so that the word of God will not be dishonored.",
+              "NKJV": "to be discreet, chaste, homemakers, good, obedient to their own husbands, that the word of God may not be blasphemed.",
+              "DRB": "To be discreet, chaste, sober, having a care of the house, gentle, obedient to their husbands, that the word of God be not blasphemed.",
+              "ESV": "to be self-controlled, pure, working at home, kind, and submissive to their own husbands, that the word of God may not be reviled.",
+              "LEB": "to be self-controlled, pure, busy at home, good, being subject to their own husbands, in order that the word of God may not be slandered."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Similarly, encourage the young men to be self-controlled.",
+              "KJV": "Young men likewise exhort to be sober minded.",
+              "NASB95": "Likewise urge the young men to be sensible;",
+              "NKJV": "Likewise, exhort the young men to be sober-minded,",
+              "DRB": "Young men, in like manner, exhort that they be sober.",
+              "ESV": "Likewise, urge the younger men to be self-controlled.",
+              "LEB": "Likewise, exhort the young men to be self-controlled,"
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "In everything set them an example by doing what is good. In your teaching show integrity, seriousness",
+              "KJV": "In all things shewing thyself a pattern of good works: in doctrine shewing uncorruptness, gravity, sincerity,",
+              "NASB95": "in all things show yourself to be an example of good deeds, with purity in doctrine, dignified,",
+              "NKJV": "in all things showing yourself to be a pattern of good works; in doctrine showing integrity, reverence, incorruptibility,",
+              "DRB": "In all things shew thyself an example of good works, in doctrine, in integrity, in gravity,",
+              "ESV": "Show yourself in all respects to be a model of good works, and in your teaching show integrity, dignity,",
+              "LEB": "concerning everything showing yourself to be an example of good deeds, in your teaching demonstrating soundness, dignity,"
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "and soundness of speech that cannot be condemned, so that those who oppose you may be ashamed because they have nothing bad to say about us.",
+              "KJV": "Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you.",
+              "NASB95": "sound in speech which is beyond reproach, so that the opponent will be put to shame, having nothing bad to say about us.",
+              "NKJV": "sound speech that cannot be condemned, that one who is an opponent may be ashamed, having nothing evil to say of you.",
+              "DRB": "The sound word that can not be blamed: that he, who is on the contrary part, may be afraid, having no evil to say of us.",
+              "ESV": "and sound speech that cannot be condemned, so that an opponent may be put to shame, having nothing evil to say about us.",
+              "LEB": "a sound message beyond reproach, in order that an opponent may be put to shame, because he has nothing bad to say concerning us."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Teach slaves to be subject to their masters in everything, to try to please them, not to talk back to them,",
+              "KJV": "Exhort servants to be obedient unto their own masters, and to please them well in all things; not answering again;",
+              "NASB95": "Urge bondslaves to be subject to their own masters in everything, to be well-pleasing, not argumentative,",
+              "NKJV": "Exhort bondservants to be obedient to their own masters, to be well pleasing in all things, not answering back,",
+              "DRB": "Exhort servants to be obedient to their masters, in all things pleasing, not gainsaying:",
+              "ESV": "Bondservants are to be submissive to their own masters in everything; they are to be well-pleasing, not argumentative,",
+              "LEB": "Slaves must be subject to their own masters in everything, to be well-pleasing, not to talk back,"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "and not to steal from them, but to show that they can be fully trusted, so that in every way they will make the teaching about God our Savior attractive.",
+              "KJV": "Not purloining, but shewing all good fidelity; that they may adorn the doctrine of God our Saviour in all things.",
+              "NASB95": "not pilfering, but showing all good faith so that they will adorn the doctrine of God our Savior in every respect.",
+              "NKJV": "not pilfering, but showing all good fidelity, that they may adorn the doctrine of God our Savior in all things.",
+              "DRB": "Not defrauding, but in all things shewing good fidelity, that they may adorn the doctrine of God our Savior in all things:",
+              "ESV": "not pilfering, but showing all good faith, so that in everything they may adorn the doctrine of God our Savior.",
+              "LEB": "not stealing, but demonstrating all good faith, in order that they may do credit to the teaching of God our Savior in everything."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "For the grace of God that brings salvation has appeared to all men.",
+              "KJV": "For the grace of God that bringeth salvation hath appeared to all men,",
+              "NASB95": "For the grace of God has appeared, bringing salvation to all men,",
+              "NKJV": "For the grace of God that brings salvation has appeared to all men,",
+              "DRB": "For the grace of God our Savior hath appeared to all men;",
+              "ESV": "For the grace of God has appeared, bringing salvation for all people,",
+              "LEB": "For the grace of God has appeared, bringing salvation to all people,"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "It teaches us to say \"No\" to ungodliness and worldly passions, and to live self-controlled, upright and godly lives in this present age,",
+              "KJV": "Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world;",
+              "NASB95": "instructing us to deny ungodliness and worldly desires and to live sensibly, righteously and godly in the present age,",
+              "NKJV": "teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly in the present age,",
+              "DRB": "Instructing us, that, denying ungodliness and worldly desires, we should live soberly, and justly, and godly in this world,",
+              "ESV": "training us to renounce ungodliness and worldly passions, and to live self-controlled, upright, and godly lives in the present age,",
+              "LEB": "training us in order that, denying impiety and worldly desires, we may live self-controlled and righteously and godly in the present age,"
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "while we wait for the blessed hope--the glorious appearing of our great God and Savior, Jesus Christ,",
+              "KJV": "Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;",
+              "NASB95": "looking for the blessed hope and the appearing of the glory of our great God and Savior, Christ Jesus,",
+              "NKJV": "looking for the blessed hope and glorious appearing of our great God and Savior Jesus Christ,",
+              "DRB": "Looking for the blessed hope and coming of the glory of the great God and our Savior Jesus Christ,",
+              "ESV": "waiting for our blessed hope, the appearing of the glory of our great God and Savior Jesus Christ,",
+              "LEB": "looking forward to the blessed hope and the glorious appearing of our great God and Savior Jesus Christ,"
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "who gave himself for us to redeem us from all wickedness and to purify for himself a people that are his very own, eager to do what is good.",
+              "KJV": "Who gave himself for us, that he might redeem us from all iniquity, and purify unto himself a peculiar people, zealous of good works.",
+              "NASB95": "who gave Himself for us to redeem us from every lawless deed, and to purify for Himself a people for His own possession, zealous for good deeds.",
+              "NKJV": "who gave Himself for us, that He might redeem us from every lawless deed and purify for Himself His own special people, zealous for good works.",
+              "DRB": "Who gave himself for us, that he might redeem us from all iniquity, and might cleanse to himself a people acceptable, a pursuer of good works.",
+              "ESV": "who gave himself for us to redeem us from all lawlessness and to purify for himself a people for his own possession who are zealous for good works.",
+              "LEB": "who gave himself for us, in order that he might redeem us from all lawlessness and purify for himself a people for his own possession, zealous for good deeds."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "These, then, are the things you should teach. Encourage and rebuke with all authority. Do not let anyone despise you.",
+              "KJV": "These things speak, and exhort, and rebuke with all authority. Let no man despise thee.",
+              "NASB95": "These things speak and exhort and reprove with all authority. Let no one disregard you.",
+              "NKJV": "Speak these things, exhort, and rebuke with all authority. Let no one despise you.",
+              "DRB": "These things speak, and exhort and rebuke with all authority. Let no man despise thee.",
+              "ESV": "Declare these things; exhort and rebuke with all authority. Let no one disregard you.",
+              "LEB": "Speak these things and exhort and reprove with all authority. Let no one disregard you."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1pe_1_13_25",
+        "title": "Living Before God Our Father",
+        "description": "",
+        "reference": {
+          "book": "1 Peter",
+          "chapter": 1,
+          "start": 13,
+          "end": 25
+        },
+        "rows": [
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Therefore, prepare your minds for action; be self-controlled; set your hope fully on the grace to be given you when Jesus Christ is revealed.",
+              "KJV": "Wherefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ;",
+              "NASB95": "Therefore, prepare your minds for action, keep sober in spirit, fix your hope completely on the grace to be brought to you at the revelation of Jesus Christ.",
+              "NKJV": "Therefore gird up the loins of your mind, be sober, and rest your hope fully upon the grace that is to be brought to you at the revelation of Jesus Christ;",
+              "DRB": "Wherefore having the loins of your mind girt up, being sober, trust perfectly in the grace which is offered you in the revelation of Jesus Christ,",
+              "ESV": "Therefore, preparing your minds for action, and being sober-minded, set your hope fully on the grace that will be brought to you at the revelation of Jesus Christ.",
+              "LEB": "Therefore, when you have prepared your minds for action by being self-controlled, put your hope completely in the grace that will be brought to you at the revelation of Jesus Christ."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "As obedient children, do not conform to the evil desires you had when you lived in ignorance.",
+              "KJV": "As obedient children, not fashioning yourselves according to the former lusts in your ignorance:",
+              "NASB95": "As obedient children, do not be conformed to the former lusts which were yours in your ignorance,",
+              "NKJV": "as obedient children, not conforming yourselves to the former lusts, as in your ignorance;",
+              "DRB": "As children of obedience, not fashioned according to the former desires of your ignorance:",
+              "ESV": "As obedient children, do not be conformed to the passions of your former ignorance,",
+              "LEB": "As obedient children, do not be conformed to the former desires you used to conform to in your ignorance,"
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "But just as he who called you is holy, so be holy in all you do;",
+              "KJV": "But as he which hath called you is holy, so be ye holy in all manner of conversation;",
+              "NASB95": "but like the Holy One who called you, be holy yourselves also in all your behavior;",
+              "NKJV": "but as He who called you is holy, you also be holy in all your conduct,",
+              "DRB": "But according to him that hath called you, who is holy, be you also in all manner of conversation holy:",
+              "ESV": "but as he who called you is holy, you also be holy in all your conduct,",
+              "LEB": "but as the one who called you is holy, you yourselves be holy in all your conduct,"
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "for it is written: \"Be holy, because I am holy.\"",
+              "KJV": "Because it is written, Be ye holy; for I am holy.",
+              "NASB95": "because it is written, \u201cYou shall be holy, for I am holy.\u201d",
+              "NKJV": "because it is written, \u201cBe holy, for I am holy.\u201d",
+              "DRB": "Because it is written: You shall be holy, for I am holy.",
+              "ESV": "since it is written, \u201cYou shall be holy, for I am holy.\u201d",
+              "LEB": "for it is written, \u201cYou will be holy, because I am holy.\u201d"
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "Since you call on a Father who judges each man's work impartially, live your lives as strangers here in reverent fear.",
+              "KJV": "And if ye call on the Father, who without respect of persons judgeth according to every man's work, pass the time of your sojourning here in fear:",
+              "NASB95": "If you address as Father the One who impartially judges according to each one\u2019s work, conduct yourselves in fear during the time of your stay on earth;",
+              "NKJV": "And if you call on the Father, who without partiality judges according to each one\u2019s work, conduct yourselves throughout the time of your stay here in fear;",
+              "DRB": "And if you invoke as Father him who, without respect of persons, judgeth according to every one's work: converse in fear during the time of your sojourning here.",
+              "ESV": "And if you call on him as Father who judges impartially according to each one's deeds, conduct yourselves with fear throughout the time of your exile,",
+              "LEB": "And if you call on him as Father who judges impartially according to each one\u2019s work, conduct yourselves with fear during the time of your temporary residence,"
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "For you know that it was not with perishable things such as silver or gold that you were redeemed from the empty way of life handed down to you from your forefathers,",
+              "KJV": "Forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers;",
+              "NASB95": "knowing that you were not redeemed with perishable things like silver or gold from your futile way of life inherited from your forefathers,",
+              "NKJV": "knowing that you were not redeemed with corruptible things, like silver or gold, from your aimless conduct received by tradition from your fathers,",
+              "DRB": "Knowing that you were not redeemed with corruptible things as gold or silver, from your vain conversation of the tradition of your fathers:",
+              "ESV": "knowing that you were ransomed from the futile ways inherited from your forefathers, not with perishable things such as silver or gold,",
+              "LEB": "because you know that you were redeemed from your futile way of life inherited from your ancestors not with perishable things like silver or gold,"
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "but with the precious blood of Christ, a lamb without blemish or defect.",
+              "KJV": "But with the precious blood of Christ, as of a lamb without blemish and without spot:",
+              "NASB95": "but with precious blood, as of a lamb unblemished and spotless, the blood of Christ.",
+              "NKJV": "but with the precious blood of Christ, as of a lamb without blemish and without spot.",
+              "DRB": "But with the precious blood of Christ, as of a lamb unspotted and undefiled,",
+              "ESV": "but with the precious blood of Christ, like that of a lamb without blemish or spot.",
+              "LEB": "but with the precious blood of Christ, like that of an unblemished and spotless lamb"
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "He was chosen before the creation of the world, but was revealed in these last times for your sake.",
+              "KJV": "Who verily was foreordained before the foundation of the world, but was manifest in these last times for you,",
+              "NASB95": "For He was foreknown before the foundation of the world, but has appeared in these last times for the sake of you",
+              "NKJV": "He indeed was foreordained before the foundation of the world, but was manifest in these last times for you",
+              "DRB": "Foreknown indeed before the foundation of the world, but manifested in the last times for you,",
+              "ESV": "He was foreknown before the foundation of the world but was made manifest in the last times for the sake of you",
+              "LEB": "who was foreknown before the foundation of the world, but has been revealed in these last times for you"
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "Through him you believe in God, who raised him from the dead and glorified him, and so your faith and hope are in God.",
+              "KJV": "Who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God.",
+              "NASB95": "who through Him are believers in God, who raised Him from the dead and gave Him glory, so that your faith and hope are in God.",
+              "NKJV": "who through Him believe in God, who raised Him from the dead and gave Him glory, so that your faith and hope are in God.",
+              "DRB": "Who through him are faithful in God, who raised him up from the dead, and hath given him glory, that your faith and hope might be in God.",
+              "ESV": "who through him are believers in God, who raised him from the dead and gave him glory, so that your faith and hope are in God.",
+              "LEB": "who through him are believing in God, who raised him from the dead and gave him glory, so that your faith and hope are in God."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "Now that you have purified yourselves by obeying the truth so that you have sincere love for your brothers, love one another deeply, from the heart.",
+              "KJV": "Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, see that ye love one another with a pure heart fervently:",
+              "NASB95": "Since you have in obedience to the truth purified your souls for a sincere love of the brethren, fervently love one another from the heart,",
+              "NKJV": "Since you have purified your souls in obeying the truth through the Spirit in sincere love of the brethren, love one another fervently with a pure heart,",
+              "DRB": "Purifying your souls in the obedience of charity, with a brotherly love, from a sincere heart love one another earnestly:",
+              "ESV": "Having purified your souls by your obedience to the truth for a sincere brotherly love, love one another earnestly from a pure heart,",
+              "LEB": "Having purified your souls by your obedience to the truth for sincere brotherly love, love one another fervently from the heart,"
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "For you have been born again, not of perishable seed, but of imperishable, through the living and enduring word of God.",
+              "KJV": "Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever.",
+              "NASB95": "for you have been born again not of seed which is perishable but imperishable, that is, through the living and enduring word of God.",
+              "NKJV": "having been born again, not of corruptible seed but incorruptible, through the word of God which lives and abides forever,",
+              "DRB": "Being born again not of corruptible seed, but incorruptible, by the word of God who liveth and remaineth for ever.",
+              "ESV": "since you have been born again, not of perishable seed but of imperishable, through the living and abiding word of God;",
+              "LEB": "because you have been born again, not from perishable seed but imperishable, through the living and enduring word of God."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "For, \"All men are like grass, and all their glory is like the flowers of the field; the grass withers and the flowers fall,",
+              "KJV": "For all flesh is as grass, and all the glory of man as the flower of grass. The grass withereth, and the flower thereof falleth away:",
+              "NASB95": "For,\n\u201cAll flesh is like grass,\nAnd all its glory like the flower of grass.\nThe grass withers,\nAnd the flower falls off,",
+              "NKJV": "because\n\u201cAll flesh is as grass,\nAnd all the glory of man as the flower of the grass.\nThe grass withers,\nAnd its flower falls away,",
+              "DRB": "For all flesh is as grass; and all the glory thereof as the flower of grass. The grass is withered, and the flower thereof is fallen away.",
+              "ESV": "for\n\u201cAll flesh is like grass\n    and all its glory like the flower of grass.\nThe grass withers,\n    and the flower falls,",
+              "LEB": "For\n\u201call flesh is like grass,\n    and all its glory like the flower of the grass.\nThe grass withers and the flower falls off,"
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "but the word of the Lord stands forever.\" And this is the word that was preached to you.",
+              "KJV": "But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you.",
+              "NASB95": "But the word of the Lord endures forever.\u201d\nAnd this is the word which was preached to you.",
+              "NKJV": "But the word of the Lord endures forever.\u201d\nNow this is the word which by the gospel was preached to you.",
+              "DRB": "But the word of the Lord endureth for ever. And this is the word which by the gospel hath been preached unto you.",
+              "ESV": "but the word of the Lord remains forever.\u201d\nAnd this word is the good news that was preached to you.",
+              "LEB": "but the word of the Lord endures forever.\u201d\nAnd this is the word that has been proclaimed to you."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1pe_4_1_11",
+        "title": "Serving for God’s Glory",
+        "description": "",
+        "reference": {
+          "book": "1 Peter",
+          "chapter": 4,
+          "start": 1,
+          "end": 11
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Therefore, since Christ suffered in his body, arm yourselves also with the same attitude, because he who has suffered in his body is done with sin.",
+              "KJV": "Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin;",
+              "NASB95": "Therefore, since Christ has suffered in the flesh, arm yourselves also with the same purpose, because he who has suffered in the flesh has ceased from sin,",
+              "NKJV": "Therefore, since Christ suffered for us in the flesh, arm yourselves also with the same mind, for he who has suffered in the flesh has ceased from sin,",
+              "DRB": "Christ therefore having suffered in the flesh, be you also armed with the same thought: for he that hath suffered in the flesh, hath ceased from sins:",
+              "ESV": "Since therefore Christ suffered in the flesh, arm yourselves with the same way of thinking, for whoever has suffered in the flesh has ceased from sin,",
+              "LEB": "Therefore, because Christ suffered in the flesh, you also equip yourselves with the same way of thinking, because the one who has suffered in the flesh has ceased from sin,"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "As a result, he does not live the rest of his earthly life for evil human desires, but rather for the will of God.",
+              "KJV": "That he no longer should live the rest of his time in the flesh to the lusts of men, but to the will of God.",
+              "NASB95": "so as to live the rest of the time in the flesh no longer for the lusts of men, but for the will of God.",
+              "NKJV": "that he no longer should live the rest of his time in the flesh for the lusts of men, but for the will of God.",
+              "DRB": "That now he may live the rest of his time in the flesh , not after the desires of men, but according to the will of God.",
+              "ESV": "so as to live for the rest of the time in the flesh no longer for human passions but for the will of God.",
+              "LEB": "in order to live the remaining time in the flesh no longer for human desires, but for the will of God."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "For you have spent enough time in the past doing what pagans choose to do--living in debauchery, lust, drunkenness, orgies, carousing and detestable idolatry.",
+              "KJV": "For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:",
+              "NASB95": "For the time already past is sufficient for you to have carried out the desire of the Gentiles, having pursued a course of sensuality, lusts, drunkenness, carousing, drinking parties and abominable idolatries.",
+              "NKJV": "For we have spent enough of our past lifetime in doing the will of the Gentiles\u2014when we walked in lewdness, lusts, drunkenness, revelries, drinking parties, and abominable idolatries.",
+              "DRB": "For the time past is sufficient to have fulfilled the will of the Gentiles, for them who have walked in riotousness, lusts, excess of wine, revellings, banquetings, and unlawful worshipping of idols.",
+              "ESV": "For the time that is past suffices for doing what the Gentiles want to do, living in sensuality, passions, drunkenness, orgies, drinking parties, and lawless idolatry.",
+              "LEB": "For the time that has passed was sufficient to do what the Gentiles desire to do, having lived in licentiousness, evil desires, drunkenness, carousing, drinking parties, and wanton idolatries,"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "They think it strange that you do not plunge with them into the same flood of dissipation, and they heap abuse on you.",
+              "KJV": "Wherein they think it strange that ye run not with them to the same excess of riot, speaking evil of you:",
+              "NASB95": "In all this, they are surprised that you do not run with them into the same excesses of dissipation, and they malign you;",
+              "NKJV": "In regard to these, they think it strange that you do not run with them in the same flood of dissipation, speaking evil of you.",
+              "DRB": "Wherein they think it strange, that you run not with them into the same confusion of riotousness, speaking evil of you.",
+              "ESV": "With respect to this they are surprised when you do not join them in the same flood of debauchery, and they malign you;",
+              "LEB": "with respect to which they are surprised when you do not run with them into the same flood of dissipation, and so they revile you."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "But they will have to give account to him who is ready to judge the living and the dead.",
+              "KJV": "Who shall give account to him that is ready to judge the quick and the dead.",
+              "NASB95": "but they will give account to Him who is ready to judge the living and the dead.",
+              "NKJV": "They will give an account to Him who is ready to judge the living and the dead.",
+              "DRB": "Who shall render account to him, who is ready to judge the living and the dead.",
+              "ESV": "but they will give account to him who is ready to judge the living and the dead.",
+              "LEB": "They will give an account to the one who is ready to judge the living and the dead."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "For this is the reason the gospel was preached even to those who are now dead, so that they might be judged according to men in regard to the body, but live according to God in regard to the spirit.",
+              "KJV": "For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.",
+              "NASB95": "For the gospel has for this purpose been preached even to those who are dead, that though they are judged in the flesh as men, they may live in the spirit according to the will of God.",
+              "NKJV": "For this reason the gospel was preached also to those who are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.",
+              "DRB": "For, for this cause was the gospel preached also to the dead: that they might be judged indeed according to men, in the flesh; but may live according to God, in the Spirit.",
+              "ESV": "For this is why the gospel was preached even to those who are dead, that though judged in the flesh the way people are, they might live in the spirit the way God does.",
+              "LEB": "Because for this reason also the gospel was preached to those who are dead, so that they were judged by human standards in the flesh, but they may live in the spirit by God\u2019s standards."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "The end of all things is near. Therefore be clear minded and self-controlled so that you can pray.",
+              "KJV": "But the end of all things is at hand: be ye therefore sober, and watch unto prayer.",
+              "NASB95": "The end of all things is near; therefore, be of sound judgment and sober spirit for the purpose of prayer.",
+              "NKJV": "But the end of all things is at hand; therefore be serious and watchful in your prayers.",
+              "DRB": "But the end of all is at hand. Be prudent therefore, and watch in prayers.",
+              "ESV": "The end of all things is at hand; therefore be self-controlled and sober-minded for the sake of your prayers.",
+              "LEB": "Now the end of all things draws near. Therefore be self-controlled and sober-minded for your prayers."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Above all, love each other deeply, because love covers over a multitude of sins.",
+              "KJV": "And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins.",
+              "NASB95": "Above all, keep fervent in your love for one another, because love covers a multitude of sins.",
+              "NKJV": "And above all things have fervent love for one another, for \u201clove will cover a multitude of sins.\u201d",
+              "DRB": "But before all things have a constant mutual charity among yourselves: for charity covereth a multitude of sins.",
+              "ESV": "Above all, keep loving one another earnestly, since love covers a multitude of sins.",
+              "LEB": "Above all, keep your love for one another constant, because love covers a large number of sins."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Offer hospitality to one another without grumbling.",
+              "KJV": "Use hospitality one to another without grudging.",
+              "NASB95": "Be hospitable to one another without complaint.",
+              "NKJV": "Be hospitable to one another without grumbling.",
+              "DRB": "Using hospitality one towards another, without murmuring,",
+              "ESV": "Show hospitality to one another without grumbling.",
+              "LEB": "Be hospitable to one another without complaining."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Each one should use whatever gift he has received to serve others, faithfully administering God's grace in its various forms.",
+              "KJV": "As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God.",
+              "NASB95": "As each one has received a special gift, employ it in serving one another as good stewards of the manifold grace of God.",
+              "NKJV": "As each one has received a gift, minister it to one another, as good stewards of the manifold grace of God.",
+              "DRB": "As every man hath received grace, ministering the same one to another: as good stewards of the manifold grace of God.",
+              "ESV": "As each has received a gift, use it to serve one another, as good stewards of God's varied grace:",
+              "LEB": "Just as each one has received a gift, use it for serving one another, as good stewards of the varied grace of God."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "If anyone speaks, he should do it as one speaking the very words of God. If anyone serves, he should do it with the strength God provides, so that in all things God may be praised through Jesus Christ. To him be the glory and the power for ever and ever. Amen.",
+              "KJV": "If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God giveth: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion for ever and ever. Amen.",
+              "NASB95": "Whoever speaks, is to do so as one who is speaking the utterances of God; whoever serves is to do so as one who is serving by the strength which God supplies; so that in all things God may be glorified through Jesus Christ, to whom belongs the glory and dominion forever and ever. Amen.",
+              "NKJV": "If anyone speaks, let him speak as the oracles of God. If anyone ministers, let him do it as with the ability which God supplies, that in all things God may be glorified through Jesus Christ, to whom belong the glory and the dominion forever and ever. Amen.",
+              "DRB": "If any man speak, let him speak, as the words of God. If any man minister, let him do it, as of the power, which God administereth: that in all things God may be honoured through Jesus Christ: to whom is glory and empire for ever and ever. Amen.",
+              "ESV": "whoever speaks, as one who speaks oracles of God; whoever serves, as one who serves by the strength that God supplies\u2014in order that in everything God may be glorified through Jesus Christ. To him belong glory and dominion forever and ever. Amen.",
+              "LEB": "If anyone speaks, let it be as the oracles of God; if anyone serves, let it be as by the strength that God provides, so that in all things God will be glorified through Jesus Christ, to whom is the glory and the power forever and ever. Amen."
+            }
+          }
+        ]
+      },
+      {
+        "id": "2pe_1_1_15",
+        "title": "Fruitful Growth in the Faith",
+        "description": "",
+        "reference": {
+          "book": "2 Peter",
+          "chapter": 1,
+          "start": 1,
+          "end": 15
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Simon Peter, a servant and apostle of Jesus Christ, To those who through the righteousness of our God and Savior Jesus Christ have received a faith as precious as ours:",
+              "KJV": "Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:",
+              "NASB95": "Simon Peter, a bond-servant and apostle of Jesus Christ,\nTo those who have received a faith of the same kind as ours, by the righteousness of our God and Savior, Jesus Christ:",
+              "NKJV": "Simon Peter, a bondservant and apostle of Jesus Christ,\nTo those who have obtained like precious faith with us by the righteousness of our God and Savior Jesus Christ:",
+              "DRB": "Simon Peter, servant and apostle of Jesus Christ, to them that have obtained equal faith with us in the justice of our God and Saviour Jesus Christ.",
+              "ESV": "Simeon Peter, a servant and apostle of Jesus Christ,\nTo those who have obtained a faith of equal standing with ours by the righteousness of our God and Savior Jesus Christ:",
+              "LEB": "Simeon Peter, a slave and apostle of Jesus Christ, to those who have obtained a faith equal in value to ours by the righteousness of our God and Savior Jesus Christ."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Grace and peace be yours in abundance through the knowledge of God and of Jesus our Lord.",
+              "KJV": "Grace and peace be multiplied unto you through the knowledge of God, and of Jesus our Lord,",
+              "NASB95": "Grace and peace be multiplied to you in the knowledge of God and of Jesus our Lord;",
+              "NKJV": "Grace and peace be multiplied to you in the knowledge of God and of Jesus our Lord,",
+              "DRB": "Grace to you and peace be accomplished in the knowledge of God and of Christ Jesus our Lord:",
+              "ESV": "May grace and peace be multiplied to you in the knowledge of God and of Jesus our Lord.",
+              "LEB": "May grace and peace be multiplied to you in the knowledge of God and of Jesus our Lord,"
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "His divine power has given us everything we need for life and godliness through our knowledge of him who called us by his own glory and goodness.",
+              "KJV": "According as his divine power hath given unto us all things that pertain unto life and godliness, through the knowledge of him that hath called us to glory and virtue:",
+              "NASB95": "seeing that His divine power has granted to us everything pertaining to life and godliness, through the true knowledge of Him who called us by His own glory and excellence.",
+              "NKJV": "as His divine power has given to us all things that pertain to life and godliness, through the knowledge of Him who called us by glory and virtue,",
+              "DRB": "As all things of his divine power which appertain to life and godliness, are given us, through the knowledge of him who hath called us by his own proper glory and virtue.",
+              "ESV": "His divine power has granted to us all things that pertain to life and godliness, through the knowledge of him who called us to his own glory and excellence,",
+              "LEB": "because his divine power has bestowed on us all things that are necessary for life and godliness, through the knowledge of the one who called us by his own glory and excellence of character,"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Through these he has given us his very great and precious promises, so that through them you may participate in the divine nature and escape the corruption in the world caused by evil desires.",
+              "KJV": "Whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust.",
+              "NASB95": "For by these He has granted to us His precious and magnificent promises, so that by them you may become partakers of the divine nature, having escaped the corruption that is in the world by lust.",
+              "NKJV": "by which have been given to us exceedingly great and precious promises, that through these you may be partakers of the divine nature, having escaped the corruption that is in the world through lust.",
+              "DRB": "By whom he hath given us most great and precious promises: that by these you may be made partakers of the divine nature: flying the corruption of that concupiscence which is in the world.",
+              "ESV": "by which he has granted to us his precious and very great promises, so that through them you may become partakers of the divine nature, having escaped from the corruption that is in the world because of sinful desire.",
+              "LEB": "through which things he has bestowed on us his precious and very great promises, so that through these you may become sharers of the divine nature after escaping from the corruption that is in the world because of evil desire,"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "For this very reason, make every effort to add to your faith goodness; and to goodness, knowledge;",
+              "KJV": "And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;",
+              "NASB95": "Now for this very reason also, applying all diligence, in your faith supply moral excellence, and in your moral excellence, knowledge,",
+              "NKJV": "But also for this very reason, giving all diligence, add to your faith virtue, to virtue knowledge,",
+              "DRB": "And you, employing all care, minister in your faith, virtue; and in virtue, knowledge;",
+              "ESV": "For this very reason, make every effort to supplement your faith with virtue, and virtue with knowledge,",
+              "LEB": "and for this same reason, and by applying all diligence, supply with your faith excellence of character, and with excellence of character, knowledge,"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "and to knowledge, self-control; and to self-control, perseverance; and to perseverance, godliness;",
+              "KJV": "And to knowledge temperance; and to temperance patience; and to patience godliness;",
+              "NASB95": "and in your knowledge, self-control, and in your self-control, perseverance, and in your perseverance, godliness,",
+              "NKJV": "to knowledge self-control, to self-control perseverance, to perseverance godliness,",
+              "DRB": "And in knowledge, abstinence; and in abstinence, patience; and in patience, godliness;",
+              "ESV": "and knowledge with self-control, and self-control with steadfastness, and steadfastness with godliness,",
+              "LEB": "and with knowledge, self-control, and with self-control, patient endurance, and with patient endurance, godliness,"
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "and to godliness, brotherly kindness; and to brotherly kindness, love.",
+              "KJV": "And to godliness brotherly kindness; and to brotherly kindness charity.",
+              "NASB95": "and in your godliness, brotherly kindness, and in your brotherly kindness, love.",
+              "NKJV": "to godliness brotherly kindness, and to brotherly kindness love.",
+              "DRB": "And in godliness, love of brotherhood; and in love of brotherhood, charity.",
+              "ESV": "and godliness with brotherly affection, and brotherly affection with love.",
+              "LEB": "and with godliness, brotherly love, and with brotherly love, love."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "For if you possess these qualities in increasing measure, they will keep you from being ineffective and unproductive in your knowledge of our Lord Jesus Christ.",
+              "KJV": "For if these things be in you, and abound, they make you that ye shall neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ.",
+              "NASB95": "For if these qualities are yours and are increasing, they render you neither useless nor unfruitful in the true knowledge of our Lord Jesus Christ.",
+              "NKJV": "For if these things are yours and abound, you will be neither barren nor unfruitful in the knowledge of our Lord Jesus Christ.",
+              "DRB": "For if these things be with you and abound, they will make you to be neither empty nor unfruitful in the knowledge of our Lord Jesus Christ.",
+              "ESV": "For if these qualities are yours and are increasing, they keep you from being ineffective or unfruitful in the knowledge of our Lord Jesus Christ.",
+              "LEB": "For if these things are yours and are increasing, this does not make you useless or unproductive in the knowledge of our Lord Jesus Christ."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "But if anyone does not have them, he is nearsighted and blind, and has forgotten that he has been cleansed from his past sins.",
+              "KJV": "But he that lacketh these things is blind, and cannot see afar off, and hath forgotten that he was purged from his old sins.",
+              "NASB95": "For he who lacks these qualities is blind or short-sighted, having forgotten his purification from his former sins.",
+              "NKJV": "For he who lacks these things is shortsighted, even to blindness, and has forgotten that he was cleansed from his old sins.",
+              "DRB": "For he that hath not these things with him, is blind, and groping, having forgotten that he was purged from his old sins.",
+              "ESV": "For whoever lacks these qualities is so nearsighted that he is blind, having forgotten that he was cleansed from his former sins.",
+              "LEB": "For the one for whom these things are not present is blind, being nearsighted, having forgotten the cleansing of his former sins."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Therefore, my brothers, be all the more eager to make your calling and election sure. For if you do these things, you will never fall,",
+              "KJV": "Wherefore the rather, brethren, give diligence to make your calling and election sure: for if ye do these things, ye shall never fall:",
+              "NASB95": "Therefore, brethren, be all the more diligent to make certain about His calling and choosing you; for as long as you practice these things, you will never stumble;",
+              "NKJV": "Therefore, brethren, be even more diligent to make your call and election sure, for if you do these things you will never stumble;",
+              "DRB": "Wherefore, brethren, labour the more, that by good works you may make sure your calling and election. For doing these things, you shall not sin at any time.",
+              "ESV": "Therefore, brothers, be all the more diligent to confirm your calling and election, for if you practice these qualities you will never fall.",
+              "LEB": "Therefore, brothers, be zealous even more to make your calling and election secure, because if you do these things, you will never ever stumble."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "and you will receive a rich welcome into the eternal kingdom of our Lord and Savior Jesus Christ.",
+              "KJV": "For so an entrance shall be ministered unto you abundantly into the everlasting kingdom of our Lord and Saviour Jesus Christ.",
+              "NASB95": "for in this way the entrance into the eternal kingdom of our Lord and Savior Jesus Christ will be abundantly supplied to you.",
+              "NKJV": "for so an entrance will be supplied to you abundantly into the everlasting kingdom of our Lord and Savior Jesus Christ.",
+              "DRB": "For so an entrance shall be ministered to you abundantly into the everlasting kingdom of our Lord and Saviour Jesus Christ.",
+              "ESV": "For in this way there will be richly provided for you an entrance into the eternal kingdom of our Lord and Savior Jesus Christ.",
+              "LEB": "For in this way entrance into the eternal kingdom of our Lord and Savior Jesus Christ will be richly supplied for you."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "So I will always remind you of these things, even though you know them and are firmly established in the truth you now have.",
+              "KJV": "Wherefore I will not be negligent to put you always in remembrance of these things, though ye know them, and be established in the present truth.",
+              "NASB95": "Therefore, I will always be ready to remind you of these things, even though you already know them, and have been established in the truth which is present with you.",
+              "NKJV": "For this reason I will not be negligent to remind you always of these things, though you know and are established in the present truth.",
+              "DRB": "For which cause I will begin to put you always in remembrance of these things: though indeed you know them, and are confirmed in the present truth.",
+              "ESV": "Therefore I intend always to remind you of these qualities, though you know them and are established in the truth that you have.",
+              "LEB": "Therefore I intend to remind you continually concerning these things, although you know them and are established in the truth that you have."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "I think it is right to refresh your memory as long as I live in the tent of this body,",
+              "KJV": "Yea, I think it meet, as long as I am in this tabernacle, to stir you up by putting you in remembrance;",
+              "NASB95": "I consider it right, as long as I am in this earthly dwelling, to stir you up by way of reminder,",
+              "NKJV": "Yes, I think it is right, as long as I am in this tent, to stir you up by reminding you,",
+              "DRB": "But I think it meet as long as I am in this tabernacle, to stir you up by putting you in remembrance.",
+              "ESV": "I think it right, as long as I am in this body, to stir you up by way of reminder,",
+              "LEB": "But I consider it right, for as long as I am in this habitation, to stir you up by a reminder,"
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "because I know that I will soon put it aside, as our Lord Jesus Christ has made clear to me.",
+              "KJV": "Knowing that shortly I must put off this my tabernacle, even as our Lord Jesus Christ hath shewed me.",
+              "NASB95": "knowing that the laying aside of my earthly dwelling is imminent, as also our Lord Jesus Christ has made clear to me.",
+              "NKJV": "knowing that shortly I must put off my tent, just as our Lord Jesus Christ showed me.",
+              "DRB": "Being assured that the laying away of this my tabernacle is at hand, according as our Lord Jesus Christ also hath signified to me.",
+              "ESV": "since I know that the putting off of my body will be soon, as our Lord Jesus Christ made clear to me.",
+              "LEB": "because I know that the removal of my habitation is imminent, as indeed our Lord Jesus Christ made clear to me."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "And I will make every effort to see that after my departure you will always be able to remember these things.",
+              "KJV": "Moreover I will endeavour that ye may be able after my decease to have these things always in remembrance.",
+              "NASB95": "And I will also be diligent that at any time after my departure you will be able to call these things to mind.",
+              "NKJV": "Moreover I will be careful to ensure that you always have a reminder of these things after my decease.",
+              "DRB": "And I will endeavour, that you frequently have after my decease, whereby you may keep a memory of these things.",
+              "ESV": "And I will make every effort so that after my departure you may be able at any time to recall these things.",
+              "LEB": "And I will also make every effort that you are able at any time, after my departure, to recall these things to mind."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
