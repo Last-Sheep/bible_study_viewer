@@ -503,16 +503,332 @@
         ]
       },
       {
-        "id": "jer_4_30_31",
+        "id": "jer_4_1_4",
+        "title": "God Calls Israel to Return",
+        "description": "",
+        "reference": {
+          "book": "Jeremiah",
+          "chapter": 4,
+          "start": 1,
+          "end": 4
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "\"If you will return, O Israel, return to me,\" declares the LORD. \"If you put your detestable idols out of my sight and no longer go astray,",
+              "KJV": "If thou wilt return, O Israel, saith the Lord, return unto me: and if thou wilt put away thine abominations out of my sight, then shalt thou not remove.",
+              "NASB95": "\u201cIf you will return, O Israel,\u201d declares the Lord,\n\u201cThen you should return to Me.\nAnd if you will put away your detested things from My presence,\nAnd will not waver,",
+              "NKJV": "\u201cIf you will return, O Israel,\u201d says the Lord,\n\u201cReturn to Me;\nAnd if you will put away your abominations out of My sight,\nThen you shall not be moved.",
+              "DRB": "If thou wilt return, O Israel, saith the Lord, return to me: if thou wilt take away thy stumblingblocks out of my sight, thou shalt not be moved."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "and if in a truthful, just and righteous way you swear, 'As surely as the LORD lives,' then the nations will be blessed by him and in him they will glory.\"",
+              "KJV": "And thou shalt swear, The Lord liveth, in truth, in judgment, and in righteousness; and the nations shall bless themselves in him, and in him shall they glory.",
+              "NASB95": "And you will swear, \u2018As the Lord lives,\u2019\nIn truth, in justice and in righteousness;\nThen the nations will bless themselves in Him,\nAnd in Him they will glory.\u201d",
+              "NKJV": "And you shall swear, \u2018The Lord lives,\u2019\nIn truth, in judgment, and in righteousness;\nThe nations shall bless themselves in Him,\nAnd in Him they shall glory.\u201d",
+              "DRB": "And thou shalt swear: As the Lord liveth, in truth, and in judgement, and in justice: and the Gentiles shall bless him, and shall praise him."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "This is what the LORD says to the men of Judah and to Jerusalem: \"Break up your unplowed ground and do not sow among thorns.",
+              "KJV": "For thus saith the Lord to the men of Judah and Jerusalem, Break up your fallow ground, and sow not among thorns.",
+              "NASB95": "For thus says the Lord to the men of Judah and to Jerusalem,\n\u201cBreak up your fallow ground,\nAnd do not sow among thorns.",
+              "NKJV": "For thus says the Lord to the men of Judah and Jerusalem:\n\u201cBreak up your fallow ground,\nAnd do not sow among thorns.",
+              "DRB": "For thus saith the Lord to the men of Juda and Jerusalem: Break up anew your fallow ground, and sow not upon thorns:"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Circumcise yourselves to the LORD, circumcise your hearts, you men of Judah and people of Jerusalem, or my wrath will break out and burn like fire because of the evil you have done- burn with no one to quench it.",
+              "KJV": "Circumcise yourselves to the Lord, and take away the foreskins of your heart, ye men of Judah and inhabitants of Jerusalem: lest my fury come forth like fire, and burn that none can quench it, because of the evil of your doings.",
+              "NASB95": "\u201cCircumcise yourselves to the Lord\nAnd remove the foreskins of your heart,\nMen of Judah and inhabitants of Jerusalem,\nOr else My wrath will go forth like fire\nAnd burn with none to quench it,\nBecause of the evil of your deeds.\u201d",
+              "NKJV": "Circumcise yourselves to the Lord,\nAnd take away the foreskins of your hearts,\nYou men of Judah and inhabitants of Jerusalem,\nLest My fury come forth like fire,\nAnd burn so that no one can quench it,\nBecause of the evil of your doings.\u201d",
+              "DRB": "Be circumcised to the Lord, and take away the foreskins of your hearts, ye men of Juda, and ye inhabitants of Jerusalem: lest my indignation come forth like fire, and burn, and there be none that can quench it: because of the wickedness of your thoughts."
+            }
+          }
+        ]
+      },
+      {
+        "id": "jer_4_5_18",
+        "title": "Disaster from the North",
+        "description": "",
+        "reference": {
+          "book": "Jeremiah",
+          "chapter": 4,
+          "start": 5,
+          "end": 18
+        },
+        "rows": [
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "\"Announce in Judah and proclaim in Jerusalem and say: 'Sound the trumpet throughout the land!' Cry aloud and say: 'Gather together! Let us flee to the fortified cities!'",
+              "KJV": "Declare ye in Judah, and publish in Jerusalem; and say, Blow ye the trumpet in the land: cry, gather together, and say, Assemble yourselves, and let us go into the defenced cities.",
+              "NASB95": "Declare in Judah and proclaim in Jerusalem, and say,\n\u201cBlow the trumpet in the land;\nCry aloud and say,\n\u2018Assemble yourselves, and let us go\nInto the fortified cities.\u2019",
+              "NKJV": "Declare in Judah and proclaim in Jerusalem, and say:\n\u201cBlow the trumpet in the land;\nCry, \u2018Gather together,\u2019\nAnd say, \u2018Assemble yourselves,\nAnd let us go into the fortified cities.\u2019",
+              "DRB": "Declare ye in Juda, and make it heard in Jerusalem: speak, and sound with the trumpet in the land: cry aloud, and say: Assemble yourselves, and let us go into strong cities."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Raise the signal to go to Zion! Flee for safety without delay! For I am bringing disaster from the north, even terrible destruction.\"",
+              "KJV": "Set up the standard toward Zion: retire, stay not: for I will bring evil from the north, and a great destruction.",
+              "NASB95": "\u201cLift up a standard toward Zion!\nSeek refuge, do not stand still,\nFor I am bringing evil from the north,\nAnd great destruction.",
+              "NKJV": "Set up the standard toward Zion.\nTake refuge! Do not delay!\nFor I will bring disaster from the north,\nAnd great destruction.\u201d",
+              "DRB": "Set up the standard in Sion. Strengthen yourselves, stay not: for I bring evil from the north, and great destruction."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "A lion has come out of his lair; a destroyer of nations has set out. He has left his place to lay waste your land. Your towns will lie in ruins without inhabitant.",
+              "KJV": "The lion is come up from his thicket, and the destroyer of the Gentiles is on his way; he is gone forth from his place to make thy land desolate; and thy cities shall be laid waste, without an inhabitant.",
+              "NASB95": "\u201cA lion has gone up from his thicket,\nAnd a destroyer of nations has set out;\nHe has gone out from his place\nTo make your land a waste.\nYour cities will be ruins\nWithout inhabitant.",
+              "NKJV": "The lion has come up from his thicket,\nAnd the destroyer of nations is on his way.\nHe has gone forth from his place\nTo make your land desolate.\nYour cities will be laid waste,\nWithout inhabitant.",
+              "DRB": "The lion is come up out of his den, and the robber of nations hath roused himself: he is come forth out of his place, to make thy land desolate: thy cities shall be laid waste, remaining without an inhabitant."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "So put on sackcloth, lament and wail, for the fierce anger of the LORD has not turned away from us.",
+              "KJV": "For this gird you with sackcloth, lament and howl: for the fierce anger of the Lord is not turned back from us.",
+              "NASB95": "\u201cFor this, put on sackcloth,\nLament and wail;\nFor the fierce anger of the Lord\nHas not turned back from us.\u201d",
+              "NKJV": "For this, clothe yourself with sackcloth,\nLament and wail.\nFor the fierce anger of the Lord\nHas not turned back from us.",
+              "DRB": "For this gird yourselves with haircloth, lament and howl: for the fierce anger of the Lord is not turned away from us."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "\"In that day,\" declares the LORD, \"the king and the officials will lose heart, the priests will be horrified, and the prophets will be appalled.\"",
+              "KJV": "And it shall come to pass at that day, saith the Lord, that the heart of the king shall perish, and the heart of the princes; and the priests shall be astonished, and the prophets shall wonder.",
+              "NASB95": "\u201cIt shall come about in that day,\u201d declares the Lord, \u201cthat the heart of the king and the heart of the princes will fail; and the priests will be appalled and the prophets will be astounded.\u201d",
+              "NKJV": "\u201cAnd it shall come to pass in that day,\u201d says the Lord,\n\u201cThat the heart of the king shall perish,\nAnd the heart of the princes;\nThe priests shall be astonished,\nAnd the prophets shall wonder.\u201d",
+              "DRB": "And it shall come to pass in that day, saith the Lord: That the heart of the king shall perish, and the heart of the princes: and the priests shall be astonished, and the prophets shall be amazed"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Then I said, \"Ah, Sovereign LORD, how completely you have deceived this people and Jerusalem by saying, 'You will have peace,' when the sword is at our throats.\"",
+              "KJV": "Then said I, Ah, Lord God! surely thou hast greatly deceived this people and Jerusalem, saying, Ye shall have peace; whereas the sword reacheth unto the soul.",
+              "NASB95": "Then I said, \u201cAh, Lord God! Surely You have utterly deceived this people and Jerusalem, saying, \u2018You will have peace\u2019; whereas a sword touches the throat.\u201d",
+              "NKJV": "Then I said, \u201cAh, Lord God!\nSurely You have greatly deceived this people and Jerusalem,\nSaying, \u2018You shall have peace,\u2019\nWhereas the sword reaches to the heart.\u201d",
+              "DRB": "And I said: Alas, alas, alas, O Lord God, hast thou then deceived this people and Jerusalem, saying: You shall have peace: and behold the sword reacheth even to the soul?"
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "At that time this people and Jerusalem will be told, \"A scorching wind from the barren heights in the desert blows toward my people, but not to winnow or cleanse;",
+              "KJV": "At that time shall it be said to this people and to Jerusalem, A dry wind of the high places in the wilderness toward the daughter of my people, not to fan, nor to cleanse,",
+              "NASB95": "In that time it will be said to this people and to Jerusalem, \u201cA scorching wind from the bare heights in the wilderness in the direction of the daughter of My people\u2014not to winnow and not to cleanse,",
+              "NKJV": "At that time it will be said\nTo this people and to Jerusalem,\n\u201cA dry wind of the desolate heights blows in the wilderness\nToward the daughter of My people\u2014\nNot to fan or to cleanse\u2014",
+              "DRB": "At that time it shall be said to this people, and to Jerusalem: A burning wind is in the ways that are in the desert of the way of the daughter of my people, not to fan, nor to cleanse."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "a wind too strong for that comes from me. Now I pronounce my judgments against them.\"",
+              "KJV": "Even a full wind from those places shall come unto me: now also will I give sentence against them.",
+              "NASB95": "a wind too strong for this\u2014will come at My command; now I will also pronounce judgments against them.",
+              "NKJV": "A wind too strong for these will come for Me;\nNow I will also speak judgment against them.\u201d",
+              "DRB": "A full wind from these places shall come to me: and now I will speak my judgments with them."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Look! He advances like the clouds, his chariots come like a whirlwind, his horses are swifter than eagles. Woe to us! We are ruined!",
+              "KJV": "Behold, he shall come up as clouds, and his chariots shall be as a whirlwind: his horses are swifter than eagles. Woe unto us! for we are spoiled.",
+              "NASB95": "\u201cBehold, he goes up like clouds,\nAnd his chariots like the whirlwind;\nHis horses are swifter than eagles.\nWoe to us, for we are ruined!\u201d",
+              "NKJV": "\u201cBehold, he shall come up like clouds,\nAnd his chariots like a whirlwind.\nHis horses are swifter than eagles.\nWoe to us, for we are plundered!\u201d",
+              "DRB": "Behold he shall come up as a cloud, and his chariots as a tempest: his horses are swifter than eagles: woe unto us, for we are laid waste."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "O Jerusalem, wash the evil from your heart and be saved. How long will you harbor wicked thoughts?",
+              "KJV": "O Jerusalem, wash thine heart from wickedness, that thou mayest be saved. How long shall thy vain thoughts lodge within thee?",
+              "NASB95": "Wash your heart from evil, O Jerusalem,\nThat you may be saved.\nHow long will your wicked thoughts\nLodge within you?",
+              "NKJV": "O Jerusalem, wash your heart from wickedness,\nThat you may be saved.\nHow long shall your evil thoughts lodge within you?",
+              "DRB": "Wash thy heart from wickedness, O Jerusalem, that thou mayst be saved: how long shall hurtful thoughts abide in thee?"
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "A voice is announcing from Dan, proclaiming disaster from the hills of Ephraim.",
+              "KJV": "For a voice declareth from Dan, and publisheth affliction from mount Ephraim.",
+              "NASB95": "For a voice declares from Dan,\nAnd proclaims wickedness from Mount Ephraim.",
+              "NKJV": "For a voice declares from Dan\nAnd proclaims affliction from Mount Ephraim:",
+              "DRB": "For a voice of one declaring from Dan, and giving notice of the idol from mount Ephraim."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "\"Tell this to the nations, proclaim it to Jerusalem: 'A besieging army is coming from a distant land, raising a war cry against the cities of Judah.",
+              "KJV": "Make ye mention to the nations; behold, publish against Jerusalem, that watchers come from a far country, and give out their voice against the cities of Judah.",
+              "NASB95": "\u201cReport it to the nations, now!\nProclaim over Jerusalem,\n\u2018Besiegers come from a far country,\nAnd lift their voices against the cities of Judah.",
+              "NKJV": "\u201cMake mention to the nations,\nYes, proclaim against Jerusalem,\nThat watchers come from a far country\nAnd raise their voice against the cities of Judah.",
+              "DRB": "Say ye to the nations: Behold it is heard in Jerusalem, that guards are coming from a far country, and give out their voice against the cities of Juda."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "They surround her like men guarding a field, because she has rebelled against me,'\" declares the LORD.",
+              "KJV": "As keepers of a field, are they against her round about; because she hath been rebellious against me, saith the Lord.",
+              "NASB95": "\u2018Like watchmen of a field they are against her round about,\nBecause she has rebelled against Me,\u2019 declares the Lord.",
+              "NKJV": "Like keepers of a field they are against her all around,\nBecause she has been rebellious against Me,\u201d says the Lord.",
+              "DRB": "They are set round about her, as keepers of fields: because she hath provoked me to wrath, saith the Lord."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "\"Your own conduct and actions have brought this upon you. This is your punishment. How bitter it is! How it pierces to the heart!\"",
+              "KJV": "Thy way and thy doings have procured these things unto thee; this is thy wickedness, because it is bitter, because it reacheth unto thine heart.",
+              "NASB95": "\u201cYour ways and your deeds\nHave brought these things to you.\nThis is your evil. How bitter!\nHow it has touched your heart!\u201d",
+              "NKJV": "\u201cYour ways and your doings\nHave procured these things for you.\nThis is your wickedness,\nBecause it is bitter,\nBecause it reaches to your heart.\u201d",
+              "DRB": "Thy ways, and thy devices have brought these things upon thee: this is thy wickedness, because it is bitter, because it hath touched thy heart."
+            }
+          }
+        ]
+      },
+      {
+        "id": "jer_4_19_31",
         "title": "Daughter of Zion",
         "description": "",
         "reference": {
           "book": "Jeremiah",
           "chapter": 4,
-          "start": 30,
+          "start": 19,
           "end": 31
         },
         "rows": [
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "Oh, my anguish, my anguish! I writhe in pain. Oh, the agony of my heart! My heart pounds within me, I cannot keep silent. For I have heard the sound of the trumpet; I have heard the battle cry.",
+              "KJV": "My bowels, my bowels! I am pained at my very heart; my heart maketh a noise in me; I cannot hold my peace, because thou hast heard, O my soul, the sound of the trumpet, the alarm of war.",
+              "NASB95": "My soul, my soul! I am in anguish! Oh, my heart!\nMy heart is pounding in me;\nI cannot be silent,\nBecause you have heard, O my soul,\nThe sound of the trumpet,\nThe alarm of war.",
+              "NKJV": "O my soul, my soul!\nI am pained in my very heart!\nMy heart makes a noise in me;\nI cannot hold my peace,\nBecause you have heard, O my soul,\nThe sound of the trumpet,\nThe alarm of war.",
+              "DRB": "My bowels, my bowels are in pain, the senses of my heart are troubled within me, I will not hold my peace, for my soul hath heard the sound of the trumpet, the cry of battle."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "Disaster follows disaster; the whole land lies in ruins. In an instant my tents are destroyed, my shelter in a moment.",
+              "KJV": "Destruction upon destruction is cried; for the whole land is spoiled: suddenly are my tents spoiled, and my curtains in a moment.",
+              "NASB95": "Disaster on disaster is proclaimed,\nFor the whole land is devastated;\nSuddenly my tents are devastated,\nMy curtains in an instant.",
+              "NKJV": "Destruction upon destruction is cried,\nFor the whole land is plundered.\nSuddenly my tents are plundered,\nAnd my curtains in a moment.",
+              "DRB": "Destruction upon destruction is called for, and all the earth is laid waste: my tents are destroyed on a sudden, and my pavilions in a moment."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "How long must I see the battle standard and hear the sound of the trumpet?",
+              "KJV": "How long shall I see the standard, and hear the sound of the trumpet?",
+              "NASB95": "How long must I see the standard\nAnd hear the sound of the trumpet?",
+              "NKJV": "How long will I see the standard,\nAnd hear the sound of the trumpet?",
+              "DRB": "How long shall I see men fleeing away, how long shall I hear the sound of the trumpet?"
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "\"My people are fools; they do not know me. They are senseless children; they have no understanding. They are skilled in doing evil; they know not how to do good.\"",
+              "KJV": "For my people is foolish, they have not known me; they are sottish children, and they have none understanding: they are wise to do evil, but to do good they have no knowledge.",
+              "NASB95": "\u201cFor My people are foolish,\nThey know Me not;\nThey are stupid children\nAnd have no understanding.\nThey are shrewd to do evil,\nBut to do good they do not know.\u201d",
+              "NKJV": "\u201cFor My people are foolish,\nThey have not known Me.\nThey are silly children,\nAnd they have no understanding.\nThey are wise to do evil,\nBut to do good they have no knowledge.\u201d",
+              "DRB": "For my foolish people have not known me: they are foolish and senseless children: they are wise to do evil, but to do good they have no knowledge."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "I looked at the earth, and it was formless and empty; and at the heavens, and their light was gone.",
+              "KJV": "I beheld the earth, and, lo, it was without form, and void; and the heavens, and they had no light.",
+              "NASB95": "I looked on the earth, and behold, it was formless and void;\nAnd to the heavens, and they had no light.",
+              "NKJV": "I beheld the earth, and indeed it was without form, and void;\nAnd the heavens, they had no light.",
+              "DRB": "I beheld the earth, and lo it was void, and nothing: and the heavens, and there was no light in them."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "I looked at the mountains, and they were quaking; all the hills were swaying.",
+              "KJV": "I beheld the mountains, and, lo, they trembled, and all the hills moved lightly.",
+              "NASB95": "I looked on the mountains, and behold, they were quaking,\nAnd all the hills moved to and fro.",
+              "NKJV": "I beheld the mountains, and indeed they trembled,\nAnd all the hills moved back and forth.",
+              "DRB": "I looked upon the mountains, and behold they trembled: and all the hills were troubled."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "I looked, and there were no people; every bird in the sky had flown away.",
+              "KJV": "I beheld, and, lo, there was no man, and all the birds of the heavens were fled.",
+              "NASB95": "I looked, and behold, there was no man,\nAnd all the birds of the heavens had fled.",
+              "NKJV": "I beheld, and indeed there was no man,\nAnd all the birds of the heavens had fled.",
+              "DRB": "I beheld, and lo there was no man: and all the birds of the air were gone."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "I looked, and the fruitful land was a desert; all its towns lay in ruins before the LORD, before his fierce anger.",
+              "KJV": "I beheld, and, lo, the fruitful place was a wilderness, and all the cities thereof were broken down at the presence of the Lord, and by his fierce anger.",
+              "NASB95": "I looked, and behold, the fruitful land was a wilderness,\nAnd all its cities were pulled down\nBefore the Lord, before His fierce anger.",
+              "NKJV": "I beheld, and indeed the fruitful land was a wilderness,\nAnd all its cities were broken down\nAt the presence of the Lord,\nBy His fierce anger.",
+              "DRB": "I looked, and behold Carmel was a wilderness: and all its cities were destroyed at the presence of the Lord, and at the presence of the wrath of his indignation."
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "This is what the LORD says: \"The whole land will be ruined, though I will not destroy it completely.",
+              "KJV": "For thus hath the Lord said, The whole land shall be desolate; yet will I not make a full end.",
+              "NASB95": "For thus says the Lord,\n\u201cThe whole land shall be a desolation,\nYet I will not execute a complete destruction.",
+              "NKJV": "For thus says the Lord:\n\u201cThe whole land shall be desolate;\nYet I will not make a full end.",
+              "DRB": "For thus saith the Lord: All the land shall be desolate, but yet I will not utterly destroy."
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "Therefore the earth will mourn and the heavens above grow dark, because I have spoken and will not relent, I have decided and will not turn back.\"",
+              "KJV": "For this shall the earth mourn, and the heavens above be black; because I have spoken it, I have purposed it, and will not repent, neither will I turn back from it.",
+              "NASB95": "\u201cFor this the earth shall mourn\nAnd the heavens above be dark,\nBecause I have spoken, I have purposed,\nAnd I will not change My mind, nor will I turn from it.\u201d",
+              "NKJV": "For this shall the earth mourn,\nAnd the heavens above be black,\nBecause I have spoken.\nI have purposed and will not relent,\nNor will I turn back from it.",
+              "DRB": "The earth shall mourn, and the heavens shall lament from above: because I have spoken, I have purposed, and I have not repented, neither am I turned away from it."
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "At the sound of horsemen and archers every town takes to flight. Some go into the thickets; some climb up among the rocks. All the towns are deserted; no one lives in them.",
+              "KJV": "The whole city shall flee for the noise of the horsemen and bowmen; they shall go into thickets, and climb up upon the rocks: every city shall be forsaken, and not a man dwell therein.",
+              "NASB95": "At the sound of the horseman and bowman every city flees;\nThey go into the thickets and climb among the rocks;\nEvery city is forsaken,\nAnd no man dwells in them.",
+              "NKJV": "The whole city shall flee from the noise of the horsemen and bowmen.\nThey shall go into thickets and climb up on the rocks.\nEvery city shall be forsaken,\nAnd not a man shall dwell in it.",
+              "DRB": "At the voice of the horsemen, and the archers, all the city is fled away; they have entered into thickets and have climbed up the rocks: all the cities are forsaken, and there dwelleth not a man in them."
+            }
+          },
           {
             "verse": 30,
             "texts": {
@@ -536,14 +852,14 @@
         ]
       },
       {
-        "id": "jer_2_1",
-        "title": "Jerusalem as a Bride",
+        "id": "jer_2_1_3",
+        "title": "God Remembers Unfaithful Israel",
         "description": "",
         "reference": {
           "book": "Jeremiah",
           "chapter": 2,
           "start": 1,
-          "end": 1
+          "end": 3
         },
         "rows": [
           {
@@ -555,18 +871,164 @@
               "NKJV": "Moreover the word of the Lord came to me, saying,",
               "DRB": "And the word of the Lord came to me, saying:"
             }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "\"Go and proclaim in the hearing of Jerusalem: \"'I remember the devotion of your youth, how as a bride you loved me and followed me through the desert, through a land not sown.",
+              "KJV": "Go and cry in the ears of Jerusalem, saying, Thus saith the Lord; I remember thee, the kindness of thy youth, the love of thine espousals, when thou wentest after me in the wilderness, in a land that was not sown.",
+              "NASB95": "\u201cGo and proclaim in the ears of Jerusalem, saying, \u2018Thus says the Lord,\n\u201cI remember concerning you the devotion of your youth,\nThe love of your betrothals,\nYour following after Me in the wilderness,\nThrough a land not sown.",
+              "NKJV": "\u201cGo and cry in the hearing of Jerusalem, saying, \u2018Thus says the Lord:\n\u201cI remember you,\nThe kindness of your youth,\nThe love of your betrothal,\nWhen you went after Me in the wilderness,\nIn a land not sown.",
+              "DRB": "Go, and cry in the ears of Jerusalem, saying: Thus saith the Lord: I have remembered thee, pitying thy soul, pitying thy youth, and the love of thy espousals, when thou followedst me in the desert, in a land that is not sown."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "Israel was holy to the LORD, the firstfruits of his harvest; all who devoured her were held guilty, and disaster overtook them,'\" declares the LORD.",
+              "KJV": "Israel was holiness unto the Lord, and the firstfruits of his increase: all that devour him shall offend; evil shall come upon them, saith the Lord.",
+              "NASB95": "\u201cIsrael was holy to the Lord,\nThe first of His harvest.\nAll who ate of it became guilty;\nEvil came upon them,\u201d declares the Lord.\u2019\u201d",
+              "NKJV": "Israel was holiness to the Lord,\nThe firstfruits of His increase.\nAll that devour him will offend;\nDisaster will come upon them,\u201d says the Lord.\u2019 \u201d",
+              "DRB": "Israel is holy to the Lord, the first fruits of his increase: all they that devour him offend: evils shall come upon them, saith the Lord."
+            }
           }
         ]
       },
       {
-        "id": "jer_2_14",
-        "title": "Why is Israel Plundered?",
+        "id": "jer_2_4_8",
+        "title": "Israel's Unfaithful Ancestors",
+        "description": "",
+        "reference": {
+          "book": "Jeremiah",
+          "chapter": 2,
+          "start": 4,
+          "end": 8
+        },
+        "rows": [
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Hear the word of the LORD, O house of Jacob, all you clans of the house of Israel.",
+              "KJV": "Hear ye the word of the Lord, O house of Jacob, and all the families of the house of Israel:",
+              "NASB95": "Hear the word of the Lord, O house of Jacob, and all the families of the house of Israel.",
+              "NKJV": "Hear the word of the Lord, O house of Jacob and all the families of the house of Israel.",
+              "DRB": "Hear ye the word of the Lord, O house of Jacob, and all ye families of the house of Israel."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "This is what the LORD says: \"What fault did your fathers find in me, that they strayed so far from me? They followed worthless idols and became worthless themselves.",
+              "KJV": "Thus saith the Lord, What iniquity have your fathers found in me, that they are gone far from me, and have walked after vanity, and are become vain?",
+              "NASB95": "Thus says the Lord,\n\u201cWhat injustice did your fathers find in Me,\nThat they went far from Me\nAnd walked after emptiness and became empty?",
+              "NKJV": "Thus says the Lord:\n\u201cWhat injustice have your fathers found in Me,\nThat they have gone far from Me,\nHave followed idols,\nAnd have become idolaters?",
+              "DRB": "Thus saith the Lord: What iniquity have your fathers found in me, that they are gone far from me, and have walked after vanity, and are become vain?"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "They did not ask, 'Where is the LORD, who brought us up out of Egypt and led us through the barren wilderness, through a land of deserts and rifts, a land of drought and darkness, a land where no one travels and no one lives?'",
+              "KJV": "Neither said they, Where is the Lord that brought us up out of the land of Egypt, that led us through the wilderness, through a land of deserts and of pits, through a land of drought, and of the shadow of death, through a land that no man passed through, and where no man dwelt?",
+              "NASB95": "\u201cThey did not say, \u2018Where is the Lord\nWho brought us up out of the land of Egypt,\nWho led us through the wilderness,\nThrough a land of deserts and of pits,\nThrough a land of drought and of deep darkness,\nThrough a land that no one crossed\nAnd where no man dwelt?\u2019",
+              "NKJV": "Neither did they say, \u2018Where is the Lord,\nWho brought us up out of the land of Egypt,\nWho led us through the wilderness,\nThrough a land of deserts and pits,\nThrough a land of drought and the shadow of death,\nThrough a land that no one crossed\nAnd where no one dwelt?\u2019",
+              "DRB": "And they have not said: Where is the Lord, that made us come up out of the land of Egypt? that led us through the desert, through a land uninhabited and unpassable, through a land of drought, and the image of death, through a land wherein no man walked, nor any man dwelt?"
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "I brought you into a fertile land to eat its fruit and rich produce. But you came and defiled my land and made my inheritance detestable.",
+              "KJV": "And I brought you into a plentiful country, to eat the fruit thereof and the goodness thereof; but when ye entered, ye defiled my land, and made mine heritage an abomination.",
+              "NASB95": "\u201cI brought you into the fruitful land\nTo eat its fruit and its good things.\nBut you came and defiled My land,\nAnd My inheritance you made an abomination.",
+              "NKJV": "I brought you into a bountiful country,\nTo eat its fruit and its goodness.\nBut when you entered, you defiled My land\nAnd made My heritage an abomination.",
+              "DRB": "And I brought you into the land of Carmel, to eat the fruit thereof, and the best things thereof: ad when ye entered in, you defiled my land, and made my inheritance an abomination."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "The priests did not ask, 'Where is the LORD?' Those who deal with the law did not know me; the leaders rebelled against me. The prophets prophesied by Baal, following worthless idols.",
+              "KJV": "The priests said not, Where is the Lord? and they that handle the law knew me not: the pastors also transgressed against me, and the prophets prophesied by Baal, and walked after things that do not profit.",
+              "NASB95": "\u201cThe priests did not say, \u2018Where is the Lord?\u2019\nAnd those who handle the law did not know Me;\nThe rulers also transgressed against Me,\nAnd the prophets prophesied by Baal\nAnd walked after things that did not profit.",
+              "NKJV": "The priests did not say, \u2018Where is the Lord?\u2019\nAnd those who handle the law did not know Me;\nThe rulers also transgressed against Me;\nThe prophets prophesied by Baal,\nAnd walked after things that do not profit.",
+              "DRB": "The priests did not say: Where is the Lord? and they that held the law knew me not, and the pastors transgressed against me: and the prophets prophesied in Baal, and followed idols."
+            }
+          }
+        ]
+      },
+      {
+        "id": "jer_2_9_13",
+        "title": "Present Unfaithful Israel",
+        "description": "",
+        "reference": {
+          "book": "Jeremiah",
+          "chapter": 2,
+          "start": 9,
+          "end": 13
+        },
+        "rows": [
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "\"Therefore I bring charges against you again,\" declares the LORD. \"And I will bring charges against your children's children.",
+              "KJV": "Wherefore I will yet plead with you, saith the Lord, and with your children's children will I plead.",
+              "NASB95": "\u201cTherefore I will yet contend with you,\u201d declares the Lord,\n\u201cAnd with your sons\u2019 sons I will contend.",
+              "NKJV": "\u201cTherefore I will yet bring charges against you,\u201d says the Lord,\n\u201cAnd against your children\u2019s children I will bring charges.",
+              "DRB": "Therefore will I yet contend in judgement with you, saith the Lord, and I will plead with your children."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Cross over to the coasts of Kittim and look, send to Kedar and observe closely; see if there has ever been anything like this:",
+              "KJV": "For pass over the isles of Chittim, and see; and send unto Kedar, and consider diligently, and see if there be such a thing.",
+              "NASB95": "\u201cFor cross to the coastlands of Kittim and see,\nAnd send to Kedar and observe closely\nAnd see if there has been such a thing as this!",
+              "NKJV": "For pass beyond the coasts of Cyprus and see,\nSend to Kedar and consider diligently,\nAnd see if there has been such a thing.",
+              "DRB": "Pass over to the isles of Cethim, and see: and send into Cedar, and consider diligently: and see if there hath been done any thing like this."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Has a nation ever changed its gods? (Yet they are not gods at all.) But my people have exchanged their Glory for worthless idols.",
+              "KJV": "Hath a nation changed their gods, which are yet no gods? but my people have changed their glory for that which doth not profit.",
+              "NASB95": "\u201cHas a nation changed gods\nWhen they were not gods?\nBut My people have changed their glory\nFor that which does not profit.",
+              "NKJV": "Has a nation changed its gods,\nWhich are not gods?\nBut My people have changed their Glory\nFor what does not profit.",
+              "DRB": "If a nation hath changed their gods, and indeed they are not gods,: but my people have changed their glory into an idol."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Be appalled at this, O heavens, and shudder with great horror,\" declares the LORD.",
+              "KJV": "Be astonished, O ye heavens, at this, and be horribly afraid, be ye very desolate, saith the Lord.",
+              "NASB95": "\u201cBe appalled, O heavens, at this,\nAnd shudder, be very desolate,\u201d declares the Lord.",
+              "NKJV": "Be astonished, O heavens, at this,\nAnd be horribly afraid;\nBe very desolate,\u201d says the Lord.",
+              "DRB": "Be astonished, O ye heavens, at this, and ye gates thereof, be very desolate, saith the Lord."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "\"My people have committed two sins: They have forsaken me, the spring of living water, and have dug their own cisterns, broken cisterns that cannot hold water.",
+              "KJV": "For my people have committed two evils; they have forsaken me the fountain of living waters, and hewed them out cisterns, broken cisterns, that can hold no water.",
+              "NASB95": "\u201cFor My people have committed two evils:\nThey have forsaken Me,\nThe fountain of living waters,\nTo hew for themselves cisterns,\nBroken cisterns\nThat can hold no water.",
+              "NKJV": "\u201cFor My people have committed two evils:\nThey have forsaken Me, the fountain of living waters,\nAnd hewn themselves cisterns\u2014broken cisterns that can hold no water.",
+              "DRB": "For my people have done two evils. They have forsaken me, the fountain of living water, and have digged to themselves cisterns, broken cisterns, that can hold no water."
+            }
+          }
+        ]
+      },
+      {
+        "id": "jer_2_14_25",
+        "title": "Results of Israel\u2019s Sin",
         "description": "",
         "reference": {
           "book": "Jeremiah",
           "chapter": 2,
           "start": 14,
-          "end": 14
+          "end": 25
         },
         "rows": [
           {
@@ -578,12 +1040,122 @@
               "NKJV": "\u201cIs Israel a servant?\nIs he a homeborn slave?\nWhy is he plundered?",
               "DRB": "Is Israel a bondman, or a homeborn slave? why then is he become prey?"
             }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Lions have roared; they have growled at him. They have laid waste his land; his towns are burned and deserted.",
+              "KJV": "The young lions roared upon him, and yelled, and they made his land waste: his cities are burned without inhabitant.",
+              "NASB95": "\u201cThe young lions have roared at him,\nThey have roared loudly.\nAnd they have made his land a waste;\nHis cities have been destroyed, without inhabitant.",
+              "NKJV": "The young lions roared at him, and growled;\nThey made his land waste;\nHis cities are burned, without inhabitant.",
+              "DRB": "The lions have roared upon him, and have made a noise, they have made his land a wilderness: his cities are burnt down and there is none to dwell in them."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "Also, the men of Memphis and Tahpanhes have shaved the crown of your head.",
+              "KJV": "Also the children of Noph and Tahapanes have broken the crown of thy head.",
+              "NASB95": "\u201cAlso the men of Memphis and Tahpanhes\nHave shaved the crown of your head.",
+              "NKJV": "Also the people of Noph and Tahpanhes\nHave broken the crown of your head.",
+              "DRB": "The children also of Memphis, and of Taphnes have deflowered thee, even to the crown of the head."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "Have you not brought this on yourselves by forsaking the LORD your God when he led you in the way?",
+              "KJV": "Hast thou not procured this unto thyself, in that thou hast forsaken the Lord thy God, when he led thee by the way?",
+              "NASB95": "\u201cHave you not done this to yourself\nBy your forsaking the Lord your God\nWhen He led you in the way?",
+              "NKJV": "Have you not brought this on yourself,\nIn that you have forsaken the Lord your God\nWhen He led you in the way?",
+              "DRB": "Hath not this been done to thee, because thou hast forsaken the Lord thy God at that time, when he led thee by the way?"
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "Now why go to Egypt to drink water from the Shihor? And why go to Assyria to drink water from the River?",
+              "KJV": "And now what hast thou to do in the way of Egypt, to drink the waters of Sihor? or what hast thou to do in the way of Assyria, to drink the waters of the river?",
+              "NASB95": "\u201cBut now what are you doing on the road to Egypt,\nTo drink the waters of the Nile?\nOr what are you doing on the road to Assyria,\nTo drink the waters of the Euphrates?",
+              "NKJV": "And now why take the road to Egypt,\nTo drink the waters of Sihor?\nOr why take the road to Assyria,\nTo drink the waters of the River?",
+              "DRB": "And now what hast thou to do in the way of Egypt, to drink the troubled water? And what hast thou to do with the way of the Assyrians, to drink the water of the river?"
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "Your wickedness will punish you; your backsliding will rebuke you. Consider then and realize how evil and bitter it is for you when you forsake the LORD your God and have no awe of me,\" declares the Lord, the LORD Almighty.",
+              "KJV": "Thine own wickedness shall correct thee, and thy backslidings shall reprove thee: know therefore and see that it is an evil thing and bitter, that thou hast forsaken the Lord thy God, and that my fear is not in thee, saith the Lord God of hosts.",
+              "NASB95": "\u201cYour own wickedness will correct you,\nAnd your apostasies will reprove you;\nKnow therefore and see that it is evil and bitter\nFor you to forsake the Lord your God,\nAnd the dread of Me is not in you,\u201d declares the Lord God of hosts.",
+              "NKJV": "Your own wickedness will correct you,\nAnd your backslidings will rebuke you.\nKnow therefore and see that it is an evil and bitter thing\nThat you have forsaken the Lord your God,\nAnd the fear of Me is not in you,\u201d\nSays the Lord God of hosts.",
+              "DRB": "Thy own wickedness shall reprove thee, and thy apostasy shall rebuke thee. Know thou, and see that it is an evil and a bitter thing for thee, to have left the Lord thy God, and that my fear is not with thee, saith the Lord the God of hosts."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "\"Long ago you broke off your yoke and tore off your bonds; you said, 'I will not serve you!' Indeed, on every high hill and under every spreading tree you lay down as a prostitute.",
+              "KJV": "For of old time I have broken thy yoke, and burst thy bands; and thou saidst, I will not transgress; when upon every high hill and under every green tree thou wanderest, playing the harlot.",
+              "NASB95": "\u201cFor long ago I broke your yoke\nAnd tore off your bonds;\nBut you said, \u2018I will not serve!\u2019\nFor on every high hill\nAnd under every green tree\nYou have lain down as a harlot.",
+              "NKJV": "\u201cFor of old I have broken your yoke and burst your bonds;\nAnd you said, \u2018I will not transgress,\u2019\nWhen on every high hill and under every green tree\nYou lay down, playing the harlot.",
+              "DRB": "Of old time thou hast broken my yoke, thou hast burst my bands, and thou saidst: I will not serve. For on every high hill, and under every green tree thou didst prostitute thyself."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "I had planted you like a choice vine of sound and reliable stock. How then did you turn against me into a corrupt, wild vine?",
+              "KJV": "Yet I had planted thee a noble vine, wholly a right seed: how then art thou turned into the degenerate plant of a strange vine unto me?",
+              "NASB95": "\u201cYet I planted you a choice vine,\nA completely faithful seed.\nHow then have you turned yourself before Me\nInto the degenerate shoots of a foreign vine?",
+              "NKJV": "Yet I had planted you a noble vine, a seed of highest quality.\nHow then have you turned before Me\nInto the degenerate plant of an alien vine?",
+              "DRB": "Yet I planted thee a chosen vineyard, all true seed: how then art thou turned unto me into that which is good for nothing, O strange vineyard?"
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "Although you wash yourself with soda and use an abundance of soap, the stain of your guilt is still before me,\" declares the Sovereign LORD.",
+              "KJV": "For though thou wash thee with nitre, and take thee much soap, yet thine iniquity is marked before me, saith the Lord God.",
+              "NASB95": "\u201cAlthough you wash yourself with lye\nAnd use much soap,\nThe stain of your iniquity is before Me,\u201d declares the Lord God.",
+              "NKJV": "For though you wash yourself with lye, and use much soap,\nYet your iniquity is marked before Me,\u201d says the Lord God.",
+              "DRB": "Though thou wash thyself with nitre, and multiply to thyself the herb borith, thou art stained in thy iniquity before me, saith the Lord God."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "\"How can you say, 'I am not defiled; I have not run after the Baals'? See how you behaved in the valley; consider what you have done. You are a swift she-camel running here and there,",
+              "KJV": "How canst thou say, I am not polluted, I have not gone after Baalim? see thy way in the valley, know what thou hast done: thou art a swift dromedary traversing her ways;",
+              "NASB95": "\u201cHow can you say, \u2018I am not defiled,\nI have not gone after the Baals\u2019?\nLook at your way in the valley!\nKnow what you have done!\nYou are a swift young camel entangling her ways,",
+              "NKJV": "\u201cHow can you say, \u2018I am not polluted,\nI have not gone after the Baals\u2019?\nSee your way in the valley;\nKnow what you have done:\nYou are a swift dromedary breaking loose in her ways,",
+              "DRB": "How canst thou say: I am not polluted, and I have not walked after Baalim? see thy ways in the valley, know what thou hast done: as a swift runner pursuing his course."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "a wild donkey accustomed to the desert, sniffing the wind in her craving- in her heat who can restrain her? Any males that pursue her need not tire themselves; at mating time they will find her.",
+              "KJV": "A wild ass used to the wilderness, that snuffeth up the wind at her pleasure; in her occasion who can turn her away? all they that seek her will not weary themselves; in her month they shall find her.",
+              "NASB95": "A wild donkey accustomed to the wilderness,\nThat sniffs the wind in her passion.\nIn the time of her heat who can turn her away?\nAll who seek her will not become weary;\nIn her month they will find her.",
+              "NKJV": "A wild donkey used to the wilderness,\nThat sniffs at the wind in her desire;\nIn her time of mating, who can turn her away?\nAll those who seek her will not weary themselves;\nIn her month they will find her.",
+              "DRB": "A wild ass accustomed to the wilderness in the desire of his heart, snuffed up the wind of his love: none shall turn her away: all that seek her shall not fail: in her monthly filth they shall find her."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "Do not run until your feet are bare and your throat is dry. But you said, 'It's no use! I love foreign gods, and I must go after them.'",
+              "KJV": "Withhold thy foot from being unshod, and thy throat from thirst: but thou saidst, There is no hope: no; for I have loved strangers, and after them will I go.",
+              "NASB95": "\u201cKeep your feet from being unshod\nAnd your throat from thirst;\nBut you said, \u2018It is hopeless!\nNo! For I have loved strangers,\nAnd after them I will walk.\u2019",
+              "NKJV": "Withhold your foot from being unshod, and your throat from thirst.\nBut you said, \u2018There is no hope.\nNo! For I have loved aliens, and after them I will go.\u2019",
+              "DRB": "Keep thy foot from being bare, and thy throat from thirst. But thou saidst: I have lost all hope, I will not do it: for I have loved strangers, and I will walk after them."
+            }
           }
         ]
       },
       {
         "id": "jer_2_26_37",
-        "title": "A Bride's Wedding Ornaments",
+        "title": "Israel Like a Thief",
         "description": "",
         "reference": {
           "book": "Jeremiah",
