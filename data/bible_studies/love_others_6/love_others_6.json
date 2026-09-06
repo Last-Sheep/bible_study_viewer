@@ -1,0 +1,645 @@
+{
+  "scripture": {
+    "header": {
+      "id": "",
+      "title": "",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "NASB95",
+      "DRB",
+      "ESV"
+    ],
+    "blocks": [
+      {
+        "id": "1jn_3_1_3",
+        "title": "The Command to Love",
+        "description": "",
+        "reference": {
+          "book": "1 John",
+          "chapter": 3,
+          "start": 1,
+          "end": 3
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "How great is the love the Father has lavished on us, that we should be called children of God! And that is what we are! The reason the world does not know us is that it did not know him.",
+              "KJV": "Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.",
+              "NKJV": "Behold what manner of love the Father has bestowed on us, that we should be called children of God! Therefore the world does not know us, because it did not know Him.",
+              "NASB95": "See how great a love the Father has bestowed on us, that we would be called children of God; and such we are. For this reason the world does not know us, because it did not know Him.",
+              "DRB": "Behold what manner of charity the Father hath bestowed upon us, that we should be called, and should be the sons of God. Therefore the world knoweth not us, because it knew not him.",
+              "ESV": "See what kind of love the Father has given to us, that we should be called children of God; and so we are. The reason why the world does not know us is that it did not know him."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Dear friends, now we are children of God, and what we will be has not yet been made known. But we know that when he appears, we shall be like him, for we shall see him as he is.",
+              "KJV": "Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is.",
+              "NKJV": "Beloved, now we are children of God; and it has not yet been revealed what we shall be, but we know that when He is revealed, we shall be like Him, for we shall see Him as He is.",
+              "NASB95": "Beloved, now we are children of God, and it has not appeared as yet what we will be. We know that when He appears, we will be like Him, because we will see Him just as He is.",
+              "DRB": "Dearly beloved, we are now the sons of God; and it hath not yet appeared what we shall be. We know, that, when he shall appear, we shall be like to him: because we shall see him as he is.",
+              "ESV": "Beloved, we are God's children now, and what we will be has not yet appeared; but we know that when he appears we shall be like him, because we shall see him as he is."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "Everyone who has this hope in him purifies himself, just as he is pure.",
+              "KJV": "And every man that hath this hope in him purifieth himself, even as he is pure.",
+              "NKJV": "And everyone who has this hope in Him purifies himself, just as He is pure.",
+              "NASB95": "And everyone who has this hope fixed on Him purifies himself, just as He is pure.",
+              "DRB": "And every one that hath this hope in him, sanctifieth himself, as he also is holy.",
+              "ESV": "And everyone who thus hopes in him purifies himself as he is pure."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1jn_3_4_9",
+        "title": "Sin and the Child of God",
+        "description": "",
+        "reference": {
+          "book": "1 John",
+          "chapter": 3,
+          "start": 4,
+          "end": 9
+        },
+        "rows": [
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Everyone who sins breaks the law; in fact, sin is lawlessness.",
+              "KJV": "Whosoever committeth sin transgresseth also the law: for sin is the transgression of the law.",
+              "NKJV": "Whoever commits sin also commits lawlessness, and sin is lawlessness.",
+              "NASB95": "Everyone who practices sin also practices lawlessness; and sin is lawlessness.",
+              "DRB": "Whosoever committeth sin commmitteth also iniquity; and sin is iniquity.",
+              "ESV": "Everyone who makes a practice of sinning also practices lawlessness; sin is lawlessness."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "But you know that he appeared so that he might take away our sins. And in him is no sin.",
+              "KJV": "And ye know that he was manifested to take away our sins; and in him is no sin.",
+              "NKJV": "And you know that He was manifested to take away our sins, and in Him there is no sin.",
+              "NASB95": "You know that He appeared in order to take away sins; and in Him there is no sin.",
+              "DRB": "And you know that he appeared to take away our sins, and in him there is no sin.",
+              "ESV": "You know that he appeared in order to take away sins, and in him there is no sin."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "No one who lives in him keeps on sinning. No one who continues to sin has either seen him or known him.",
+              "KJV": "Whosoever abideth in him sinneth not: whosoever sinneth hath not seen him, neither known him.",
+              "NKJV": "Whoever abides in Him does not sin. Whoever sins has neither seen Him nor known Him.",
+              "NASB95": "No one who abides in Him sins; no one who sins has seen Him or knows Him.",
+              "DRB": "Whosoever abideth in him, sinneth not; and whosoever sinneth, hath not seen him, nor known him.",
+              "ESV": "No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Dear children, do not let anyone lead you astray. He who does what is right is righteous, just as he is righteous.",
+              "KJV": "Little children, let no man deceive you: he that doeth righteousness is righteous, even as he is righteous.",
+              "NKJV": "Little children, let no one deceive you. He who practices righteousness is righteous, just as He is righteous.",
+              "NASB95": "Little children, make sure no one deceives you; the one who practices righteousness is righteous, just as He is righteous;",
+              "DRB": "Little children, let no man deceive you. He that doth justice is just, even as he is just.",
+              "ESV": "Little children, let no one deceive you. Whoever practices righteousness is righteous, as he is righteous."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "He who does what is sinful is of the devil, because the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the devil's work.",
+              "KJV": "He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil.",
+              "NKJV": "He who sins is of the devil, for the devil has sinned from the beginning. For this purpose the Son of God was manifested, that He might destroy the works of the devil.",
+              "NASB95": "the one who practices sin is of the devil; for the devil has sinned from the beginning. The Son of God appeared for this purpose, to destroy the works of the devil.",
+              "DRB": "He that commmitteth sin is of the devil: for the devil sinneth from the beginning. For this purpose, the Son of God appeared, that he might destroy the works of the devil.",
+              "ESV": "Whoever makes a practice of sinning is of the devil, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "No one who is born of God will continue to sin, because God's seed remains in him; he cannot go on sinning, because he has been born of God.",
+              "KJV": "Whosoever is born of God doth not commit sin; for his seed remaineth in him: and he cannot sin, because he is born of God.",
+              "NKJV": "Whoever has been born of God does not sin, for His seed remains in him; and he cannot sin, because he has been born of God.",
+              "NASB95": "No one who is born of God practices sin, because His seed abides in him; and he cannot sin, because he is born of God.",
+              "DRB": "Whosoever is born of God, commmitteth not sin: for his seed abideth in him, and he can not sin, because he is born of God.",
+              "ESV": "No one born of God makes a practice of sinning, for God's seed abides in him; and he cannot keep on sinning, because he has been born of God."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1jn_3_10_15",
+        "title": "The Imperative of Love",
+        "description": "",
+        "reference": {
+          "book": "1 John",
+          "chapter": 3,
+          "start": 10,
+          "end": 15
+        },
+        "rows": [
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "This is how we know who the children of God are and who the children of the devil are: Anyone who does not do what is right is not a child of God; nor is anyone who does not love his brother.",
+              "KJV": "In this the children of God are manifest, and the children of the devil: whosoever doeth not righteousness is not of God, neither he that loveth not his brother.",
+              "NKJV": "In this the children of God and the children of the devil are manifest: Whoever does not practice righteousness is not of God, nor is he who does not love his brother.",
+              "NASB95": "By this the children of God and the children of the devil are obvious: anyone who does not practice righteousness is not of God, nor the one who does not love his brother.",
+              "DRB": "In this the children of God are manifest, and the children of the devil. Whosoever is not just, is not of God, nor he that loveth not his brother.",
+              "ESV": "By this it is evident who are the children of God, and who are the children of the devil: whoever does not practice righteousness is not of God, nor is the one who does not love his brother."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "This is the message you heard from the beginning: We should love one another.",
+              "KJV": "For this is the message that ye heard from the beginning, that we should love one another.",
+              "NKJV": "For this is the message that you heard from the beginning, that we should love one another,",
+              "NASB95": "For this is the message which you have heard from the beginning, that we should love one another;",
+              "DRB": "For this is the declaration, which you have heard from the beginning, that you should love one another.",
+              "ESV": "For this is the message that you have heard from the beginning, that we should love one another."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Do not be like Cain, who belonged to the evil one and murdered his brother. And why did he murder him? Because his own actions were evil and his brother's were righteous.",
+              "KJV": "Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother's righteous.",
+              "NKJV": "not as Cain who was of the wicked one and murdered his brother. And why did he murder him? Because his works were evil and his brother\u2019s righteous.",
+              "NASB95": "not as Cain, who was of the evil one and slew his brother. And for what reason did he slay him? Because his deeds were evil, and his brother\u2019s were righteous.",
+              "DRB": "Not as Cain, who was of the wicked one, and killed his brother. And wherefore did he kill him? Because his own works were wicked: and his brother's just.",
+              "ESV": "We should not be like Cain, who was of the evil one and murdered his brother. And why did he murder him? Because his own deeds were evil and his brother's righteous."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Do not be surprised, my brothers, if the world hates you.",
+              "KJV": "Marvel not, my brethren, if the world hate you.",
+              "NKJV": "Do not marvel, my brethren, if the world hates you.",
+              "NASB95": "Do not be surprised, brethren, if the world hates you.",
+              "DRB": "Wonder not, brethren, if the world hate you.",
+              "ESV": "Do not be surprised, brothers, that the world hates you."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "We know that we have passed from death to life, because we love our brothers. Anyone who does not love remains in death.",
+              "KJV": "We know that we have passed from death unto life, because we love the brethren. He that loveth not his brother abideth in death.",
+              "NKJV": "We know that we have passed from death to life, because we love the brethren. He who does not love his brother abides in death.",
+              "NASB95": "We know that we have passed out of death into life, because we love the brethren. He who does not love abides in death.",
+              "DRB": "We know that we have passed from death to life, because we love the brethren. He that loveth not, abideth in death.",
+              "ESV": "We know that we have passed out of death into life, because we love the brothers. Whoever does not love abides in death."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Anyone who hates his brother is a murderer, and you know that no murderer has eternal life in him.",
+              "KJV": "Whosoever hateth his brother is a murderer: and ye know that no murderer hath eternal life abiding in him.",
+              "NKJV": "Whoever hates his brother is a murderer, and you know that no murderer has eternal life abiding in him.",
+              "NASB95": "Everyone who hates his brother is a murderer; and you know that no murderer has eternal life abiding in him.",
+              "DRB": "Whosoever hateth his brother is a murderer. And you know that no murderer hath eternal life abiding in himself.",
+              "ESV": "Everyone who hates his brother is a murderer, and you know that no murderer has eternal life abiding in him."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1jn_3_16_23",
+        "title": "The Outworking of Love",
+        "description": "",
+        "reference": {
+          "book": "1 John",
+          "chapter": 3,
+          "start": 16,
+          "end": 23
+        },
+        "rows": [
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "This is how we know what love is: Jesus Christ laid down his life for us. And we ought to lay down our lives for our brothers.",
+              "KJV": "Hereby perceive we the love of God, because he laid down his life for us: and we ought to lay down our lives for the brethren.",
+              "NKJV": "By this we know love, because He laid down His life for us. And we also ought to lay down our lives for the brethren.",
+              "NASB95": "We know love by this, that He laid down His life for us; and we ought to lay down our lives for the brethren.",
+              "DRB": "In this we have known the charity of God, because he hath laid down his life for us: and we ought to lay down our lives for the brethren.",
+              "ESV": "By this we know love, that he laid down his life for us, and we ought to lay down our lives for the brothers."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "If anyone has material possessions and sees his brother in need but has no pity on him, how can the love of God be in him?",
+              "KJV": "But whoso hath this world's good, and seeth his brother have need, and shutteth up his bowels of compassion from him, how dwelleth the love of God in him?",
+              "NKJV": "But whoever has this world\u2019s goods, and sees his brother in need, and shuts up his heart from him, how does the love of God abide in him?",
+              "NASB95": "But whoever has the world\u2019s goods, and sees his brother in need and closes his heart against him, how does the love of God abide in him?",
+              "DRB": "He that hath the substance of this world, and shall see his brother in need, and shall shut up his bowels from him: how doth the charity of God abide in him?",
+              "ESV": "But if anyone has the world's goods and sees his brother in need, yet closes his heart against him, how does God's love abide in him?"
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "Dear children, let us not love with words or tongue but with actions and in truth.",
+              "KJV": "My little children, let us not love in word, neither in tongue; but in deed and in truth.",
+              "NKJV": "My little children, let us not love in word or in tongue, but in deed and in truth.",
+              "NASB95": "Little children, let us not love with word or with tongue, but in deed and truth.",
+              "DRB": "My little children, let us not love in word, nor in tongue, but in deed, and in truth.",
+              "ESV": "Little children, let us not love in word or talk but in deed and in truth."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "This then is how we know that we belong to the truth, and how we set our hearts at rest in his presence",
+              "KJV": "And hereby we know that we are of the truth, and shall assure our hearts before him.",
+              "NKJV": "And by this we know that we are of the truth, and shall assure our hearts before Him.",
+              "NASB95": "We will know by this that we are of the truth, and will assure our heart before Him",
+              "DRB": "In this we know that we are of the truth: and in his sight shall persuade our hearts.",
+              "ESV": "By this we shall know that we are of the truth and reassure our heart before him;"
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "whenever our hearts condemn us. For God is greater than our hearts, and he knows everything.",
+              "KJV": "For if our heart condemn us, God is greater than our heart, and knoweth all things.",
+              "NKJV": "For if our heart condemns us, God is greater than our heart, and knows all things.",
+              "NASB95": "in whatever our heart condemns us; for God is greater than our heart and knows all things.",
+              "DRB": "For if our heart reprehend us, God is greater than our heart, and knoweth all things.",
+              "ESV": "for whenever our heart condemns us, God is greater than our heart, and he knows everything."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "Dear friends, if our hearts do not condemn us, we have confidence before God",
+              "KJV": "Beloved, if our heart condemn us not, then have we confidence toward God.",
+              "NKJV": "Beloved, if our heart does not condemn us, we have confidence toward God.",
+              "NASB95": "Beloved, if our heart does not condemn us, we have confidence before God;",
+              "DRB": "Dearly beloved, if our heart do not reprehend us, we have confidence towards God:",
+              "ESV": "Beloved, if our heart does not condemn us, we have confidence before God;"
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "and receive from him anything we ask, because we obey his commands and do what pleases him.",
+              "KJV": "And whatsoever we ask, we receive of him, because we keep his commandments, and do those things that are pleasing in his sight.",
+              "NKJV": "And whatever we ask we receive from Him, because we keep His commandments and do those things that are pleasing in His sight.",
+              "NASB95": "and whatever we ask we receive from Him, because we keep His commandments and do the things that are pleasing in His sight.",
+              "DRB": "And whatsoever we shall ask, we shall receive of him: because we keep his commandments, and do those things which are pleasing in his sight.",
+              "ESV": "and whatever we ask we receive from him, because we keep his commandments and do what pleases him."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "And this is his command: to believe in the name of his Son, Jesus Christ, and to love one another as he commanded us.",
+              "KJV": "And this is his commandment, That we should believe on the name of his Son Jesus Christ, and love one another, as he gave us commandment.",
+              "NKJV": "And this is His commandment: that we should believe on the name of His Son Jesus Christ and love one another, as He gave us commandment.",
+              "NASB95": "This is His commandment, that we believe in the name of His Son Jesus Christ, and love one another, just as He commanded us.",
+              "DRB": "And this is his commandment, that we should believe in the name of his Son Jesus Christ: and love one another, as he hath given commandment unto us.",
+              "ESV": "And this is his commandment, that we believe in the name of his Son Jesus Christ and love one another, just as he has commanded us."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1jn_3_24",
+        "title": "Spirit of Truth & Spirit of Error",
+        "description": "",
+        "reference": {
+          "book": "1 John",
+          "chapter": 3,
+          "start": 24,
+          "end": 24
+        },
+        "rows": [
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "Those who obey his commands live in him, and he in them. And this is how we know that he lives in us: We know it by the Spirit he gave us.",
+              "KJV": "And he that keepeth his commandments dwelleth in him, and he in him. And hereby we know that he abideth in us, by the Spirit which he hath given us.",
+              "NKJV": "Now he who keeps His commandments abides in Him, and He in him. And by this we know that He abides in us, by the Spirit whom He has given us.",
+              "NASB95": "The one who keeps His commandments abides in Him, and He in him. We know by this that He abides in us, by the Spirit whom He has given us.",
+              "DRB": "And he that keepeth his commandments, abideth in him, and he in him. And in this we know that he abideth in us, by the Spirit which he hath given us.",
+              "ESV": "Whoever keeps his commandments abides in God, and God in him. And by this we know that he abides in us, by the Spirit whom he has given us."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1jn_4_1_6",
+        "title": "Love for God and One Another",
+        "description": "",
+        "reference": {
+          "book": "1 John",
+          "chapter": 4,
+          "start": 1,
+          "end": 6
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Dear friends, do not believe every spirit, but test the spirits to see whether they are from God, because many false prophets have gone out into the world.",
+              "KJV": "Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world.",
+              "NKJV": "Beloved, do not believe every spirit, but test the spirits, whether they are of God; because many false prophets have gone out into the world.",
+              "NASB95": "Beloved, do not believe every spirit, but test the spirits to see whether they are from God, because many false prophets have gone out into the world.",
+              "DRB": "Dearly beloved, believe not every spirit, but try the spirits if they be of God: because many false prophets are gone out into the world.",
+              "ESV": "Beloved, do not believe every spirit, but test the spirits to see whether they are from God, for many false prophets have gone out into the world."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "This is how you can recognize the Spirit of God: Every spirit that acknowledges that Jesus Christ has come in the flesh is from God,",
+              "KJV": "Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God:",
+              "NKJV": "By this you know the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is of God,",
+              "NASB95": "By this you know the Spirit of God: every spirit that confesses that Jesus Christ has come in the flesh is from God;",
+              "DRB": "By this is the spirit of God known. Every spirit which confesseth that Jesus Christ is come in the flesh, is of God:",
+              "ESV": "By this you know the Spirit of God: every spirit that confesses that Jesus Christ has come in the flesh is from God,"
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "but every spirit that does not acknowledge Jesus is not from God. This is the spirit of the antichrist, which you have heard is coming and even now is already in the world.",
+              "KJV": "And every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, whereof ye have heard that it should come; and even now already is it in the world.",
+              "NKJV": "and every spirit that does not confess that Jesus Christ has come in the flesh is not of God. And this is the spirit of the Antichrist, which you have heard was coming, and is now already in the world.",
+              "NASB95": "and every spirit that does not confess Jesus is not from God; this is the spirit of the antichrist, of which you have heard that it is coming, and now it is already in the world.",
+              "DRB": "And every spirit that dissolveth Jesus, is not of God: and this is Antichrist, of whom you have heard that he cometh, and he is now already in the world.",
+              "ESV": "and every spirit that does not confess Jesus is not from God. This is the spirit of the antichrist, which you heard was coming and now is in the world already."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "You, dear children, are from God and have overcome them, because the one who is in you is greater than the one who is in the world.",
+              "KJV": "Ye are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world.",
+              "NKJV": "You are of God, little children, and have overcome them, because He who is in you is greater than he who is in the world.",
+              "NASB95": "You are from God, little children, and have overcome them; because greater is He who is in you than he who is in the world.",
+              "DRB": "You are of God, little children, and have overcome him. Because greater is he that is in you, than he that is in the world.",
+              "ESV": "Little children, you are from God and have overcome them, for he who is in you is greater than he who is in the world."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "They are from the world and therefore speak from the viewpoint of the world, and the world listens to them.",
+              "KJV": "They are of the world: therefore speak they of the world, and the world heareth them.",
+              "NKJV": "They are of the world. Therefore they speak as of the world, and the world hears them.",
+              "NASB95": "They are from the world; therefore they speak as from the world, and the world listens to them.",
+              "DRB": "They are of the world: therefore of the world they speak, and the world heareth them.",
+              "ESV": "They are from the world; therefore they speak from the world, and the world listens to them."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "We are from God, and whoever knows God listens to us; but whoever is not from God does not listen to us. This is how we recognize the Spirit of truth and the spirit of falsehood.",
+              "KJV": "We are of God: he that knoweth God heareth us; he that is not of God heareth not us. Hereby know we the spirit of truth, and the spirit of error.",
+              "NKJV": "We are of God. He who knows God hears us; he who is not of God does not hear us. By this we know the spirit of truth and the spirit of error.",
+              "NASB95": "We are from God; he who knows God listens to us; he who is not from God does not listen to us. By this we know the spirit of truth and the spirit of error.",
+              "DRB": "We are of God. He that knoweth God, heareth us. He that is not of God, heareth us not. By this we know the spirit of truth, and the spirit of error.",
+              "ESV": "We are from God. Whoever knows God listens to us; whoever is not from God does not listen to us. By this we know the Spirit of truth and the spirit of error."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1jn_4_7_11",
+        "title": "Knowing God Through Love",
+        "description": "",
+        "reference": {
+          "book": "1 John",
+          "chapter": 4,
+          "start": 7,
+          "end": 11
+        },
+        "rows": [
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Dear friends, let us love one another, for love comes from God. Everyone who loves has been born of God and knows God.",
+              "KJV": "Beloved, let us love one another: for love is of God; and every one that loveth is born of God, and knoweth God.",
+              "NKJV": "Beloved, let us love one another, for love is of God; and everyone who loves is born of God and knows God.",
+              "NASB95": "Beloved, let us love one another, for love is from God; and everyone who loves is born of God and knows God.",
+              "DRB": "Dearly beloved, let us love one another, for charity is of God. And every one that loveth, is born of God, and knoweth God.",
+              "ESV": "Beloved, let us love one another, for love is from God, and whoever loves has been born of God and knows God."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Whoever does not love does not know God, because God is love.",
+              "KJV": "He that loveth not knoweth not God; for God is love.",
+              "NKJV": "He who does not love does not know God, for God is love.",
+              "NASB95": "The one who does not love does not know God, for God is love.",
+              "DRB": "He that loveth not, knoweth not God: for God is charity.",
+              "ESV": "Anyone who does not love does not know God, because God is love."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "This is how God showed his love among us: He sent his one and only Son into the world that we might live through him.",
+              "KJV": "In this was manifested the love of God toward us, because that God sent his only begotten Son into the world, that we might live through him.",
+              "NKJV": "In this the love of God was manifested toward us, that God has sent His only begotten Son into the world, that we might live through Him.",
+              "NASB95": "By this the love of God was manifested in us, that God has sent His only begotten Son into the world so that we might live through Him.",
+              "DRB": "By this hath the charity of God appeared towards us, because God hath sent his only begotten Son into the world, that we may live by him.",
+              "ESV": "In this the love of God was made manifest among us, that God sent his only Son into the world, so that we might live through him."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "This is love: not that we loved God, but that he loved us and sent his Son as an atoning sacrifice for our sins.",
+              "KJV": "Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins.",
+              "NKJV": "In this is love, not that we loved God, but that He loved us and sent His Son to be the propitiation for our sins.",
+              "NASB95": "In this is love, not that we loved God, but that He loved us and sent His Son to be the propitiation for our sins.",
+              "DRB": "In this is charity: not as though we had loved God, but because he hath first loved us, and sent his Son to be a propitiation for our sins.",
+              "ESV": "In this is love, not that we have loved God but that he loved us and sent his Son to be the propitiation for our sins."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Dear friends, since God so loved us, we also ought to love one another.",
+              "KJV": "Beloved, if God so loved us, we ought also to love one another.",
+              "NKJV": "Beloved, if God so loved us, we also ought to love one another.",
+              "NASB95": "Beloved, if God so loved us, we also ought to love one another.",
+              "DRB": "My dearest, if God hath so loved us; we also ought to love one another.",
+              "ESV": "Beloved, if God so loved us, we also ought to love one another."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1jn_4_12_16",
+        "title": "Seeing God Through Love",
+        "description": "",
+        "reference": {
+          "book": "1 John",
+          "chapter": 4,
+          "start": 12,
+          "end": 16
+        },
+        "rows": [
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "No one has ever seen God; but if we love one another, God lives in us and his love is made complete in us.",
+              "KJV": "No man hath seen God at any time. If we love one another, God dwelleth in us, and his love is perfected in us.",
+              "NKJV": "No one has seen God at any time. If we love one another, God abides in us, and His love has been perfected in us.",
+              "NASB95": "No one has seen God at any time; if we love one another, God abides in us, and His love is perfected in us.",
+              "DRB": "No man hath seen God at any time. If we love one another, God abideth in us, and his charity is perfected in us.",
+              "ESV": "No one has ever seen God; if we love one another, God abides in us and his love is perfected in us."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "We know that we live in him and he in us, because he has given us of his Spirit.",
+              "KJV": "Hereby know we that we dwell in him, and he in us, because he hath given us of his Spirit.",
+              "NKJV": "By this we know that we abide in Him, and He in us, because He has given us of His Spirit.",
+              "NASB95": "By this we know that we abide in Him and He in us, because He has given us of His Spirit.",
+              "DRB": "In this we know that we abide in him, and he in us: because he hath given us of his spirit.",
+              "ESV": "By this we know that we abide in him and he in us, because he has given us of his Spirit."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "And we have seen and testify that the Father has sent his Son to be the Savior of the world.",
+              "KJV": "And we have seen and do testify that the Father sent the Son to be the Saviour of the world.",
+              "NKJV": "And we have seen and testify that the Father has sent the Son as Savior of the world.",
+              "NASB95": "We have seen and testify that the Father has sent the Son to be the Savior of the world.",
+              "DRB": "And we have seen, and do testify, that the Father hath sent his Son to be the Saviour of the world.",
+              "ESV": "And we have seen and testify that the Father has sent his Son to be the Savior of the world."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "If anyone acknowledges that Jesus is the Son of God, God lives in him and he in God.",
+              "KJV": "Whosoever shall confess that Jesus is the Son of God, God dwelleth in him, and he in God.",
+              "NKJV": "Whoever confesses that Jesus is the Son of God, God abides in him, and he in God.",
+              "NASB95": "Whoever confesses that Jesus is the Son of God, God abides in him, and he in God.",
+              "DRB": "Whosoever shall confess that Jesus is the Son of God, God abideth in him, and he in God.",
+              "ESV": "Whoever confesses that Jesus is the Son of God, God abides in him, and he in God."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "And so we know and rely on the love God has for us. God is love. Whoever lives in love lives in God, and God in him.",
+              "KJV": "And we have known and believed the love that God hath to us. God is love; and he that dwelleth in love dwelleth in God, and God in him.",
+              "NKJV": "And we have known and believed the love that God has for us. God is love, and he who abides in love abides in God, and God in him.",
+              "NASB95": "We have come to know and have believed the love which God has for us. God is love, and the one who abides in love abides in God, and God abides in him.",
+              "DRB": "And we have known, and have believed the charity, which God hath to us. God is charity: and he that abideth in charity, abideth in God, and God in him.",
+              "ESV": "So we have come to know and to believe the love that God has for us. God is love, and whoever abides in love abides in God, and God abides in him."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1jn_4_17_19",
+        "title": "The Consummation of Love",
+        "description": "",
+        "reference": {
+          "book": "1 John",
+          "chapter": 4,
+          "start": 17,
+          "end": 19
+        },
+        "rows": [
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "In this way, love is made complete among us so that we will have confidence on the day of judgment, because in this world we are like him.",
+              "KJV": "Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world.",
+              "NKJV": "Love has been perfected among us in this: that we may have boldness in the day of judgment; because as He is, so are we in this world.",
+              "NASB95": "By this, love is perfected with us, so that we may have confidence in the day of judgment; because as He is, so also are we in this world.",
+              "DRB": "In this is the charity of God perfected with us, that we may have confidence in the day of judgment: because as he is, we also are in this world.",
+              "ESV": "By this is love perfected with us, so that we may have confidence for the day of judgment, because as he is so also are we in this world."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "There is no fear in love. But perfect love drives out fear, because fear has to do with punishment. The one who fears is not made perfect in love.",
+              "KJV": "There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.",
+              "NKJV": "There is no fear in love; but perfect love casts out fear, because fear involves torment. But he who fears has not been made perfect in love.",
+              "NASB95": "There is no fear in love; but perfect love casts out fear, because fear involves punishment, and the one who fears is not perfected in love.",
+              "DRB": "Fear is not in charity: but perfect charity casteth out fear, because fear hath pain. And he that feareth, is not perfected in charity.",
+              "ESV": "There is no fear in love, but perfect love casts out fear. For fear has to do with punishment, and whoever fears has not been perfected in love."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "We love because he first loved us.",
+              "KJV": "We love him, because he first loved us.",
+              "NKJV": "We love Him because He first loved us.",
+              "NASB95": "We love, because He first loved us.",
+              "DRB": "Let us therefore love God, because God first hath loved us.",
+              "ESV": "We love because he first loved us."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1jn_4_20_21",
+        "title": "Obedience by Faith",
+        "description": "",
+        "reference": {
+          "book": "1 John",
+          "chapter": 4,
+          "start": 20,
+          "end": 21
+        },
+        "rows": [
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "If anyone says, \"I love God,\" yet hates his brother, he is a liar. For anyone who does not love his brother, whom he has seen, cannot love God, whom he has not seen.",
+              "KJV": "If a man say, I love God, and hateth his brother, he is a liar: for he that loveth not his brother whom he hath seen, how can he love God whom he hath not seen?",
+              "NKJV": "If someone says, \u201cI love God,\u201d and hates his brother, he is a liar; for he who does not love his brother whom he has seen, how can he love God whom he has not seen?",
+              "NASB95": "If someone says, \u201cI love God,\u201d and hates his brother, he is a liar; for the one who does not love his brother whom he has seen, cannot love God whom he has not seen.",
+              "DRB": "If any man say, I love God, and hateth his brother; he is a liar. For he that loveth not his brother, whom he seeth, how can he love God, whom he seeth not?",
+              "ESV": "If anyone says, \u201cI love God,\u201d and hates his brother, he is a liar; for he who does not love his brother whom he has seen cannot love God whom he has not seen."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "And he has given us this command: Whoever loves God must also love his brother.",
+              "KJV": "And this commandment have we from him, That he who loveth God love his brother also.",
+              "NKJV": "And this commandment we have from Him: that he who loves God must love his brother also.",
+              "NASB95": "And this commandment we have from Him, that the one who loves God should love his brother also.",
+              "DRB": "And this commandment we have from God, that he, who loveth God, love also his brother.",
+              "ESV": "And this commandment we have from him: whoever loves God must also love his brother."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,797 @@
+{
+  "scripture": {
+    "header": {
+      "id": "love_others_3",
+      "title": "Love One Another Part 3",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "NASB95",
+      "DRB",
+      "ESV"
+    ],
+    "blocks": [
+      {
+        "id": "1th_3_11_13",
+        "title": "Prayer for the Church",
+        "description": "",
+        "reference": {
+          "book": "1 Thessalonians",
+          "chapter": 3,
+          "start": 11,
+          "end": 13
+        },
+        "rows": [
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Now may our God and Father himself and our Lord Jesus clear the way for us to come to you.",
+              "KJV": "Now God himself and our Father, and our Lord Jesus Christ, direct our way unto you.",
+              "NKJV": "Now may our God and Father Himself, and our Lord Jesus Christ, direct our way to you.",
+              "NASB95": "Now may our God and Father Himself and Jesus our Lord direct our way to you;",
+              "DRB": "Now God himself and our Father, and our Lord Jesus Christ, direct our way unto you.",
+              "ESV": "Now may our God and Father himself, and our Lord Jesus, direct our way to you,"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "May the Lord make your love increase and overflow for each other and for everyone else, just as ours does for you.",
+              "KJV": "And the Lord make you to increase and abound in love one toward another, and toward all men, even as we do toward you:",
+              "NKJV": "And may the Lord make you increase and abound in love to one another and to all, just as we do to you,",
+              "NASB95": "and may the Lord cause you to increase and abound in love for one another, and for all people, just as we also do for you;",
+              "DRB": "And may the Lord multiply you, and make you abound in charity towards one another, and towards all men: as we do also towards you,",
+              "ESV": "and may the Lord make you increase and abound in love for one another and for all, as we do for you,"
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "May he strengthen your hearts so that you will be blameless and holy in the presence of our God and Father when our Lord Jesus comes with all his holy ones.",
+              "KJV": "To the end he may stablish your hearts unblameable in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his saints.",
+              "NKJV": "so that He may establish your hearts blameless in holiness before our God and Father at the coming of our Lord Jesus Christ with all His saints.",
+              "NASB95": "so that He may establish your hearts without blame in holiness before our God and Father at the coming of our Lord Jesus with all His saints.",
+              "DRB": "To confirm your hearts without blame, in holiness, before God and our Father, at the coming of our Lord Jesus Christ, with all his saints. Amen.",
+              "ESV": "so that he may establish your hearts blameless in holiness before our God and Father, at the coming of our Lord Jesus with all his saints."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1th_4_1_8",
+        "title": "Plea for Purity",
+        "description": "",
+        "reference": {
+          "book": "1 Thessalonians",
+          "chapter": 4,
+          "start": 1,
+          "end": 8
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Finally, brothers, we instructed you how to live in order to please God, as in fact you are living. Now we ask you and urge you in the Lord Jesus to do this more and more.",
+              "KJV": "Furthermore then we beseech you, brethren, and exhort you by the Lord Jesus, that as ye have received of us how ye ought to walk and to please God, so ye would abound more and more.",
+              "NKJV": "Finally then, brethren, we urge and exhort in the Lord Jesus that you should abound more and more, just as you received from us how you ought to walk and to please God;",
+              "NASB95": "Finally then, brethren, we request and exhort you in the Lord Jesus, that as you received from us instruction as to how you ought to walk and please God (just as you actually do walk), that you excel still more.",
+              "DRB": "For the rest therefore, brethren, we pray and beseech you in the Lord Jesus, that as you have received from us, how you ought to walk, and to please God, so also you would walk, that you may abound the more.",
+              "ESV": "Finally, then, brothers, we ask and urge you in the Lord Jesus, that as you received from us how you ought to walk and to please God, just as you are doing, that you do so more and more."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "For you know what instructions we gave you by the authority of the Lord Jesus.",
+              "KJV": "For ye know what commandments we gave you by the Lord Jesus.",
+              "NKJV": "for you know what commandments we gave you through the Lord Jesus.",
+              "NASB95": "For you know what commandments we gave you by the authority of the Lord Jesus.",
+              "DRB": "For you know what precepts I have given to you by the Lord Jesus.",
+              "ESV": "For you know what instructions we gave you through the Lord Jesus."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "It is God's will that you should be sanctified: that you should avoid sexual immorality;",
+              "KJV": "For this is the will of God, even your sanctification, that ye should abstain from fornication:",
+              "NKJV": "For this is the will of God, your sanctification: that you should abstain from sexual immorality;",
+              "NASB95": "For this is the will of God, your sanctification; that is, that you abstain from sexual immorality;",
+              "DRB": "For this is the will of God, your sanctification; that you should abstain from fornication;",
+              "ESV": "For this is the will of God, your sanctification: that you abstain from sexual immorality;"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "that each of you should learn to control his own body in a way that is holy and honorable,",
+              "KJV": "That every one of you should know how to possess his vessel in sanctification and honour;",
+              "NKJV": "that each of you should know how to possess his own vessel in sanctification and honor,",
+              "NASB95": "that each of you know how to possess his own vessel in sanctification and honor,",
+              "DRB": "That every one of you should know how to possess his vessel in sanctification and honour:",
+              "ESV": "that each one of you know how to control his own body in holiness and honor,"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "not in passionate lust like the heathen, who do not know God;",
+              "KJV": "Not in the lust of concupiscence, even as the Gentiles which know not God:",
+              "NKJV": "not in passion of lust, like the Gentiles who do not know God;",
+              "NASB95": "not in lustful passion, like the Gentiles who do not know God;",
+              "DRB": "Not in the passion of lust, like the Gentiles that know not God:",
+              "ESV": "not in the passion of lust like the Gentiles who do not know God;"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "and that in this matter no one should wrong his brother or take advantage of him. The Lord will punish men for all such sins, as we have already told you and warned you.",
+              "KJV": "That no man go beyond and defraud his brother in any matter: because that the Lord is the avenger of all such, as we also have forewarned you and testified.",
+              "NKJV": "that no one should take advantage of and defraud his brother in this matter, because the Lord is the avenger of all such, as we also forewarned you and testified.",
+              "NASB95": "and that no man transgress and defraud his brother in the matter because the Lord is the avenger in all these things, just as we also told you before and solemnly warned you.",
+              "DRB": "And that no man overreach, nor circumvent his brother in business: because the Lord is the avenger of all these things, as we have told you before, and have testified.",
+              "ESV": "that no one transgress and wrong his brother in this matter, because the Lord is an avenger in all these things, as we told you beforehand and solemnly warned you."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "For God did not call us to be impure, but to live a holy life.",
+              "KJV": "For God hath not called us unto uncleanness, but unto holiness.",
+              "NKJV": "For God did not call us to uncleanness, but in holiness.",
+              "NASB95": "For God has not called us for the purpose of impurity, but in sanctification.",
+              "DRB": "For God hath not called us unto uncleanness, but unto sanctification.",
+              "ESV": "For God has not called us for impurity, but in holiness."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Therefore, he who rejects this instruction does not reject man but God, who gives you his Holy Spirit.",
+              "KJV": "He therefore that despiseth, despiseth not man, but God, who hath also given unto us his holy Spirit.",
+              "NKJV": "Therefore he who rejects this does not reject man, but God, who has also given us His Holy Spirit.",
+              "NASB95": "So, he who rejects this is not rejecting man but the God who gives His Holy Spirit to you.",
+              "DRB": "Therefore, he that despiseth these things, despiseth not man, but God, who also hath given his holy Spirit in us.",
+              "ESV": "Therefore whoever disregards this, disregards not man but God, who gives his Holy Spirit to you."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1th_4_9_12",
+        "title": "A Brotherly and Orderly Life",
+        "description": "",
+        "reference": {
+          "book": "1 Thessalonians",
+          "chapter": 4,
+          "start": 9,
+          "end": 12
+        },
+        "rows": [
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Now about brotherly love we do not need to write to you, for you yourselves have been taught by God to love each other.",
+              "KJV": "But as touching brotherly love ye need not that I write unto you: for ye yourselves are taught of God to love one another.",
+              "NKJV": "But concerning brotherly love you have no need that I should write to you, for you yourselves are taught by God to love one another;",
+              "NASB95": "Now as to the love of the brethren, you have no need for anyone to write to you, for you yourselves are taught by God to love one another;",
+              "DRB": "But as touching the charity of brotherhood, we have no need to write to you: for yourselves have learned of God to love one another.",
+              "ESV": "Now concerning brotherly love you have no need for anyone to write to you, for you yourselves have been taught by God to love one another,"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "And in fact, you do love all the brothers throughout Macedonia. Yet we urge you, brothers, to do so more and more.",
+              "KJV": "And indeed ye do it toward all the brethren which are in all Macedonia: but we beseech you, brethren, that ye increase more and more;",
+              "NKJV": "and indeed you do so toward all the brethren who are in all Macedonia. But we urge you, brethren, that you increase more and more;",
+              "NASB95": "for indeed you do practice it toward all the brethren who are in all Macedonia. But we urge you, brethren, to excel still more,",
+              "DRB": "For indeed you do it towards all the brethren in all Macedonia. But we entreat you, brethren, that you abound more:",
+              "ESV": "for that indeed is what you are doing to all the brothers throughout Macedonia. But we urge you, brothers, to do this more and more,"
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Make it your ambition to lead a quiet life, to mind your own business and to work with your hands, just as we told you,",
+              "KJV": "And that ye study to be quiet, and to do your own business, and to work with your own hands, as we commanded you;",
+              "NKJV": "that you also aspire to lead a quiet life, to mind your own business, and to work with your own hands, as we commanded you,",
+              "NASB95": "and to make it your ambition to lead a quiet life and attend to your own business and work with your hands, just as we commanded you,",
+              "DRB": "And that you use your endeavour to be quiet, and that you do your own business, and work with your own hands, as we commanded you:",
+              "ESV": "and to aspire to live quietly, and to mind your own affairs, and to work with your hands, as we instructed you,"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "so that your daily life may win the respect of outsiders and so that you will not be dependent on anybody.",
+              "KJV": "That ye may walk honestly toward them that are without, and that ye may have lack of nothing.",
+              "NKJV": "that you may walk properly toward those who are outside, and that you may lack nothing.",
+              "NASB95": "so that you will behave properly toward outsiders and not be in any need.",
+              "DRB": "and that you walk honestly towards them that are without; and that you want nothing of any man's.",
+              "ESV": "so that you may walk properly before outsiders and be dependent on no one."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1th_4_13_18",
+        "title": "The Comfort of Christ\u2019s Coming",
+        "description": "",
+        "reference": {
+          "book": "1 Thessalonians",
+          "chapter": 4,
+          "start": 13,
+          "end": 18
+        },
+        "rows": [
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Brothers, we do not want you to be ignorant about those who fall asleep, or to grieve like the rest of men, who have no hope.",
+              "KJV": "But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope.",
+              "NKJV": "But I do not want you to be ignorant, brethren, concerning those who have fallen asleep, lest you sorrow as others who have no hope.",
+              "NASB95": "But we do not want you to be uninformed, brethren, about those who are asleep, so that you will not grieve as do the rest who have no hope.",
+              "DRB": "And we will not have you ignorant, brethren, concerning them that are asleep, that you be not sorrowful, even as others who have no hope.",
+              "ESV": "But we do not want you to be uninformed, brothers, about those who are asleep, that you may not grieve as others do who have no hope."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "We believe that Jesus died and rose again and so we believe that God will bring with Jesus those who have fallen asleep in him.",
+              "KJV": "For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him.",
+              "NKJV": "For if we believe that Jesus died and rose again, even so God will bring with Him those who sleep in Jesus.",
+              "NASB95": "For if we believe that Jesus died and rose again, even so God will bring with Him those who have fallen asleep in Jesus.",
+              "DRB": "For if we believe that Jesus died, and rose again; even so them who have slept through Jesus, will God bring with him.",
+              "ESV": "For since we believe that Jesus died and rose again, even so, through Jesus, God will bring with him those who have fallen asleep."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "According to the Lord's own word, we tell you that we who are still alive, who are left till the coming of the Lord, will certainly not precede those who have fallen asleep.",
+              "KJV": "For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep.",
+              "NKJV": "For this we say to you by the word of the Lord, that we who are alive and remain until the coming of the Lord will by no means precede those who are asleep.",
+              "NASB95": "For this we say to you by the word of the Lord, that we who are alive and remain until the coming of the Lord, will not precede those who have fallen asleep.",
+              "DRB": "For this we say unto you in the word of the Lord, that we who are alive, who remain unto the coming of the Lord, shall not prevent them who have slept.",
+              "ESV": "For this we declare to you by a word from the Lord, that we who are alive, who are left until the coming of the Lord, will not precede those who have fallen asleep."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "For the Lord himself will come down from heaven, with a loud command, with the voice of the archangel and with the trumpet call of God, and the dead in Christ will rise first.",
+              "KJV": "For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:",
+              "NKJV": "For the Lord Himself will descend from heaven with a shout, with the voice of an archangel, and with the trumpet of God. And the dead in Christ will rise first.",
+              "NASB95": "For the Lord Himself will descend from heaven with a shout, with the voice of the archangel and with the trumpet of God, and the dead in Christ will rise first.",
+              "DRB": "For the Lord himself shall come down from heaven with commandment, and with the voice of an archangel, and with the trumpet of God: and the dead who are in Christ, shall rise first.",
+              "ESV": "For the Lord himself will descend from heaven with a cry of command, with the voice of an archangel, and with the sound of the trumpet of God. And the dead in Christ will rise first."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "After that, we who are still alive and are left will be caught up together with them in the clouds to meet the Lord in the air. And so we will be with the Lord forever.",
+              "KJV": "Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord.",
+              "NKJV": "Then we who are alive and remain shall be caught up together with them in the clouds to meet the Lord in the air. And thus we shall always be with the Lord.",
+              "NASB95": "Then we who are alive and remain will be caught up together with them in the clouds to meet the Lord in the air, and so we shall always be with the Lord.",
+              "DRB": "Then we who are alive, who are left, shall be taken up together with them in the clouds to meet Christ, into the air, and so shall we be always with the Lord.",
+              "ESV": "Then we who are alive, who are left, will be caught up together with them in the clouds to meet the Lord in the air, and so we will always be with the Lord."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "Therefore encourage each other with these words.",
+              "KJV": "Wherefore comfort one another with these words.",
+              "NKJV": "Therefore comfort one another with these words.",
+              "NASB95": "Therefore comfort one another with these words.",
+              "DRB": "Wherefore, comfort ye one another with these words.",
+              "ESV": "Therefore encourage one another with these words."
+            }
+          }
+        ]
+      },
+      {
+        "id": "heb_10_1_4",
+        "title": "Animal Sacrifices Insufficient",
+        "description": "",
+        "reference": {
+          "book": "Hebrews",
+          "chapter": 10,
+          "start": 1,
+          "end": 4
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "The law is only a shadow of the good things that are coming--not the realities themselves. For this reason it can never, by the same sacrifices repeated endlessly year after year, make perfect those who draw near to worship.",
+              "KJV": "For the law having a shadow of good things to come, and not the very image of the things, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect.",
+              "NKJV": "For the law, having a shadow of the good things to come, and not the very image of the things, can never with these same sacrifices, which they offer continually year by year, make those who approach perfect.",
+              "NASB95": "For the Law, since it has only a shadow of the good things to come and not the very form of things, can never, by the same sacrifices which they offer continually year by year, make perfect those who draw near.",
+              "DRB": "For the law having a shadow of the good things to come, not the very image of the things; by the selfsame sacrifices which they offer continually every year, can never make the comers thereunto perfect:",
+              "ESV": "For since the law has but a shadow of the good things to come instead of the true form of these realities, it can never, by the same sacrifices that are continually offered every year, make perfect those who draw near."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "If it could, would they not have stopped being offered? For the worshipers would have been cleansed once for all, and would no longer have felt guilty for their sins.",
+              "KJV": "For then would they not have ceased to be offered? because that the worshippers once purged should have had no more conscience of sins.",
+              "NKJV": "For then would they not have ceased to be offered? For the worshipers, once purified, would have had no more consciousness of sins.",
+              "NASB95": "Otherwise, would they not have ceased to be offered, because the worshipers, having once been cleansed, would no longer have had consciousness of sins?",
+              "DRB": "For then they would have ceased to be offered: because the worshippers once cleansed should have no conscience of sin any longer:",
+              "ESV": "Otherwise, would they not have ceased to be offered, since the worshipers, having once been cleansed, would no longer have any consciousness of sins?"
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "But those sacrifices are an annual reminder of sins,",
+              "KJV": "But in those sacrifices there is a remembrance again made of sins every year.",
+              "NKJV": "But in those sacrifices there is a reminder of sins every year.",
+              "NASB95": "But in those sacrifices there is a reminder of sins year by year.",
+              "DRB": "But in them there is made a commemoration of sins every year.",
+              "ESV": "But in these sacrifices there is a reminder of sins every year."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "because it is impossible for the blood of bulls and goats to take away sins.",
+              "KJV": "For it is not possible that the blood of bulls and of goats should take away sins.",
+              "NKJV": "For it is not possible that the blood of bulls and goats could take away sins.",
+              "NASB95": "For it is impossible for the blood of bulls and goats to take away sins.",
+              "DRB": "For it is impossible that with the blood of oxen and goats sin should be taken away.",
+              "ESV": "For it is impossible for the blood of bulls and goats to take away sins."
+            }
+          }
+        ]
+      },
+      {
+        "id": "heb_10_5_10",
+        "title": "Christ\u2019s Death Fulfills God\u2019s Will",
+        "description": "",
+        "reference": {
+          "book": "Hebrews",
+          "chapter": 10,
+          "start": 5,
+          "end": 10
+        },
+        "rows": [
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "Therefore, when Christ came into the world, he said: \"Sacrifice and offering you did not desire, but a body you prepared for me;",
+              "KJV": "Wherefore when he cometh into the world, he saith, Sacrifice and offering thou wouldest not, but a body hast thou prepared me:",
+              "NKJV": "Therefore, when He came into the world, He said:\n\u201cSacrifice and offering You did not desire,\nBut a body You have prepared for Me.",
+              "NASB95": "Therefore, when He comes into the world, He says,\n\u201cSacrifice and offering You have not desired,\nBut a body You have prepared for Me;",
+              "DRB": "Wherefore when he cometh into the world, he saith: Sacrifice and oblation thou wouldest not: but a body thou hast fitted to me:",
+              "ESV": "Consequently, when Christ came into the world, he said,\n\u201cSacrifices and offerings you have not desired,\n    but a body have you prepared for me;"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "with burnt offerings and sin offerings you were not pleased.",
+              "KJV": "In burnt offerings and sacrifices for sin thou hast had no pleasure.",
+              "NKJV": "In burnt offerings and sacrifices for sin\nYou had no pleasure.",
+              "NASB95": "In whole burnt offerings and sacrifices for sin You have taken no pleasure.",
+              "DRB": "Holocausts for sin did not please thee.",
+              "ESV": "in burnt offerings and sin offerings\n    you have taken no pleasure."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Then I said, 'Here I am--it is written about me in the scroll--I have come to do your will, O God.'\"",
+              "KJV": "Then said I, Lo, I come (in the volume of the book it is written of me,) to do thy will, O God.",
+              "NKJV": "Then I said, \u2018Behold, I have come\u2014\nIn the volume of the book it is written of Me\u2014\nTo do Your will, O God.\u2019 \u201d",
+              "NASB95": "\u201cThen I said, \u2018Behold, I have come\n(In the scroll of the book it is written of Me)\nTo do Your will, O God.\u2019\u201d",
+              "DRB": "Then said I: Behold I come: in the head of the book it is written of me: that I should do thy will, O God.",
+              "ESV": "Then I said, \u2018Behold, I have come to do your will, O God,\n    as it is written of me in the scroll of the book.\u2019\u201d"
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "First he said, \"Sacrifices and offerings, burnt offerings and sin offerings you did not desire, nor were you pleased with them\" (although the law required them to be made).",
+              "KJV": "Above when he said, Sacrifice and offering and burnt offerings and offering for sin thou wouldest not, neither hadst pleasure therein; which are offered by the law;",
+              "NKJV": "Previously saying, \u201cSacrifice and offering, burnt offerings, and offerings for sin You did not desire, nor had pleasure in them\u201d (which are offered according to the law),",
+              "NASB95": "After saying above, \u201cSacrifices and offerings and whole burnt offerings and sacrifices for sin You have not desired, nor have You taken pleasure in them\u201d (which are offered according to the Law),",
+              "DRB": "In saying before, Sacrifices, and oblations, and holocausts for sin thou wouldest not, neither are they pleasing to thee, which are offered according to the law.",
+              "ESV": "When he said above, \u201cYou have neither desired nor taken pleasure in sacrifices and offerings and burnt offerings and sin offerings\u201d (these are offered according to the law),"
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Then he said, \"Here I am, I have come to do your will.\" He sets aside the first to establish the second.",
+              "KJV": "Then said he, Lo, I come to do thy will, O God. He taketh away the first, that he may establish the second.",
+              "NKJV": "then He said, \u201cBehold, I have come to do Your will, O God.\u201d He takes away the first that He may establish the second.",
+              "NASB95": "then He said, \u201cBehold, I have come to do Your will.\u201d He takes away the first in order to establish the second.",
+              "DRB": "Then said I: Behold, I come to do thy will, O God: he taketh away the first, that he may establish that which followeth.",
+              "ESV": "then he added, \u201cBehold, I have come to do your will.\u201d He does away with the first in order to establish the second."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "And by that will, we have been made holy through the sacrifice of the body of Jesus Christ once for all.",
+              "KJV": "By the which will we are sanctified through the offering of the body of Jesus Christ once for all.",
+              "NKJV": "By that will we have been sanctified through the offering of the body of Jesus Christ once for all.",
+              "NASB95": "By this will we have been sanctified through the offering of the body of Jesus Christ once for all.",
+              "DRB": "In the which will, we are sanctified by the oblation of the body of Jesus Christ once.",
+              "ESV": "And by that will we have been sanctified through the offering of the body of Jesus Christ once for all."
+            }
+          }
+        ]
+      },
+      {
+        "id": "heb_10_11_18",
+        "title": "Christ\u2019s Death Perfects the Sanctified",
+        "description": "",
+        "reference": {
+          "book": "Hebrews",
+          "chapter": 10,
+          "start": 11,
+          "end": 18
+        },
+        "rows": [
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Day after day every priest stands and performs his religious duties; again and again he offers the same sacrifices, which can never take away sins.",
+              "KJV": "And every priest standeth daily ministering and offering oftentimes the same sacrifices, which can never take away sins:",
+              "NKJV": "And every priest stands ministering daily and offering repeatedly the same sacrifices, which can never take away sins.",
+              "NASB95": "Every priest stands daily ministering and offering time after time the same sacrifices, which can never take away sins;",
+              "DRB": "And every priest indeed standeth daily ministering, and often offering the same sacrifices, which can never take away sins.",
+              "ESV": "And every priest stands daily at his service, offering repeatedly the same sacrifices, which can never take away sins."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "But when this priest had offered for all time one sacrifice for sins, he sat down at the right hand of God.",
+              "KJV": "But this man, after he had offered one sacrifice for sins for ever, sat down on the right hand of God;",
+              "NKJV": "But this Man, after He had offered one sacrifice for sins forever, sat down at the right hand of God,",
+              "NASB95": "but He, having offered one sacrifice for sins for all time, sat down at the right hand of God,",
+              "DRB": "But this man offering one sacrifice for sins, for ever sitteth on the right hand of God,",
+              "ESV": "But when Christ had offered for all time a single sacrifice for sins, he sat down at the right hand of God,"
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Since that time he waits for his enemies to be made his footstool,",
+              "KJV": "From henceforth expecting till his enemies be made his footstool.",
+              "NKJV": "from that time waiting till His enemies are made His footstool.",
+              "NASB95": "waiting from that time onward until His enemies be made a footstool for His feet.",
+              "DRB": "From henceforth expecting, until his enemies be made his footstool.",
+              "ESV": "waiting from that time until his enemies should be made a footstool for his feet."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "because by one sacrifice he has made perfect forever those who are being made holy.",
+              "KJV": "For by one offering he hath perfected for ever them that are sanctified.",
+              "NKJV": "For by one offering He has perfected forever those who are being sanctified.",
+              "NASB95": "For by one offering He has perfected for all time those who are sanctified.",
+              "DRB": "For by one oblation he hath perfected for ever them that are sanctified.",
+              "ESV": "For by a single offering he has perfected for all time those who are being sanctified."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "The Holy Spirit also testifies to us about this. First he says:",
+              "KJV": "Whereof the Holy Ghost also is a witness to us: for after that he had said before,",
+              "NKJV": "But the Holy Spirit also witnesses to us; for after He had said before,",
+              "NASB95": "And the Holy Spirit also testifies to us; for after saying,",
+              "DRB": "And the Holy Ghost also doth testify this to us. For after that he said:",
+              "ESV": "And the Holy Spirit also bears witness to us; for after saying,"
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "\"This is the covenant I will make with them after that time, says the Lord. I will put my laws in their hearts, and I will write them on their minds.\"",
+              "KJV": "This is the covenant that I will make with them after those days, saith the Lord, I will put my laws into their hearts, and in their minds will I write them;",
+              "NKJV": "\u201cThis is the covenant that I will make with them after those days, says the Lord: I will put My laws into their hearts, and in their minds I will write them,\u201d",
+              "NASB95": "\u201cThis is the covenant that I will make with them\nAfter those days, says the Lord:\nI will put My laws upon their heart,\nAnd on their mind I will write them,\u201d\nHe then says,",
+              "DRB": "And this is the testament which I will make unto them after those days, saith the Lord. I will give my laws in their hearts, and on their minds will I write them:",
+              "ESV": "\u201cThis is the covenant that I will make with them\n    after those days, declares the Lord:\nI will put my laws on their hearts,\n    and write them on their minds,\u201d"
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "Then he adds: \"Their sins and lawless acts I will remember no more.\"",
+              "KJV": "And their sins and iniquities will I remember no more.",
+              "NKJV": "then He adds, \u201cTheir sins and their lawless deeds I will remember no more.\u201d",
+              "NASB95": "\u201cAnd their sins and their lawless deeds\nI will remember no more.\u201d",
+              "DRB": "And their sins and iniquities I will remember no more.",
+              "ESV": "then he adds,\n\u201cI will remember their sins and their lawless deeds no more.\u201d"
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "And where these have been forgiven, there is no longer any sacrifice for sin.",
+              "KJV": "Now where remission of these is, there is no more offering for sin.",
+              "NKJV": "Now where there is remission of these, there is no longer an offering for sin.",
+              "NASB95": "Now where there is forgiveness of these things, there is no longer any offering for sin.",
+              "DRB": "Now where there is a remission of these, there is no more an oblation for sin.",
+              "ESV": "Where there is forgiveness of these, there is no longer any offering for sin."
+            }
+          }
+        ]
+      },
+      {
+        "id": "heb_10_19_25",
+        "title": "Hold Fast Your Confession",
+        "description": "",
+        "reference": {
+          "book": "Hebrews",
+          "chapter": 10,
+          "start": 19,
+          "end": 25
+        },
+        "rows": [
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "Therefore, brothers, since we have confidence to enter the Most Holy Place by the blood of Jesus,",
+              "KJV": "Having therefore, brethren, boldness to enter into the holiest by the blood of Jesus,",
+              "NKJV": "Therefore, brethren, having boldness to enter the Holiest by the blood of Jesus,",
+              "NASB95": "Therefore, brethren, since we have confidence to enter the holy place by the blood of Jesus,",
+              "DRB": "Having therefore, brethren, a confidence in the entering into the holies by the blood of Christ;",
+              "ESV": "Therefore, brothers, since we have confidence to enter the holy places by the blood of Jesus,"
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "by a new and living way opened for us through the curtain, that is, his body,",
+              "KJV": "By a new and living way, which he hath consecrated for us, through the veil, that is to say, his flesh;",
+              "NKJV": "by a new and living way which He consecrated for us, through the veil, that is, His flesh,",
+              "NASB95": "by a new and living way which He inaugurated for us through the veil, that is, His flesh,",
+              "DRB": "A new and living way which he hath dedicated for us through the veil, that is to say, his flesh,",
+              "ESV": "by the new and living way that he opened for us through the curtain, that is, through his flesh,"
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "and since we have a great priest over the house of God,",
+              "KJV": "And having an high priest over the house of God;",
+              "NKJV": "and having a High Priest over the house of God,",
+              "NASB95": "and since we have a great priest over the house of God,",
+              "DRB": "And a high priest over the house of God:",
+              "ESV": "and since we have a great priest over the house of God,"
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "let us draw near to God with a sincere heart in full assurance of faith, having our hearts sprinkled to cleanse us from a guilty conscience and having our bodies washed with pure water.",
+              "KJV": "Let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with pure water.",
+              "NKJV": "let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience and our bodies washed with pure water.",
+              "NASB95": "let us draw near with a sincere heart in full assurance of faith, having our hearts sprinkled clean from an evil conscience and our bodies washed with pure water.",
+              "DRB": "Let us draw near with a true heart in fulness of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with clean water.",
+              "ESV": "let us draw near with a true heart in full assurance of faith, with our hearts sprinkled clean from an evil conscience and our bodies washed with pure water."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "Let us hold unswervingly to the hope we profess, for he who promised is faithful.",
+              "KJV": "Let us hold fast the profession of our faith without wavering; (for he is faithful that promised;)",
+              "NKJV": "Let us hold fast the confession of our hope without wavering, for He who promised is faithful.",
+              "NASB95": "Let us hold fast the confession of our hope without wavering, for He who promised is faithful;",
+              "DRB": "Let us hold fast the confession of our hope without wavering (for he is faithful that hath promised),",
+              "ESV": "Let us hold fast the confession of our hope without wavering, for he who promised is faithful."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "And let us consider how we may spur one another on toward love and good deeds.",
+              "KJV": "And let us consider one another to provoke unto love and to good works:",
+              "NKJV": "And let us consider one another in order to stir up love and good works,",
+              "NASB95": "and let us consider how to stimulate one another to love and good deeds,",
+              "DRB": "And let us consider one another, to provoke unto charity and to good works:",
+              "ESV": "And let us consider how to stir up one another to love and good works,"
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "Let us not give up meeting together, as some are in the habit of doing, but let us encourage one another--and all the more as you see the Day approaching.",
+              "KJV": "Not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching.",
+              "NKJV": "not forsaking the assembling of ourselves together, as is the manner of some, but exhorting one another, and so much the more as you see the Day approaching.",
+              "NASB95": "not forsaking our own assembling together, as is the habit of some, but encouraging one another; and all the more as you see the day drawing near.",
+              "DRB": "Not forsaking our assembly, as some are accustomed; but comforting one another, and so much the more as you see the day approaching.",
+              "ESV": "not neglecting to meet together, as is the habit of some, but encouraging one another, and all the more as you see the Day drawing near."
+            }
+          }
+        ]
+      },
+      {
+        "id": "heb_10_26_39",
+        "title": "The Just Live by Faith",
+        "description": "",
+        "reference": {
+          "book": "Hebrews",
+          "chapter": 10,
+          "start": 26,
+          "end": 39
+        },
+        "rows": [
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "If we deliberately keep on sinning after we have received the knowledge of the truth, no sacrifice for sins is left,",
+              "KJV": "For if we sin wilfully after that we have received the knowledge of the truth, there remaineth no more sacrifice for sins,",
+              "NKJV": "For if we sin willfully after we have received the knowledge of the truth, there no longer remains a sacrifice for sins,",
+              "NASB95": "For if we go on sinning willfully after receiving the knowledge of the truth, there no longer remains a sacrifice for sins,",
+              "DRB": "For if we sin wilfully after having the knowledge of the truth, there is now left no sacrifice for sins,",
+              "ESV": "For if we go on sinning deliberately after receiving the knowledge of the truth, there no longer remains a sacrifice for sins,"
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "but only a fearful expectation of judgment and of raging fire that will consume the enemies of God.",
+              "KJV": "But a certain fearful looking for of judgment and fiery indignation, which shall devour the adversaries.",
+              "NKJV": "but a certain fearful expectation of judgment, and fiery indignation which will devour the adversaries.",
+              "NASB95": "but a terrifying expectation of judgment and the fury of a fire which will consume the adversaries.",
+              "DRB": "But a certain dreadful expectation of judgment, and the rage of a fire which shall consume the adversaries.",
+              "ESV": "but a fearful expectation of judgment, and a fury of fire that will consume the adversaries."
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "Anyone who rejected the law of Moses died without mercy on the testimony of two or three witnesses.",
+              "KJV": "He that despised Moses' law died without mercy under two or three witnesses:",
+              "NKJV": "Anyone who has rejected Moses\u2019 law dies without mercy on the testimony of two or three witnesses.",
+              "NASB95": "Anyone who has set aside the Law of Moses dies without mercy on the testimony of two or three witnesses.",
+              "DRB": "A man making void the law of Moses, dieth without any mercy under two or three witnesses:",
+              "ESV": "Anyone who has set aside the law of Moses dies without mercy on the evidence of two or three witnesses."
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "How much more severely do you think a man deserves to be punished who has trampled the Son of God under foot, who has treated as an unholy thing the blood of the covenant that sanctified him, and who has insulted the Spirit of grace?",
+              "KJV": "Of how much sorer punishment, suppose ye, shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and hath done despite unto the Spirit of grace?",
+              "NKJV": "Of how much worse punishment, do you suppose, will he be thought worthy who has trampled the Son of God underfoot, counted the blood of the covenant by which he was sanctified a common thing, and insulted the Spirit of grace?",
+              "NASB95": "How much severer punishment do you think he will deserve who has trampled under foot the Son of God, and has regarded as unclean the blood of the covenant by which he was sanctified, and has insulted the Spirit of grace?",
+              "DRB": "How much more, do you think he deserveth worse punishments, who hath trodden under foot the Son of God, and hath esteemed the blood of the testament unclean, by which he was sanctified, and hath offered an affront to the Spirit of grace?",
+              "ESV": "How much worse punishment, do you think, will be deserved by the one who has trampled underfoot the Son of God, and has profaned the blood of the covenant by which he was sanctified, and has outraged the Spirit of grace?"
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "For we know him who said, \"It is mine to avenge; I will repay,\" and again, \"The Lord will judge his people.\"",
+              "KJV": "For we know him that hath said, Vengeance belongeth unto me, I will recompense, saith the Lord. And again, The Lord shall judge his people.",
+              "NKJV": "For we know Him who said, \u201cVengeance is Mine, I will repay,\u201d says the Lord. And again, \u201cThe Lord will judge His people.\u201d",
+              "NASB95": "For we know Him who said, \u201cVengeance is Mine, I will repay.\u201d And again, \u201cThe Lord will judge His people.\u201d",
+              "DRB": "For we know him that hath said: Vengeance belongeth to me, and I will repay. And again: The Lord shall judge his people.",
+              "ESV": "For we know him who said, \u201cVengeance is mine; I will repay.\u201d And again, \u201cThe Lord will judge his people.\u201d"
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "It is a dreadful thing to fall into the hands of the living God.",
+              "KJV": "It is a fearful thing to fall into the hands of the living God.",
+              "NKJV": "It is a fearful thing to fall into the hands of the living God.",
+              "NASB95": "It is a terrifying thing to fall into the hands of the living God.",
+              "DRB": "It is a fearful thing to fall into the hands of the living God.",
+              "ESV": "It is a fearful thing to fall into the hands of the living God."
+            }
+          },
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "Remember those earlier days after you had received the light, when you stood your ground in a great contest in the face of suffering.",
+              "KJV": "But call to remembrance the former days, in which, after ye were illuminated, ye endured a great fight of afflictions;",
+              "NKJV": "But recall the former days in which, after you were illuminated, you endured a great struggle with sufferings:",
+              "NASB95": "But remember the former days, when, after being enlightened, you endured a great conflict of sufferings,",
+              "DRB": "But call to mind the former days, wherein, being illuminated, you endured a great fight of afflictions.",
+              "ESV": "But recall the former days when, after you were enlightened, you endured a hard struggle with sufferings,"
+            }
+          },
+          {
+            "verse": 33,
+            "texts": {
+              "NIV84": "Sometimes you were publicly exposed to insult and persecution; at other times you stood side by side with those who were so treated.",
+              "KJV": "Partly, whilst ye were made a gazingstock both by reproaches and afflictions; and partly, whilst ye became companions of them that were so used.",
+              "NKJV": "partly while you were made a spectacle both by reproaches and tribulations, and partly while you became companions of those who were so treated;",
+              "NASB95": "partly by being made a public spectacle through reproaches and tribulations, and partly by becoming sharers with those who were so treated.",
+              "DRB": "And on the one hand indeed, by reproaches and tribulations, were made a gazingstock; and on the other, became companions of them that were used in such sort.",
+              "ESV": "sometimes being publicly exposed to reproach and affliction, and sometimes being partners with those so treated."
+            }
+          },
+          {
+            "verse": 34,
+            "texts": {
+              "NIV84": "You sympathized with those in prison and joyfully accepted the confiscation of your property, because you knew that you yourselves had better and lasting possessions.",
+              "KJV": "For ye had compassion of me in my bonds, and took joyfully the spoiling of your goods, knowing in yourselves that ye have in heaven a better and an enduring substance.",
+              "NKJV": "for you had compassion on me in my chains, and joyfully accepted the plundering of your goods, knowing that you have a better and an enduring possession for yourselves in heaven.",
+              "NASB95": "For you showed sympathy to the prisoners and accepted joyfully the seizure of your property, knowing that you have for yourselves a better possession and a lasting one.",
+              "DRB": "For you both had compassion on them that were in bands, and took with joy the being stripped of your own goods, knowing that you have a better and a lasting substance.",
+              "ESV": "For you had compassion on those in prison, and you joyfully accepted the plundering of your property, since you knew that you yourselves had a better possession and an abiding one."
+            }
+          },
+          {
+            "verse": 35,
+            "texts": {
+              "NIV84": "So do not throw away your confidence; it will be richly rewarded.",
+              "KJV": "Cast not away therefore your confidence, which hath great recompence of reward.",
+              "NKJV": "Therefore do not cast away your confidence, which has great reward.",
+              "NASB95": "Therefore, do not throw away your confidence, which has a great reward.",
+              "DRB": "Do not therefore lose your confidence, which hath a great reward.",
+              "ESV": "Therefore do not throw away your confidence, which has a great reward."
+            }
+          },
+          {
+            "verse": 36,
+            "texts": {
+              "NIV84": "You need to persevere so that when you have done the will of God, you will receive what he has promised.",
+              "KJV": "For ye have need of patience, that, after ye have done the will of God, ye might receive the promise.",
+              "NKJV": "For you have need of endurance, so that after you have done the will of God, you may receive the promise:",
+              "NASB95": "For you have need of endurance, so that when you have done the will of God, you may receive what was promised.",
+              "DRB": "For patience is necessary for you; that, doing the will of God, you may receive the promise.",
+              "ESV": "For you have need of endurance, so that when you have done the will of God you may receive what is promised."
+            }
+          },
+          {
+            "verse": 37,
+            "texts": {
+              "NIV84": "For in just a very little while, \"He who is coming will come and will not delay.",
+              "KJV": "For yet a little while, and he that shall come will come, and will not tarry.",
+              "NKJV": "\u201cFor yet a little while,\nAnd He who is coming will come and will not tarry.",
+              "NASB95": "For yet in a very little while,\nHe who is coming will come, and will not delay.",
+              "DRB": "For yet a little and a very little while, and he that is to come, will come, and will not delay.",
+              "ESV": "For,\n\u201cYet a little while,\n    and the coming one will come and will not delay;"
+            }
+          },
+          {
+            "verse": 38,
+            "texts": {
+              "NIV84": "But my righteous one will live by faith. And if he shrinks back, I will not be pleased with him.\"",
+              "KJV": "Now the just shall live by faith: but if any man draw back, my soul shall have no pleasure in him.",
+              "NKJV": "Now the just shall live by faith;\nBut if anyone draws back,\nMy soul has no pleasure in him.\u201d",
+              "NASB95": "But My righteous one shall live by faith;\nAnd if he shrinks back, My soul has no pleasure in him.",
+              "DRB": "But my just man liveth by faith; but if he withdraw himself, he shall not please my soul.",
+              "ESV": "but my righteous one shall live by faith,\n    and if he shrinks back,\nmy soul has no pleasure in him.\u201d"
+            }
+          },
+          {
+            "verse": 39,
+            "texts": {
+              "NIV84": "But we are not of those who shrink back and are destroyed, but of those who believe and are saved.",
+              "KJV": "But we are not of them who draw back unto perdition; but of them that believe to the saving of the soul.",
+              "NKJV": "But we are not of those who draw back to perdition, but of those who believe to the saving of the soul.",
+              "NASB95": "But we are not of those who shrink back to destruction, but of those who have faith to the preserving of the soul.",
+              "DRB": "But we are not the children of withdrawing unto perdition, but of faith to the saving of the soul.",
+              "ESV": "But we are not of those who shrink back and are destroyed, but of those who have faith and preserve their souls."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

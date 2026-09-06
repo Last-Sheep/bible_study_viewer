@@ -1,0 +1,334 @@
+{
+  "scripture": {
+    "header": {
+      "id": "",
+      "title": "",
+      "description": "",
+      "topics": [
+        "Resurrection"
+      ]
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NASB95",
+      "NKJV",
+      "DRB",
+      "ESV"
+    ],
+    "blocks": [
+      {
+        "id": "ezk_37_1_14",
+        "title": "The Dry Bones",
+        "description": "",
+        "reference": {
+          "book": "Ezekiel",
+          "chapter": 37,
+          "start": 1,
+          "end": 14
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "The hand of the LORD was upon me, and he brought me out by the Spirit of the LORD and set me in the middle of a valley; it was full of bones.",
+              "KJV": "The hand of the Lord was upon me, and carried me out in the spirit of the Lord, and set me down in the midst of the valley which was full of bones,",
+              "NASB95": "The hand of the Lord was upon me, and He brought me out by the Spirit of the Lord and set me down in the middle of the valley; and it was full of bones.",
+              "NKJV": "The hand of the Lord came upon me and brought me out in the Spirit of the Lord, and set me down in the midst of the valley; and it was full of bones.",
+              "DRB": "The hand of the Lord was upon me, and brought me forth in the spirit of the Lord: and set me down in the midst of a plain that was full of bones.",
+              "ESV": "The hand of the Lord was upon me, and he brought me out in the Spirit of the Lord and set me down in the middle of the valley; it was full of bones."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "He led me back and forth among them, and I saw a great many bones on the floor of the valley, bones that were very dry.",
+              "KJV": "And caused me to pass by them round about: and, behold, there were very many in the open valley; and, lo, they were very dry.",
+              "NASB95": "He caused me to pass among them round about, and behold, there were very many on the surface of the valley; and lo, they were very dry.",
+              "NKJV": "Then He caused me to pass by them all around, and behold, there were very many in the open valley; and indeed they were very dry.",
+              "DRB": "And he led me about through them on every side: now they were very many upon the face of the plain, and they were exceeding dry.",
+              "ESV": "And he led me around among them, and behold, there were very many on the surface of the valley, and behold, they were very dry."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "He asked me, \"Son of man, can these bones live?\" I said, \"O Sovereign LORD, you alone know.\"",
+              "KJV": "And he said unto me, Son of man, can these bones live? And I answered, O Lord God, thou knowest.",
+              "NASB95": "He said to me, \u201cSon of man, can these bones live?\u201d And I answered, \u201cO Lord God, You know.\u201d",
+              "NKJV": "And He said to me, \u201cSon of man, can these bones live?\u201d\nSo I answered, \u201cO Lord God, You know.\u201d",
+              "DRB": "And he said to me: Son of man, dost thou think these bones shall live? And I answered: O Lord God, thou knowest.",
+              "ESV": "And he said to me, \u201cSon of man, can these bones live?\u201d And I answered, \u201cO Lord God, you know.\u201d"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Then he said to me, \"Prophesy to these bones and say to them, 'Dry bones, hear the word of the LORD!",
+              "KJV": "Again he said unto me, Prophesy upon these bones, and say unto them, O ye dry bones, hear the word of the Lord.",
+              "NASB95": "Again He said to me, \u201cProphesy over these bones and say to them, \u2018O dry bones, hear the word of the Lord.\u2019",
+              "NKJV": "Again He said to me, \u201cProphesy to these bones, and say to them, \u2018O dry bones, hear the word of the Lord!",
+              "DRB": "And he said to me: Prophesy concerning these bones; and say to them: Ye dry bones, hear the word of the Lord.",
+              "ESV": "Then he said to me, \u201cProphesy over these bones, and say to them, O dry bones, hear the word of the Lord."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "This is what the Sovereign LORD says to these bones: I will make breath enter you, and you will come to life.",
+              "KJV": "Thus saith the Lord God unto these bones; Behold, I will cause breath to enter into you, and ye shall live:",
+              "NASB95": "Thus says the Lord God to these bones, \u2018Behold, I will cause breath to enter you that you may come to life.",
+              "NKJV": "Thus says the Lord God to these bones: \u201cSurely I will cause breath to enter into you, and you shall live.",
+              "DRB": "Thus saith the Lord God to these bones: Behold, I will send spirit into you, and you shall live.",
+              "ESV": "Thus says the Lord God to these bones: Behold, I will cause breath to enter you, and you shall live."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "I will attach tendons to you and make flesh come upon you and cover you with skin; I will put breath in you, and you will come to life. Then you will know that I am the LORD.'\"",
+              "KJV": "And I will lay sinews upon you, and will bring up flesh upon you, and cover you with skin, and put breath in you, and ye shall live; and ye shall know that I am the Lord.",
+              "NASB95": "I will put sinews on you, make flesh grow back on you, cover you with skin and put breath in you that you may come alive; and you will know that I am the Lord.\u2019\u201d",
+              "NKJV": "I will put sinews on you and bring flesh upon you, cover you with skin and put breath in you; and you shall live. Then you shall know that I am the Lord.\u201d \u2019 \u201d",
+              "DRB": "And I will lay sinews upon you, and will cause flesh to grow over you, and will cover you with skin: and I will give you spirit and you shall live, and you shall know that I am the Lord.",
+              "ESV": "And I will lay sinews upon you, and will cause flesh to come upon you, and cover you with skin, and put breath in you, and you shall live, and you shall know that I am the Lord.\u201d"
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "So I prophesied as I was commanded. And as I was prophesying, there was a noise, a rattling sound, and the bones came together, bone to bone.",
+              "KJV": "So I prophesied as I was commanded: and as I prophesied, there was a noise, and behold a shaking, and the bones came together, bone to his bone.",
+              "NASB95": "So I prophesied as I was commanded; and as I prophesied, there was a noise, and behold, a rattling; and the bones came together, bone to its bone.",
+              "NKJV": "So I prophesied as I was commanded; and as I prophesied, there was a noise, and suddenly a rattling; and the bones came together, bone to bone.",
+              "DRB": "And I prophesied as he had commanded me: and as I prophesied there was a noise, and behold a commotion: and the bones came together, each one to its joint.",
+              "ESV": "So I prophesied as I was commanded. And as I prophesied, there was a sound, and behold, a rattling, and the bones came together, bone to its bone."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "I looked, and tendons and flesh appeared on them and skin covered them, but there was no breath in them.",
+              "KJV": "And when I beheld, lo, the sinews and the flesh came up upon them, and the skin covered them above: but there was no breath in them.",
+              "NASB95": "And I looked, and behold, sinews were on them, and flesh grew and skin covered them; but there was no breath in them.",
+              "NKJV": "Indeed, as I looked, the sinews and the flesh came upon them, and the skin covered them over; but there was no breath in them.",
+              "DRB": "And I saw, and behold the sinews, and the flesh came up upon them: and the skin was stretched out over them, but there was no spirit in them.",
+              "ESV": "And I looked, and behold, there were sinews on them, and flesh had come upon them, and skin had covered them. But there was no breath in them."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Then he said to me, \"Prophesy to the breath; prophesy, son of man, and say to it, 'This is what the Sovereign LORD says: Come from the four winds, O breath, and breathe into these slain, that they may live.'\"",
+              "KJV": "Then said he unto me, Prophesy unto the wind, prophesy, son of man, and say to the wind, Thus saith the Lord God; Come from the four winds, O breath, and breathe upon these slain, that they may live.",
+              "NASB95": "Then He said to me, \u201cProphesy to the breath, prophesy, son of man, and say to the breath, \u2018Thus says the Lord God, \u201cCome from the four winds, O breath, and breathe on these slain, that they come to life.\u201d\u2019\u201d",
+              "NKJV": "Also He said to me, \u201cProphesy to the breath, prophesy, son of man, and say to the breath, \u2018Thus says the Lord God: \u201cCome from the four winds, O breath, and breathe on these slain, that they may live.\u201d \u2019 \u201d",
+              "DRB": "And he said to me: Prophesy to the spirit, prophesy, O son of man, and say to the spirit: Thus saith the Lord God: Come, spirit, from the four winds, and blow upon these slain, and let them live again.",
+              "ESV": "Then he said to me, \u201cProphesy to the breath; prophesy, son of man, and say to the breath, Thus says the Lord God: Come from the four winds, O breath, and breathe on these slain, that they may live.\u201d"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "So I prophesied as he commanded me, and breath entered them; they came to life and stood up on their feet-a vast army.",
+              "KJV": "So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army.",
+              "NASB95": "So I prophesied as He commanded me, and the breath came into them, and they came to life and stood on their feet, an exceedingly great army.",
+              "NKJV": "So I prophesied as He commanded me, and breath came into them, and they lived, and stood upon their feet, an exceedingly great army.",
+              "DRB": "And I prophesied as he had commanded me: and the spirit came into them, and they lived: and they stood up upon their feet, an exceeding great army.",
+              "ESV": "So I prophesied as he commanded me, and the breath came into them, and they lived and stood on their feet, an exceedingly great army."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Then he said to me: \"Son of man, these bones are the whole house of Israel. They say, 'Our bones are dried up and our hope is gone; we are cut off.'",
+              "KJV": "Then he said unto me, Son of man, these bones are the whole house of Israel: behold, they say, Our bones are dried, and our hope is lost: we are cut off for our parts.",
+              "NASB95": "Then He said to me, \u201cSon of man, these bones are the whole house of Israel; behold, they say, \u2018Our bones are dried up and our hope has perished. We are completely cut off.\u2019",
+              "NKJV": "Then He said to me, \u201cSon of man, these bones are the whole house of Israel. They indeed say, \u2018Our bones are dry, our hope is lost, and we ourselves are cut off!\u2019",
+              "DRB": "And he said to me: Son of man: All these bones are the house of Israel : they say: Our bones are dried up, and our hope is lost, and we are cut off.",
+              "ESV": "Then he said to me, \u201cSon of man, these bones are the whole house of Israel. Behold, they say, \u2018Our bones are dried up, and our hope is lost; we are indeed cut off.\u2019"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Therefore prophesy and say to them: 'This is what the Sovereign LORD says: O my people, I am going to open your graves and bring you up from them; I will bring you back to the land of Israel.",
+              "KJV": "Therefore prophesy and say unto them, Thus saith the Lord God; Behold, O my people, I will open your graves, and cause you to come up out of your graves, and bring you into the land of Israel.",
+              "NASB95": "Therefore prophesy and say to them, \u2018Thus says the Lord God, \u201cBehold, I will open your graves and cause you to come up out of your graves, My people; and I will bring you into the land of Israel.",
+              "NKJV": "Therefore prophesy and say to them, \u2018Thus says the Lord God: \u201cBehold, O My people, I will open your graves and cause you to come up from your graves, and bring you into the land of Israel.",
+              "DRB": "Therefore prophesy, and say to them: Thus saith the Lord God: Behold I will open your graves, and will bring you out of your sepulchres, O my people: and will bring you into the land of Israel.",
+              "ESV": "Therefore prophesy, and say to them, Thus says the Lord God: Behold, I will open your graves and raise you from your graves, O my people. And I will bring you into the land of Israel."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Then you, my people, will know that I am the LORD, when I open your graves and bring you up from them.",
+              "KJV": "And ye shall know that I am the Lord, when I have opened your graves, O my people, and brought you up out of your graves,",
+              "NASB95": "Then you will know that I am the Lord, when I have opened your graves and caused you to come up out of your graves, My people.",
+              "NKJV": "Then you shall know that I am the Lord, when I have opened your graves, O My people, and brought you up from your graves.",
+              "DRB": "And you shall know that I am the Lord, when I shall have opened your sepulchres, and shall have brought you out of your graves, O my people:",
+              "ESV": "And you shall know that I am the Lord, when I open your graves, and raise you from your graves, O my people."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "I will put my Spirit in you and you will live, and I will settle you in your own land. Then you will know that I the LORD have spoken, and I have done it, declares the LORD.'\"",
+              "KJV": "And shall put my spirit in you, and ye shall live, and I shall place you in your own land: then shall ye know that I the Lord have spoken it, and performed it, saith the Lord.",
+              "NASB95": "I will put My Spirit within you and you will come to life, and I will place you on your own land. Then you will know that I, the Lord, have spoken and done it,\u201d declares the Lord.\u2019\u201d",
+              "NKJV": "I will put My Spirit in you, and you shall live, and I will place you in your own land. Then you shall know that I, the Lord, have spoken it and performed it,\u201d says the Lord.\u2019 \u201d",
+              "DRB": "And shall have put my spirit in you, and you shall live, and I shall make you rest upon your own land: and you shall know that I the Lord have spoken, and done it, saith the Lord God:",
+              "ESV": "And I will put my Spirit within you, and you shall live, and I will place you in your own land. Then you shall know that I am the Lord; I have spoken, and I will do it, declares the Lord.\u201d"
+            }
+          }
+        ]
+      },
+      {
+        "id": "mat_27_45_56",
+        "title": "Jesus Dies on the Cross",
+        "description": "",
+        "reference": {
+          "book": "Matthew",
+          "chapter": 27,
+          "start": 45,
+          "end": 56
+        },
+        "rows": [
+          {
+            "verse": 45,
+            "texts": {
+              "NIV84": "From the sixth hour until the ninth hour darkness came over all the land.",
+              "KJV": "Now from the sixth hour there was darkness over all the land unto the ninth hour.",
+              "NASB95": "Now from the sixth hour darkness fell upon all the land until the ninth hour.",
+              "NKJV": "Now from the sixth hour until the ninth hour there was darkness over all the land.",
+              "DRB": "Now from the sixth hour there was darkness over the whole earth, until the ninth hour.",
+              "ESV": "Now from the sixth hour there was darkness over all the land until the ninth hour."
+            }
+          },
+          {
+            "verse": 46,
+            "texts": {
+              "NIV84": "About the ninth hour Jesus cried out in a loud voice, \"Eloi, Eloi, lama sabachthani?\"--which means, \"My God, my God, why have you forsaken me?\"",
+              "KJV": "And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani? that is to say, My God, my God, why hast thou forsaken me?",
+              "NASB95": "About the ninth hour Jesus cried out with a loud voice, saying, \u201cEli, Eli, lama sabachthani?\u201d that is, \u201cMy God, My God, why have You forsaken Me?\u201d",
+              "NKJV": "And about the ninth hour Jesus cried out with a loud voice, saying, \u201cEli, Eli, lama sabachthani?\u201d that is, \u201cMy God, My God, why have You forsaken Me?\u201d",
+              "DRB": "And about the ninth hour Jesus cried with a loud voice, saying: Eli, Eli, lamma sabacthani? that is, My God, my God, why hast thou forsaken me?",
+              "ESV": "And about the ninth hour Jesus cried out with a loud voice, saying, \u201cEli, Eli, lema sabachthani?\u201d that is, \u201cMy God, my God, why have you forsaken me?\u201d"
+            }
+          },
+          {
+            "verse": 47,
+            "texts": {
+              "NIV84": "When some of those standing there heard this, they said, \"He's calling Elijah.\"",
+              "KJV": "Some of them that stood there, when they heard that, said, This man calleth for Elias.",
+              "NASB95": "And some of those who were standing there, when they heard it, began saying, \u201cThis man is calling for Elijah.\u201d",
+              "NKJV": "Some of those who stood there, when they heard that, said, \u201cThis Man is calling for Elijah!\u201d",
+              "DRB": "And some that stood there and heard, said: This man calleth Elias.",
+              "ESV": "And some of the bystanders, hearing it, said, \u201cThis man is calling Elijah.\u201d"
+            }
+          },
+          {
+            "verse": 48,
+            "texts": {
+              "NIV84": "Immediately one of them ran and got a sponge. He filled it with wine vinegar, put it on a stick, and offered it to Jesus to drink.",
+              "KJV": "And straightway one of them ran, and took a spunge, and filled it with vinegar, and put it on a reed, and gave him to drink.",
+              "NASB95": "Immediately one of them ran, and taking a sponge, he filled it with sour wine and put it on a reed, and gave Him a drink.",
+              "NKJV": "Immediately one of them ran and took a sponge, filled it with sour wine and put it on a reed, and offered it to Him to drink.",
+              "DRB": "And immediately one of them running took a sponge, and filled it with vinegar; and put it on a reed, and gave him to drink.",
+              "ESV": "And one of them at once ran and took a sponge, filled it with sour wine, and put it on a reed and gave it to him to drink."
+            }
+          },
+          {
+            "verse": 49,
+            "texts": {
+              "NIV84": "The rest said, \"Now leave him alone. Let's see if Elijah comes to save him.\"",
+              "KJV": "The rest said, Let be, let us see whether Elias will come to save him.",
+              "NASB95": "But the rest of them said, \u201cLet us see whether Elijah will come to save Him.\u201d",
+              "NKJV": "The rest said, \u201cLet Him alone; let us see if Elijah will come to save Him.\u201d",
+              "DRB": "And the others said: Let be, let us see whether Elias will come to deliver him.",
+              "ESV": "But the others said, \u201cWait, let us see whether Elijah will come to save him.\u201d"
+            }
+          },
+          {
+            "verse": 50,
+            "texts": {
+              "NIV84": "And when Jesus had cried out again in a loud voice, he gave up his spirit.",
+              "KJV": "Jesus, when he had cried again with a loud voice, yielded up the ghost.",
+              "NASB95": "And Jesus cried out again with a loud voice, and yielded up His spirit.",
+              "NKJV": "And Jesus cried out again with a loud voice, and yielded up His spirit.",
+              "DRB": "And Jesus again crying with a loud voice, yielded up the ghost.",
+              "ESV": "And Jesus cried out again with a loud voice and yielded up his spirit."
+            }
+          },
+          {
+            "verse": 51,
+            "texts": {
+              "NIV84": "At that moment the curtain of the temple was torn in two from top to bottom. The earth shook and the rocks split.",
+              "KJV": "And, behold, the veil of the temple was rent in twain from the top to the bottom; and the earth did quake, and the rocks rent;",
+              "NASB95": "And behold, the veil of the temple was torn in two from top to bottom; and the earth shook and the rocks were split.",
+              "NKJV": "Then, behold, the veil of the temple was torn in two from top to bottom; and the earth quaked, and the rocks were split,",
+              "DRB": "And behold the veil of the temple was rent in two from the top even to the bottom, and the earth quaked, and the rocks were rent.",
+              "ESV": "And behold, the curtain of the temple was torn in two, from top to bottom. And the earth shook, and the rocks were split."
+            }
+          },
+          {
+            "verse": 52,
+            "texts": {
+              "NIV84": "The tombs broke open and the bodies of many holy people who had died were raised to life.",
+              "KJV": "And the graves were opened; and many bodies of the saints which slept arose,",
+              "NASB95": "The tombs were opened, and many bodies of the saints who had fallen asleep were raised;",
+              "NKJV": "and the graves were opened; and many bodies of the saints who had fallen asleep were raised;",
+              "DRB": "And the graves were opened: and many bodies of the saints that had slept arose,",
+              "ESV": "The tombs also were opened. And many bodies of the saints who had fallen asleep were raised,"
+            }
+          },
+          {
+            "verse": 53,
+            "texts": {
+              "NIV84": "They came out of the tombs, and after Jesus' resurrection they went into the holy city and appeared to many people.",
+              "KJV": "And came out of the graves after his resurrection, and went into the holy city, and appeared unto many.",
+              "NASB95": "and coming out of the tombs after His resurrection they entered the holy city and appeared to many.",
+              "NKJV": "and coming out of the graves after His resurrection, they went into the holy city and appeared to many.",
+              "DRB": "And coming out of the tombs after his resurrection, came into the holy city, and appeared to many.",
+              "ESV": "and coming out of the tombs after his resurrection they went into the holy city and appeared to many."
+            }
+          },
+          {
+            "verse": 54,
+            "texts": {
+              "NIV84": "When the centurion and those with him who were guarding Jesus saw the earthquake and all that had happened, they were terrified, and exclaimed, \"Surely he was the Son of God!\"",
+              "KJV": "Now when the centurion, and they that were with him, watching Jesus, saw the earthquake, and those things that were done, they feared greatly, saying, Truly this was the Son of God.",
+              "NASB95": "Now the centurion, and those who were with him keeping guard over Jesus, when they saw the earthquake and the things that were happening, became very frightened and said, \u201cTruly this was the Son of God!\u201d",
+              "NKJV": "So when the centurion and those with him, who were guarding Jesus, saw the earthquake and the things that had happened, they feared greatly, saying, \u201cTruly this was the Son of God!\u201d",
+              "DRB": "Now the centurion and they that were with him watching Jesus, having seen the earthquake, and the things that were done, were sore afraid, saying: Indeed this was the Son of God.",
+              "ESV": "When the centurion and those who were with him, keeping watch over Jesus, saw the earthquake and what took place, they were filled with awe and said, \u201cTruly this was the Son of God!\u201d"
+            }
+          },
+          {
+            "verse": 55,
+            "texts": {
+              "NIV84": "Many women were there, watching from a distance. They had followed Jesus from Galilee to care for his needs.",
+              "KJV": "And many women were there beholding afar off, which followed Jesus from Galilee, ministering unto him:",
+              "NASB95": "Many women were there looking on from a distance, who had followed Jesus from Galilee while ministering to Him.",
+              "NKJV": "And many women who followed Jesus from Galilee, ministering to Him, were there looking on from afar,",
+              "DRB": "And there were there many women afar off, who had followed Jesus from Galilee, ministering unto him:",
+              "ESV": "There were also many women there, looking on from a distance, who had followed Jesus from Galilee, ministering to him,"
+            }
+          },
+          {
+            "verse": 56,
+            "texts": {
+              "NIV84": "Among them were Mary Magdalene, Mary the mother of James and Joses, and the mother of Zebedee's sons.",
+              "KJV": "Among which was Mary Magdalene, and Mary the mother of James and Joses, and the mother of Zebedees children.",
+              "NASB95": "Among them was Mary Magdalene, and Mary the mother of James and Joseph, and the mother of the sons of Zebedee.",
+              "NKJV": "among whom were Mary Magdalene, Mary the mother of James and Joses, and the mother of Zebedee\u2019s sons.",
+              "DRB": "Among whom was Mary Magdalen, and Mary the mother of James and Joseph, and the mother of the sons of Zebedee.",
+              "ESV": "among whom were Mary Magdalene and Mary the mother of James and Joseph and the mother of the sons of Zebedee."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

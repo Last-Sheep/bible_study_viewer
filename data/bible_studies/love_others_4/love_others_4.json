@@ -1,0 +1,641 @@
+{
+  "scripture": {
+    "header": {
+      "id": "",
+      "title": "",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "NASB95",
+      "DRB",
+      "ESV"
+    ],
+    "blocks": [
+      {
+        "id": "1pe_1_1_2",
+        "title": "Greeting to the Elect Pilgrims",
+        "description": "",
+        "reference": {
+          "book": "1 Peter",
+          "chapter": 1,
+          "start": 1,
+          "end": 2
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Peter, an apostle of Jesus Christ, To God's elect, strangers in the world, scattered throughout Pontus, Galatia, Cappadocia, Asia and Bithynia,",
+              "KJV": "Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,",
+              "NKJV": "Peter, an apostle of Jesus Christ,\nTo the pilgrims of the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia,",
+              "NASB95": "Peter, an apostle of Jesus Christ,\nTo those who reside as aliens, scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, who are chosen",
+              "DRB": "Peter, an apostle of Jesus Christ, to the strangers dispersed through Pontus, Galatia, Cappadocia, Asia, and Bithynia, elect,",
+              "ESV": "Peter, an apostle of Jesus Christ,\nTo those who are elect exiles of the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia,"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "who have been chosen according to the foreknowledge of God the Father, through the sanctifying work of the Spirit, for obedience to Jesus Christ and sprinkling by his blood: Grace and peace be yours in abundance.",
+              "KJV": "Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied.",
+              "NKJV": "elect according to the foreknowledge of God the Father, in sanctification of the Spirit, for obedience and sprinkling of the blood of Jesus Christ:\nGrace to you and peace be multiplied.",
+              "NASB95": "according to the foreknowledge of God the Father, by the sanctifying work of the Spirit, to obey Jesus Christ and be sprinkled with His blood: May grace and peace be yours in the fullest measure.",
+              "DRB": "According to the foreknowledge of God the Father, unto the sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you and peace be multiplied.",
+              "ESV": "according to the foreknowledge of God the Father, in the sanctification of the Spirit, for obedience to Jesus Christ and for sprinkling with his blood:\nMay grace and peace be multiplied to you."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1pe_1_3_12",
+        "title": "A Heavenly Inheritance",
+        "description": "",
+        "reference": {
+          "book": "1 Peter",
+          "chapter": 1,
+          "start": 3,
+          "end": 12
+        },
+        "rows": [
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "Praise be to the God and Father of our Lord Jesus Christ! In his great mercy he has given us new birth into a living hope through the resurrection of Jesus Christ from the dead,",
+              "KJV": "Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,",
+              "NKJV": "Blessed be the God and Father of our Lord Jesus Christ, who according to His abundant mercy has begotten us again to a living hope through the resurrection of Jesus Christ from the dead,",
+              "NASB95": "Blessed be the God and Father of our Lord Jesus Christ, who according to His great mercy has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead,",
+              "DRB": "Blessed be the God and Father of our Lord Jesus Christ, who according to his great mercy hath regenerated us unto a lively hope, by the resurrection of Jesus Christ from the dead,",
+              "ESV": "Blessed be the God and Father of our Lord Jesus Christ! According to his great mercy, he has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead,"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "and into an inheritance that can never perish, spoil or fade--kept in heaven for you,",
+              "KJV": "To an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you,",
+              "NKJV": "to an inheritance incorruptible and undefiled and that does not fade away, reserved in heaven for you,",
+              "NASB95": "to obtain an inheritance which is imperishable and undefiled and will not fade away, reserved in heaven for you,",
+              "DRB": "Unto an inheritance incorruptible, and undefiled, and that can not fade, reserved in heaven for you,",
+              "ESV": "to an inheritance that is imperishable, undefiled, and unfading, kept in heaven for you,"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "who through faith are shielded by God's power until the coming of the salvation that is ready to be revealed in the last time.",
+              "KJV": "Who are kept by the power of God through faith unto salvation ready to be revealed in the last time.",
+              "NKJV": "who are kept by the power of God through faith for salvation ready to be revealed in the last time.",
+              "NASB95": "who are protected by the power of God through faith for a salvation ready to be revealed in the last time.",
+              "DRB": "Who, by the power of God, are kept by faith unto salvation, ready to be revealed in the last time.",
+              "ESV": "who by God's power are being guarded through faith for a salvation ready to be revealed in the last time."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "In this you greatly rejoice, though now for a little while you may have had to suffer grief in all kinds of trials.",
+              "KJV": "Wherein ye greatly rejoice, though now for a season, if need be, ye are in heaviness through manifold temptations:",
+              "NKJV": "In this you greatly rejoice, though now for a little while, if need be, you have been grieved by various trials,",
+              "NASB95": "In this you greatly rejoice, even though now for a little while, if necessary, you have been distressed by various trials,",
+              "DRB": "Wherein you shall greatly rejoice, if now you must be for a little time made sorrowful in divers temptations:",
+              "ESV": "In this you rejoice, though now for a little while, if necessary, you have been grieved by various trials,"
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "These have come so that your faith--of greater worth than gold, which perishes even though refined by fire--may be proved genuine and may result in praise, glory and honor when Jesus Christ is revealed.",
+              "KJV": "That the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honour and glory at the appearing of Jesus Christ:",
+              "NKJV": "that the genuineness of your faith, being much more precious than gold that perishes, though it is tested by fire, may be found to praise, honor, and glory at the revelation of Jesus Christ,",
+              "NASB95": "so that the proof of your faith, being more precious than gold which is perishable, even though tested by fire, may be found to result in praise and glory and honor at the revelation of Jesus Christ;",
+              "DRB": "That the trial of your faith (much more precious than gold which is tried by the fire) may be found unto praise and glory and honour at the appearing of Jesus Christ:",
+              "ESV": "so that the tested genuineness of your faith\u2014more precious than gold that perishes though it is tested by fire\u2014may be found to result in praise and glory and honor at the revelation of Jesus Christ."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Though you have not seen him, you love him; and even though you do not see him now, you believe in him and are filled with an inexpressible and glorious joy,",
+              "KJV": "Whom having not seen, ye love; in whom, though now ye see him not, yet believing, ye rejoice with joy unspeakable and full of glory:",
+              "NKJV": "whom having not seen you love. Though now you do not see Him, yet believing, you rejoice with joy inexpressible and full of glory,",
+              "NASB95": "and though you have not seen Him, you love Him, and though you do not see Him now, but believe in Him, you greatly rejoice with joy inexpressible and full of glory,",
+              "DRB": "Whom having not seen, you love: in whom also now, though you see him not, you believe: and believing shall rejoice with joy unspeakable and glorified;",
+              "ESV": "Though you have not seen him, you love him. Though you do not now see him, you believe in him and rejoice with joy that is inexpressible and filled with glory,"
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "for you are receiving the goal of your faith, the salvation of your souls.",
+              "KJV": "Receiving the end of your faith, even the salvation of your souls.",
+              "NKJV": "receiving the end of your faith\u2014the salvation of your souls.",
+              "NASB95": "obtaining as the outcome of your faith the salvation of your souls.",
+              "DRB": "Receiving the end of your faith, even the salvation of your souls.",
+              "ESV": "obtaining the outcome of your faith, the salvation of your souls."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Concerning this salvation, the prophets, who spoke of the grace that was to come to you, searched intently and with the greatest care,",
+              "KJV": "Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you:",
+              "NKJV": "Of this salvation the prophets have inquired and searched carefully, who prophesied of the grace that would come to you,",
+              "NASB95": "As to this salvation, the prophets who prophesied of the grace that would come to you made careful searches and inquiries,",
+              "DRB": "Of which salvation the prophets have inquired and diligently searched, who prophesied of the grace to come in you.",
+              "ESV": "Concerning this salvation, the prophets who prophesied about the grace that was to be yours searched and inquired carefully,"
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "trying to find out the time and circumstances to which the Spirit of Christ in them was pointing when he predicted the sufferings of Christ and the glories that would follow.",
+              "KJV": "Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow.",
+              "NKJV": "searching what, or what manner of time, the Spirit of Christ who was in them was indicating when He testified beforehand the sufferings of Christ and the glories that would follow.",
+              "NASB95": "seeking to know what person or time the Spirit of Christ within them was indicating as He predicted the sufferings of Christ and the glories to follow.",
+              "DRB": "Searching what or what manner of time the Spirit of Christ in them did signify: when it foretold those sufferings that are in Christ, and the glories that should follow:",
+              "ESV": "inquiring what person or time the Spirit of Christ in them was indicating when he predicted the sufferings of Christ and the subsequent glories."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "It was revealed to them that they were not serving themselves but you, when they spoke of the things that have now been told you by those who have preached the gospel to you by the Holy Spirit sent from heaven. Even angels long to look into these things.",
+              "KJV": "Unto whom it was revealed, that not unto themselves, but unto us they did minister the things, which are now reported unto you by them that have preached the gospel unto you with the Holy Ghost sent down from heaven; which things the angels desire to look into.",
+              "NKJV": "To them it was revealed that, not to themselves, but to us they were ministering the things which now have been reported to you through those who have preached the gospel to you by the Holy Spirit sent from heaven\u2014things which angels desire to look into.",
+              "NASB95": "It was revealed to them that they were not serving themselves, but you, in these things which now have been announced to you through those who preached the gospel to you by the Holy Spirit sent from heaven\u2014things into which angels long to look.",
+              "DRB": "To whom it was revealed, that not to themselves, but to you they ministered those things which are now declared to you by them that have preached the gospel to you, the Holy Ghost being sent down from heaven, on whom the angels desire to look.",
+              "ESV": "It was revealed to them that they were serving not themselves but you, in the things that have now been announced to you through those who preached the good news to you by the Holy Spirit sent from heaven, things into which angels long to look."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1pe_1_13_21",
+        "title": "Living Before God Our Father",
+        "description": "",
+        "reference": {
+          "book": "1 Peter",
+          "chapter": 1,
+          "start": 13,
+          "end": 21
+        },
+        "rows": [
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Therefore, prepare your minds for action; be self-controlled; set your hope fully on the grace to be given you when Jesus Christ is revealed.",
+              "KJV": "Wherefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ;",
+              "NKJV": "Therefore gird up the loins of your mind, be sober, and rest your hope fully upon the grace that is to be brought to you at the revelation of Jesus Christ;",
+              "NASB95": "Therefore, prepare your minds for action, keep sober in spirit, fix your hope completely on the grace to be brought to you at the revelation of Jesus Christ.",
+              "DRB": "Wherefore having the loins of your mind girt up, being sober, trust perfectly in the grace which is offered you in the revelation of Jesus Christ,",
+              "ESV": "Therefore, preparing your minds for action, and being sober-minded, set your hope fully on the grace that will be brought to you at the revelation of Jesus Christ."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "As obedient children, do not conform to the evil desires you had when you lived in ignorance.",
+              "KJV": "As obedient children, not fashioning yourselves according to the former lusts in your ignorance:",
+              "NKJV": "as obedient children, not conforming yourselves to the former lusts, as in your ignorance;",
+              "NASB95": "As obedient children, do not be conformed to the former lusts which were yours in your ignorance,",
+              "DRB": "As children of obedience, not fashioned according to the former desires of your ignorance:",
+              "ESV": "As obedient children, do not be conformed to the passions of your former ignorance,"
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "But just as he who called you is holy, so be holy in all you do;",
+              "KJV": "But as he which hath called you is holy, so be ye holy in all manner of conversation;",
+              "NKJV": "but as He who called you is holy, you also be holy in all your conduct,",
+              "NASB95": "but like the Holy One who called you, be holy yourselves also in all your behavior;",
+              "DRB": "But according to him that hath called you, who is holy, be you also in all manner of conversation holy:",
+              "ESV": "but as he who called you is holy, you also be holy in all your conduct,"
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "for it is written: \"Be holy, because I am holy.\"",
+              "KJV": "Because it is written, Be ye holy; for I am holy.",
+              "NKJV": "because it is written, \u201cBe holy, for I am holy.\u201d",
+              "NASB95": "because it is written, \u201cYou shall be holy, for I am holy.\u201d",
+              "DRB": "Because it is written: You shall be holy, for I am holy.",
+              "ESV": "since it is written, \u201cYou shall be holy, for I am holy.\u201d"
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "Since you call on a Father who judges each man's work impartially, live your lives as strangers here in reverent fear.",
+              "KJV": "And if ye call on the Father, who without respect of persons judgeth according to every man's work, pass the time of your sojourning here in fear:",
+              "NKJV": "And if you call on the Father, who without partiality judges according to each one\u2019s work, conduct yourselves throughout the time of your stay here in fear;",
+              "NASB95": "If you address as Father the One who impartially judges according to each one\u2019s work, conduct yourselves in fear during the time of your stay on earth;",
+              "DRB": "And if you invoke as Father him who, without respect of persons, judgeth according to every one's work: converse in fear during the time of your sojourning here.",
+              "ESV": "And if you call on him as Father who judges impartially according to each one's deeds, conduct yourselves with fear throughout the time of your exile,"
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "For you know that it was not with perishable things such as silver or gold that you were redeemed from the empty way of life handed down to you from your forefathers,",
+              "KJV": "Forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers;",
+              "NKJV": "knowing that you were not redeemed with corruptible things, like silver or gold, from your aimless conduct received by tradition from your fathers,",
+              "NASB95": "knowing that you were not redeemed with perishable things like silver or gold from your futile way of life inherited from your forefathers,",
+              "DRB": "Knowing that you were not redeemed with corruptible things as gold or silver, from your vain conversation of the tradition of your fathers:",
+              "ESV": "knowing that you were ransomed from the futile ways inherited from your forefathers, not with perishable things such as silver or gold,"
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "but with the precious blood of Christ, a lamb without blemish or defect.",
+              "KJV": "But with the precious blood of Christ, as of a lamb without blemish and without spot:",
+              "NKJV": "but with the precious blood of Christ, as of a lamb without blemish and without spot.",
+              "NASB95": "but with precious blood, as of a lamb unblemished and spotless, the blood of Christ.",
+              "DRB": "But with the precious blood of Christ, as of a lamb unspotted and undefiled,",
+              "ESV": "but with the precious blood of Christ, like that of a lamb without blemish or spot."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "He was chosen before the creation of the world, but was revealed in these last times for your sake.",
+              "KJV": "Who verily was foreordained before the foundation of the world, but was manifest in these last times for you,",
+              "NKJV": "He indeed was foreordained before the foundation of the world, but was manifest in these last times for you",
+              "NASB95": "For He was foreknown before the foundation of the world, but has appeared in these last times for the sake of you",
+              "DRB": "Foreknown indeed before the foundation of the world, but manifested in the last times for you,",
+              "ESV": "He was foreknown before the foundation of the world but was made manifest in the last times for the sake of you"
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "Through him you believe in God, who raised him from the dead and glorified him, and so your faith and hope are in God.",
+              "KJV": "Who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God.",
+              "NKJV": "who through Him believe in God, who raised Him from the dead and gave Him glory, so that your faith and hope are in God.",
+              "NASB95": "who through Him are believers in God, who raised Him from the dead and gave Him glory, so that your faith and hope are in God.",
+              "DRB": "Who through him are faithful in God, who raised him up from the dead, and hath given him glory, that your faith and hope might be in God.",
+              "ESV": "who through him are believers in God, who raised him from the dead and gave him glory, so that your faith and hope are in God."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1pe_1_22_25",
+        "title": "The Enduring Word",
+        "description": "",
+        "reference": {
+          "book": "1 Peter",
+          "chapter": 1,
+          "start": 22,
+          "end": 25
+        },
+        "rows": [
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "Now that you have purified yourselves by obeying the truth so that you have sincere love for your brothers, love one another deeply, from the heart.",
+              "KJV": "Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, see that ye love one another with a pure heart fervently:",
+              "NKJV": "Since you have purified your souls in obeying the truth through the Spirit in sincere love of the brethren, love one another fervently with a pure heart,",
+              "NASB95": "Since you have in obedience to the truth purified your souls for a sincere love of the brethren, fervently love one another from the heart,",
+              "DRB": "Purifying your souls in the obedience of charity, with a brotherly love, from a sincere heart love one another earnestly:",
+              "ESV": "Having purified your souls by your obedience to the truth for a sincere brotherly love, love one another earnestly from a pure heart,"
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "For you have been born again, not of perishable seed, but of imperishable, through the living and enduring word of God.",
+              "KJV": "Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever.",
+              "NKJV": "having been born again, not of corruptible seed but incorruptible, through the word of God which lives and abides forever,",
+              "NASB95": "for you have been born again not of seed which is perishable but imperishable, that is, through the living and enduring word of God.",
+              "DRB": "Being born again not of corruptible seed, but incorruptible, by the word of God who liveth and remaineth for ever.",
+              "ESV": "since you have been born again, not of perishable seed but of imperishable, through the living and abiding word of God;"
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "For, \"All men are like grass, and all their glory is like the flowers of the field; the grass withers and the flowers fall,",
+              "KJV": "For all flesh is as grass, and all the glory of man as the flower of grass. The grass withereth, and the flower thereof falleth away:",
+              "NKJV": "because\n\u201cAll flesh is as grass,\nAnd all the glory of man as the flower of the grass.\nThe grass withers,\nAnd its flower falls away,",
+              "NASB95": "For,\n\u201cAll flesh is like grass,\nAnd all its glory like the flower of grass.\nThe grass withers,\nAnd the flower falls off,",
+              "DRB": "For all flesh is as grass; and all the glory thereof as the flower of grass. The grass is withered, and the flower thereof is fallen away.",
+              "ESV": "for\n\u201cAll flesh is like grass\n    and all its glory like the flower of grass.\nThe grass withers,\n    and the flower falls,"
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "but the word of the Lord stands forever.\" And this is the word that was preached to you.",
+              "KJV": "But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you.",
+              "NKJV": "But the word of the Lord endures forever.\u201d\nNow this is the word which by the gospel was preached to you.",
+              "NASB95": "But the word of the Lord endures forever.\u201d\nAnd this is the word which was preached to you.",
+              "DRB": "But the word of the Lord endureth for ever. And this is the word which by the gospel hath been preached unto you.",
+              "ESV": "but the word of the Lord remains forever.\u201d\nAnd this word is the good news that was preached to you."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1pe_3_1_7",
+        "title": "Husbands and Wives",
+        "description": "",
+        "reference": {
+          "book": "1 Peter",
+          "chapter": 3,
+          "start": 1,
+          "end": 7
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Wives, in the same way be submissive to your husbands so that, if any of them do not believe the word, they may be won over without words by the behavior of their wives,",
+              "KJV": "Likewise, ye wives, be in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives;",
+              "NKJV": "Wives, likewise, be submissive to your own husbands, that even if some do not obey the word, they, without a word, may be won by the conduct of their wives,",
+              "NASB95": "In the same way, you wives, be submissive to your own husbands so that even if any of them are disobedient to the word, they may be won without a word by the behavior of their wives,",
+              "DRB": "In like manner also let wives be subject to their husbands: that if any believe not the word, they may be won without the word, by the conversation of the wives.",
+              "ESV": "Likewise, wives, be subject to your own husbands, so that even if some do not obey the word, they may be won without a word by the conduct of their wives,"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "when they see the purity and reverence of your lives.",
+              "KJV": "While they behold your chaste conversation coupled with fear.",
+              "NKJV": "when they observe your chaste conduct accompanied by fear.",
+              "NASB95": "as they observe your chaste and respectful behavior.",
+              "DRB": "Considering your chaste conversation with fear.",
+              "ESV": "when they see your respectful and pure conduct."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "Your beauty should not come from outward adornment, such as braided hair and the wearing of gold jewelry and fine clothes.",
+              "KJV": "Whose adorning let it not be that outward adorning of plaiting the hair, and of wearing of gold, or of putting on of apparel;",
+              "NKJV": "Do not let your adornment be merely outward\u2014arranging the hair, wearing gold, or putting on fine apparel\u2014",
+              "NASB95": "Your adornment must not be merely external\u2014braiding the hair, and wearing gold jewelry, or putting on dresses;",
+              "DRB": "Whose adorning let it not be the outward plaiting of the hair, or the wearing of gold, or the putting on of apparel:",
+              "ESV": "Do not let your adorning be external\u2014the braiding of hair and the putting on of gold jewelry, or the clothing you wear\u2014"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Instead, it should be that of your inner self, the unfading beauty of a gentle and quiet spirit, which is of great worth in God's sight.",
+              "KJV": "But let it be the hidden man of the heart, in that which is not corruptible, even the ornament of a meek and quiet spirit, which is in the sight of God of great price.",
+              "NKJV": "rather let it be the hidden person of the heart, with the incorruptible beauty of a gentle and quiet spirit, which is very precious in the sight of God.",
+              "NASB95": "but let it be the hidden person of the heart, with the imperishable quality of a gentle and quiet spirit, which is precious in the sight of God.",
+              "DRB": "But the hidden man of the heart in the incorruptibility of a quiet and a meek spirit, which is rich in the sight of God.",
+              "ESV": "but let your adorning be the hidden person of the heart with the imperishable beauty of a gentle and quiet spirit, which in God's sight is very precious."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "For this is the way the holy women of the past who put their hope in God used to make themselves beautiful. They were submissive to their own husbands,",
+              "KJV": "For after this manner in the old time the holy women also, who trusted in God, adorned themselves, being in subjection unto their own husbands:",
+              "NKJV": "For in this manner, in former times, the holy women who trusted in God also adorned themselves, being submissive to their own husbands,",
+              "NASB95": "For in this way in former times the holy women also, who hoped in God, used to adorn themselves, being submissive to their own husbands;",
+              "DRB": "For after this manner heretofore the holy women also, who trusted in God, adorned themselves, being in subjection to their own husbands:",
+              "ESV": "For this is how the holy women who hoped in God used to adorn themselves, by submitting to their own husbands,"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "like Sarah, who obeyed Abraham and called him her master. You are her daughters if you do what is right and do not give way to fear.",
+              "KJV": "Even as Sara obeyed Abraham, calling him lord: whose daughters ye are, as long as ye do well, and are not afraid with any amazement.",
+              "NKJV": "as Sarah obeyed Abraham, calling him lord, whose daughters you are if you do good and are not afraid with any terror.",
+              "NASB95": "just as Sarah obeyed Abraham, calling him lord, and you have become her children if you do what is right without being frightened by any fear.",
+              "DRB": "As Sara obeyed Abraham, calling him lord: whose daughters you are, doing well, and not fearing any disturbance.",
+              "ESV": "as Sarah obeyed Abraham, calling him lord. And you are her children, if you do good and do not fear anything that is frightening."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Husbands, in the same way be considerate as you live with your wives, and treat them with respect as the weaker partner and as heirs with you of the gracious gift of life, so that nothing will hinder your prayers.",
+              "KJV": "Likewise, ye husbands, dwell with them according to knowledge, giving honour unto the wife, as unto the weaker vessel, and as being heirs together of the grace of life; that your prayers be not hindered.",
+              "NKJV": "Husbands, likewise, dwell with them with understanding, giving honor to the wife, as to the weaker vessel, and as being heirs together of the grace of life, that your prayers may not be hindered.",
+              "NASB95": "You husbands in the same way, live with your wives in an understanding way, as with someone weaker, since she is a woman; and show her honor as a fellow heir of the grace of life, so that your prayers will not be hindered.",
+              "DRB": "Ye husbands, likewise dwelling with them according to knowledge, giving honour to the female as to the weaker vessel, and as to the co-heirs of the grace of life: that your prayers be not hindered.",
+              "ESV": "Likewise, husbands, live with your wives in an understanding way, showing honor to the woman as the weaker vessel, since they are heirs with you of the grace of life, so that your prayers may not be hindered."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1pe_3_8_12",
+        "title": "Called to Blessing",
+        "description": "",
+        "reference": {
+          "book": "1 Peter",
+          "chapter": 3,
+          "start": 8,
+          "end": 12
+        },
+        "rows": [
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Finally, all of you, live in harmony with one another; be sympathetic, love as brothers, be compassionate and humble.",
+              "KJV": "Finally, be ye all of one mind, having compassion one of another, love as brethren, be pitiful, be courteous:",
+              "NKJV": "Finally, all of you be of one mind, having compassion for one another; love as brothers, be tenderhearted, be courteous;",
+              "NASB95": "To sum up, all of you be harmonious, sympathetic, brotherly, kindhearted, and humble in spirit;",
+              "DRB": "And in fine, be ye all of one mind, having compassion one of another, being lovers of the brotherhood, merciful, modest, humble:",
+              "ESV": "Finally, all of you, have unity of mind, sympathy, brotherly love, a tender heart, and a humble mind."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Do not repay evil with evil or insult with insult, but with blessing, because to this you were called so that you may inherit a blessing.",
+              "KJV": "Not rendering evil for evil, or railing for railing: but contrariwise blessing; knowing that ye are thereunto called, that ye should inherit a blessing.",
+              "NKJV": "not returning evil for evil or reviling for reviling, but on the contrary blessing, knowing that you were called to this, that you may inherit a blessing.",
+              "NASB95": "not returning evil for evil or insult for insult, but giving a blessing instead; for you were called for the very purpose that you might inherit a blessing.",
+              "DRB": "Not rendering evil for evil, nor railing for railing, but contrariwise, blessing: for unto this are you called, that you may inherit a blessing.",
+              "ESV": "Do not repay evil for evil or reviling for reviling, but on the contrary, bless, for to this you were called, that you may obtain a blessing."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "For, \"Whoever would love life and see good days must keep his tongue from evil and his lips from deceitful speech.",
+              "KJV": "For he that will love life, and see good days, let him refrain his tongue from evil, and his lips that they speak no guile:",
+              "NKJV": "For\n\u201cHe who would love life\nAnd see good days,\nLet him refrain his tongue from evil,\nAnd his lips from speaking deceit.",
+              "NASB95": "For,\n\u201cThe one who desires life, to love and see good days,\nMust keep his tongue from evil and his lips from speaking deceit.",
+              "DRB": "For he that will love life, and see good days, let him refrain his tongue from evil, and his lips that they speak no guile.",
+              "ESV": "For\n\u201cWhoever desires to love life\n    and see good days,\nlet him keep his tongue from evil\n    and his lips from speaking deceit;"
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "He must turn from evil and do good; he must seek peace and pursue it.",
+              "KJV": "Let him eschew evil, and do good; let him seek peace, and ensue it.",
+              "NKJV": "Let him turn away from evil and do good;\nLet him seek peace and pursue it.",
+              "NASB95": "\u201cHe must turn away from evil and do good;\nHe must seek peace and pursue it.",
+              "DRB": "Let him decline from evil, and do good: let him seek after peace and pursue it:",
+              "ESV": "let him turn away from evil and do good;\n    let him seek peace and pursue it."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "For the eyes of the Lord are on the righteous and his ears are attentive to their prayer, but the face of the Lord is against those who do evil.\"",
+              "KJV": "For the eyes of the Lord are over the righteous, and his ears are open unto their prayers: but the face of the Lord is against them that do evil.",
+              "NKJV": "For the eyes of the Lord are on the righteous,\nAnd His ears are open to their prayers;\nBut the face of the Lord is against those who do evil.\u201d",
+              "NASB95": "\u201cFor the eyes of the Lord are toward the righteous,\nAnd His ears attend to their prayer,\nBut the face of the Lord is against those who do evil.\u201d",
+              "DRB": "Because the eyes of the Lord are upon the just, and his ears unto their prayers: but the countenance of the Lord upon them that do evil things.",
+              "ESV": "For the eyes of the Lord are on the righteous,\n    and his ears are open to their prayer.\nBut the face of the Lord is against those who do evil.\u201d"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1pe_3_13_17",
+        "title": "Suffering for Right and Wrong",
+        "description": "",
+        "reference": {
+          "book": "1 Peter",
+          "chapter": 3,
+          "start": 13,
+          "end": 17
+        },
+        "rows": [
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Who is going to harm you if you are eager to do good?",
+              "KJV": "And who is he that will harm you, if ye be followers of that which is good?",
+              "NKJV": "And who is he who will harm you if you become followers of what is good?",
+              "NASB95": "Who is there to harm you if you prove zealous for what is good?",
+              "DRB": "And who is he that can hurt you, if you be zealous of good?",
+              "ESV": "Now who is there to harm you if you are zealous for what is good?"
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "But even if you should suffer for what is right, you are blessed. \"Do not fear what they fear; do not be frightened.\"",
+              "KJV": "But and if ye suffer for righteousness' sake, happy are ye: and be not afraid of their terror, neither be troubled;",
+              "NKJV": "But even if you should suffer for righteousness\u2019 sake, you are blessed. \u201cAnd do not be afraid of their threats, nor be troubled.\u201d",
+              "NASB95": "But even if you should suffer for the sake of righteousness, you are blessed. And do not fear their intimidation, and do not be troubled,",
+              "DRB": "But if also you suffer any thing for justice' sake, blessed are ye. And be not afraid of their fear, and be not troubled.",
+              "ESV": "But even if you should suffer for righteousness' sake, you will be blessed. Have no fear of them, nor be troubled,"
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "But in your hearts set apart Christ as Lord. Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you have. But do this with gentleness and respect,",
+              "KJV": "But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear:",
+              "NKJV": "But sanctify the Lord God in your hearts, and always be ready to give a defense to everyone who asks you a reason for the hope that is in you, with meekness and fear;",
+              "NASB95": "but sanctify Christ as Lord in your hearts, always being ready to make a defense to everyone who asks you to give an account for the hope that is in you, yet with gentleness and reverence;",
+              "DRB": "But sanctify the Lord Christ in your hearts, being ready always to satisfy every one that asketh you a reason of that hope which is in you.",
+              "ESV": "but in your hearts honor Christ the Lord as holy, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect,"
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "keeping a clear conscience, so that those who speak maliciously against your good behavior in Christ may be ashamed of their slander.",
+              "KJV": "Having a good conscience; that, whereas they speak evil of you, as of evildoers, they may be ashamed that falsely accuse your good conversation in Christ.",
+              "NKJV": "having a good conscience, that when they defame you as evildoers, those who revile your good conduct in Christ may be ashamed.",
+              "NASB95": "and keep a good conscience so that in the thing in which you are slandered, those who revile your good behavior in Christ will be put to shame.",
+              "DRB": "But with modesty and fear, having a good conscience: that whereas they speak evil of you, they may be ashamed who falsely accuse your good conversation in Christ.",
+              "ESV": "having a good conscience, so that, when you are slandered, those who revile your good behavior in Christ may be put to shame."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "It is better, if it is God's will, to suffer for doing good than for doing evil.",
+              "KJV": "For it is better, if the will of God be so, that ye suffer for well doing, than for evil doing.",
+              "NKJV": "For it is better, if it is the will of God, to suffer for doing good than for doing evil.",
+              "NASB95": "For it is better, if God should will it so, that you suffer for doing what is right rather than for doing what is wrong.",
+              "DRB": "For it is better doing well (if such be the will of God) to suffer, than doing ill.",
+              "ESV": "For it is better to suffer for doing good, if that should be God's will, than for doing evil."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1pe_3_18_22",
+        "title": "Christ\u2019s Suffering and Ours",
+        "description": "",
+        "reference": {
+          "book": "1 Peter",
+          "chapter": 3,
+          "start": 18,
+          "end": 22
+        },
+        "rows": [
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "For Christ died for sins once for all, the righteous for the unrighteous, to bring you to God. He was put to death in the body but made alive by the Spirit,",
+              "KJV": "For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:",
+              "NKJV": "For Christ also suffered once for sins, the just for the unjust, that He might bring us to God, being put to death in the flesh but made alive by the Spirit,",
+              "NASB95": "For Christ also died for sins once for all, the just for the unjust, so that He might bring us to God, having been put to death in the flesh, but made alive in the spirit;",
+              "DRB": "Because Christ also died once for our sins, the just for the unjust: that he might offer us to God, being put to death indeed in the flesh, but enlivened in the spirit,",
+              "ESV": "For Christ also suffered once for sins, the righteous for the unrighteous, that he might bring us to God, being put to death in the flesh but made alive in the spirit,"
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "through whom also he went and preached to the spirits in prison",
+              "KJV": "By which also he went and preached unto the spirits in prison;",
+              "NKJV": "by whom also He went and preached to the spirits in prison,",
+              "NASB95": "in which also He went and made proclamation to the spirits now in prison,",
+              "DRB": "In which also coming he preached to those spirits that were in prison:",
+              "ESV": "in which he went and proclaimed to the spirits in prison,"
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "who disobeyed long ago when God waited patiently in the days of Noah while the ark was being built. In it only a few people, eight in all, were saved through water,",
+              "KJV": "Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water.",
+              "NKJV": "who formerly were disobedient, when once the Divine longsuffering waited in the days of Noah, while the ark was being prepared, in which a few, that is, eight souls, were saved through water.",
+              "NASB95": "who once were disobedient, when the patience of God kept waiting in the days of Noah, during the construction of the ark, in which a few, that is, eight persons, were brought safely through the water.",
+              "DRB": "Which had been some time incredulous, when they waited for the patience of God in the days of Noe, when the ark was a building: wherein a few, that is, eight souls, were saved by water.",
+              "ESV": "because they formerly did not obey, when God's patience waited in the days of Noah, while the ark was being prepared, in which a few, that is, eight persons, were brought safely through water."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "and this water symbolizes baptism that now saves you also--not the removal of dirt from the body but the pledge of a good conscience toward God. It saves you by the resurrection of Jesus Christ,",
+              "KJV": "The like figure whereunto even baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ:",
+              "NKJV": "There is also an antitype which now saves us\u2014baptism (not the removal of the filth of the flesh, but the answer of a good conscience toward God), through the resurrection of Jesus Christ,",
+              "NASB95": "Corresponding to that, baptism now saves you\u2014not the removal of dirt from the flesh, but an appeal to God for a good conscience\u2014through the resurrection of Jesus Christ,",
+              "DRB": "Whereunto baptism being of the like form, now saveth you also: not the putting away of the filth of the flesh, but the examination of a good conscience towards God by the resurrection of Jesus Christ.",
+              "ESV": "Baptism, which corresponds to this, now saves you, not as a removal of dirt from the body but as an appeal to God for a good conscience, through the resurrection of Jesus Christ,"
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "who has gone into heaven and is at God's right hand--with angels, authorities and powers in submission to him.",
+              "KJV": "Who is gone into heaven, and is on the right hand of God; angels and authorities and powers being made subject unto him.",
+              "NKJV": "who has gone into heaven and is at the right hand of God, angels and authorities and powers having been made subject to Him.",
+              "NASB95": "who is at the right hand of God, having gone into heaven, after angels and authorities and powers had been subjected to Him.",
+              "DRB": "Who is on the right hand of God, swallowing down death, that we might be made heirs of life everlasting: being gone into heaven, the angels and powers and virtues being made subject to him.",
+              "ESV": "who has gone into heaven and is at the right hand of God, with angels, authorities, and powers having been subjected to him."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,799 @@
+{
+  "scripture": {
+    "header": {
+      "id": "",
+      "title": "",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "NASB95",
+      "DRB",
+      "ESV"
+    ],
+    "blocks": [
+      {
+        "id": "jhn_13_31_35",
+        "title": "The New Commandment",
+        "description": "",
+        "reference": {
+          "book": "John",
+          "chapter": 13,
+          "start": 31,
+          "end": 35
+        },
+        "rows": [
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "When he was gone, Jesus said, <span style='color:#952004; font-weight:600'>\"Now is the Son of Man glorified and God is glorified in him.</span>",
+              "KJV": "Therefore, when he was gone out, Jesus said, <span style='color:#952004; font-weight:600'>Now is the Son of man glorified, and God is glorified in him.</span>",
+              "NKJV": "So, when he had gone out, Jesus said, <span style='color:#952004; font-weight:600'>\u201cNow the Son of Man is glorified, and God is glorified in Him.</span>",
+              "NASB95": "Therefore when he had gone out, Jesus said, <span style='color:#952004; font-weight:600'>\u201cNow is the Son of Man glorified, and God is glorified in Him;</span>",
+              "DRB": "When he therefore was gone out, Jesus said: <span style='color:#952004; font-weight:600'>Now is the Son of man glorified, and God is glorified in him.</span>",
+              "ESV": "When he had gone out, Jesus said, <span style='color:#952004; font-weight:600'>\u201cNow is the Son of Man glorified, and God is glorified in him.</span>"
+            }
+          },
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>If God is glorified in him, God will glorify the Son in himself, and will glorify him at once.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>If God be glorified in him, God shall also glorify him in himself, and shall straightway glorify him.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>If God is glorified in Him, God will also glorify Him in Himself, and glorify Him immediately.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>if God is glorified in Him, God will also glorify Him in Himself, and will glorify Him immediately.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>If God be glorified in him, God also will glorify him in himself; and immediately will he glorify him.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>If God is glorified in him, God will also glorify him in himself, and glorify him at once.</span>"
+            }
+          },
+          {
+            "verse": 33,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"My children, I will be with you only a little longer. You will look for me, and just as I told the Jews, so I tell you now: Where I am going, you cannot come.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Little children, yet a little while I am with you. Ye shall seek me: and as I said unto the Jews, Whither I go, ye cannot come; so now I say to you.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Little children, I shall be with you a little while longer. You will seek Me; and as I said to the Jews, \u2018Where I am going, you cannot come,\u2019 so now I say to you.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Little children, I am with you a little while longer. You will seek Me; and as I said to the Jews, now I also say to you, \u2018Where I am going, you cannot come.\u2019</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Little children, yet a little while I am with you. You shall seek me; and as I said to the Jews: Whither I go you cannot come; so I say to you now.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>Little children, yet a little while I am with you. You will seek me, and just as I said to the Jews, so now I also say to you, \u2018Where I am going you cannot come.\u2019</span>"
+            }
+          },
+          {
+            "verse": 34,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"A new command I give you: Love one another. As I have loved you, so you must love one another.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>A new commandment I give to you, that you love one another; as I have loved you, that you also love one another.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>A new commandment I give to you, that you love one another, even as I have loved you, that you also love one another.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>A new commandment I give unto you: That you love one another, as I have loved you, that you also love one another.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another.</span>"
+            }
+          },
+          {
+            "verse": 35,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>By this all men will know that you are my disciples, if you love one another.\"</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>By this shall all men know that ye are my disciples, if ye have love one to another.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>By this all will know that you are My disciples, if you have love for one another.\u201d</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>By this all men will know that you are My disciples, if you have love for one another.\u201d</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>By this shall all men know that you are my disciples, if you have love one for another.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>By this all people will know that you are my disciples, if you have love for one another.\u201d</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "jhn_15_9_17",
+        "title": "Love and Joy Perfected",
+        "description": "",
+        "reference": {
+          "book": "John",
+          "chapter": 15,
+          "start": 9,
+          "end": 17
+        },
+        "rows": [
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"As the Father has loved me, so have I loved you. Now remain in my love.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>As the Father hath loved me, so have I loved you: continue ye in my love.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cAs the Father loved Me, I also have loved you; abide in My love.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Just as the Father has loved Me, I have also loved you; abide in My love.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>As the Father hath loved me, I also have loved you. Abide in my love.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>As the Father has loved me, so have I loved you. Abide in my love.</span>"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>If you obey my commands, you will remain in my love, just as I have obeyed my Father's commands and remain in his love.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>If ye keep my commandments, ye shall abide in my love; even as I have kept my Father's commandments, and abide in his love.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>If you keep My commandments, you will abide in My love, just as I have kept My Father\u2019s commandments and abide in His love.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>If you keep My commandments, you will abide in My love; just as I have kept My Father\u2019s commandments and abide in His love.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>If you keep my commandments, you shall abide in my love; as I also have kept my Father's commandments, and do abide in his love.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>If you keep my commandments, you will abide in my love, just as I have kept my Father's commandments and abide in his love.</span>"
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>I have told you this so that my joy may be in you and that your joy may be complete.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>These things have I spoken unto you, that my joy might remain in you, and that your joy might be full.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cThese things I have spoken to you, that My joy may remain in you, and that your joy may be full.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>These things I have spoken to you so that My joy may be in you, and that your joy may be made full.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>These things I have spoken to you, that my joy may be in you, and your joy may be filled.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>These things I have spoken to you, that my joy may be in you, and that your joy may be full.</span>"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>My command is this: Love each other as I have loved you.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>This is my commandment, That ye love one another, as I have loved you.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>This is My commandment, that you love one another as I have loved you.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>\u201cThis is My commandment, that you love one another, just as I have loved you.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>This is my commandment, that you love one another, as I have loved you.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>\u201cThis is my commandment, that you love one another as I have loved you.</span>"
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Greater love has no one than this, that he lay down his life for his friends.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Greater love hath no man than this, that a man lay down his life for his friends.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Greater love has no one than this, than to lay down one\u2019s life for his friends.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Greater love has no one than this, that one lay down his life for his friends.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Greater love than this no man hath, that a man lay down his life for his friends.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>Greater love has no one than this, that someone lay down his life for his friends.</span>"
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>You are my friends if you do what I command.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Ye are my friends, if ye do whatsoever I command you.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>You are My friends if you do whatever I command you.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>You are My friends if you do what I command you.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>You are my friends, if you do the things that I command you.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>You are my friends if you do what I command you.</span>"
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>I no longer call you servants, because a servant does not know his master's business. Instead, I have called you friends, for everything that I learned from my Father I have made known to you.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Henceforth I call you not servants; for the servant knoweth not what his lord doeth: but I have called you friends; for all things that I have heard of my Father I have made known unto you.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>No longer do I call you servants, for a servant does not know what his master is doing; but I have called you friends, for all things that I heard from My Father I have made known to you.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>No longer do I call you slaves, for the slave does not know what his master is doing; but I have called you friends, for all things that I have heard from My Father I have made known to you.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>I will not now call you servants: for the servant knoweth not what his lord doth. But I have called you friends: because all things whatsoever I have heard of my Father, I have made known to you.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>No longer do I call you servants, for the servant does not know what his master is doing; but I have called you friends, for all that I have heard from my Father I have made known to you.</span>"
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>You did not choose me, but I chose you and appointed you to go and bear fruit--fruit that will last. Then the Father will give you whatever you ask in my name.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Ye have not chosen me, but I have chosen you, and ordained you, that ye should go and bring forth fruit, and that your fruit should remain: that whatsoever ye shall ask of the Father in my name, he may give it you.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>You did not choose Me, but I chose you and appointed you that you should go and bear fruit, and that your fruit should remain, that whatever you ask the Father in My name He may give you.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>You did not choose Me but I chose you, and appointed you that you would go and bear fruit, and that your fruit would remain, so that whatever you ask of the Father in My name He may give to you.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>You have not chosen me: but I have chosen you; and have appointed you, that you should go, and should bring forth fruit; and your fruit should remain: that whatsoever you shall ask of the Father in my name, he may give it you.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>You did not choose me, but I chose you and appointed you that you should go and bear fruit and that your fruit should abide, so that whatever you ask the Father in my name, he may give it to you.</span>"
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>This is my command: Love each other.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>These things I command you, that ye love one another.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>These things I command you, that you love one another.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>This I command you, that you love one another.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>These things I command you, that you love one another.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>These things I command you, so that you will love one another.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "jhn_15_18_25",
+        "title": "The World\u2019s Hatred",
+        "description": "",
+        "reference": {
+          "book": "John",
+          "chapter": 15,
+          "start": 18,
+          "end": 25
+        },
+        "rows": [
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"If the world hates you, keep in mind that it hated me first.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>If the world hate you, ye know that it hated me before it hated you.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cIf the world hates you, you know that it hated Me before it hated you.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>\u201cIf the world hates you, you know that it has hated Me before it hated you.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>If the world hate you, know ye, that it hath hated me before you.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>\u201cIf the world hates you, know that it has hated me before it hated you.</span>"
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>If you belonged to the world, it would love you as its own. As it is, you do not belong to the world, but I have chosen you out of the world. That is why the world hates you.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>If you were of the world, the world would love its own. Yet because you are not of the world, but I chose you out of the world, therefore the world hates you.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>If you were of the world, the world would love its own; but because you are not of the world, but I chose you out of the world, because of this the world hates you.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>If you had been of the world, the world would love its own: but because you are not of the world, but I have chosen you out of the world, therefore the world hateth you.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>If you were of the world, the world would love you as its own; but because you are not of the world, but I chose you out of the world, therefore the world hates you.</span>"
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>Remember the words I spoke to you: 'No servant is greater than his master.' If they persecuted me, they will persecute you also. If they obeyed my teaching, they will obey yours also.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>Remember the word that I said unto you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>Remember the word that I said to you, \u2018A servant is not greater than his master.\u2019 If they persecuted Me, they will also persecute you. If they kept My word, they will keep yours also.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>Remember the word that I said to you, \u2018A slave is not greater than his master.\u2019 If they persecuted Me, they will also persecute you; if they kept My word, they will keep yours also.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>Remember my word that I said to you: The servant is not greater than his master. If they have persecuted me, they will also persecute you: if they have kept my word, they will keep yours also.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>Remember the word that I said to you: \u2018A servant is not greater than his master.\u2019 If they persecuted me, they will also persecute you. If they kept my word, they will also keep yours.</span>"
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>They will treat you this way because of my name, for they do not know the One who sent me.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But all these things will they do unto you for my name's sake, because they know not him that sent me.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>But all these things they will do to you for My name\u2019s sake, because they do not know Him who sent Me.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>But all these things they will do to you for My name\u2019s sake, because they do not know the One who sent Me.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But all these things they will do to you for my name's sake: because they know not him who sent me.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>But all these things they will do to you on account of my name, because they do not know him who sent me.</span>"
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>If I had not come and spoken to them, they would not be guilty of sin. Now, however, they have no excuse for their sin.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>If I had not come and spoken unto them, they had not had sin: but now they have no cloak for their sin.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>If I had not come and spoken to them, they would have no sin, but now they have no excuse for their sin.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>If I had not come and spoken to them, they would not have sin, but now they have no excuse for their sin.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>If I had not come, and spoken to them, they would not have sin; but now they have no excuse for their sin.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>If I had not come and spoken to them, they would not have been guilty of sin, but now they have no excuse for their sin.</span>"
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>He who hates me hates my Father as well.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>He that hateth me hateth my Father also.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>He who hates Me hates My Father also.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>He who hates Me hates My Father also.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>He that hateth me, hateth my Father also.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>Whoever hates me hates my Father also.</span>"
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>If I had not done among them what no one else did, they would not be guilty of sin. But now they have seen these miracles, and yet they have hated both me and my Father.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>If I had not done among them the works which none other man did, they had not had sin: but now have they both seen and hated both me and my Father.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>If I had not done among them the works which no one else did, they would have no sin; but now they have seen and also hated both Me and My Father.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>If I had not done among them the works which no one else did, they would not have sin; but now they have both seen and hated Me and My Father as well.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>If I had not done among them the works that no other man hath done, they would not have sin; but now they have both seen and hated both me and my Father.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>If I had not done among them the works that no one else did, they would not be guilty of sin, but now they have seen and hated both me and my Father.</span>"
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>But this is to fulfill what is written in their Law: 'They hated me without reason.'</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But this cometh to pass, that the word might be fulfilled that is written in their law, They hated me without a cause.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>But this happened that the word might be fulfilled which is written in their law, \u2018They hated Me without a cause.\u2019</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>But they have done this to fulfill the word that is written in their Law, \u2018They hated Me without a cause.\u2019</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But that the word may be fulfilled which is written in their law: They hated me without cause.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>But the word that is written in their Law must be fulfilled: \u2018They hated me without a cause.\u2019</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "jhn_15_26_27",
+        "title": "The Coming Rejection",
+        "description": "",
+        "reference": {
+          "book": "John",
+          "chapter": 15,
+          "start": 26,
+          "end": 27
+        },
+        "rows": [
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"When the Counselor comes, whom I will send to you from the Father, the Spirit of truth who goes out from the Father, he will testify about me.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>But when the Comforter is come, whom I will send unto you from the Father, even the Spirit of truth, which proceedeth from the Father, he shall testify of me:</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>\u201cBut when the Helper comes, whom I shall send to you from the Father, the Spirit of truth who proceeds from the Father, He will testify of Me.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>\u201cWhen the Helper comes, whom I will send to you from the Father, that is the Spirit of truth who proceeds from the Father, He will testify about Me,</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>But when the Paraclete cometh, whom I will send you from the Father, the Spirit of truth, who proceedeth from the Father, he shall give testimony of me.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>\u201cBut when the Helper comes, whom I will send to you from the Father, the Spirit of truth, who proceeds from the Father, he will bear witness about me.</span>"
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>And you also must testify, for you have been with me from the beginning.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>And ye also shall bear witness, because ye have been with me from the beginning.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>And you also will bear witness, because you have been with Me from the beginning.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>and you will testify also, because you have been with Me from the beginning.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>And you shall give testimony, because you are with me from the beginning.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>And you also will bear witness, because you have been with me from the beginning.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rom_12_1_2",
+        "title": "Living Sacrifices to God",
+        "description": "",
+        "reference": {
+          "book": "Romans",
+          "chapter": 12,
+          "start": 1,
+          "end": 2
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Therefore, I urge you, brothers, in view of God's mercy, to offer your bodies as living sacrifices, holy and pleasing to God--this is your spiritual act of worship.",
+              "KJV": "I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.",
+              "NKJV": "I beseech you therefore, brethren, by the mercies of God, that you present your bodies a living sacrifice, holy, acceptable to God, which is your reasonable service.",
+              "NASB95": "Therefore I urge you, brethren, by the mercies of God, to present your bodies a living and holy sacrifice, acceptable to God, which is your spiritual service of worship.",
+              "DRB": "I BESEECH you therefore, brethren, by the mercy of God, that you present your bodies a living sacrifice, holy, pleasing unto God, your reasonable service.",
+              "ESV": "I appeal to you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Do not conform any longer to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God's will is--his good, pleasing and perfect will.",
+              "KJV": "And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.",
+              "NKJV": "And do not be conformed to this world, but be transformed by the renewing of your mind, that you may prove what is that good and acceptable and perfect will of God.",
+              "NASB95": "And do not be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what the will of God is, that which is good and acceptable and perfect.",
+              "DRB": "And be not conformed to this world; but be reformed in the newness of your mind, that you may prove what is the good, and the acceptable, and the perfect will of God.",
+              "ESV": "Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect."
+            }
+          }
+        ]
+      },
+      {
+        "id": "rom_12_3_8",
+        "title": "Serve God with Spiritual Gifts",
+        "description": "",
+        "reference": {
+          "book": "Romans",
+          "chapter": 12,
+          "start": 3,
+          "end": 8
+        },
+        "rows": [
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "For by the grace given me I say to every one of you: Do not think of yourself more highly than you ought, but rather think of yourself with sober judgment, in accordance with the measure of faith God has given you.",
+              "KJV": "For I say, through the grace given unto me, to every man that is among you, not to think of himself more highly than he ought to think; but to think soberly, according as God hath dealt to every man the measure of faith.",
+              "NKJV": "For I say, through the grace given to me, to everyone who is among you, not to think of himself more highly than he ought to think, but to think soberly, as God has dealt to each one a measure of faith.",
+              "NASB95": "For through the grace given to me I say to everyone among you not to think more highly of himself than he ought to think; but to think so as to have sound judgment, as God has allotted to each a measure of faith.",
+              "DRB": "For I say, by the grace that is given me, to all that are among you, not to be more wise than it behoveth to be wise, but to be wise unto sobriety, and according as God hath divided to every one the measure of faith.",
+              "ESV": "For by the grace given to me I say to everyone among you not to think of himself more highly than he ought to think, but to think with sober judgment, each according to the measure of faith that God has assigned."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Just as each of us has one body with many members, and these members do not all have the same function,",
+              "KJV": "For as we have many members in one body, and all members have not the same office:",
+              "NKJV": "For as we have many members in one body, but all the members do not have the same function,",
+              "NASB95": "For just as we have many members in one body and all the members do not have the same function,",
+              "DRB": "For as in one body we have many members, but all the members have not the same office:",
+              "ESV": "For as in one body we have many members, and the members do not all have the same function,"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "so in Christ we who are many form one body, and each member belongs to all the others.",
+              "KJV": "So we, being many, are one body in Christ, and every one members one of another.",
+              "NKJV": "so we, being many, are one body in Christ, and individually members of one another.",
+              "NASB95": "so we, who are many, are one body in Christ, and individually members one of another.",
+              "DRB": "So we being many, are one body in Christ, and every one members one of another.",
+              "ESV": "so we, though many, are one body in Christ, and individually members one of another."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "We have different gifts, according to the grace given us. If a man's gift is prophesying, let him use it in proportion to his faith.",
+              "KJV": "Having then gifts differing according to the grace that is given to us, whether prophecy, let us prophesy according to the proportion of faith;",
+              "NKJV": "Having then gifts differing according to the grace that is given to us, let us use them: if prophecy, let us prophesy in proportion to our faith;",
+              "NASB95": "Since we have gifts that differ according to the grace given to us, each of us is to exercise them accordingly: if prophecy, according to the proportion of his faith;",
+              "DRB": "And having different gifts, according to the grace that is given us, either prophecy, to be used according to the rule of faith;",
+              "ESV": "Having gifts that differ according to the grace given to us, let us use them: if prophecy, in proportion to our faith;"
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "If it is serving, let him serve; if it is teaching, let him teach;",
+              "KJV": "Or ministry, let us wait on our ministering: or he that teacheth, on teaching;",
+              "NKJV": "or ministry, let us use it in our ministering; he who teaches, in teaching;",
+              "NASB95": "if service, in his serving; or he who teaches, in his teaching;",
+              "DRB": "Or ministry, in ministering; or he that teacheth, in doctrine;",
+              "ESV": "if service, in our serving; the one who teaches, in his teaching;"
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "if it is encouraging, let him encourage; if it is contributing to the needs of others, let him give generously; if it is leadership, let him govern diligently; if it is showing mercy, let him do it cheerfully.",
+              "KJV": "Or he that exhorteth, on exhortation: he that giveth, let him do it with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness.",
+              "NKJV": "he who exhorts, in exhortation; he who gives, with liberality; he who leads, with diligence; he who shows mercy, with cheerfulness.",
+              "NASB95": "or he who exhorts, in his exhortation; he who gives, with liberality; he who leads, with diligence; he who shows mercy, with cheerfulness.",
+              "DRB": "He that exhorteth, in exhorting; he that giveth, with simplicity; he that ruleth, with carefulness; he that sheweth mercy, with cheerfulness.",
+              "ESV": "the one who exhorts, in his exhortation; the one who contributes, in generosity; the one who leads, with zeal; the one who does acts of mercy, with cheerfulness."
+            }
+          }
+        ]
+      },
+      {
+        "id": "rom_12_9_21",
+        "title": "Behave Like a Christian",
+        "description": "",
+        "reference": {
+          "book": "Romans",
+          "chapter": 12,
+          "start": 9,
+          "end": 21
+        },
+        "rows": [
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Love must be sincere. Hate what is evil; cling to what is good.",
+              "KJV": "Let love be without dissimulation. Abhor that which is evil; cleave to that which is good.",
+              "NKJV": "Let love be without hypocrisy. Abhor what is evil. Cling to what is good.",
+              "NASB95": "Let love be without hypocrisy. Abhor what is evil; cling to what is good.",
+              "DRB": "Let love be without dissimulation. Hating that which is evil, cleaving to that which is good.",
+              "ESV": "Let love be genuine. Abhor what is evil; hold fast to what is good."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Be devoted to one another in brotherly love. Honor one another above yourselves.",
+              "KJV": "Be kindly affectioned one to another with brotherly love; in honour preferring one another;",
+              "NKJV": "Be kindly affectionate to one another with brotherly love, in honor giving preference to one another;",
+              "NASB95": "Be devoted to one another in brotherly love; give preference to one another in honor;",
+              "DRB": "Loving one another with the charity of brotherhood, with honour preventing one another.",
+              "ESV": "Love one another with brotherly affection. Outdo one another in showing honor."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Never be lacking in zeal, but keep your spiritual fervor, serving the Lord.",
+              "KJV": "Not slothful in business; fervent in spirit; serving the Lord;",
+              "NKJV": "not lagging in diligence, fervent in spirit, serving the Lord;",
+              "NASB95": "not lagging behind in diligence, fervent in spirit, serving the Lord;",
+              "DRB": "In carefulness not slothful. In spirit fervent. Serving the Lord.",
+              "ESV": "Do not be slothful in zeal, be fervent in spirit, serve the Lord."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Be joyful in hope, patient in affliction, faithful in prayer.",
+              "KJV": "Rejoicing in hope; patient in tribulation; continuing instant in prayer;",
+              "NKJV": "rejoicing in hope, patient in tribulation, continuing steadfastly in prayer;",
+              "NASB95": "rejoicing in hope, persevering in tribulation, devoted to prayer,",
+              "DRB": "Rejoicing in hope. Patient in tribulation. Instant in prayer.",
+              "ESV": "Rejoice in hope, be patient in tribulation, be constant in prayer."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Share with God's people who are in need. Practice hospitality.",
+              "KJV": "Distributing to the necessity of saints; given to hospitality.",
+              "NKJV": "distributing to the needs of the saints, given to hospitality.",
+              "NASB95": "contributing to the needs of the saints, practicing hospitality.",
+              "DRB": "Communicating to the necessities of the saints. Pursuing hospitality.",
+              "ESV": "Contribute to the needs of the saints and seek to show hospitality."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "Bless those who persecute you; bless and do not curse.",
+              "KJV": "Bless them which persecute you: bless, and curse not.",
+              "NKJV": "Bless those who persecute you; bless and do not curse.",
+              "NASB95": "Bless those who persecute you; bless and do not curse.",
+              "DRB": "Bless them that persecute you: bless, and curse not.",
+              "ESV": "Bless those who persecute you; bless and do not curse them."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Rejoice with those who rejoice; mourn with those who mourn.",
+              "KJV": "Rejoice with them that do rejoice, and weep with them that weep.",
+              "NKJV": "Rejoice with those who rejoice, and weep with those who weep.",
+              "NASB95": "Rejoice with those who rejoice, and weep with those who weep.",
+              "DRB": "Rejoice with them that rejoice; weep with them that weep.",
+              "ESV": "Rejoice with those who rejoice, weep with those who weep."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "Live in harmony with one another. Do not be proud, but be willing to associate with people of low position. Do not be conceited.",
+              "KJV": "Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits.",
+              "NKJV": "Be of the same mind toward one another. Do not set your mind on high things, but associate with the humble. Do not be wise in your own opinion.",
+              "NASB95": "Be of the same mind toward one another; do not be haughty in mind, but associate with the lowly. Do not be wise in your own estimation.",
+              "DRB": "Being of one mind one towards another. Not minding high things, but consenting to the humble. Be not wise in your own conceits.",
+              "ESV": "Live in harmony with one another. Do not be haughty, but associate with the lowly. Never be wise in your own sight."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "Do not repay anyone evil for evil. Be careful to do what is right in the eyes of everybody.",
+              "KJV": "Recompense to no man evil for evil. Provide things honest in the sight of all men.",
+              "NKJV": "Repay no one evil for evil. Have regard for good things in the sight of all men.",
+              "NASB95": "Never pay back evil for evil to anyone. Respect what is right in the sight of all men.",
+              "DRB": "To no man rendering evil for evil. Providing good things, not only in the sight of God, but also in the sight of all men.",
+              "ESV": "Repay no one evil for evil, but give thought to do what is honorable in the sight of all."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "If it is possible, as far as it depends on you, live at peace with everyone.",
+              "KJV": "If it be possible, as much as lieth in you, live peaceably with all men.",
+              "NKJV": "If it is possible, as much as depends on you, live peaceably with all men.",
+              "NASB95": "If possible, so far as it depends on you, be at peace with all men.",
+              "DRB": "If it be possible, as much as is in you, have peace with all men.",
+              "ESV": "If possible, so far as it depends on you, live peaceably with all."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "Do not take revenge, my friends, but leave room for God's wrath, for it is written: \"It is mine to avenge; I will repay,\" says the Lord.",
+              "KJV": "Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord.",
+              "NKJV": "Beloved, do not avenge yourselves, but rather give place to wrath; for it is written, \u201cVengeance is Mine, I will repay,\u201d says the Lord.",
+              "NASB95": "Never take your own revenge, beloved, but leave room for the wrath of God, for it is written, \u201cVengeance is Mine, I will repay,\u201d says the Lord.",
+              "DRB": "Revenge not yourselves, my dearly beloved; but give place unto wrath, for it is written: Revenge is mine, I will repay, saith the Lord.",
+              "ESV": "Beloved, never avenge yourselves, but leave it to the wrath of God, for it is written, \u201cVengeance is mine, I will repay, says the Lord.\u201d"
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "On the contrary: \"If your enemy is hungry, feed him; if he is thirsty, give him something to drink. In doing this, you will heap burning coals on his head.\"",
+              "KJV": "Therefore if thine enemy hunger, feed him; if he thirst, give him drink: for in so doing thou shalt heap coals of fire on his head.",
+              "NKJV": "Therefore\n\u201cIf your enemy is hungry, feed him;\nIf he is thirsty, give him a drink;\nFor in so doing you will heap coals of fire on his head.\u201d",
+              "NASB95": "\u201cBut if your enemy is hungry, feed him, and if he is thirsty, give him a drink; for in so doing you will heap burning coals on his head.\u201d",
+              "DRB": "But if thy enemy be hungry, give him to eat; if he thirst, give him to drink. For, doing this, thou shalt heap coals of fire upon his head.",
+              "ESV": "To the contrary, \u201cif your enemy is hungry, feed him; if he is thirsty, give him something to drink; for by so doing you will heap burning coals on his head.\u201d"
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "Do not be overcome by evil, but overcome evil with good.",
+              "KJV": "Be not overcome of evil, but overcome evil with good.",
+              "NKJV": "Do not be overcome by evil, but overcome evil with good.",
+              "NASB95": "Do not be overcome by evil, but overcome evil with good.",
+              "DRB": "Be not overcome by evil, but overcome evil by good.",
+              "ESV": "Do not be overcome by evil, but overcome evil with good."
+            }
+          }
+        ]
+      },
+      {
+        "id": "rom_13_1_7",
+        "title": "Submit to Government",
+        "description": "",
+        "reference": {
+          "book": "Romans",
+          "chapter": 13,
+          "start": 1,
+          "end": 7
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Everyone must submit himself to the governing authorities, for there is no authority except that which God has established. The authorities that exist have been established by God.",
+              "KJV": "Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.",
+              "NKJV": "Let every soul be subject to the governing authorities. For there is no authority except from God, and the authorities that exist are appointed by God.",
+              "NASB95": "Every person is to be in subjection to the governing authorities. For there is no authority except from God, and those which exist are established by God.",
+              "DRB": "LET every soul be subject to higher powers: for there is no power but from God: and those that are, are ordained of God.",
+              "ESV": "Let every person be subject to the governing authorities. For there is no authority except from God, and those that exist have been instituted by God."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Consequently, he who rebels against the authority is rebelling against what God has instituted, and those who do so will bring judgment on themselves.",
+              "KJV": "Whosoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation.",
+              "NKJV": "Therefore whoever resists the authority resists the ordinance of God, and those who resist will bring judgment on themselves.",
+              "NASB95": "Therefore whoever resists authority has opposed the ordinance of God; and they who have opposed will receive condemnation upon themselves.",
+              "DRB": "Therefore he that resisteth the power, resisteth the ordinance of God. And they that resist, purchase to themselves damnation.",
+              "ESV": "Therefore whoever resists the authorities resists what God has appointed, and those who resist will incur judgment."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "For rulers hold no terror for those who do right, but for those who do wrong. Do you want to be free from fear of the one in authority? Then do what is right and he will commend you.",
+              "KJV": "For rulers are not a terror to good works, but to the evil. Wilt thou then not be afraid of the power? do that which is good, and thou shalt have praise of the same:",
+              "NKJV": "For rulers are not a terror to good works, but to evil. Do you want to be unafraid of the authority? Do what is good, and you will have praise from the same.",
+              "NASB95": "For rulers are not a cause of fear for good behavior, but for evil. Do you want to have no fear of authority? Do what is good and you will have praise from the same;",
+              "DRB": "For princes are not a terror to the good work, but to the evil. Wilt thou then not be afraid of the power? Do that which is good: and thou shalt have praise from the same.",
+              "ESV": "For rulers are not a terror to good conduct, but to bad. Would you have no fear of the one who is in authority? Then do what is good, and you will receive his approval,"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "For he is God's servant to do you good. But if you do wrong, be afraid, for he does not bear the sword for nothing. He is God's servant, an agent of wrath to bring punishment on the wrongdoer.",
+              "KJV": "For he is the minister of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the sword in vain: for he is the minister of God, a revenger to execute wrath upon him that doeth evil.",
+              "NKJV": "For he is God\u2019s minister to you for good. But if you do evil, be afraid; for he does not bear the sword in vain; for he is God\u2019s minister, an avenger to execute wrath on him who practices evil.",
+              "NASB95": "for it is a minister of God to you for good. But if you do what is evil, be afraid; for it does not bear the sword for nothing; for it is a minister of God, an avenger who brings wrath on the one who practices evil.",
+              "DRB": "For he is God's minister to thee, for good. But if thou do that which is evil, fear: for he beareth not the sword in vain. For he is God's minister: an avenger to execute wrath upon him that doth evil.",
+              "ESV": "for he is God's servant for your good. But if you do wrong, be afraid, for he does not bear the sword in vain. For he is the servant of God, an avenger who carries out God's wrath on the wrongdoer."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "Therefore, it is necessary to submit to the authorities, not only because of possible punishment but also because of conscience.",
+              "KJV": "Wherefore ye must needs be subject, not only for wrath, but also for conscience sake.",
+              "NKJV": "Therefore you must be subject, not only because of wrath but also for conscience\u2019 sake.",
+              "NASB95": "Therefore it is necessary to be in subjection, not only because of wrath, but also for conscience\u2019 sake.",
+              "DRB": "Wherefore be subject of necessity, not only for wrath, but also for conscience' sake.",
+              "ESV": "Therefore one must be in subjection, not only to avoid God's wrath but also for the sake of conscience."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "This is also why you pay taxes, for the authorities are God's servants, who give their full time to governing.",
+              "KJV": "For for this cause pay ye tribute also: for they are God's ministers, attending continually upon this very thing.",
+              "NKJV": "For because of this you also pay taxes, for they are God\u2019s ministers attending continually to this very thing.",
+              "NASB95": "For because of this you also pay taxes, for rulers are servants of God, devoting themselves to this very thing.",
+              "DRB": "For therefore also you pay tribute. For they are the ministers of God, serving unto this purpose.",
+              "ESV": "For because of this you also pay taxes, for the authorities are ministers of God, attending to this very thing."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Give everyone what you owe him: If you owe taxes, pay taxes; if revenue, then revenue; if respect, then respect; if honor, then honor.",
+              "KJV": "Render therefore to all their dues: tribute to whom tribute is due; custom to whom custom; fear to whom fear; honour to whom honour.",
+              "NKJV": "Render therefore to all their due: taxes to whom taxes are due, customs to whom customs, fear to whom fear, honor to whom honor.",
+              "NASB95": "Render to all what is due them: tax to whom tax is due; custom to whom custom; fear to whom fear; honor to whom honor.",
+              "DRB": "Render therefore to all men their dues. Tribute, to whom tribute is due: custom, to whom custom: fear, to whom fear: honour, to whom honour.",
+              "ESV": "Pay to all what is owed to them: taxes to whom taxes are owed, revenue to whom revenue is owed, respect to whom respect is owed, honor to whom honor is owed."
+            }
+          }
+        ]
+      },
+      {
+        "id": "rom_13_8_10",
+        "title": "Love Your Neighbor",
+        "description": "",
+        "reference": {
+          "book": "Romans",
+          "chapter": 13,
+          "start": 8,
+          "end": 10
+        },
+        "rows": [
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Let no debt remain outstanding, except the continuing debt to love one another, for he who loves his fellowman has fulfilled the law.",
+              "KJV": "Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law.",
+              "NKJV": "Owe no one anything except to love one another, for he who loves another has fulfilled the law.",
+              "NASB95": "Owe nothing to anyone except to love one another; for he who loves his neighbor has fulfilled the law.",
+              "DRB": "Owe no man any thing, but to love one another. For he that loveth his neighbour, hath fulfilled the law.",
+              "ESV": "Owe no one anything, except to love each other, for the one who loves another has fulfilled the law."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "The commandments, \"Do not commit adultery,Do not murder,Do not steal,Do not covet,\" and whatever other commandment there may be, are summed up in this one rule: \"Love your neighbor as yourself.\"",
+              "KJV": "For this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not bear false witness, Thou shalt not covet; and if there be any other commandment, it is briefly comprehended in this saying, namely, Thou shalt love thy neighbour as thyself.",
+              "NKJV": "For the commandments, \u201cYou shall not commit adultery,\u201d \u201cYou shall not murder,\u201d \u201cYou shall not steal,\u201d \u201cYou shall not bear false witness,\u201d \u201cYou shall not covet,\u201d and if there is any other commandment, are all summed up in this saying, namely, \u201cYou shall love your neighbor as yourself.\u201d",
+              "NASB95": "For this, \u201cYou shall not commit adultery, You shall not murder, You shall not steal, You shall not covet,\u201d and if there is any other commandment, it is summed up in this saying, \u201cYou shall love your neighbor as yourself.\u201d",
+              "DRB": "For Thou shalt not commit adultery: Thou shalt not kill: Thou shalt not steal, Thou shalt not bear false witness: Thou shalt not covet: and if there be any other commandment, it is comprised in this word, Thou shalt love thy neighbour as thyself.",
+              "ESV": "For the commandments, \u201cYou shall not commit adultery, You shall not murder, You shall not steal, You shall not covet,\u201d and any other commandment, are summed up in this word: \u201cYou shall love your neighbor as yourself.\u201d"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Love does no harm to its neighbor. Therefore love is the fulfillment of the law.",
+              "KJV": "Love worketh no ill to his neighbour: therefore love is the fulfilling of the law.",
+              "NKJV": "Love does no harm to a neighbor; therefore love is the fulfillment of the law.",
+              "NASB95": "Love does no wrong to a neighbor; therefore love is the fulfillment of the law.",
+              "DRB": "The love of our neighbour worketh no evil. Love therefore is the fulfilling of the law.",
+              "ESV": "Love does no wrong to a neighbor; therefore love is the fulfilling of the law."
+            }
+          }
+        ]
+      },
+      {
+        "id": "rom_13_11_14",
+        "title": "Put on Christ",
+        "description": "",
+        "reference": {
+          "book": "Romans",
+          "chapter": 13,
+          "start": 11,
+          "end": 14
+        },
+        "rows": [
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "And do this, understanding the present time. The hour has come for you to wake up from your slumber, because our salvation is nearer now than when we first believed.",
+              "KJV": "And that, knowing the time, that now it is high time to awake out of sleep: for now is our salvation nearer than when we believed.",
+              "NKJV": "And do this, knowing the time, that now it is high time to awake out of sleep; for now our salvation is nearer than when we first believed.",
+              "NASB95": "Do this, knowing the time, that it is already the hour for you to awaken from sleep; for now salvation is nearer to us than when we believed.",
+              "DRB": "And that knowing the season; that it is now the hour for us to rise from sleep. For now our salvation is nearer than when we believed.",
+              "ESV": "Besides this you know the time, that the hour has come for you to wake from sleep. For salvation is nearer to us now than when we first believed."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "The night is nearly over; the day is almost here. So let us put aside the deeds of darkness and put on the armor of light.",
+              "KJV": "The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light.",
+              "NKJV": "The night is far spent, the day is at hand. Therefore let us cast off the works of darkness, and let us put on the armor of light.",
+              "NASB95": "The night is almost gone, and the day is near. Therefore let us lay aside the deeds of darkness and put on the armor of light.",
+              "DRB": "The night is passed, and the day is at hand. Let us therefore cast off the works of darkness, and put on the armour of light.",
+              "ESV": "The night is far gone; the day is at hand. So then let us cast off the works of darkness and put on the armor of light."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Let us behave decently, as in the daytime, not in orgies and drunkenness, not in sexual immorality and debauchery, not in dissension and jealousy.",
+              "KJV": "Let us walk honestly, as in the day; not in rioting and drunkenness, not in chambering and wantonness, not in strife and envying.",
+              "NKJV": "Let us walk properly, as in the day, not in revelry and drunkenness, not in lewdness and lust, not in strife and envy.",
+              "NASB95": "Let us behave properly as in the day, not in carousing and drunkenness, not in sexual promiscuity and sensuality, not in strife and jealousy.",
+              "DRB": "Let us walk honestly, as in the day: not in rioting and drunkenness, not in chambering and impurities, not in contention and envy:",
+              "ESV": "Let us walk properly as in the daytime, not in orgies and drunkenness, not in sexual immorality and sensuality, not in quarreling and jealousy."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "Rather, clothe yourselves with the Lord Jesus Christ, and do not think about how to gratify the desires of the sinful nature.",
+              "KJV": "But put ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof.",
+              "NKJV": "But put on the Lord Jesus Christ, and make no provision for the flesh, to fulfill its lusts.",
+              "NASB95": "But put on the Lord Jesus Christ, and make no provision for the flesh in regard to its lusts.",
+              "DRB": "But put ye on the Lord Jesus Christ, and make not provision for the flesh in its concupiscences.",
+              "ESV": "But put on the Lord Jesus Christ, and make no provision for the flesh, to gratify its desires."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

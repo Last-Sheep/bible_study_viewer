@@ -1,0 +1,1172 @@
+{
+  "scripture": {
+    "header": {
+      "id": "love_others",
+      "title": "Love On Another",
+      "description": "",
+      "topics": [
+        "Love",
+        "Brothers and Sisters",
+        "Fruit of the Spirit"
+      ]
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NASB95",
+      "NKJV",
+      "DRB",
+      "ESV"
+    ],
+    "blocks": [
+      {
+        "id": "jhn_13_34_35",
+        "title": "",
+        "description": "",
+        "reference": {
+          "book": "John",
+          "chapter": 13,
+          "start": 34,
+          "end": 35
+        },
+        "rows": [
+          {
+            "verse": 34,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>\"A new command I give you: Love one another. As I have loved you, so you must love one another.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>A new commandment I give to you, that you love one another, even as I have loved you, that you also love one another.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>A new commandment I give to you, that you love one another; as I have loved you, that you also love one another.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>A new commandment I give unto you: That you love one another, as I have loved you, that you also love one another.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another.</span>"
+            }
+          },
+          {
+            "verse": 35,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>By this all men will know that you are my disciples, if you love one another.\"</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>By this shall all men know that ye are my disciples, if ye have love one to another.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>By this all men will know that you are My disciples, if you have love for one another.\u201d</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>By this all will know that you are My disciples, if you have love for one another.\u201d</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>By this shall all men know that you are my disciples, if you have love one for another.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>By this all people will know that you are my disciples, if you have love for one another.\u201d</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "jhn_15_12",
+        "title": "",
+        "description": "",
+        "reference": {
+          "book": "John",
+          "chapter": 15,
+          "start": 12,
+          "end": 12
+        },
+        "rows": [
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>My command is this: Love each other as I have loved you.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>This is my commandment, That ye love one another, as I have loved you.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>\u201cThis is My commandment, that you love one another, just as I have loved you.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>This is My commandment, that you love one another as I have loved you.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>This is my commandment, that you love one another, as I have loved you.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>\u201cThis is my commandment, that you love one another as I have loved you.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "jhn_15_17",
+        "title": "",
+        "description": "",
+        "reference": {
+          "book": "John",
+          "chapter": 15,
+          "start": 17,
+          "end": 17
+        },
+        "rows": [
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "<span style='color:#952004; font-weight:600'>This is my command: Love each other.</span>",
+              "KJV": "<span style='color:#952004; font-weight:600'>These things I command you, that ye love one another.</span>",
+              "NASB95": "<span style='color:#952004; font-weight:600'>This I command you, that you love one another.</span>",
+              "NKJV": "<span style='color:#952004; font-weight:600'>These things I command you, that you love one another.</span>",
+              "DRB": "<span style='color:#952004; font-weight:600'>These things I command you, that you love one another.</span>",
+              "ESV": "<span style='color:#952004; font-weight:600'>These things I command you, so that you will love one another.</span>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rom_12_9_13",
+        "title": "",
+        "description": "",
+        "reference": {
+          "book": "Romans",
+          "chapter": 12,
+          "start": 9,
+          "end": 13
+        },
+        "rows": [
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Love must be sincere. Hate what is evil; cling to what is good.",
+              "KJV": "Let love be without dissimulation. Abhor that which is evil; cleave to that which is good.",
+              "NASB95": "Let love be without hypocrisy. Abhor what is evil; cling to what is good.",
+              "NKJV": "Let love be without hypocrisy. Abhor what is evil. Cling to what is good.",
+              "DRB": "Let love be without dissimulation. Hating that which is evil, cleaving to that which is good.",
+              "ESV": "Let love be genuine. Abhor what is evil; hold fast to what is good."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Be devoted to one another in brotherly love. Honor one another above yourselves.",
+              "KJV": "Be kindly affectioned one to another with brotherly love; in honour preferring one another;",
+              "NASB95": "Be devoted to one another in brotherly love; give preference to one another in honor;",
+              "NKJV": "Be kindly affectionate to one another with brotherly love, in honor giving preference to one another;",
+              "DRB": "Loving one another with the charity of brotherhood, with honour preventing one another.",
+              "ESV": "Love one another with brotherly affection. Outdo one another in showing honor."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Never be lacking in zeal, but keep your spiritual fervor, serving the Lord.",
+              "KJV": "Not slothful in business; fervent in spirit; serving the Lord;",
+              "NASB95": "not lagging behind in diligence, fervent in spirit, serving the Lord;",
+              "NKJV": "not lagging in diligence, fervent in spirit, serving the Lord;",
+              "DRB": "In carefulness not slothful. In spirit fervent. Serving the Lord.",
+              "ESV": "Do not be slothful in zeal, be fervent in spirit, serve the Lord."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Be joyful in hope, patient in affliction, faithful in prayer.",
+              "KJV": "Rejoicing in hope; patient in tribulation; continuing instant in prayer;",
+              "NASB95": "rejoicing in hope, persevering in tribulation, devoted to prayer,",
+              "NKJV": "rejoicing in hope, patient in tribulation, continuing steadfastly in prayer;",
+              "DRB": "Rejoicing in hope. Patient in tribulation. Instant in prayer.",
+              "ESV": "Rejoice in hope, be patient in tribulation, be constant in prayer."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Share with God's people who are in need. Practice hospitality.",
+              "KJV": "Distributing to the necessity of saints; given to hospitality.",
+              "NASB95": "contributing to the needs of the saints, practicing hospitality.",
+              "NKJV": "distributing to the needs of the saints, given to hospitality.",
+              "DRB": "Communicating to the necessities of the saints. Pursuing hospitality.",
+              "ESV": "Contribute to the needs of the saints and seek to show hospitality."
+            }
+          }
+        ]
+      },
+      {
+        "id": "rom_13_8",
+        "title": "",
+        "description": "",
+        "reference": {
+          "book": "Romans",
+          "chapter": 13,
+          "start": 8,
+          "end": 8
+        },
+        "rows": [
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Let no debt remain outstanding, except the continuing debt to love one another, for he who loves his fellowman has fulfilled the law.",
+              "KJV": "Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law.",
+              "NASB95": "Owe nothing to anyone except to love one another; for he who loves his neighbor has fulfilled the law.",
+              "NKJV": "Owe no one anything except to love one another, for he who loves another has fulfilled the law.",
+              "DRB": "Owe no man any thing, but to love one another. For he that loveth his neighbour, hath fulfilled the law.",
+              "ESV": "Owe no one anything, except to love each other, for the one who loves another has fulfilled the law."
+            }
+          }
+        ]
+      },
+      {
+        "id": "gal_5_13_15",
+        "title": "",
+        "description": "",
+        "reference": {
+          "book": "Galatians",
+          "chapter": 5,
+          "start": 13,
+          "end": 15
+        },
+        "rows": [
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "You, my brothers, were called to be free. But do not use your freedom to indulge the sinful nature; rather, serve one another in love.",
+              "KJV": "For, brethren, ye have been called unto liberty; only use not liberty for an occasion to the flesh, but by love serve one another.",
+              "NASB95": "For you were called to freedom, brethren; only do not turn your freedom into an opportunity for the flesh, but through love serve one another.",
+              "NKJV": "For you, brethren, have been called to liberty; only do not use liberty as an opportunity for the flesh, but through love serve one another.",
+              "DRB": "For you, brethren, have been called unto liberty: only make not liberty an occasion to the flesh, but by charity of the spirit serve one another.",
+              "ESV": "For you were called to freedom, brothers. Only do not use your freedom as an opportunity for the flesh, but through love serve one another."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "The entire law is summed up in a single command: \"Love your neighbor as yourself.\"",
+              "KJV": "For all the law is fulfilled in one word, even in this; Thou shalt love thy neighbour as thyself.",
+              "NASB95": "For the whole Law is fulfilled in one word, in the statement, \u201cYou shall love your neighbor as yourself.\u201d",
+              "NKJV": "For all the law is fulfilled in one word, even in this: \u201cYou shall love your neighbor as yourself.\u201d",
+              "DRB": "For all the law is fulfilled in one word: Thou shalt love thy neighbour as thyself.",
+              "ESV": "For the whole law is fulfilled in one word: \u201cYou shall love your neighbor as yourself.\u201d"
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "If you keep on biting and devouring each other, watch out or you will be destroyed by each other.",
+              "KJV": "But if ye bite and devour one another, take heed that ye be not consumed one of another.",
+              "NASB95": "But if you bite and devour one another, take care that you are not consumed by one another.",
+              "NKJV": "But if you bite and devour one another, beware lest you be consumed by one another!",
+              "DRB": "But if you bite and devour one another; take heed you be not consumed one of another.",
+              "ESV": "But if you bite and devour one another, watch out that you are not consumed by one another."
+            }
+          }
+        ]
+      },
+      {
+        "id": "gal_5_22_26",
+        "title": "",
+        "description": "",
+        "reference": {
+          "book": "Galatians",
+          "chapter": 5,
+          "start": 22,
+          "end": 26
+        },
+        "rows": [
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,",
+              "KJV": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,",
+              "NASB95": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,",
+              "NKJV": "But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness,",
+              "DRB": "But the fruit of the Spirit is, charity, joy, peace, patience, benignity, goodness, longanimity,",
+              "ESV": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,"
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "gentleness and self-control. Against such things there is no law.",
+              "KJV": "Meekness, temperance: against such there is no law.",
+              "NASB95": "gentleness, self-control; against such things there is no law.",
+              "NKJV": "gentleness, self-control. Against such there is no law.",
+              "DRB": "Mildness, faith, modesty, continency, chastity. Against such there is no law.",
+              "ESV": "gentleness, self-control; against such things there is no law."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "Those who belong to Christ Jesus have crucified the sinful nature with its passions and desires.",
+              "KJV": "And they that are Christ's have crucified the flesh with the affections and lusts.",
+              "NASB95": "Now those who belong to Christ Jesus have crucified the flesh with its passions and desires.",
+              "NKJV": "And those who are Christ\u2019s have crucified the flesh with its passions and desires.",
+              "DRB": "And they that are Christ's, have crucified their flesh, with the vices and concupiscences.",
+              "ESV": "And those who belong to Christ Jesus have crucified the flesh with its passions and desires."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "Since we live by the Spirit, let us keep in step with the Spirit.",
+              "KJV": "If we live in the Spirit, let us also walk in the Spirit.",
+              "NASB95": "If we live by the Spirit, let us also walk by the Spirit.",
+              "NKJV": "If we live in the Spirit, let us also walk in the Spirit.",
+              "DRB": "If we live in the Spirit, let us also walk in the Spirit.",
+              "ESV": "If we live by the Spirit, let us also keep in step with the Spirit."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "Let us not become conceited, provoking and envying each other.",
+              "KJV": "Let us not be desirous of vain glory, provoking one another, envying one another.",
+              "NASB95": "Let us not become boastful, challenging one another, envying one another.",
+              "NKJV": "Let us not become conceited, provoking one another, envying one another.",
+              "DRB": "Let us not be made desirous of vain glory, provoking one another, envying on another.",
+              "ESV": "Let us not become conceited, provoking one another, envying one another."
+            }
+          }
+        ]
+      },
+      {
+        "id": "eph_4_1_6",
+        "title": "",
+        "description": "",
+        "reference": {
+          "book": "Ephesians",
+          "chapter": 4,
+          "start": 1,
+          "end": 6
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "As a prisoner for the Lord, then, I urge you to live a life worthy of the calling you have received.",
+              "KJV": "I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,",
+              "NASB95": "Therefore I, the prisoner of the Lord, implore you to walk in a manner worthy of the calling with which you have been called,",
+              "NKJV": "I, therefore, the prisoner of the Lord, beseech you to walk worthy of the calling with which you were called,",
+              "DRB": "I therefore, a prisoner in the Lord, beseech you that you walk worthy of the vocation in which you are called,",
+              "ESV": "I therefore, a prisoner for the Lord, urge you to walk in a manner worthy of the calling to which you have been called,"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Be completely humble and gentle; be patient, bearing with one another in love.",
+              "KJV": "With all lowliness and meekness, with longsuffering, forbearing one another in love;",
+              "NASB95": "with all humility and gentleness, with patience, showing tolerance for one another in love,",
+              "NKJV": "with all lowliness and gentleness, with longsuffering, bearing with one another in love,",
+              "DRB": "With all humility and mildness, with patience, supporting one another in charity.",
+              "ESV": "with all humility and gentleness, with patience, bearing with one another in love,"
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "Make every effort to keep the unity of the Spirit through the bond of peace.",
+              "KJV": "Endeavouring to keep the unity of the Spirit in the bond of peace.",
+              "NASB95": "being diligent to preserve the unity of the Spirit in the bond of peace.",
+              "NKJV": "endeavoring to keep the unity of the Spirit in the bond of peace.",
+              "DRB": "Careful to keep the unity of the Spirit in the bond of peace.",
+              "ESV": "eager to maintain the unity of the Spirit in the bond of peace."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "There is one body and one Spirit--just as you were called to one hope when you were called--",
+              "KJV": "There is one body, and one Spirit, even as ye are called in one hope of your calling;",
+              "NASB95": "There is one body and one Spirit, just as also you were called in one hope of your calling;",
+              "NKJV": "There is one body and one Spirit, just as you were called in one hope of your calling;",
+              "DRB": "One body and one Spirit; as you are called in one hope of your calling.",
+              "ESV": "There is one body and one Spirit\u2014just as you were called to the one hope that belongs to your call\u2014"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "one Lord, one faith, one baptism;",
+              "KJV": "One Lord, one faith, one baptism,",
+              "NASB95": "one Lord, one faith, one baptism,",
+              "NKJV": "one Lord, one faith, one baptism;",
+              "DRB": "One Lord, one faith, one baptism.",
+              "ESV": "one Lord, one faith, one baptism,"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "one God and Father of all, who is over all and through all and in all.",
+              "KJV": "One God and Father of all, who is above all, and through all, and in you all.",
+              "NASB95": "one God and Father of all who is over all and through all and in all.",
+              "NKJV": "one God and Father of all, who is above all, and through all, and in you all.",
+              "DRB": "One God and Father of all, who is above all, and through all, and in us all.",
+              "ESV": "one God and Father of all, who is over all and through all and in all."
+            }
+          }
+        ]
+      },
+      {
+        "id": "eph_4_25_32",
+        "title": "",
+        "description": "",
+        "reference": {
+          "book": "Ephesians",
+          "chapter": 4,
+          "start": 25,
+          "end": 32
+        },
+        "rows": [
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "Therefore each of you must put off falsehood and speak truthfully to his neighbor, for we are all members of one body.",
+              "KJV": "Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another.",
+              "NASB95": "Therefore, laying aside falsehood, speak truth each one of you with his neighbor, for we are members of one another.",
+              "NKJV": "Therefore, putting away lying, \u201cLet each one of you speak truth with his neighbor,\u201d for we are members of one another.",
+              "DRB": "Wherefore putting away lying, speak ;ye the truth every man with his neighbour; for we are members one of another.",
+              "ESV": "Therefore, having put away falsehood, let each one of you speak the truth with his neighbor, for we are members one of another."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "\"In your anger do not sin\": Do not let the sun go down while you are still angry,",
+              "KJV": "Be ye angry, and sin not: let not the sun go down upon your wrath:",
+              "NASB95": "Be angry, and yet do not sin; do not let the sun go down on your anger,",
+              "NKJV": "\u201cBe angry, and do not sin\u201d: do not let the sun go down on your wrath,",
+              "DRB": "Be angry, and sin not. Let not the sun go down upon your anger.",
+              "ESV": "Be angry and do not sin; do not let the sun go down on your anger,"
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "and do not give the devil a foothold.",
+              "KJV": "Neither give place to the devil.",
+              "NASB95": "and do not give the devil an opportunity.",
+              "NKJV": "nor give place to the devil.",
+              "DRB": "Give not place to the devil.",
+              "ESV": "and give no opportunity to the devil."
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "He who has been stealing must steal no longer, but must work, doing something useful with his own hands, that he may have something to share with those in need.",
+              "KJV": "Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needeth.",
+              "NASB95": "He who steals must steal no longer; but rather he must labor, performing with his own hands what is good, so that he will have something to share with one who has need.",
+              "NKJV": "Let him who stole steal no longer, but rather let him labor, working with his hands what is good, that he may have something to give him who has need.",
+              "DRB": "He that stole, let him now steal no more; but rather let him labour, working with his hands the thing which is good, that he may have something to give to him that suffereth need.",
+              "ESV": "Let the thief no longer steal, but rather let him labor, doing honest work with his own hands, so that he may have something to share with anyone in need."
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "Do not let any unwholesome talk come out of your mouths, but only what is helpful for building others up according to their needs, that it may benefit those who listen.",
+              "KJV": "Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers.",
+              "NASB95": "Let no unwholesome word proceed from your mouth, but only such a word as is good for edification according to the need of the moment, so that it will give grace to those who hear.",
+              "NKJV": "Let no corrupt word proceed out of your mouth, but what is good for necessary edification, that it may impart grace to the hearers.",
+              "DRB": "Let no evil speech proceed from your mouth; but that which is good, to the edification of faith, that it may administer grace to the hearers.",
+              "ESV": "Let no corrupting talk come out of your mouths, but only such as is good for building up, as fits the occasion, that it may give grace to those who hear."
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "And do not grieve the Holy Spirit of God, with whom you were sealed for the day of redemption.",
+              "KJV": "And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.",
+              "NASB95": "Do not grieve the Holy Spirit of God, by whom you were sealed for the day of redemption.",
+              "NKJV": "And do not grieve the Holy Spirit of God, by whom you were sealed for the day of redemption.",
+              "DRB": "And grieve not the holy Spirit of God: whereby you are sealed unto the day of redemption.",
+              "ESV": "And do not grieve the Holy Spirit of God, by whom you were sealed for the day of redemption."
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "Get rid of all bitterness, rage and anger, brawling and slander, along with every form of malice.",
+              "KJV": "Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:",
+              "NASB95": "Let all bitterness and wrath and anger and clamor and slander be put away from you, along with all malice.",
+              "NKJV": "Let all bitterness, wrath, anger, clamor, and evil speaking be put away from you, with all malice.",
+              "DRB": "Let all bitterness, and anger, and indignation, and clamour, and blasphemy, be put away from you, with all malice.",
+              "ESV": "Let all bitterness and wrath and anger and clamor and slander be put away from you, along with all malice."
+            }
+          },
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.",
+              "KJV": "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you.",
+              "NASB95": "Be kind to one another, tender-hearted, forgiving each other, just as God in Christ also has forgiven you.",
+              "NKJV": "And be kind to one another, tenderhearted, forgiving one another, even as God in Christ forgave you.",
+              "DRB": "And be ye kind one to another; merciful, forgiving one another, even as God hath forgiven you in Christ.",
+              "ESV": "Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1th_3_12_13",
+        "title": "",
+        "description": "",
+        "reference": {
+          "book": "1 Thessalonians",
+          "chapter": 3,
+          "start": 12,
+          "end": 13
+        },
+        "rows": [
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "May the Lord make your love increase and overflow for each other and for everyone else, just as ours does for you.",
+              "KJV": "And the Lord make you to increase and abound in love one toward another, and toward all men, even as we do toward you:",
+              "NASB95": "and may the Lord cause you to increase and abound in love for one another, and for all people, just as we also do for you;",
+              "NKJV": "And may the Lord make you increase and abound in love to one another and to all, just as we do to you,",
+              "DRB": "And may the Lord multiply you, and make you abound in charity towards one another, and towards all men: as we do also towards you,",
+              "ESV": "and may the Lord make you increase and abound in love for one another and for all, as we do for you,"
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "May he strengthen your hearts so that you will be blameless and holy in the presence of our God and Father when our Lord Jesus comes with all his holy ones.",
+              "KJV": "To the end he may stablish your hearts unblameable in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his saints.",
+              "NASB95": "so that He may establish your hearts without blame in holiness before our God and Father at the coming of our Lord Jesus with all His saints.",
+              "NKJV": "so that He may establish your hearts blameless in holiness before our God and Father at the coming of our Lord Jesus Christ with all His saints.",
+              "DRB": "To confirm your hearts without blame, in holiness, before God and our Father, at the coming of our Lord Jesus Christ, with all his saints. Amen.",
+              "ESV": "so that he may establish your hearts blameless in holiness before our God and Father, at the coming of our Lord Jesus with all his saints."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1th_4_9_12",
+        "title": "",
+        "description": "",
+        "reference": {
+          "book": "1 Thessalonians",
+          "chapter": 4,
+          "start": 9,
+          "end": 12
+        },
+        "rows": [
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Now about brotherly love we do not need to write to you, for you yourselves have been taught by God to love each other.",
+              "KJV": "But as touching brotherly love ye need not that I write unto you: for ye yourselves are taught of God to love one another.",
+              "NASB95": "Now as to the love of the brethren, you have no need for anyone to write to you, for you yourselves are taught by God to love one another;",
+              "NKJV": "But concerning brotherly love you have no need that I should write to you, for you yourselves are taught by God to love one another;",
+              "DRB": "But as touching the charity of brotherhood, we have no need to write to you: for yourselves have learned of God to love one another.",
+              "ESV": "Now concerning brotherly love you have no need for anyone to write to you, for you yourselves have been taught by God to love one another,"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "And in fact, you do love all the brothers throughout Macedonia. Yet we urge you, brothers, to do so more and more.",
+              "KJV": "And indeed ye do it toward all the brethren which are in all Macedonia: but we beseech you, brethren, that ye increase more and more;",
+              "NASB95": "for indeed you do practice it toward all the brethren who are in all Macedonia. But we urge you, brethren, to excel still more,",
+              "NKJV": "and indeed you do so toward all the brethren who are in all Macedonia. But we urge you, brethren, that you increase more and more;",
+              "DRB": "For indeed you do it towards all the brethren in all Macedonia. But we entreat you, brethren, that you abound more:",
+              "ESV": "for that indeed is what you are doing to all the brothers throughout Macedonia. But we urge you, brothers, to do this more and more,"
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Make it your ambition to lead a quiet life, to mind your own business and to work with your hands, just as we told you,",
+              "KJV": "And that ye study to be quiet, and to do your own business, and to work with your own hands, as we commanded you;",
+              "NASB95": "and to make it your ambition to lead a quiet life and attend to your own business and work with your hands, just as we commanded you,",
+              "NKJV": "that you also aspire to lead a quiet life, to mind your own business, and to work with your own hands, as we commanded you,",
+              "DRB": "And that you use your endeavour to be quiet, and that you do your own business, and work with your own hands, as we commanded you:",
+              "ESV": "and to aspire to live quietly, and to mind your own affairs, and to work with your hands, as we instructed you,"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "so that your daily life may win the respect of outsiders and so that you will not be dependent on anybody.",
+              "KJV": "That ye may walk honestly toward them that are without, and that ye may have lack of nothing.",
+              "NASB95": "so that you will behave properly toward outsiders and not be in any need.",
+              "NKJV": "that you may walk properly toward those who are outside, and that you may lack nothing.",
+              "DRB": "and that you walk honestly towards them that are without; and that you want nothing of any man's.",
+              "ESV": "so that you may walk properly before outsiders and be dependent on no one."
+            }
+          }
+        ]
+      },
+      {
+        "id": "heb_10_23_25",
+        "title": "",
+        "description": "",
+        "reference": {
+          "book": "Hebrews",
+          "chapter": 10,
+          "start": 23,
+          "end": 25
+        },
+        "rows": [
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "Let us hold unswervingly to the hope we profess, for he who promised is faithful.",
+              "KJV": "Let us hold fast the profession of our faith without wavering; (for he is faithful that promised;)",
+              "NASB95": "Let us hold fast the confession of our hope without wavering, for He who promised is faithful;",
+              "NKJV": "Let us hold fast the confession of our hope without wavering, for He who promised is faithful.",
+              "DRB": "Let us hold fast the confession of our hope without wavering (for he is faithful that hath promised),",
+              "ESV": "Let us hold fast the confession of our hope without wavering, for he who promised is faithful."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "And let us consider how we may spur one another on toward love and good deeds.",
+              "KJV": "And let us consider one another to provoke unto love and to good works:",
+              "NASB95": "and let us consider how to stimulate one another to love and good deeds,",
+              "NKJV": "And let us consider one another in order to stir up love and good works,",
+              "DRB": "And let us consider one another, to provoke unto charity and to good works:",
+              "ESV": "And let us consider how to stir up one another to love and good works,"
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "Let us not give up meeting together, as some are in the habit of doing, but let us encourage one another--and all the more as you see the Day approaching.",
+              "KJV": "Not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching.",
+              "NASB95": "not forsaking our own assembling together, as is the habit of some, but encouraging one another; and all the more as you see the day drawing near.",
+              "NKJV": "not forsaking the assembling of ourselves together, as is the manner of some, but exhorting one another, and so much the more as you see the Day approaching.",
+              "DRB": "Not forsaking our assembly, as some are accustomed; but comforting one another, and so much the more as you see the day approaching.",
+              "ESV": "not neglecting to meet together, as is the habit of some, but encouraging one another, and all the more as you see the Day drawing near."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1pe_1_22_25",
+        "title": "",
+        "description": "",
+        "reference": {
+          "book": "1 Peter",
+          "chapter": 1,
+          "start": 22,
+          "end": 25
+        },
+        "rows": [
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "Now that you have purified yourselves by obeying the truth so that you have sincere love for your brothers, love one another deeply, from the heart.",
+              "KJV": "Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, see that ye love one another with a pure heart fervently:",
+              "NASB95": "Since you have in obedience to the truth purified your souls for a sincere love of the brethren, fervently love one another from the heart,",
+              "NKJV": "Since you have purified your souls in obeying the truth through the Spirit in sincere love of the brethren, love one another fervently with a pure heart,",
+              "DRB": "Purifying your souls in the obedience of charity, with a brotherly love, from a sincere heart love one another earnestly:",
+              "ESV": "Having purified your souls by your obedience to the truth for a sincere brotherly love, love one another earnestly from a pure heart,"
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "For you have been born again, not of perishable seed, but of imperishable, through the living and enduring word of God.",
+              "KJV": "Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever.",
+              "NASB95": "for you have been born again not of seed which is perishable but imperishable, that is, through the living and enduring word of God.",
+              "NKJV": "having been born again, not of corruptible seed but incorruptible, through the word of God which lives and abides forever,",
+              "DRB": "Being born again not of corruptible seed, but incorruptible, by the word of God who liveth and remaineth for ever.",
+              "ESV": "since you have been born again, not of perishable seed but of imperishable, through the living and abiding word of God;"
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "For, \"All men are like grass, and all their glory is like the flowers of the field; the grass withers and the flowers fall,",
+              "KJV": "For all flesh is as grass, and all the glory of man as the flower of grass. The grass withereth, and the flower thereof falleth away:",
+              "NASB95": "For,\n\u201cAll flesh is like grass,\nAnd all its glory like the flower of grass.\nThe grass withers,\nAnd the flower falls off,",
+              "NKJV": "because\n\u201cAll flesh is as grass,\nAnd all the glory of man as the flower of the grass.\nThe grass withers,\nAnd its flower falls away,",
+              "DRB": "For all flesh is as grass; and all the glory thereof as the flower of grass. The grass is withered, and the flower thereof is fallen away.",
+              "ESV": "for\n\u201cAll flesh is like grass\n    and all its glory like the flower of grass.\nThe grass withers,\n    and the flower falls,"
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "but the word of the Lord stands forever.\" And this is the word that was preached to you.",
+              "KJV": "But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you.",
+              "NASB95": "But the word of the Lord endures forever.\u201d\nAnd this is the word which was preached to you.",
+              "NKJV": "But the word of the Lord endures forever.\u201d\nNow this is the word which by the gospel was preached to you.",
+              "DRB": "But the word of the Lord endureth for ever. And this is the word which by the gospel hath been preached unto you.",
+              "ESV": "but the word of the Lord remains forever.\u201d\nAnd this word is the good news that was preached to you."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1pe_3_8_9",
+        "title": "",
+        "description": "",
+        "reference": {
+          "book": "1 Peter",
+          "chapter": 3,
+          "start": 8,
+          "end": 9
+        },
+        "rows": [
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Finally, all of you, live in harmony with one another; be sympathetic, love as brothers, be compassionate and humble.",
+              "KJV": "Finally, be ye all of one mind, having compassion one of another, love as brethren, be pitiful, be courteous:",
+              "NASB95": "To sum up, all of you be harmonious, sympathetic, brotherly, kindhearted, and humble in spirit;",
+              "NKJV": "Finally, all of you be of one mind, having compassion for one another; love as brothers, be tenderhearted, be courteous;",
+              "DRB": "And in fine, be ye all of one mind, having compassion one of another, being lovers of the brotherhood, merciful, modest, humble:",
+              "ESV": "Finally, all of you, have unity of mind, sympathy, brotherly love, a tender heart, and a humble mind."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Do not repay evil with evil or insult with insult, but with blessing, because to this you were called so that you may inherit a blessing.",
+              "KJV": "Not rendering evil for evil, or railing for railing: but contrariwise blessing; knowing that ye are thereunto called, that ye should inherit a blessing.",
+              "NASB95": "not returning evil for evil or insult for insult, but giving a blessing instead; for you were called for the very purpose that you might inherit a blessing.",
+              "NKJV": "not returning evil for evil or reviling for reviling, but on the contrary blessing, knowing that you were called to this, that you may inherit a blessing.",
+              "DRB": "Not rendering evil for evil, nor railing for railing, but contrariwise, blessing: for unto this are you called, that you may inherit a blessing.",
+              "ESV": "Do not repay evil for evil or reviling for reviling, but on the contrary, bless, for to this you were called, that you may obtain a blessing."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1pe_4_7_9",
+        "title": "",
+        "description": "",
+        "reference": {
+          "book": "1 Peter",
+          "chapter": 4,
+          "start": 7,
+          "end": 9
+        },
+        "rows": [
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "The end of all things is near. Therefore be clear minded and self-controlled so that you can pray.",
+              "KJV": "But the end of all things is at hand: be ye therefore sober, and watch unto prayer.",
+              "NASB95": "The end of all things is near; therefore, be of sound judgment and sober spirit for the purpose of prayer.",
+              "NKJV": "But the end of all things is at hand; therefore be serious and watchful in your prayers.",
+              "DRB": "But the end of all is at hand. Be prudent therefore, and watch in prayers.",
+              "ESV": "The end of all things is at hand; therefore be self-controlled and sober-minded for the sake of your prayers."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Above all, love each other deeply, because love covers over a multitude of sins.",
+              "KJV": "And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins.",
+              "NASB95": "Above all, keep fervent in your love for one another, because love covers a multitude of sins.",
+              "NKJV": "And above all things have fervent love for one another, for \u201clove will cover a multitude of sins.\u201d",
+              "DRB": "But before all things have a constant mutual charity among yourselves: for charity covereth a multitude of sins.",
+              "ESV": "Above all, keep loving one another earnestly, since love covers a multitude of sins."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Offer hospitality to one another without grumbling.",
+              "KJV": "Use hospitality one to another without grudging.",
+              "NASB95": "Be hospitable to one another without complaint.",
+              "NKJV": "Be hospitable to one another without grumbling.",
+              "DRB": "Using hospitality one towards another, without murmuring,",
+              "ESV": "Show hospitality to one another without grumbling."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1pe_5_8_9",
+        "title": "",
+        "description": "",
+        "reference": {
+          "book": "1 Peter",
+          "chapter": 5,
+          "start": 8,
+          "end": 9
+        },
+        "rows": [
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Be self-controlled and alert. Your enemy the devil prowls around like a roaring lion looking for someone to devour.",
+              "KJV": "Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:",
+              "NASB95": "Be of sober spirit, be on the alert. Your adversary, the devil, prowls around like a roaring lion, seeking someone to devour.",
+              "NKJV": "Be sober, be vigilant; because your adversary the devil walks about like a roaring lion, seeking whom he may devour.",
+              "DRB": "Be sober and watch: because your adversary the devil, as a roaring lion, goeth about seeking whom he may devour.",
+              "ESV": "Be sober-minded; be watchful. Your adversary the devil prowls around like a roaring lion, seeking someone to devour."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Resist him, standing firm in the faith, because you know that your brothers throughout the world are undergoing the same kind of sufferings.",
+              "KJV": "Whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world.",
+              "NASB95": "But resist him, firm in your faith, knowing that the same experiences of suffering are being accomplished by your brethren who are in the world.",
+              "NKJV": "Resist him, steadfast in the faith, knowing that the same sufferings are experienced by your brotherhood in the world.",
+              "DRB": "Whom resist ye, strong in faith: knowing that the same affliction befalls your brethren who are in the world.",
+              "ESV": "Resist him, firm in your faith, knowing that the same kinds of suffering are being experienced by your brotherhood throughout the world."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1jn_3_1_3",
+        "title": "",
+        "description": "",
+        "reference": {
+          "book": "1 John",
+          "chapter": 3,
+          "start": 1,
+          "end": 3
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "How great is the love the Father has lavished on us, that we should be called children of God! And that is what we are! The reason the world does not know us is that it did not know him.",
+              "KJV": "Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.",
+              "NASB95": "See how great a love the Father has bestowed on us, that we would be called children of God; and such we are. For this reason the world does not know us, because it did not know Him.",
+              "NKJV": "Behold what manner of love the Father has bestowed on us, that we should be called children of God! Therefore the world does not know us, because it did not know Him.",
+              "DRB": "Behold what manner of charity the Father hath bestowed upon us, that we should be called, and should be the sons of God. Therefore the world knoweth not us, because it knew not him.",
+              "ESV": "See what kind of love the Father has given to us, that we should be called children of God; and so we are. The reason why the world does not know us is that it did not know him."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Dear friends, now we are children of God, and what we will be has not yet been made known. But we know that when he appears, we shall be like him, for we shall see him as he is.",
+              "KJV": "Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is.",
+              "NASB95": "Beloved, now we are children of God, and it has not appeared as yet what we will be. We know that when He appears, we will be like Him, because we will see Him just as He is.",
+              "NKJV": "Beloved, now we are children of God; and it has not yet been revealed what we shall be, but we know that when He is revealed, we shall be like Him, for we shall see Him as He is.",
+              "DRB": "Dearly beloved, we are now the sons of God; and it hath not yet appeared what we shall be. We know, that, when he shall appear, we shall be like to him: because we shall see him as he is.",
+              "ESV": "Beloved, we are God's children now, and what we will be has not yet appeared; but we know that when he appears we shall be like him, because we shall see him as he is."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "Everyone who has this hope in him purifies himself, just as he is pure.",
+              "KJV": "And every man that hath this hope in him purifieth himself, even as he is pure.",
+              "NASB95": "And everyone who has this hope fixed on Him purifies himself, just as He is pure.",
+              "NKJV": "And everyone who has this hope in Him purifies himself, just as He is pure.",
+              "DRB": "And every one that hath this hope in him, sanctifieth himself, as he also is holy.",
+              "ESV": "And everyone who thus hopes in him purifies himself as he is pure."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1jn_3_10_15",
+        "title": "",
+        "description": "",
+        "reference": {
+          "book": "1 John",
+          "chapter": 3,
+          "start": 10,
+          "end": 15
+        },
+        "rows": [
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "This is how we know who the children of God are and who the children of the devil are: Anyone who does not do what is right is not a child of God; nor is anyone who does not love his brother.",
+              "KJV": "In this the children of God are manifest, and the children of the devil: whosoever doeth not righteousness is not of God, neither he that loveth not his brother.",
+              "NASB95": "By this the children of God and the children of the devil are obvious: anyone who does not practice righteousness is not of God, nor the one who does not love his brother.",
+              "NKJV": "In this the children of God and the children of the devil are manifest: Whoever does not practice righteousness is not of God, nor is he who does not love his brother.",
+              "DRB": "In this the children of God are manifest, and the children of the devil. Whosoever is not just, is not of God, nor he that loveth not his brother.",
+              "ESV": "By this it is evident who are the children of God, and who are the children of the devil: whoever does not practice righteousness is not of God, nor is the one who does not love his brother."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "This is the message you heard from the beginning: We should love one another.",
+              "KJV": "For this is the message that ye heard from the beginning, that we should love one another.",
+              "NASB95": "For this is the message which you have heard from the beginning, that we should love one another;",
+              "NKJV": "For this is the message that you heard from the beginning, that we should love one another,",
+              "DRB": "For this is the declaration, which you have heard from the beginning, that you should love one another.",
+              "ESV": "For this is the message that you have heard from the beginning, that we should love one another."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Do not be like Cain, who belonged to the evil one and murdered his brother. And why did he murder him? Because his own actions were evil and his brother's were righteous.",
+              "KJV": "Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother's righteous.",
+              "NASB95": "not as Cain, who was of the evil one and slew his brother. And for what reason did he slay him? Because his deeds were evil, and his brother\u2019s were righteous.",
+              "NKJV": "not as Cain who was of the wicked one and murdered his brother. And why did he murder him? Because his works were evil and his brother\u2019s righteous.",
+              "DRB": "Not as Cain, who was of the wicked one, and killed his brother. And wherefore did he kill him? Because his own works were wicked: and his brother's just.",
+              "ESV": "We should not be like Cain, who was of the evil one and murdered his brother. And why did he murder him? Because his own deeds were evil and his brother's righteous."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Do not be surprised, my brothers, if the world hates you.",
+              "KJV": "Marvel not, my brethren, if the world hate you.",
+              "NASB95": "Do not be surprised, brethren, if the world hates you.",
+              "NKJV": "Do not marvel, my brethren, if the world hates you.",
+              "DRB": "Wonder not, brethren, if the world hate you.",
+              "ESV": "Do not be surprised, brothers, that the world hates you."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "We know that we have passed from death to life, because we love our brothers. Anyone who does not love remains in death.",
+              "KJV": "We know that we have passed from death unto life, because we love the brethren. He that loveth not his brother abideth in death.",
+              "NASB95": "We know that we have passed out of death into life, because we love the brethren. He who does not love abides in death.",
+              "NKJV": "We know that we have passed from death to life, because we love the brethren. He who does not love his brother abides in death.",
+              "DRB": "We know that we have passed from death to life, because we love the brethren. He that loveth not, abideth in death.",
+              "ESV": "We know that we have passed out of death into life, because we love the brothers. Whoever does not love abides in death."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Anyone who hates his brother is a murderer, and you know that no murderer has eternal life in him.",
+              "KJV": "Whosoever hateth his brother is a murderer: and ye know that no murderer hath eternal life abiding in him.",
+              "NASB95": "Everyone who hates his brother is a murderer; and you know that no murderer has eternal life abiding in him.",
+              "NKJV": "Whoever hates his brother is a murderer, and you know that no murderer has eternal life abiding in him.",
+              "DRB": "Whosoever hateth his brother is a murderer. And you know that no murderer hath eternal life abiding in himself.",
+              "ESV": "Everyone who hates his brother is a murderer, and you know that no murderer has eternal life abiding in him."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1jn_3_18",
+        "title": "",
+        "description": "",
+        "reference": {
+          "book": "1 John",
+          "chapter": 3,
+          "start": 18,
+          "end": 18
+        },
+        "rows": [
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "Dear children, let us not love with words or tongue but with actions and in truth.",
+              "KJV": "My little children, let us not love in word, neither in tongue; but in deed and in truth.",
+              "NASB95": "Little children, let us not love with word or with tongue, but in deed and truth.",
+              "NKJV": "My little children, let us not love in word or in tongue, but in deed and in truth.",
+              "DRB": "My little children, let us not love in word, nor in tongue, but in deed, and in truth.",
+              "ESV": "Little children, let us not love in word or talk but in deed and in truth."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1jn_3_23",
+        "title": "",
+        "description": "",
+        "reference": {
+          "book": "1 John",
+          "chapter": 3,
+          "start": 23,
+          "end": 23
+        },
+        "rows": [
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "And this is his command: to believe in the name of his Son, Jesus Christ, and to love one another as he commanded us.",
+              "KJV": "And this is his commandment, That we should believe on the name of his Son Jesus Christ, and love one another, as he gave us commandment.",
+              "NASB95": "This is His commandment, that we believe in the name of His Son Jesus Christ, and love one another, just as He commanded us.",
+              "NKJV": "And this is His commandment: that we should believe on the name of His Son Jesus Christ and love one another, as He gave us commandment.",
+              "DRB": "And this is his commandment, that we should believe in the name of his Son Jesus Christ: and love one another, as he hath given commandment unto us.",
+              "ESV": "And this is his commandment, that we believe in the name of his Son Jesus Christ and love one another, just as he has commanded us."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1jn_4_7_11",
+        "title": "",
+        "description": "",
+        "reference": {
+          "book": "1 John",
+          "chapter": 4,
+          "start": 7,
+          "end": 11
+        },
+        "rows": [
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Dear friends, let us love one another, for love comes from God. Everyone who loves has been born of God and knows God.",
+              "KJV": "Beloved, let us love one another: for love is of God; and every one that loveth is born of God, and knoweth God.",
+              "NASB95": "Beloved, let us love one another, for love is from God; and everyone who loves is born of God and knows God.",
+              "NKJV": "Beloved, let us love one another, for love is of God; and everyone who loves is born of God and knows God.",
+              "DRB": "Dearly beloved, let us love one another, for charity is of God. And every one that loveth, is born of God, and knoweth God.",
+              "ESV": "Beloved, let us love one another, for love is from God, and whoever loves has been born of God and knows God."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Whoever does not love does not know God, because God is love.",
+              "KJV": "He that loveth not knoweth not God; for God is love.",
+              "NASB95": "The one who does not love does not know God, for God is love.",
+              "NKJV": "He who does not love does not know God, for God is love.",
+              "DRB": "He that loveth not, knoweth not God: for God is charity.",
+              "ESV": "Anyone who does not love does not know God, because God is love."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "This is how God showed his love among us: He sent his one and only Son into the world that we might live through him.",
+              "KJV": "In this was manifested the love of God toward us, because that God sent his only begotten Son into the world, that we might live through him.",
+              "NASB95": "By this the love of God was manifested in us, that God has sent His only begotten Son into the world so that we might live through Him.",
+              "NKJV": "In this the love of God was manifested toward us, that God has sent His only begotten Son into the world, that we might live through Him.",
+              "DRB": "By this hath the charity of God appeared towards us, because God hath sent his only begotten Son into the world, that we may live by him.",
+              "ESV": "In this the love of God was made manifest among us, that God sent his only Son into the world, so that we might live through him."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "This is love: not that we loved God, but that he loved us and sent his Son as an atoning sacrifice for our sins.",
+              "KJV": "Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins.",
+              "NASB95": "In this is love, not that we loved God, but that He loved us and sent His Son to be the propitiation for our sins.",
+              "NKJV": "In this is love, not that we loved God, but that He loved us and sent His Son to be the propitiation for our sins.",
+              "DRB": "In this is charity: not as though we had loved God, but because he hath first loved us, and sent his Son to be a propitiation for our sins.",
+              "ESV": "In this is love, not that we have loved God but that he loved us and sent his Son to be the propitiation for our sins."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Dear friends, since God so loved us, we also ought to love one another.",
+              "KJV": "Beloved, if God so loved us, we ought also to love one another.",
+              "NASB95": "Beloved, if God so loved us, we also ought to love one another.",
+              "NKJV": "Beloved, if God so loved us, we also ought to love one another.",
+              "DRB": "My dearest, if God hath so loved us; we also ought to love one another.",
+              "ESV": "Beloved, if God so loved us, we also ought to love one another."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1jn_4_12_14",
+        "title": "",
+        "description": "",
+        "reference": {
+          "book": "1 John",
+          "chapter": 4,
+          "start": 12,
+          "end": 14
+        },
+        "rows": [
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "No one has ever seen God; but if we love one another, God lives in us and his love is made complete in us.",
+              "KJV": "No man hath seen God at any time. If we love one another, God dwelleth in us, and his love is perfected in us.",
+              "NASB95": "No one has seen God at any time; if we love one another, God abides in us, and His love is perfected in us.",
+              "NKJV": "No one has seen God at any time. If we love one another, God abides in us, and His love has been perfected in us.",
+              "DRB": "No man hath seen God at any time. If we love one another, God abideth in us, and his charity is perfected in us.",
+              "ESV": "No one has ever seen God; if we love one another, God abides in us and his love is perfected in us."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "We know that we live in him and he in us, because he has given us of his Spirit.",
+              "KJV": "Hereby know we that we dwell in him, and he in us, because he hath given us of his Spirit.",
+              "NASB95": "By this we know that we abide in Him and He in us, because He has given us of His Spirit.",
+              "NKJV": "By this we know that we abide in Him, and He in us, because He has given us of His Spirit.",
+              "DRB": "In this we know that we abide in him, and he in us: because he hath given us of his spirit.",
+              "ESV": "By this we know that we abide in him and he in us, because he has given us of his Spirit."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "And we have seen and testify that the Father has sent his Son to be the Savior of the world.",
+              "KJV": "And we have seen and do testify that the Father sent the Son to be the Saviour of the world.",
+              "NASB95": "We have seen and testify that the Father has sent the Son to be the Savior of the world.",
+              "NKJV": "And we have seen and testify that the Father has sent the Son as Savior of the world.",
+              "DRB": "And we have seen, and do testify, that the Father hath sent his Son to be the Saviour of the world.",
+              "ESV": "And we have seen and testify that the Father has sent his Son to be the Savior of the world."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1jn_4_17_19",
+        "title": "",
+        "description": "",
+        "reference": {
+          "book": "1 John",
+          "chapter": 4,
+          "start": 17,
+          "end": 19
+        },
+        "rows": [
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "In this way, love is made complete among us so that we will have confidence on the day of judgment, because in this world we are like him.",
+              "KJV": "Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world.",
+              "NASB95": "By this, love is perfected with us, so that we may have confidence in the day of judgment; because as He is, so also are we in this world.",
+              "NKJV": "Love has been perfected among us in this: that we may have boldness in the day of judgment; because as He is, so are we in this world.",
+              "DRB": "In this is the charity of God perfected with us, that we may have confidence in the day of judgment: because as he is, we also are in this world.",
+              "ESV": "By this is love perfected with us, so that we may have confidence for the day of judgment, because as he is so also are we in this world."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "There is no fear in love. But perfect love drives out fear, because fear has to do with punishment. The one who fears is not made perfect in love.",
+              "KJV": "There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.",
+              "NASB95": "There is no fear in love; but perfect love casts out fear, because fear involves punishment, and the one who fears is not perfected in love.",
+              "NKJV": "There is no fear in love; but perfect love casts out fear, because fear involves torment. But he who fears has not been made perfect in love.",
+              "DRB": "Fear is not in charity: but perfect charity casteth out fear, because fear hath pain. And he that feareth, is not perfected in charity.",
+              "ESV": "There is no fear in love, but perfect love casts out fear. For fear has to do with punishment, and whoever fears has not been perfected in love."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "We love because he first loved us.",
+              "KJV": "We love him, because he first loved us.",
+              "NASB95": "We love, because He first loved us.",
+              "NKJV": "We love Him because He first loved us.",
+              "DRB": "Let us therefore love God, because God first hath loved us.",
+              "ESV": "We love because he first loved us."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1jn_4_20_21",
+        "title": "",
+        "description": "",
+        "reference": {
+          "book": "1 John",
+          "chapter": 4,
+          "start": 20,
+          "end": 21
+        },
+        "rows": [
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "If anyone says, \"I love God,\" yet hates his brother, he is a liar. For anyone who does not love his brother, whom he has seen, cannot love God, whom he has not seen.",
+              "KJV": "If a man say, I love God, and hateth his brother, he is a liar: for he that loveth not his brother whom he hath seen, how can he love God whom he hath not seen?",
+              "NASB95": "If someone says, \u201cI love God,\u201d and hates his brother, he is a liar; for the one who does not love his brother whom he has seen, cannot love God whom he has not seen.",
+              "NKJV": "If someone says, \u201cI love God,\u201d and hates his brother, he is a liar; for he who does not love his brother whom he has seen, how can he love God whom he has not seen?",
+              "DRB": "If any man say, I love God, and hateth his brother; he is a liar. For he that loveth not his brother, whom he seeth, how can he love God, whom he seeth not?",
+              "ESV": "If anyone says, \u201cI love God,\u201d and hates his brother, he is a liar; for he who does not love his brother whom he has seen cannot love God whom he has not seen."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "And he has given us this command: Whoever loves God must also love his brother.",
+              "KJV": "And this commandment have we from him, That he who loveth God love his brother also.",
+              "NASB95": "And this commandment we have from Him, that the one who loves God should love his brother also.",
+              "NKJV": "And this commandment we have from Him: that he who loves God must love his brother also.",
+              "DRB": "And this commandment we have from God, that he, who loveth God, love also his brother.",
+              "ESV": "And this commandment we have from him: whoever loves God must also love his brother."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
