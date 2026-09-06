@@ -217,14 +217,157 @@
         ]
       },
       {
-        "id": "isa_49_14",
-        "title": "Zion as a Bride",
+        "id": "isa_49_1_13",
+        "title": "The Servant",
+        "description": "",
+        "reference": {
+          "book": "Isaiah",
+          "chapter": 49,
+          "start": 1,
+          "end": 13
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Listen to me, you islands; hear this, you distant nations: Before I was born the LORD called me; from my birth he has made mention of my name.",
+              "KJV": "Listen, O isles, unto me; and hearken, ye people, from far; The Lord hath called me from the womb; from the bowels of my mother hath he made mention of my name.",
+              "NASB95": "Listen to Me, O islands,\nAnd pay attention, you peoples from afar.\nThe Lord called Me from the womb;\nFrom the body of My mother He named Me.",
+              "NKJV": "\u201cListen, O coastlands, to Me,\nAnd take heed, you peoples from afar!\nThe Lord has called Me from the womb;\nFrom the matrix of My mother He has made mention of My name.",
+              "DRB": "GIVE ear, ye islands, and hearken, ye people from afar. The Lord hath called me from the womb, from the bowels of my mother he hath been mindful of my name."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "He made my mouth like a sharpened sword, in the shadow of his hand he hid me; he made me into a polished arrow and concealed me in his quiver.",
+              "KJV": "And he hath made my mouth like a sharp sword; in the shadow of his hand hath he hid me, and made me a polished shaft; in his quiver hath he hid me;",
+              "NASB95": "He has made My mouth like a sharp sword,\nIn the shadow of His hand He has concealed Me;\nAnd He has also made Me a select arrow,\nHe has hidden Me in His quiver.",
+              "NKJV": "And He has made My mouth like a sharp sword;\nIn the shadow of His hand He has hidden Me,\nAnd made Me a polished shaft;\nIn His quiver He has hidden Me.\u201d",
+              "DRB": "And he hath made my mouth like a sharp sword: in the shadow of his hand he hath protected me, and hath made me as a chosen arrow: in his quiver he hath hidden me."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "He said to me, \"You are my servant, Israel, in whom I will display my splendor.\"",
+              "KJV": "And said unto me, Thou art my servant, O Israel, in whom I will be glorified.",
+              "NASB95": "He said to Me, \u201cYou are My Servant, Israel,\nIn Whom I will show My glory.\u201d",
+              "NKJV": "\u201cAnd He said to me,\n\u2018You are My servant, O Israel,\nIn whom I will be glorified.\u2019",
+              "DRB": "And he said to me: Thou art my servant Israel, for in thee will I glory."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "But I said, \"I have labored to no purpose; I have spent my strength in vain and for nothing. Yet what is due me is in the LORD's hand, and my reward is with my God.\"",
+              "KJV": "Then I said, I have laboured in vain, I have spent my strength for nought, and in vain: yet surely my judgment is with the Lord, and my work with my God.",
+              "NASB95": "But I said, \u201cI have toiled in vain,\nI have spent My strength for nothing and vanity;\nYet surely the justice due to Me is with the Lord,\nAnd My reward with My God.\u201d",
+              "NKJV": "Then I said, \u2018I have labored in vain,\nI have spent my strength for nothing and in vain;\nYet surely my just reward is with the Lord,\nAnd my work with my God.\u2019 \u201d",
+              "DRB": "And I said: I have laboured in vain, I have spent my strength without cause and in vain: therefore my judgment is with the Lord, and my work with my God."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "And now the LORD says- he who formed me in the womb to be his servant to bring Jacob back to him and gather Israel to himself, for I am honored in the eyes of the LORD and my God has been my strength-",
+              "KJV": "And now, saith the Lord that formed me from the womb to be his servant, to bring Jacob again to him, Though Israel be not gathered, yet shall I be glorious in the eyes of the Lord, and my God shall be my strength.",
+              "NASB95": "And now says the Lord, who formed Me from the womb to be His Servant,\nTo bring Jacob back to Him, so that Israel might be gathered to Him\n(For I am honored in the sight of the Lord,\nAnd My God is My strength),",
+              "NKJV": "\u201cAnd now the Lord says,\nWho formed Me from the womb to be His Servant,\nTo bring Jacob back to Him,\nSo that Israel is gathered to Him\n(For I shall be glorious in the eyes of the Lord,\nAnd My God shall be My strength),",
+              "DRB": "And now saith the Lord, that formed me from the womb to be his servant, that I may bring back Jacob unto him, and Israel will not be gathered together: and I am glorified in the eyes of the Lord, and my God is made my strength."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "he says: \"It is too small a thing for you to be my servant to restore the tribes of Jacob and bring back those of Israel I have kept. I will also make you a light for the Gentiles, that you may bring my salvation to the ends of the earth.\"",
+              "KJV": "And he said, It is a light thing that thou shouldest be my servant to raise up the tribes of Jacob, and to restore the preserved of Israel: I will also give thee for a light to the Gentiles, that thou mayest be my salvation unto the end of the earth.",
+              "NASB95": "He says, \u201cIt is too small a thing that You should be My Servant\nTo raise up the tribes of Jacob and to restore the preserved ones of Israel;\nI will also make You a light of the nations\nSo that My salvation may reach to the end of the earth.\u201d",
+              "NKJV": "Indeed He says,\n\u2018It is too small a thing that You should be My Servant\nTo raise up the tribes of Jacob,\nAnd to restore the preserved ones of Israel;\nI will also give You as a light to the Gentiles,\nThat You should be My salvation to the ends of the earth.\u2019 \u201d",
+              "DRB": "And he said: It is a small thing that thou shouldst be my servant to raise up the tribes of Jacob, and to convert the dregs of Israel. Behold, I have given thee to be the light of the Gentiles, that thou mayst be my salvation even to the farthest part of the earth."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "This is what the LORD says- the Redeemer and Holy One of Israel- to him who was despised and abhorred by the nation, to the servant of rulers: \"Kings will see you and rise up, princes will see and bow down, because of the LORD, who is faithful, the Holy One of Israel, who has chosen you.\"",
+              "KJV": "Thus saith the Lord, the Redeemer of Israel, and his Holy One, to him whom man despiseth, to him whom the nation abhorreth, to a servant of rulers, Kings shall see and arise, princes also shall worship, because of the Lord that is faithful, and the Holy One of Israel, and he shall choose thee.",
+              "NASB95": "Thus says the Lord, the Redeemer of Israel and its Holy One,\nTo the despised One,\nTo the One abhorred by the nation,\nTo the Servant of rulers,\n\u201cKings will see and arise,\nPrinces will also bow down,\nBecause of the Lord who is faithful, the Holy One of Israel who has chosen You.\u201d",
+              "NKJV": "Thus says the Lord,\nThe Redeemer of Israel, their Holy One,\nTo Him whom man despises,\nTo Him whom the nation abhors,\nTo the Servant of rulers:\n\u201cKings shall see and arise,\nPrinces also shall worship,\nBecause of the Lord who is faithful,\nThe Holy One of Israel;\nAnd He has chosen You.\u201d",
+              "DRB": "Thus saith the Lord the redeemer of Israel, his Holy One, to the soul that is despised, to the nation that is abhorred, to the servant of rulers: Kings shall see, end princes shall rise up, and adore for the Lord's sake, because he is faithful, and for the Holy One of Israel, who hath chosen thee."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "This is what the LORD says: \"In the time of my favor I will answer you, and in the day of salvation I will help you; I will keep you and will make you to be a covenant for the people, to restore the land and to reassign its desolate inheritances,",
+              "KJV": "Thus saith the Lord, In an acceptable time have I heard thee, and in a day of salvation have I helped thee: and I will preserve thee, and give thee for a covenant of the people, to establish the earth, to cause to inherit the desolate heritages;",
+              "NASB95": "Thus says the Lord,\n\u201cIn a favorable time I have answered You,\nAnd in a day of salvation I have helped You;\nAnd I will keep You and give You for a covenant of the people,\nTo restore the land, to make them inherit the desolate heritages;",
+              "NKJV": "Thus says the Lord:\n\u201cIn an acceptable time I have heard You,\nAnd in the day of salvation I have helped You;\nI will preserve You and give You\nAs a covenant to the people,\nTo restore the earth,\nTo cause them to inherit the desolate heritages;",
+              "DRB": "Thus saith the Lord: In an acceptable time I have heard thee, and in the day of salvation I have helped thee: and I have preserved thee, and given thee to be a covenant of the people, that thou mightest raise up the earth, and possess the inheritances that were destroyed:"
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "to say to the captives, 'Come out,' and to those in darkness, 'Be free!'\"They will feed beside the roads and find pasture on every barren hill.",
+              "KJV": "That thou mayest say to the prisoners, Go forth; to them that are in darkness, Shew yourselves. They shall feed in the ways, and their pastures shall be in all high places.",
+              "NASB95": "Saying to those who are bound, \u2018Go forth,\u2019\nTo those who are in darkness, \u2018Show yourselves.\u2019\nAlong the roads they will feed,\nAnd their pasture will be on all bare heights.",
+              "NKJV": "That You may say to the prisoners, \u2018Go forth,\u2019\nTo those who are in darkness, \u2018Show yourselves.\u2019 \n\u201cThey shall feed along the roads,\nAnd their pastures shall be on all desolate heights.",
+              "DRB": "That thou mightest say to them that are bound: Come forth: and to them that are in darkness: Shew yourselves. They shall feed in the ways, and their pastures shall be in every plain."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "They will neither hunger nor thirst, nor will the desert heat or the sun beat upon them. He who has compassion on them will guide them and lead them beside springs of water.",
+              "KJV": "They shall not hunger nor thirst; neither shall the heat nor sun smite them: for he that hath mercy on them shall lead them, even by the springs of water shall he guide them.",
+              "NASB95": "\u201cThey will not hunger or thirst,\nNor will the scorching heat or sun strike them down;\nFor He who has compassion on them will lead them\nAnd will guide them to springs of water.",
+              "NKJV": "They shall neither hunger nor thirst,\nNeither heat nor sun shall strike them;\nFor He who has mercy on them will lead them,\nEven by the springs of water He will guide them.",
+              "DRB": "They shall not hunger, nor thirst, neither shall the heat nor the sun strike them: for he that is merciful to them, shall be their shepherd, and at the fountains of waters he shall give them drink."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "I will turn all my mountains into roads, and my highways will be raised up.",
+              "KJV": "And I will make all my mountains a way, and my highways shall be exalted.",
+              "NASB95": "\u201cI will make all My mountains a road,\nAnd My highways will be raised up.",
+              "NKJV": "I will make each of My mountains a road,\nAnd My highways shall be elevated.",
+              "DRB": "And I will make all my mountains a way, and my paths shall be exalted."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "See, they will come from afar- some from the north, some from the west, some from the region of Aswan. \"",
+              "KJV": "Behold, these shall come from far: and, lo, these from the north and from the west; and these from the land of Sinim.",
+              "NASB95": "\u201cBehold, these will come from afar;\nAnd lo, these will come from the north and from the west,\nAnd these from the land of Sinim.\u201d",
+              "NKJV": "Surely these shall come from afar;\nLook! Those from the north and the west,\nAnd these from the land of Sinim.\u201d",
+              "DRB": "Behold these shall come from afar, and behold these from the north and from the sea, and these from the south country."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Shout for joy, O heavens; rejoice, O earth; burst into song, O mountains! For the LORD comforts his people and will have compassion on his afflicted ones.",
+              "KJV": "Sing, O heavens; and be joyful, O earth; and break forth into singing, O mountains: for the Lord hath comforted his people, and will have mercy upon his afflicted.",
+              "NASB95": "Shout for joy, O heavens! And rejoice, O earth!\nBreak forth into joyful shouting, O mountains!\nFor the Lord has comforted His people\nAnd will have compassion on His afflicted.",
+              "NKJV": "Sing, O heavens!\nBe joyful, O earth!\nAnd break out in singing, O mountains!\nFor the Lord has comforted His people,\nAnd will have mercy on His afflicted.",
+              "DRB": "Give praise, O ye heavens, and rejoice, O earth, ye mountains, give praise with jubilation: because the Lord hath comforted his people, and will have mercy on his poor ones."
+            }
+          }
+        ]
+      },
+      {
+        "id": "isa_49_14_26",
+        "title": "God Will Remember Zion",
         "description": "",
         "reference": {
           "book": "Isaiah",
           "chapter": 49,
           "start": 14,
-          "end": 14
+          "end": 26
         },
         "rows": [
           {
@@ -235,6 +378,126 @@
               "NASB95": "But Zion said, \u201cThe Lord has forsaken me,\nAnd the Lord has forgotten me.\u201d",
               "NKJV": "But Zion said, \u201cThe Lord has forsaken me,\nAnd my Lord has forgotten me.\u201d",
               "DRB": "And Sion said: The Lord hath forsaken me, and the Lord hath forgotten me."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "\"Can a mother forget the baby at her breast and have no compassion on the child she has borne? Though she may forget, I will not forget you!",
+              "KJV": "Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee.",
+              "NASB95": "\u201cCan a woman forget her nursing child\nAnd have no compassion on the son of her womb?\nEven these may forget, but I will not forget you.",
+              "NKJV": "\u201cCan a woman forget her nursing child,\nAnd not have compassion on the son of her womb?\nSurely they may forget,\nYet I will not forget you.",
+              "DRB": "Can a woman forget her infant, so as not to have pity on the son of her womb? and if she should forget, yet will not I forget thee."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "See, I have engraved you on the palms of my hands; your walls are ever before me.",
+              "KJV": "Behold, I have graven thee upon the palms of my hands; thy walls are continually before me.",
+              "NASB95": "\u201cBehold, I have inscribed you on the palms of My hands;\nYour walls are continually before Me.",
+              "NKJV": "See, I have inscribed you on the palms of My hands;\nYour walls are continually before Me.",
+              "DRB": "Behold, I have graven thee in my hands: thy walls are always before my eyes."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "Your sons hasten back, and those who laid you waste depart from you.",
+              "KJV": "Thy children shall make haste; thy destroyers and they that made thee waste shall go forth of thee.",
+              "NASB95": "\u201cYour builders hurry;\nYour destroyers and devastators\nWill depart from you.",
+              "NKJV": "Your sons shall make haste;\nYour destroyers and those who laid you waste\nShall go away from you.",
+              "DRB": "Thy builders are come: they that destroy thee and make thee waste shall go out of thee."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "Lift up your eyes and look around; all your sons gather and come to you. As surely as I live,\" declares the LORD, \"you will wear them all as ornaments; you will put them on, like a bride.",
+              "KJV": "Lift up thine eyes round about, and behold: all these gather themselves together, and come to thee. As I live, saith the Lord, thou shalt surely clothe thee with them all, as with an ornament, and bind them on thee, as a bride doeth.",
+              "NASB95": "\u201cLift up your eyes and look around;\nAll of them gather together, they come to you.\nAs I live,\u201d declares the Lord,\n\u201cYou will surely put on all of them as jewels and bind them on as a bride.",
+              "NKJV": "Lift up your eyes, look around and see;\nAll these gather together and come to you.\nAs I live,\u201d says the Lord,\n\u201cYou shall surely clothe yourselves with them all as an ornament,\nAnd bind them on you as a bride does.",
+              "DRB": "Lift up thy eyes round about, and see all these are gathered together, they are come to thee: I live, saith the Lord, thou shalt be clothed with all these se with an ornament, and as a bride thou shalt put them about thee."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "\"Though you were ruined and made desolate and your land laid waste, now you will be too small for your people, and those who devoured you will be far away.",
+              "KJV": "For thy waste and thy desolate places, and the land of thy destruction, shall even now be too narrow by reason of the inhabitants, and they that swallowed thee up shall be far away.",
+              "NASB95": "\u201cFor your waste and desolate places and your destroyed land\u2014\nSurely now you will be too cramped for the inhabitants,\nAnd those who swallowed you will be far away.",
+              "NKJV": "\u201cFor your waste and desolate places,\nAnd the land of your destruction,\nWill even now be too small for the inhabitants;\nAnd those who swallowed you up will be far away.",
+              "DRB": "For thy deserts, and thy desolate places, and the land of thy destruction shall now be too narrow by reason of the inhabitants, end they that swallowed thee up shall be chased far away."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "The children born during your bereavement will yet say in your hearing, 'This place is too small for us; give us more space to live in.'",
+              "KJV": "The children which thou shalt have, after thou hast lost the other, shall say again in thine ears, The place is too strait for me: give place to me that I may dwell.",
+              "NASB95": "\u201cThe children of whom you were bereaved will yet say in your ears,\n\u2018The place is too cramped for me;\nMake room for me that I may live here.\u2019",
+              "NKJV": "The children you will have,\nAfter you have lost the others,\nWill say again in your ears,\n\u2018The place is too small for me;\nGive me a place where I may dwell.\u2019",
+              "DRB": "The children of thy barrenness shall still say in thy ears: The place is too strait for me, make me room to dwell in."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "Then you will say in your heart, 'Who bore me these? I was bereaved and barren; I was exiled and rejected. Who brought these up? I was left all alone, but these-where have they come from?'\"",
+              "KJV": "Then shalt thou say in thine heart, Who hath begotten me these, seeing I have lost my children, and am desolate, a captive, and removing to and fro? and who hath brought up these? Behold, I was left alone; these, where had they been?",
+              "NASB95": "\u201cThen you will say in your heart,\n\u2018Who has begotten these for me,\nSince I have been bereaved of my children\nAnd am barren, an exile and a wanderer?\nAnd who has reared these?\nBehold, I was left alone;\nFrom where did these come?\u2019\u201d",
+              "NKJV": "Then you will say in your heart,\n\u2018Who has begotten these for me,\nSince I have lost my children and am desolate,\nA captive, and wandering to and fro?\nAnd who has brought these up?\nThere I was, left alone;\nBut these, where were they?\u2019 \u201d",
+              "DRB": "And thou shalt say in thy heart: Who hath begotten these? I was barren and brought not forth, led away, and captive: and who hath brought up these? I was destitute and alone: and these, where were they?"
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "This is what the Sovereign LORD says: \"See, I will beckon to the Gentiles, I will lift up my banner to the peoples; they will bring your sons in their arms and carry your daughters on their shoulders.",
+              "KJV": "Thus saith the Lord God, Behold, I will lift up mine hand to the Gentiles, and set up my standard to the people: and they shall bring thy sons in their arms, and thy daughters shall be carried upon their shoulders.",
+              "NASB95": "Thus says the Lord God,\n\u201cBehold, I will lift up My hand to the nations\nAnd set up My standard to the peoples;\nAnd they will bring your sons in their bosom,\nAnd your daughters will be carried on their shoulders.",
+              "NKJV": "Thus says the Lord God:\n\u201cBehold, I will lift My hand in an oath to the nations,\nAnd set up My standard for the peoples;\nThey shall bring your sons in their arms,\nAnd your daughters shall be carried on their shoulders;",
+              "DRB": "Thus saith the Lord God: Behold I will lift up my hand to the Gentiles, and will set up my standard to the people. And they shall bring thy sons in their arms, and carry thy daughters upon their shoulders."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "Kings will be your foster fathers, and their queens your nursing mothers. They will bow down before you with their faces to the ground; they will lick the dust at your feet. Then you will know that I am the LORD; those who hope in me will not be disappointed.\"",
+              "KJV": "And kings shall be thy nursing fathers, and their queens thy nursing mothers: they shall bow down to thee with their face toward the earth, and lick up the dust of thy feet; and thou shalt know that I am the Lord: for they shall not be ashamed that wait for me.",
+              "NASB95": "\u201cKings will be your guardians,\nAnd their princesses your nurses.\nThey will bow down to you with their faces to the earth\nAnd lick the dust of your feet;\nAnd you will know that I am the Lord;\nThose who hopefully wait for Me will not be put to shame.",
+              "NKJV": "Kings shall be your foster fathers,\nAnd their queens your nursing mothers;\nThey shall bow down to you with their faces to the earth,\nAnd lick up the dust of your feet.\nThen you will know that I am the Lord,\nFor they shall not be ashamed who wait for Me.\u201d",
+              "DRB": "And kings shall be thy nursing fathers, and queens thy nurses: they shall worship thee with their face toward the earth, and they shall lick up the dust of thy feet. And thou shalt know that I am the Lord, for they shall not be confounded that wait for him."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "Can plunder be taken from warriors, or captives rescued from the fierce?",
+              "KJV": "Shall the prey be taken from the mighty, or the lawful captive delivered?",
+              "NASB95": "\u201cCan the prey be taken from the mighty man,\nOr the captives of a tyrant be rescued?\u201d",
+              "NKJV": "Shall the prey be taken from the mighty,\nOr the captives of the righteous be delivered?",
+              "DRB": "Shall the prey be taken from the strong? or can that which was taken by the mighty be delivered?"
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "But this is what the LORD says: \"Yes, captives will be taken from warriors, and plunder retrieved from the fierce; I will contend with those who contend with you, and your children I will save.",
+              "KJV": "But thus saith the Lord, Even the captives of the mighty shall be taken away, and the prey of the terrible shall be delivered: for I will contend with him that contendeth with thee, and I will save thy children.",
+              "NASB95": "Surely, thus says the Lord,\n\u201cEven the captives of the mighty man will be taken away,\nAnd the prey of the tyrant will be rescued;\nFor I will contend with the one who contends with you,\nAnd I will save your sons.",
+              "NKJV": "But thus says the Lord:\n\u201cEven the captives of the mighty shall be taken away,\nAnd the prey of the terrible be delivered;\nFor I will contend with him who contends with you,\nAnd I will save your children.",
+              "DRB": "For thus saith the Lord: Yea verily, even the captivity shall be taken away from the strong: and that which was taken by the mighty, shall be delivered. But I will judge those that have judged thee, and thy children I will save."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "I will make your oppressors eat their own flesh; they will be drunk on their own blood, as with wine. Then all mankind will know that I, the LORD, am your Savior, your Redeemer, the Mighty One of Jacob.\"",
+              "KJV": "And I will feed them that oppress thee with their own flesh; and they shall be drunken with their own blood, as with sweet wine: and all flesh shall know that I the Lord am thy Saviour and thy Redeemer, the mighty One of Jacob.",
+              "NASB95": "\u201cI will feed your oppressors with their own flesh,\nAnd they will become drunk with their own blood as with sweet wine;\nAnd all flesh will know that I, the Lord, am your Savior\nAnd your Redeemer, the Mighty One of Jacob.\u201d",
+              "NKJV": "I will feed those who oppress you with their own flesh,\nAnd they shall be drunk with their own blood as with sweet wine.\nAll flesh shall know\nThat I, the Lord, am your Savior,\nAnd your Redeemer, the Mighty One of Jacob.\u201d",
+              "DRB": "And I will feed thy enemies with their own flesh: and they shall be made drunk with their own blood, as with new wine: and all flesh shall know, that I am the Lord that save thee, and thy Redeemer the Mighty One of Jacob."
             }
           }
         ]
