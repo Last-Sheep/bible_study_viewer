@@ -1,0 +1,2234 @@
+{
+  "scripture": {
+    "header": {
+      "id": "opinion_keyword",
+      "title": "opinion-keyword",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NASB95",
+      "NKJV",
+      "DRB",
+      "ESV",
+      "LEB"
+    ],
+    "blocks": [
+      {
+        "id": "mat_17_24_27",
+        "title": "The Temple Tax",
+        "description": "",
+        "reference": {
+          "book": "Matthew",
+          "chapter": 17,
+          "start": 24,
+          "end": 27
+        },
+        "rows": [
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "After Jesus and his disciples arrived in Capernaum, the collectors of the two-drachma tax came to Peter and asked, \"Doesn't your teacher pay the temple tax?\"",
+              "KJV": "And when they were come to Capernaum, they that received tribute money came to Peter, and said, Doth not your master pay tribute?",
+              "NASB95": "When they came to Capernaum, those who collected the two-drachma tax came to Peter and said, \u201cDoes your teacher not pay the two-drachma tax?\u201d",
+              "NKJV": "When they had come to Capernaum, those who received the temple tax came to Peter and said, \u201cDoes your Teacher not pay the temple tax?\u201d",
+              "DRB": "And when they were come to Capharnaum, they that recieved the didrachmas, came to Peter and said to him: Doth not your master pay the didrachmas?",
+              "ESV": "When they came to Capernaum, the collectors of the two-drachma tax went up to Peter and said, \u201cDoes your teacher not pay the tax?\u201d",
+              "LEB": "Now when they arrived in Capernaum, the ones who collected the double drachma tax came up to Peter and said, \u201cDoes your teacher not pay the double drachma tax?\u201d"
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "\"Yes, he does,\" he replied. When Peter came into the house, Jesus was the first to speak. \"What do you think, Simon?\" he asked. \"From whom do the kings of the earth collect duty and taxes--from their own sons or from others?\"",
+              "KJV": "He saith, Yes. And when he was come into the house, Jesus prevented him, saying, What thinkest thou, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers?",
+              "NASB95": "He said, \u201cYes.\u201d And when he came into the house, Jesus spoke to him first, saying, \u201cWhat do you think, Simon? From whom do the kings of the earth collect customs or poll-tax, from their sons or from strangers?\u201d",
+              "NKJV": "He said, \u201cYes.\u201d\nAnd when he had come into the house, Jesus anticipated him, saying, \u201cWhat do you think, Simon? From whom do the kings of the earth take customs or taxes, from their sons or from strangers?\u201d",
+              "DRB": "He said: Yes. And when he was come into the house, Jesus prevented him, saying: What is thy opinion, Simon? The kings of the earth, of whom do they receive tribute or custom? of their own children, or of strangers?",
+              "ESV": "He said, \u201cYes.\u201d And when he came into the house, Jesus spoke to him first, saying, \u201cWhat do you think, Simon? From whom do kings of the earth take toll or tax? From their sons or from others?\u201d",
+              "LEB": "He said, \u201cYes.\u201d And when he came into the house, Jesus spoke to him first, saying, \u201cWhat do you think, Simon? From whom do the kings of the earth collect tolls or taxes\u2014from their own sons, or from foreigners?\u201d"
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "\"From others,\" Peter answered.",
+              "KJV": "Peter saith unto him, Of strangers. Jesus saith unto him, Then are the children free.",
+              "NASB95": "When Peter said, \u201cFrom strangers,\u201d Jesus said to him, \u201cThen the sons are exempt.",
+              "NKJV": "Peter said to Him, \u201cFrom strangers.\u201d\nJesus said to him, \u201cThen the sons are free.",
+              "DRB": "And he said: Of strangers. Jesus said to him: Then the children are free.",
+              "ESV": "And when he said, \u201cFrom others,\u201d Jesus said to him, \u201cThen the sons are free.",
+              "LEB": "And when he said, \u201cFrom foreigners,\u201d Jesus said to him, \u201cThen the sons are free."
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "\"Then the sons are exempt,\" Jesus said to him. \"But so that we may not offend them, go to the lake and throw out your line. Take the first fish you catch; open its mouth and you will find a four-drachma coin. Take it and give it to them for my tax and yours.\"",
+              "KJV": "Notwithstanding, lest we should offend them, go thou to the sea, and cast an hook, and take up the fish that first cometh up; and when thou hast opened his mouth, thou shalt find a piece of money: that take, and give unto them for me and thee.",
+              "NASB95": "However, so that we do not offend them, go to the sea and throw in a hook, and take the first fish that comes up; and when you open its mouth, you will find a shekel. Take that and give it to them for you and Me.\u201d",
+              "NKJV": "Nevertheless, lest we offend them, go to the sea, cast in a hook, and take the fish that comes up first. And when you have opened its mouth, you will find a piece of money; take that and give it to them for Me and you.\u201d",
+              "DRB": "But that we may not scandalize them, go to the sea, and cast in a hook: and that fish which shall first come up, take: and when thou hast opened its mouth, thou shalt find a stater: take that, and give it to them for me and thee.",
+              "ESV": "However, not to give offense to them, go to the sea and cast a hook and take the first fish that comes up, and when you open its mouth you will find a shekel. Take that and give it to them for me and for yourself.\u201d",
+              "LEB": "But so that we do not give offense to them, go out to the sea, cast a line with a hook, and take the first fish that comes up. And when you open its mouth, you will find a four-drachma coin. Take that and give it to them for me and you.\u201d"
+            }
+          }
+        ]
+      },
+      {
+        "id": "mat_22_15_22",
+        "title": "Paying Taxes to Caesar",
+        "description": "",
+        "reference": {
+          "book": "Matthew",
+          "chapter": 22,
+          "start": 15,
+          "end": 22
+        },
+        "rows": [
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Then the Pharisees went out and laid plans to trap him in his words.",
+              "KJV": "Then went the Pharisees, and took counsel how they might entangle him in his talk.",
+              "NASB95": "Then the Pharisees went and plotted together how they might trap Him in what He said.",
+              "NKJV": "Then the Pharisees went and plotted how they might entangle Him in His talk.",
+              "DRB": "Then the Pharisees going, consulted among themselves how to insnare him in his speech.",
+              "ESV": "Then the Pharisees went and plotted how to entangle him in his words.",
+              "LEB": "Then the Pharisees went and consulted so that they could entrap him with a statement."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "They sent their disciples to him along with the Herodians. \"Teacher,\" they said, \"we know you are a man of integrity and that you teach the way of God in accordance with the truth. You aren't swayed by men, because you pay no attention to who they are.",
+              "KJV": "And they sent out unto him their disciples with the Herodians, saying, Master, we know that thou art true, and teachest the way of God in truth, neither carest thou for any man: for thou regardest not the person of men.",
+              "NASB95": "And they sent their disciples to Him, along with the Herodians, saying, \u201cTeacher, we know that You are truthful and teach the way of God in truth, and defer to no one; for You are not partial to any.",
+              "NKJV": "And they sent to Him their disciples with the Herodians, saying, \u201cTeacher, we know that You are true, and teach the way of God in truth; nor do You care about anyone, for You do not regard the person of men.",
+              "DRB": "And they sent to him their disciples with the Herodians, saying: Master, we know that thou art a true speaker, and teachest the way of God in truth, neither carest thou for any man: for thou dost not regard the person of men.",
+              "ESV": "And they sent their disciples to him, along with the Herodians, saying, \u201cTeacher, we know that you are true and teach the way of God truthfully, and you do not care about anyone's opinion, for you are not swayed by appearances.",
+              "LEB": "And they sent their disciples to him with the Herodians, saying, \u201cTeacher, we know that you are truthful and teach the way of God in truth, and you do not care what anyone thinks, because you do not regard the opinion of people."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "Tell us then, what is your opinion? Is it right to pay taxes to Caesar or not?\"",
+              "KJV": "Tell us therefore, What thinkest thou? Is it lawful to give tribute unto Caesar, or not?",
+              "NASB95": "Tell us then, what do You think? Is it lawful to give a poll-tax to Caesar, or not?\u201d",
+              "NKJV": "Tell us, therefore, what do You think? Is it lawful to pay taxes to Caesar, or not?\u201d",
+              "DRB": "Tell us therefore what dost thou think, is it lawful to give tribute to Caesar, or not?",
+              "ESV": "Tell us, then, what you think. Is it lawful to pay taxes to Caesar, or not?\u201d",
+              "LEB": "Therefore tell us what you think. Is it permitted to pay taxes to Caesar or not?\u201d"
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "But Jesus, knowing their evil intent, said, \"You hypocrites, why are you trying to trap me?",
+              "KJV": "But Jesus perceived their wickedness, and said, Why tempt ye me, ye hypocrites?",
+              "NASB95": "But Jesus perceived their malice, and said, \u201cWhy are you testing Me, you hypocrites?",
+              "NKJV": "But Jesus perceived their wickedness, and said, \u201cWhy do you test Me, you hypocrites?",
+              "DRB": "But Jesus knowing their wickedness, said: Why do you tempt me, ye hypocrites?",
+              "ESV": "But Jesus, aware of their malice, said, \u201cWhy put me to the test, you hypocrites?",
+              "LEB": "But because he knew their maliciousness, Jesus said, \u201cHypocrites! Why are you testing me?"
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "Show me the coin used for paying the tax.\" They brought him a denarius,",
+              "KJV": "Shew me the tribute money. And they brought unto him a penny.",
+              "NASB95": "Show Me the coin used for the poll-tax.\u201d And they brought Him a denarius.",
+              "NKJV": "Show Me the tax money.\u201d\nSo they brought Him a denarius.",
+              "DRB": "Shew me the coin of the tribute. And they offered him a penny.",
+              "ESV": "Show me the coin for the tax.\u201d And they brought him a denarius.",
+              "LEB": "Show me the coin for the tax!\u201d So they brought him a denarius."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "and he asked them, \"Whose portrait is this? And whose inscription?\"",
+              "KJV": "And he saith unto them, Whose is this image and superscription?",
+              "NASB95": "And He said to them, \u201cWhose likeness and inscription is this?\u201d",
+              "NKJV": "And He said to them, \u201cWhose image and inscription is this?\u201d",
+              "DRB": "And Jesus saith to them: Whose image and inscription is this?",
+              "ESV": "And Jesus said to them, \u201cWhose likeness and inscription is this?\u201d",
+              "LEB": "And he said to them, \u201cWhose image and inscription is this?\u201d"
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "\"Caesar's,\" they replied. Then he said to them, \"Give to Caesar what is Caesar's, and to God what is God's.\"",
+              "KJV": "They say unto him, Caesar's. Then saith he unto them, Render therefore unto Caesar the things which are Caesar's; and unto God the things that are God's.",
+              "NASB95": "They said to Him, \u201cCaesar\u2019s.\u201d Then He said to them, \u201cThen render to Caesar the things that are Caesar\u2019s; and to God the things that are God\u2019s.\u201d",
+              "NKJV": "They said to Him, \u201cCaesar\u2019s.\u201d\nAnd He said to them, \u201cRender therefore to Caesar the things that are Caesar\u2019s, and to God the things that are God\u2019s.\u201d",
+              "DRB": "They say to him: Caesar's. Then he saith to them: Render therefore to Caesar the things that are Caesar's; and to God, the things that are God's.",
+              "ESV": "They said, \u201cCaesar's.\u201d Then he said to them, \u201cTherefore render to Caesar the things that are Caesar's, and to God the things that are God's.\u201d",
+              "LEB": "They said to him, \u201cCaesar\u2019s.\u201d Then he said to them, \u201cTherefore give to Caesar the things of Caesar, and to God the things of God!\u201d"
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "When they heard this, they were amazed. So they left him and went away.",
+              "KJV": "When they had heard these words, they marvelled, and left him, and went their way.",
+              "NASB95": "And hearing this, they were amazed, and leaving Him, they went away.",
+              "NKJV": "When they had heard these words, they marveled, and left Him and went their way.",
+              "DRB": "And hearing this they wondered, and leaving him, went their ways.",
+              "ESV": "When they heard it, they marveled. And they left him and went away.",
+              "LEB": "And when they heard this, they were astonished, and they left him and went away."
+            }
+          }
+        ]
+      },
+      {
+        "id": "mrk_12_13_17",
+        "title": "Paying Taxes to Caesar",
+        "description": "",
+        "reference": {
+          "book": "Mark",
+          "chapter": 12,
+          "start": 13,
+          "end": 17
+        },
+        "rows": [
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Later they sent some of the Pharisees and Herodians to Jesus to catch him in his words.",
+              "KJV": "And they send unto him certain of the Pharisees and of the Herodians, to catch him in his words.",
+              "NASB95": "Then they sent some of the Pharisees and Herodians to Him in order to trap Him in a statement.",
+              "NKJV": "Then they sent to Him some of the Pharisees and the Herodians, to catch Him in His words.",
+              "DRB": "And they sent to him some of the Pharisees and of the Herodians; that they should catch him in his words.",
+              "ESV": "And they sent to him some of the Pharisees and some of the Herodians, to trap him in his talk.",
+              "LEB": "And they sent some of the Pharisees and the Herodians to him so that they could catch him unawares in a statement."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "They came to him and said, \"Teacher, we know you are a man of integrity. You aren't swayed by men, because you pay no attention to who they are; but you teach the way of God in accordance with the truth. Is it right to pay taxes to Caesar or not?",
+              "KJV": "And when they were come, they say unto him, Master, we know that thou art true, and carest for no man: for thou regardest not the person of men, but teachest the way of God in truth: Is it lawful to give tribute to Caesar, or not?",
+              "NASB95": "They came and said to Him, \u201cTeacher, we know that You are truthful and defer to no one; for You are not partial to any, but teach the way of God in truth. Is it lawful to pay a poll-tax to Caesar, or not?",
+              "NKJV": "When they had come, they said to Him, \u201cTeacher, we know that You are true, and care about no one; for You do not regard the person of men, but teach the way of God in truth. Is it lawful to pay taxes to Caesar, or not?",
+              "DRB": "Who coming, say to him: Master, we know that thou art a true speaker, and carest not for any man; for thou regardest not the person of men, but teachest the way of God in truth. Is it lawful to give tribute to Caesar; or shall we not give it?",
+              "ESV": "And they came and said to him, \u201cTeacher, we know that you are true and do not care about anyone's opinion. For you are not swayed by appearances, but truly teach the way of God. Is it lawful to pay taxes to Caesar, or not? Should we pay them, or should we not?\u201d",
+              "LEB": "And when they came, they said to him, \u201cTeacher, we know that you are truthful and you do not care what anyone thinks, because you do not regard the opinion of people but teach the way of God in truth. Is it permitted to pay taxes to Caesar or not? Should we pay or should we not pay?\u201d"
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Should we pay or shouldn't we?\"",
+              "KJV": "Shall we give, or shall we not give? But he, knowing their hypocrisy, said unto them, Why tempt ye me? bring me a penny, that I may see it.",
+              "NASB95": "Shall we pay or shall we not pay?\u201d But He, knowing their hypocrisy, said to them, \u201cWhy are you testing Me? Bring Me a denarius to look at.\u201d",
+              "NKJV": "Shall we pay, or shall we not pay?\u201d\nBut He, knowing their hypocrisy, said to them, \u201cWhy do you test Me? Bring Me a denarius that I may see it.\u201d",
+              "DRB": "Who knowing their wiliness, saith to them: Why tempt you me? bring me a penny that I may see it.",
+              "ESV": "But, knowing their hypocrisy, he said to them, \u201cWhy put me to the test? Bring me a denarius and let me look at it.\u201d",
+              "LEB": "But because he knew their hypocrisy, he said to them, \u201cWhy are you testing me? Bring me a denarius so that I can look at it!\u201d"
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "But Jesus knew their hypocrisy. \"Why are you trying to trap me?\" he asked. \"Bring me a denarius and let me look at it.\" They brought the coin, and he asked them, \"Whose portrait is this? And whose inscription?Caesar's,\" they replied.",
+              "KJV": "And they brought it. And he saith unto them, Whose is this image and superscription? And they said unto him, Caesar's.",
+              "NASB95": "They brought one. And He said to them, \u201cWhose likeness and inscription is this?\u201d And they said to Him, \u201cCaesar\u2019s.\u201d",
+              "NKJV": "So they brought it.\nAnd He said to them, \u201cWhose image and inscription is this?\u201d They said to Him, \u201cCaesar\u2019s.\u201d",
+              "DRB": "And they brought it him. And he saith to them: Whose is this image and inscription? They say to him, Caesar's.",
+              "ESV": "And they brought one. And he said to them, \u201cWhose likeness and inscription is this?\u201d They said to him, \u201cCaesar's.\u201d",
+              "LEB": "So they brought one. And he said to them, \u201cWhose image and inscription is this?\u201d And they said to him, \u201cCaesar\u2019s.\u201d"
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "Then Jesus said to them, \"Give to Caesar what is Caesar's and to God what is God's.\" And they were amazed at him.",
+              "KJV": "And Jesus answering said unto them, Render to Caesar the things that are Caesar's, and to God the things that are God's. And they marvelled at him.",
+              "NASB95": "And Jesus said to them, \u201cRender to Caesar the things that are Caesar\u2019s, and to God the things that are God\u2019s.\u201d And they were amazed at Him.",
+              "NKJV": "And Jesus answered and said to them, \u201cRender to Caesar the things that are Caesar\u2019s, and to God the things that are God\u2019s.\u201d\nAnd they marveled at Him.",
+              "DRB": "And Jesus answering, said to them: Render therefore to Caesar the things that are Caesar's, and to God the things that are God's. And they marvelled at him.",
+              "ESV": "Jesus said to them, \u201cRender to Caesar the things that are Caesar's, and to God the things that are God's.\u201d And they marveled at him.",
+              "LEB": "And Jesus said to them, \u201cGive to Caesar the things of Caesar, and to God the things of God!\u201d And they were utterly amazed at him."
+            }
+          }
+        ]
+      },
+      {
+        "id": "luk_3_7_20",
+        "title": "John Preaches to the People",
+        "description": "",
+        "reference": {
+          "book": "Luke",
+          "chapter": 3,
+          "start": 7,
+          "end": 20
+        },
+        "rows": [
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "John said to the crowds coming out to be baptized by him, \"You brood of vipers! Who warned you to flee from the coming wrath?",
+              "KJV": "Then said he to the multitude that came forth to be baptized of him, O generation of vipers, who hath warned you to flee from the wrath to come?",
+              "NASB95": "So he began saying to the crowds who were going out to be baptized by him, \u201cYou brood of vipers, who warned you to flee from the wrath to come?",
+              "NKJV": "Then he said to the multitudes that came out to be baptized by him, \u201cBrood of vipers! Who warned you to flee from the wrath to come?",
+              "DRB": "He said therefore to the multitudes that went forth to be baptized by him: Ye offspring of vipers, who hath shewed you to flee from the wrath to come?",
+              "ESV": "He said therefore to the crowds that came out to be baptized by him, \u201cYou brood of vipers! Who warned you to flee from the wrath to come?",
+              "LEB": "Therefore he was saying to the crowds that came out to be baptized by him, \u201cOffspring of vipers! Who warned you to flee from the coming wrath?"
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Produce fruit in keeping with repentance. And do not begin to say to yourselves, 'We have Abraham as our father.' For I tell you that out of these stones God can raise up children for Abraham.",
+              "KJV": "Bring forth therefore fruits worthy of repentance, and begin not to say within yourselves, We have Abraham to our father: for I say unto you, That God is able of these stones to raise up children unto Abraham.",
+              "NASB95": "Therefore bear fruits in keeping with repentance, and do not begin to say to yourselves, \u2018We have Abraham for our father,\u2019 for I say to you that from these stones God is able to raise up children to Abraham.",
+              "NKJV": "Therefore bear fruits worthy of repentance, and do not begin to say to yourselves, \u2018We have Abraham as our father.\u2019 For I say to you that God is able to raise up children to Abraham from these stones.",
+              "DRB": "Bring forth therefore fruits worthy of penance; and do not begin to say, We have Abraham for our father. For I say unto you, that God is able of these stones to raise up children to Abraham.",
+              "ESV": "Bear fruits in keeping with repentance. And do not begin to say to yourselves, \u2018We have Abraham as our father.\u2019 For I tell you, God is able from these stones to raise up children for Abraham.",
+              "LEB": "Therefore produce fruit worthy of repentance! And do not begin to say to yourselves, \u2018We have Abraham as father.\u2019 For I say to you that God is able to raise up children for Abraham from these stones!"
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "The ax is already at the root of the trees, and every tree that does not produce good fruit will be cut down and thrown into the fire.\"",
+              "KJV": "And now also the axe is laid unto the root of the trees: every tree therefore which bringeth not forth good fruit is hewn down, and cast into the fire.",
+              "NASB95": "Indeed the axe is already laid at the root of the trees; so every tree that does not bear good fruit is cut down and thrown into the fire.\u201d",
+              "NKJV": "And even now the ax is laid to the root of the trees. Therefore every tree which does not bear good fruit is cut down and thrown into the fire.\u201d",
+              "DRB": "For now the axe is laid to the root of the trees. Every tree therefore that bringeth not forth good fruit, shall be cut down and cast into the fire.",
+              "ESV": "Even now the axe is laid to the root of the trees. Every tree therefore that does not bear good fruit is cut down and thrown into the fire.\u201d",
+              "LEB": "And even now the ax is positioned at the root of the trees; therefore every tree not producing good fruit is cut down and thrown into the fire.\u201d"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "\"What should we do then?\" the crowd asked.",
+              "KJV": "And the people asked him, saying, What shall we do then?",
+              "NASB95": "And the crowds were questioning him, saying, \u201cThen what shall we do?\u201d",
+              "NKJV": "So the people asked him, saying, \u201cWhat shall we do then?\u201d",
+              "DRB": "And the people asked him, saying: What then shall we do?",
+              "ESV": "And the crowds asked him, \u201cWhat then shall we do?\u201d",
+              "LEB": "And the crowds were asking him, saying, \u201cWhat then should we do?\u201d"
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "John answered, \"The man with two tunics should share with him who has none, and the one who has food should do the same.\"",
+              "KJV": "He answereth and saith unto them, He that hath two coats, let him impart to him that hath none; and he that hath meat, let him do likewise.",
+              "NASB95": "And he would answer and say to them, \u201cThe man who has two tunics is to share with him who has none; and he who has food is to do likewise.\u201d",
+              "NKJV": "He answered and said to them, \u201cHe who has two tunics, let him give to him who has none; and he who has food, let him do likewise.\u201d",
+              "DRB": "And he answering, said to them: He that hath two coats, let him give to him that hath none; and he that hath meat, let him do in like manner.",
+              "ESV": "And he answered them, \u201cWhoever has two tunics is to share with him who has none, and whoever has food is to do likewise.\u201d",
+              "LEB": "And he answered and said to them, \u201cThe one who has two tunics must share with the one who does not have one, and the one who has food must do likewise.\u201d"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Tax collectors also came to be baptized. \"Teacher,\" they asked, \"what should we do?\"",
+              "KJV": "Then came also publicans to be baptized, and said unto him, Master, what shall we do?",
+              "NASB95": "And some tax collectors also came to be baptized, and they said to him, \u201cTeacher, what shall we do?\u201d",
+              "NKJV": "Then tax collectors also came to be baptized, and said to him, \u201cTeacher, what shall we do?\u201d",
+              "DRB": "And the publicans also came to be baptized, and said to him: Master, what shall we do?",
+              "ESV": "Tax collectors also came to be baptized and said to him, \u201cTeacher, what shall we do?\u201d",
+              "LEB": "And tax collectors also came to be baptized, and they said to him, \u201cTeacher, what should we do?\u201d"
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "\"Don't collect any more than you are required to,\" he told",
+              "KJV": "And he said unto them, Exact no more than that which is appointed you.",
+              "NASB95": "And he said to them, \u201cCollect no more than what you have been ordered to.\u201d",
+              "NKJV": "And he said to them, \u201cCollect no more than what is appointed for you.\u201d",
+              "DRB": "But he said to them: Do nothing more than that which is appointed you.",
+              "ESV": "And he said to them, \u201cCollect no more than you are authorized to do.\u201d",
+              "LEB": "And he said to them, \u201cCollect no more than what you are ordered to.\u201d"
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "them. Then some soldiers asked him, \"And what should we do?\" He replied, \"Don't extort money and don't accuse people falsely--be content with your pay.\"",
+              "KJV": "And the soldiers likewise demanded of him, saying, And what shall we do? And he said unto them, Do violence to no man, neither accuse any falsely; and be content with your wages.",
+              "NASB95": "Some soldiers were questioning him, saying, \u201cAnd what about us, what shall we do?\u201d And he said to them, \u201cDo not take money from anyone by force, or accuse anyone falsely, and be content with your wages.\u201d",
+              "NKJV": "Likewise the soldiers asked him, saying, \u201cAnd what shall we do?\u201d\nSo he said to them, \u201cDo not intimidate anyone or accuse falsely, and be content with your wages.\u201d",
+              "DRB": "And the soldiers also asked him, saying: And what shall we do? And he said to them: Do violence to no man; neither calumniate any man; and be content with your pay.",
+              "ESV": "Soldiers also asked him, \u201cAnd we, what shall we do?\u201d And he said to them, \u201cDo not extort money from anyone by threats or by false accusation, and be content with your wages.\u201d",
+              "LEB": "And those who served in the army were also asking him, saying, \u201cWhat should we also do?\u201d And he said to them, \u201cExtort from no one, and do not blackmail anyone, and be content with your pay.\u201d"
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "The people were waiting expectantly and were all wondering in their hearts if John might possibly be the Christ.",
+              "KJV": "And as the people were in expectation, and all men mused in their hearts of John, whether he were the Christ, or not;",
+              "NASB95": "Now while the people were in a state of expectation and all were wondering in their hearts about John, as to whether he was the Christ,",
+              "NKJV": "Now as the people were in expectation, and all reasoned in their hearts about John, whether he was the Christ or not,",
+              "DRB": "And as the people were of opinion, and all were thinking in their hearts of John, that perhaps he might be the Christ;",
+              "ESV": "As the people were in expectation, and all were questioning in their hearts concerning John, whether he might be the Christ,",
+              "LEB": "And while the people were waiting expectantly and all were pondering in their hearts concerning John, whether perhaps he might be the Christ,"
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "John answered them all, \"I baptize you with water. But one more powerful than I will come, the thongs of whose sandals I am not worthy to untie. He will baptize you with the Holy Spirit and with fire.",
+              "KJV": "John answered, saying unto them all, I indeed baptize you with water; but one mightier than I cometh, the latchet of whose shoes I am not worthy to unloose: he shall baptize you with the Holy Ghost and with fire:",
+              "NASB95": "John answered and said to them all, \u201cAs for me, I baptize you with water; but One is coming who is mightier than I, and I am not fit to untie the thong of His sandals; He will baptize you with the Holy Spirit and fire.",
+              "NKJV": "John answered, saying to all, \u201cI indeed baptize you with water; but One mightier than I is coming, whose sandal strap I am not worthy to loose. He will baptize you with the Holy Spirit and fire.",
+              "DRB": "John answered, saying unto all: I indeed baptize you with water; but there shall come one mightier that I, the latchet of whose shoes I am not worthy to loose: he shall baptize you with the Holy Ghost, and with fire:",
+              "ESV": "John answered them all, saying, \u201cI baptize you with water, but he who is mightier than I is coming, the strap of whose sandals I am not worthy to untie. He will baptize you with the Holy Spirit and fire.",
+              "LEB": "John answered them all, saying, \u201cI baptize you with water, but the one who is more powerful than I am is coming, of whom I am not worthy to untie the strap of his sandals. He will baptize you with the Holy Spirit and fire."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "His winnowing fork is in his hand to clear his threshing floor and to gather the wheat into his barn, but he will burn up the chaff with unquenchable fire.\"",
+              "KJV": "Whose fan is in his hand, and he will throughly purge his floor, and will gather the wheat into his garner; but the chaff he will burn with fire unquenchable.",
+              "NASB95": "His winnowing fork is in His hand to thoroughly clear His threshing floor, and to gather the wheat into His barn; but He will burn up the chaff with unquenchable fire.\u201d",
+              "NKJV": "His winnowing fan is in His hand, and He will thoroughly clean out His threshing floor, and gather the wheat into His barn; but the chaff He will burn with unquenchable fire.\u201d",
+              "DRB": "Whose fan is in his hand, and he will purge his floor, and will gather the wheat into his barn; but the chaff he will burn with unquenchable fire.",
+              "ESV": "His winnowing fork is in his hand, to clear his threshing floor and to gather the wheat into his barn, but the chaff he will burn with unquenchable fire.\u201d",
+              "LEB": "His winnowing shovel is in his hand, to clean out his threshing floor and to gather the wheat into his storehouse, but he will burn up the chaff with unquenchable fire.\u201d"
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "And with many other words John exhorted the people and preached the good news to them.",
+              "KJV": "And many other things in his exhortation preached he unto the people.",
+              "NASB95": "So with many other exhortations he preached the gospel to the people.",
+              "NKJV": "And with many other exhortations he preached to the people.",
+              "DRB": "And many other things exhorting, did he preach to the people.",
+              "ESV": "So with many other exhortations he preached good news to the people.",
+              "LEB": "So with many other exhortations also he proclaimed good news to the people."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "But when John rebuked Herod the tetrarch because of Herodias, his brother's wife, and all the other evil things he had done,",
+              "KJV": "But Herod the tetrarch, being reproved by him for Herodias his brother Philip's wife, and for all the evils which Herod had done,",
+              "NASB95": "But when Herod the tetrarch was reprimanded by him because of Herodias, his brother\u2019s wife, and because of all the wicked things which Herod had done,",
+              "NKJV": "But Herod the tetrarch, being rebuked by him concerning Herodias, his brother Philip\u2019s wife, and for all the evils which Herod had done,",
+              "DRB": "But Herod the tetrarch, when he was reproved by him for Herodias, his brother's wife, and for all the evils which Herod had done;",
+              "ESV": "But Herod the tetrarch, who had been reproved by him for Herodias, his brother's wife, and for all the evil things that Herod had done,",
+              "LEB": "But Herod the tetrarch, who had been reproved by him concerning Herodias, his brother\u2019s wife, and concerning all the evil deeds that Herod had done,"
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "Herod added this to them all: He locked John up in prison.",
+              "KJV": "Added yet this above all, that he shut up John in prison.",
+              "NASB95": "Herod also added this to them all: he locked John up in prison.",
+              "NKJV": "also added this, above all, that he shut John up in prison.",
+              "DRB": "He added this also above all, and shut up John in prison.",
+              "ESV": "added this to them all, that he locked up John in prison.",
+              "LEB": "added this also to them all: he also locked up John in prison."
+            }
+          }
+        ]
+      },
+      {
+        "id": "luk_10_25_37",
+        "title": "Parable of the Good Samaritan",
+        "description": "",
+        "reference": {
+          "book": "Luke",
+          "chapter": 10,
+          "start": 25,
+          "end": 37
+        },
+        "rows": [
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "On one occasion an expert in the law stood up to test Jesus. \"Teacher,\" he asked, \"what must I do to inherit eternal life?\"",
+              "KJV": "And, behold, a certain lawyer stood up, and tempted him, saying, Master, what shall I do to inherit eternal life?",
+              "NASB95": "And a lawyer stood up and put Him to the test, saying, \u201cTeacher, what shall I do to inherit eternal life?\u201d",
+              "NKJV": "And behold, a certain lawyer stood up and tested Him, saying, \u201cTeacher, what shall I do to inherit eternal life?\u201d",
+              "DRB": "And behold a certain lawyer stood up, tempting him, and saying, Master, what must I do to possess eternal life?",
+              "ESV": "And behold, a lawyer stood up to put him to the test, saying, \u201cTeacher, what shall I do to inherit eternal life?\u201d",
+              "LEB": "And behold, a certain legal expert stood up to test him, saying, \u201cTeacher, what must I do so that I will inherit eternal life?\u201d"
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "\"What is written in the Law?\" he replied. \"How do you read it?\"",
+              "KJV": "He said unto him, What is written in the law? how readest thou?",
+              "NASB95": "And He said to him, \u201cWhat is written in the Law? How does it read to you?\u201d",
+              "NKJV": "He said to him, \u201cWhat is written in the law? What is your reading of it?\u201d",
+              "DRB": "But he said to him: What is written in the law? how readest thou?",
+              "ESV": "He said to him, \u201cWhat is written in the Law? How do you read it?\u201d",
+              "LEB": "And he said to him, \u201cWhat is written in the law? How do you read it?\u201d"
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "He answered: \"'Love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind'; and, 'Love your neighbor as yourself.'\"",
+              "KJV": "And he answering said, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself.",
+              "NASB95": "And he answered, \u201cYou shall love the Lord your God with all your heart, and with all your soul, and with all your strength, and with all your mind; and your neighbor as yourself.\u201d",
+              "NKJV": "So he answered and said, \u201c \u2018You shall love the Lord your God with all your heart, with all your soul, with all your strength, and with all your mind,\u2019 and \u2018your neighbor as yourself.\u2019 \u201d",
+              "DRB": "He answering, said: Thou shalt love the Lord thy God with thy whole heart, and with thy whole soul, and with all thy strength, and with all thy mind: and thy neighbour as thyself.",
+              "ESV": "And he answered, \u201cYou shall love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind, and your neighbor as yourself.\u201d",
+              "LEB": "And he answered and said, \u201cYou shall love the Lord your God from all your heart, and with all your soul, and with all your strength, and with all your mind, and your neighbor as yourself.\u201d"
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "\"You have answered correctly,\" Jesus replied. \"Do this and you will live.\"",
+              "KJV": "And he said unto him, Thou hast answered right: this do, and thou shalt live.",
+              "NASB95": "And He said to him, \u201cYou have answered correctly; do this and you will live.\u201d",
+              "NKJV": "And He said to him, \u201cYou have answered rightly; do this and you will live.\u201d",
+              "DRB": "And he said to him: Thou hast answered right: this do, and thou shalt live.",
+              "ESV": "And he said to him, \u201cYou have answered correctly; do this, and you will live.\u201d",
+              "LEB": "And he said to him, \u201cYou have answered correctly. Do this and you will live.\u201d"
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "But he wanted to justify himself, so he asked Jesus, \"And who is my neighbor?\"",
+              "KJV": "But he, willing to justify himself, said unto Jesus, And who is my neighbour?",
+              "NASB95": "But wishing to justify himself, he said to Jesus, \u201cAnd who is my neighbor?\u201d",
+              "NKJV": "But he, wanting to justify himself, said to Jesus, \u201cAnd who is my neighbor?\u201d",
+              "DRB": "But he willing to justify himself, said to Jesus: And who is my neighbour?",
+              "ESV": "But he, desiring to justify himself, said to Jesus, \u201cAnd who is my neighbor?\u201d",
+              "LEB": "But he, wanting to justify himself, said to Jesus, \u201cAnd who is my neighbor?\u201d"
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "In reply Jesus said: \"A man was going down from Jerusalem to Jericho, when he fell into the hands of robbers. They stripped him of his clothes, beat him and went away, leaving him half dead.",
+              "KJV": "And Jesus answering said, A certain man went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded him, and departed, leaving him half dead.",
+              "NASB95": "Jesus replied and said, \u201cA man was going down from Jerusalem to Jericho, and fell among robbers, and they stripped him and beat him, and went away leaving him half dead.",
+              "NKJV": "Then Jesus answered and said: \u201cA certain man went down from Jerusalem to Jericho, and fell among thieves, who stripped him of his clothing, wounded him, and departed, leaving him half dead.",
+              "DRB": "And Jesus answering, said: A certain man went down from Jerusalem to Jericho, and fell among robbers, who also stripped him, and having wounded him went away, leaving him half dead.",
+              "ESV": "Jesus replied, \u201cA man was going down from Jerusalem to Jericho, and he fell among robbers, who stripped him and beat him and departed, leaving him half dead.",
+              "LEB": "And Jesus replied and said, \u201cA certain man was going down from Jerusalem to Jericho, and fell into the hands of robbers, who both stripped him and beat him. After inflicting blows on him, they went away, leaving him half dead."
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "A priest happened to be going down the same road, and when he saw the man, he passed by on the other side.",
+              "KJV": "And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side.",
+              "NASB95": "And by chance a priest was going down on that road, and when he saw him, he passed by on the other side.",
+              "NKJV": "Now by chance a certain priest came down that road. And when he saw him, he passed by on the other side.",
+              "DRB": "And it chanced, that a certain priest went down the same way: and seeing him, passed by.",
+              "ESV": "Now by chance a priest was going down that road, and when he saw him he passed by on the other side.",
+              "LEB": "Now by coincidence a certain priest was going down on that road, and when he saw him, he passed by on the opposite side."
+            }
+          },
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "So too, a Levite, when he came to the place and saw him, passed by on the other side.",
+              "KJV": "And likewise a Levite, when he was at the place, came and looked on him, and passed by on the other side.",
+              "NASB95": "Likewise a Levite also, when he came to the place and saw him, passed by on the other side.",
+              "NKJV": "Likewise a Levite, when he arrived at the place, came and looked, and passed by on the other side.",
+              "DRB": "In like manner also a Levite, when he was near the place and saw him, passed by.",
+              "ESV": "So likewise a Levite, when he came to the place and saw him, passed by on the other side.",
+              "LEB": "And in the same way also a Levite, when he came down to the place and saw him, passed by on the opposite side."
+            }
+          },
+          {
+            "verse": 33,
+            "texts": {
+              "NIV84": "But a Samaritan, as he traveled, came where the man was; and when he saw him, he took pity on him.",
+              "KJV": "But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he had compassion on him,",
+              "NASB95": "But a Samaritan, who was on a journey, came upon him; and when he saw him, he felt compassion,",
+              "NKJV": "But a certain Samaritan, as he journeyed, came where he was. And when he saw him, he had compassion.",
+              "DRB": "But a certain Samaritan being on his journey, came near him; and seeing him, was moved with compassion.",
+              "ESV": "But a Samaritan, as he journeyed, came to where he was, and when he saw him, he had compassion.",
+              "LEB": "But a certain Samaritan who was traveling came up to him and, when he saw him, had compassion."
+            }
+          },
+          {
+            "verse": 34,
+            "texts": {
+              "NIV84": "He went to him and bandaged his wounds, pouring on oil and wine. Then he put the man on his own donkey, took him to an inn and took care of him.",
+              "KJV": "And went to him, and bound up his wounds, pouring in oil and wine, and set him on his own beast, and brought him to an inn, and took care of him.",
+              "NASB95": "and came to him and bandaged up his wounds, pouring oil and wine on them; and he put him on his own beast, and brought him to an inn and took care of him.",
+              "NKJV": "So he went to him and bandaged his wounds, pouring on oil and wine; and he set him on his own animal, brought him to an inn, and took care of him.",
+              "DRB": "And going up to him, bound up his wounds, pouring in oil and wine: and setting him upon his own beast, brought him to an inn, and took care of him.",
+              "ESV": "He went to him and bound up his wounds, pouring on oil and wine. Then he set him on his own animal and brought him to an inn and took care of him.",
+              "LEB": "And he came up and bandaged his wounds, pouring on olive oil and wine, and he put him on his own animal and brought him to an inn and took care of him."
+            }
+          },
+          {
+            "verse": 35,
+            "texts": {
+              "NIV84": "The next day he took out two silver coins and gave them to the innkeeper. 'Look after him,' he said, 'and when I return, I will reimburse you for any extra expense you may have.'",
+              "KJV": "And on the morrow when he departed, he took out two pence, and gave them to the host, and said unto him, Take care of him; and whatsoever thou spendest more, when I come again, I will repay thee.",
+              "NASB95": "On the next day he took out two denarii and gave them to the innkeeper and said, \u2018Take care of him; and whatever more you spend, when I return I will repay you.\u2019",
+              "NKJV": "On the next day, when he departed, he took out two denarii, gave them to the innkeeper, and said to him, \u2018Take care of him; and whatever more you spend, when I come again, I will repay you.\u2019",
+              "DRB": "And the next day he took out two pence, and gave to the host, and said: Take care of him; and whatsoever thou shalt spend over and above, I, at my return, will repay thee.",
+              "ESV": "And the next day he took out two denarii and gave them to the innkeeper, saying, \u2018Take care of him, and whatever more you spend, I will repay you when I come back.\u2019",
+              "LEB": "And on the next day, he took out two denarii and gave them to the innkeeper, and said, \u201cTake care of him, and whatever you spend in addition, I will repay to you when I return."
+            }
+          },
+          {
+            "verse": 36,
+            "texts": {
+              "NIV84": "\"Which of these three do you think was a neighbor to the man who fell into the hands of robbers?\"",
+              "KJV": "Which now of these three, thinkest thou, was neighbour unto him that fell among the thieves?",
+              "NASB95": "Which of these three do you think proved to be a neighbor to the man who fell into the robbers\u2019 hands?\u201d",
+              "NKJV": "So which of these three do you think was neighbor to him who fell among the thieves?\u201d",
+              "DRB": "Which of these three, in thy opinion, was neighbour to him that fell among the robbers?",
+              "ESV": "Which of these three, do you think, proved to be a neighbor to the man who fell among the robbers?\u201d",
+              "LEB": "Which of these three do you suppose became a neighbor of the man who fell among the robbers?\u201d"
+            }
+          },
+          {
+            "verse": 37,
+            "texts": {
+              "NIV84": "The expert in the law replied, \"The one who had mercy on him.\" Jesus told him, \"Go and do likewise.\"",
+              "KJV": "And he said, He that shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise.",
+              "NASB95": "And he said, \u201cThe one who showed mercy toward him.\u201d Then Jesus said to him, \u201cGo and do the same.\u201d",
+              "NKJV": "And he said, \u201cHe who showed mercy on him.\u201d\nThen Jesus said to him, \u201cGo and do likewise.\u201d",
+              "DRB": "But he said: He that shewed mercy to him. And Jesus said to him: Go, and do thou in like manner.",
+              "ESV": "He said, \u201cThe one who showed him mercy.\u201d And Jesus said to him, \u201cYou go, and do likewise.\u201d",
+              "LEB": "So he said, \u201cThe one who showed mercy to him.\u201d And Jesus said to him, \u201cYou go and do likewise.\u201d"
+            }
+          }
+        ]
+      },
+      {
+        "id": "jhn_7_40_52",
+        "title": "Different Opinions About Jesus",
+        "description": "",
+        "reference": {
+          "book": "John",
+          "chapter": 7,
+          "start": 40,
+          "end": 52
+        },
+        "rows": [
+          {
+            "verse": 40,
+            "texts": {
+              "NIV84": "On hearing his words, some of the people said, \"Surely this man is the Prophet.\"",
+              "KJV": "Many of the people therefore, when they heard this saying, said, Of a truth this is the Prophet.",
+              "NASB95": "Some of the people therefore, when they heard these words, were saying, \u201cThis certainly is the Prophet.\u201d",
+              "NKJV": "Therefore many from the crowd, when they heard this saying, said, \u201cTruly this is the Prophet.\u201d",
+              "DRB": "Of that multitude therefore, when they had heard these words of his, some said: This is the prophet indeed.",
+              "ESV": "When they heard these words, some of the people said, \u201cThis really is the Prophet.\u201d",
+              "LEB": "Then, when they heard these words, some from the crowd began to say, \u201cThis man is truly the Prophet!\u201d"
+            }
+          },
+          {
+            "verse": 41,
+            "texts": {
+              "NIV84": "Others said, \"He is the Christ.\"",
+              "KJV": "Others said, This is the Christ. But some said, Shall Christ come out of Galilee?",
+              "NASB95": "Others were saying, \u201cThis is the Christ.\u201d Still others were saying, \u201cSurely the Christ is not going to come from Galilee, is He?",
+              "NKJV": "Others said, \u201cThis is the Christ.\u201d\nBut some said, \u201cWill the Christ come out of Galilee?",
+              "DRB": "Others said: This is the Christ. But some said: Doth the Christ come out of Galilee?",
+              "ESV": "Others said, \u201cThis is the Christ.\u201d But some said, \u201cIs the Christ to come from Galilee?",
+              "LEB": "Others were saying, \u201cThis man is the Christ!\u201d But others were saying, \u201cNo, for the Christ does not come from Galilee, does he?"
+            }
+          },
+          {
+            "verse": 42,
+            "texts": {
+              "NIV84": "Still others asked, \"How can the Christ come from Galilee? Does not the Scripture say that the Christ will come from David's family and from Bethlehem, the town where David lived?\"",
+              "KJV": "Hath not the scripture said, That Christ cometh of the seed of David, and out of the town of Bethlehem, where David was?",
+              "NASB95": "Has not the Scripture said that the Christ comes from the descendants of David, and from Bethlehem, the village where David was?\u201d",
+              "NKJV": "Has not the Scripture said that the Christ comes from the seed of David and from the town of Bethlehem, where David was?\u201d",
+              "DRB": "Doth not the scripture say: That Christ cometh of the seed of David, and from Bethlehem the town where David was?",
+              "ESV": "Has not the Scripture said that the Christ comes from the offspring of David, and comes from Bethlehem, the village where David was?\u201d",
+              "LEB": "Has not the scripture said that the Christ comes from the descendants of David, and from Bethlehem, the village where David was?\u201d"
+            }
+          },
+          {
+            "verse": 43,
+            "texts": {
+              "NIV84": "Thus the people were divided because of Jesus.",
+              "KJV": "So there was a division among the people because of him.",
+              "NASB95": "So a division occurred in the crowd because of Him.",
+              "NKJV": "So there was a division among the people because of Him.",
+              "DRB": "So there arose a dissension among the people because of him.",
+              "ESV": "So there was a division among the people over him.",
+              "LEB": "So there was a division in the crowd because of him."
+            }
+          },
+          {
+            "verse": 44,
+            "texts": {
+              "NIV84": "Some wanted to seize him, but no one laid a hand on him.",
+              "KJV": "And some of them would have taken him; but no man laid hands on him.",
+              "NASB95": "Some of them wanted to seize Him, but no one laid hands on Him.",
+              "NKJV": "Now some of them wanted to take Him, but no one laid hands on Him.",
+              "DRB": "And some of them would have apprehended him: but no man laid hands on him.",
+              "ESV": "Some of them wanted to arrest him, but no one laid hands on him.",
+              "LEB": "And some of them were wanting to seize him, but no one laid hands on him."
+            }
+          },
+          {
+            "verse": 45,
+            "texts": {
+              "NIV84": "Finally the temple guards went back to the chief priests and Pharisees, who asked them, \"Why didn't you bring him in?\"",
+              "KJV": "Then came the officers to the chief priests and Pharisees; and they said unto them, Why have ye not brought him?",
+              "NASB95": "The officers then came to the chief priests and Pharisees, and they said to them, \u201cWhy did you not bring Him?\u201d",
+              "NKJV": "Then the officers came to the chief priests and Pharisees, who said to them, \u201cWhy have you not brought Him?\u201d",
+              "DRB": "The ministers therefore came to the chief priests and the Pharisees. And they said to them: Why have you not brought him?",
+              "ESV": "The officers then came to the chief priests and Pharisees, who said to them, \u201cWhy did you not bring him?\u201d",
+              "LEB": "So the officers came to the chief priests and Pharisees. And they said to them, \u201cWhy did you not bring him?\u201d"
+            }
+          },
+          {
+            "verse": 46,
+            "texts": {
+              "NIV84": "\"No one ever spoke the way this man does,\" the guards declared.",
+              "KJV": "The officers answered, Never man spake like this man.",
+              "NASB95": "The officers answered, \u201cNever has a man spoken the way this man speaks.\u201d",
+              "NKJV": "The officers answered, \u201cNo man ever spoke like this Man!\u201d",
+              "DRB": "The ministers answered: Never did man speak like this man.",
+              "ESV": "The officers answered, \u201cNo one ever spoke like this man!\u201d",
+              "LEB": "The officers replied, \u201cNever has a man spoken like this!\u201d"
+            }
+          },
+          {
+            "verse": 47,
+            "texts": {
+              "NIV84": "\"You mean he has deceived you also?\" the Pharisees retorted.",
+              "KJV": "Then answered them the Pharisees, Are ye also deceived?",
+              "NASB95": "The Pharisees then answered them, \u201cYou have not also been led astray, have you?",
+              "NKJV": "Then the Pharisees answered them, \u201cAre you also deceived?",
+              "DRB": "The Pharisees therefore answered them: Are you also seduced?",
+              "ESV": "The Pharisees answered them, \u201cHave you also been deceived?",
+              "LEB": "Then the Pharisees replied to them, \u201cYou have not also been deceived, have you?"
+            }
+          },
+          {
+            "verse": 48,
+            "texts": {
+              "NIV84": "\"Has any of the rulers or of the Pharisees believed in him?",
+              "KJV": "Have any of the rulers or of the Pharisees believed on him?",
+              "NASB95": "No one of the rulers or Pharisees has believed in Him, has he?",
+              "NKJV": "Have any of the rulers or the Pharisees believed in Him?",
+              "DRB": "Hath any one of the rulers believed in him, or of the Pharisees?",
+              "ESV": "Have any of the authorities or the Pharisees believed in him?",
+              "LEB": "None of the rulers or of the Pharisees have believed in him, have they?"
+            }
+          },
+          {
+            "verse": 49,
+            "texts": {
+              "NIV84": "No! But this mob that knows nothing of the law--there is a curse on them.\"",
+              "KJV": "But this people who knoweth not the law are cursed.",
+              "NASB95": "But this crowd which does not know the Law is accursed.\u201d",
+              "NKJV": "But this crowd that does not know the law is accursed.\u201d",
+              "DRB": "But this multitude, that knoweth not the law, are accursed.",
+              "ESV": "But this crowd that does not know the law is accursed.\u201d",
+              "LEB": "But this crowd who does not know the law is accursed!\u201d"
+            }
+          },
+          {
+            "verse": 50,
+            "texts": {
+              "NIV84": "Nicodemus, who had gone to Jesus earlier and who was one of their own number, asked,",
+              "KJV": "Nicodemus saith unto them, (he that came to Jesus by night, being one of them,)",
+              "NASB95": "Nicodemus (he who came to Him before, being one of them) said to them,",
+              "NKJV": "Nicodemus (he who came to Jesus by night, being one of them) said to them,",
+              "DRB": "Nicodemus said to them, (he that came to him by night, who was one of them:)",
+              "ESV": "Nicodemus, who had gone to him before, and who was one of them, said to them,",
+              "LEB": "Nicodemus, the one who came to him previously\u2014who was one of them\u2014said to them,"
+            }
+          },
+          {
+            "verse": 51,
+            "texts": {
+              "NIV84": "\"Does our law condemn anyone without first hearing him to find out what he is doing?\"",
+              "KJV": "Doth our law judge any man, before it hear him, and know what he doeth?",
+              "NASB95": "\u201cOur Law does not judge a man unless it first hears from him and knows what he is doing, does it?\u201d",
+              "NKJV": "\u201cDoes our law judge a man before it hears him and knows what he is doing?\u201d",
+              "DRB": "Doth our law judge any man, unless it first hear him, and know what he doth?",
+              "ESV": "\u201cDoes our law judge a man without first giving him a hearing and learning what he does?\u201d",
+              "LEB": "\u201cOur law does not condemn a man unless it first hears from him and knows what he is doing, does it?\u201d"
+            }
+          },
+          {
+            "verse": 52,
+            "texts": {
+              "NIV84": "They replied, \"Are you from Galilee, too? Look into it, and you will find that a prophet does not come out of Galilee.\"",
+              "KJV": "They answered and said unto him, Art thou also of Galilee? Search, and look: for out of Galilee ariseth no prophet.",
+              "NASB95": "They answered him, \u201cYou are not also from Galilee, are you? Search, and see that no prophet arises out of Galilee.\u201d",
+              "NKJV": "They answered and said to him, \u201cAre you also from Galilee? Search and look, for no prophet has arisen out of Galilee.\u201d",
+              "DRB": "They answered, and said to him: Art thou also a Galilean? Search the scriptures, and see, that out of Galilee a prophet riseth not.",
+              "ESV": "They replied, \u201cAre you from Galilee too? Search and see that no prophet arises from Galilee.\u201d",
+              "LEB": "They answered and said to him, \u201cYou are not also from Galilee, are you? Investigate and see that a prophet does not arise from Galilee!\u201d"
+            }
+          }
+        ]
+      },
+      {
+        "id": "act_15_36_41",
+        "title": "Division over John Mark",
+        "description": "",
+        "reference": {
+          "book": "Acts",
+          "chapter": 15,
+          "start": 36,
+          "end": 41
+        },
+        "rows": [
+          {
+            "verse": 36,
+            "texts": {
+              "NIV84": "Some time later Paul said to Barnabas, \"Let us go back and visit the brothers in all the towns where we preached the word of the Lord and see how they are doing.\"",
+              "KJV": "And some days after Paul said unto Barnabas, Let us go again and visit our brethren in every city where we have preached the word of the Lord, and see how they do.",
+              "NASB95": "After some days Paul said to Barnabas, \u201cLet us return and visit the brethren in every city in which we proclaimed the word of the Lord, and see how they are.\u201d",
+              "NKJV": "Then after some days Paul said to Barnabas, \u201cLet us now go back and visit our brethren in every city where we have preached the word of the Lord, and see how they are doing.\u201d",
+              "DRB": "And after some days, Paul said to Barnabas: Let us return and visit our brethren in all the cities wherein we have preached the word of the Lord, to see how they do.",
+              "ESV": "And after some days Paul said to Barnabas, \u201cLet us return and visit the brothers in every city where we proclaimed the word of the Lord, and see how they are.\u201d",
+              "LEB": "And after some days, Paul said to Barnabas, \u201cCome then,let us return and visit the brothers in every town in which we proclaimed the word of the Lord, to see how they are doing.\u201d"
+            }
+          },
+          {
+            "verse": 37,
+            "texts": {
+              "NIV84": "Barnabas wanted to take John, also called Mark, with them,",
+              "KJV": "And Barnabas determined to take with them John, whose surname was Mark.",
+              "NASB95": "Barnabas wanted to take John, called Mark, along with them also.",
+              "NKJV": "Now Barnabas was determined to take with them John called Mark.",
+              "DRB": "And Barnabas would have taken with them John also, that was surnamed Mark;",
+              "ESV": "Now Barnabas wanted to take with them John called Mark.",
+              "LEB": "Now Barnabas wanted to take John who was called Mark along also,"
+            }
+          },
+          {
+            "verse": 38,
+            "texts": {
+              "NIV84": "but Paul did not think it wise to take him, because he had deserted them in Pamphylia and had not continued with them in the work.",
+              "KJV": "But Paul thought not good to take him with them, who departed from them from Pamphylia, and went not with them to the work.",
+              "NASB95": "But Paul kept insisting that they should not take him along who had deserted them in Pamphylia and had not gone with them to the work.",
+              "NKJV": "But Paul insisted that they should not take with them the one who had departed from them in Pamphylia, and had not gone with them to the work.",
+              "DRB": "But Paul desired that he (as having departed from them out of Pamphylia, and not gone with them to the work) might not be received.",
+              "ESV": "But Paul thought best not to take with them one who had withdrawn from them in Pamphylia and had not gone with them to the work.",
+              "LEB": "but Paul held the opinion they should not take this one along, who departed from them in Pamphylia and did not accompany them in the work."
+            }
+          },
+          {
+            "verse": 39,
+            "texts": {
+              "NIV84": "They had such a sharp disagreement that they parted company. Barnabas took Mark and sailed for Cyprus,",
+              "KJV": "And the contention was so sharp between them, that they departed asunder one from the other: and so Barnabas took Mark, and sailed unto Cyprus;",
+              "NASB95": "And there occurred such a sharp disagreement that they separated from one another, and Barnabas took Mark with him and sailed away to Cyprus.",
+              "NKJV": "Then the contention became so sharp that they parted from one another. And so Barnabas took Mark and sailed to Cyprus;",
+              "DRB": "And there arose a dissension, so that they departed one from another; and Barnabas indeed taking Mark, sailed to Cyprus.",
+              "ESV": "And there arose a sharp disagreement, so that they separated from each other. Barnabas took Mark with him and sailed away to Cyprus,",
+              "LEB": "And a sharp disagreement took place, so that they separated from one another. And Barnabas took along Mark and sailed away to Cyprus,"
+            }
+          },
+          {
+            "verse": 40,
+            "texts": {
+              "NIV84": "but Paul chose Silas and left, commended by the brothers to the grace of the Lord.",
+              "KJV": "And Paul chose Silas, and departed, being recommended by the brethren unto the grace of God.",
+              "NASB95": "But Paul chose Silas and left, being committed by the brethren to the grace of the Lord.",
+              "NKJV": "but Paul chose Silas and departed, being commended by the brethren to the grace of God.",
+              "DRB": "But Paul choosing Silas, departed, being delivered by the brethren to the grace of God.",
+              "ESV": "but Paul chose Silas and departed, having been commended by the brothers to the grace of the Lord.",
+              "LEB": "but Paul chose Silas and departed, after being commended to the grace of the Lord by the brothers."
+            }
+          },
+          {
+            "verse": 41,
+            "texts": {
+              "NIV84": "He went through Syria and Cilicia, strengthening the churches.",
+              "KJV": "And he went through Syria and Cilicia, confirming the churches.",
+              "NASB95": "And he was traveling through Syria and Cilicia, strengthening the churches.",
+              "NKJV": "And he went through Syria and Cilicia, strengthening the churches.",
+              "DRB": "And he went through Syria and Cilicia, confirming the churches, commanding them to keep the precepts of the apostles and the ancients.",
+              "ESV": "And he went through Syria and Cilicia, strengthening the churches.",
+              "LEB": "And he traveled through Syria and Cilicia, strengthening the churches."
+            }
+          }
+        ]
+      },
+      {
+        "id": "rom_11_25_36",
+        "title": "All Israel to be Saved",
+        "description": "",
+        "reference": {
+          "book": "Romans",
+          "chapter": 11,
+          "start": 25,
+          "end": 36
+        },
+        "rows": [
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "I do not want you to be ignorant of this mystery, brothers, so that you may not be conceited: Israel has experienced a hardening in part until the full number of the Gentiles has come in.",
+              "KJV": "For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that blindness in part is happened to Israel, until the fulness of the Gentiles be come in.",
+              "NASB95": "For I do not want you, brethren, to be uninformed of this mystery\u2014so that you will not be wise in your own estimation\u2014that a partial hardening has happened to Israel until the fullness of the Gentiles has come in;",
+              "NKJV": "For I do not desire, brethren, that you should be ignorant of this mystery, lest you should be wise in your own opinion, that blindness in part has happened to Israel until the fullness of the Gentiles has come in.",
+              "DRB": "For I would not have you ignorant, brethren, of this mystery, (lest you should be wise in your own conceits), that blindness in part has happened in Israel, until the fulness of the Gentiles should come in.",
+              "ESV": "Lest you be wise in your own sight, I do not want you to be unaware of this mystery, brothers: a partial hardening has come upon Israel, until the fullness of the Gentiles has come in.",
+              "LEB": "For I do not want you to be ignorant, brothers, of this mystery, so that you will not be wise in your own sight, that a partial hardening has happened to Israel, until the full number of the Gentiles has come in,"
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "And so all Israel will be saved, as it is written: \"The deliverer will come from Zion; he will turn godlessness away from Jacob.",
+              "KJV": "And so all Israel shall be saved: as it is written, There shall come out of Sion the Deliverer, and shall turn away ungodliness from Jacob:",
+              "NASB95": "and so all Israel will be saved; just as it is written,\n\u201cThe Deliverer will come from Zion,\nHe will remove ungodliness from Jacob.\u201d",
+              "NKJV": "And so all Israel will be saved, as it is written:\n\u201cThe Deliverer will come out of Zion,\nAnd He will turn away ungodliness from Jacob;",
+              "DRB": "And so all Israel should be saved, as it is written: There shall come out of Sion, he that shall deliver, and shall turn away ungodliness from Jacob.",
+              "ESV": "And in this way all Israel will be saved, as it is written,\n\u201cThe Deliverer will come from Zion,\n    he will banish ungodliness from Jacob\u201d;",
+              "LEB": "and so all Israel will be saved, just as it is written,\n\u201cThe deliverer will come out of Zion;\n    he will turn away ungodliness from Jacob."
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "And this is my covenant with them when I take away their sins.\"",
+              "KJV": "For this is my covenant unto them, when I shall take away their sins.",
+              "NASB95": "\u201cThis is My covenant with them,\nWhen I take away their sins.\u201d",
+              "NKJV": "For this is My covenant with them,\nWhen I take away their sins.\u201d",
+              "DRB": "And this is to them my covenant: when I shall take away their sins.",
+              "ESV": "\u201cand this will be my covenant with them\n    when I take away their sins.\u201d",
+              "LEB": "And this is the covenant from me with them\n    when I take away their sins.\u201d"
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "As far as the gospel is concerned, they are enemies on your account; but as far as election is concerned, they are loved on account of the patriarchs,",
+              "KJV": "As concerning the gospel, they are enemies for your sakes: but as touching the election, they are beloved for the father's sakes.",
+              "NASB95": "From the standpoint of the gospel they are enemies for your sake, but from the standpoint of God\u2019s choice they are beloved for the sake of the fathers;",
+              "NKJV": "Concerning the gospel they are enemies for your sake, but concerning the election they are beloved for the sake of the fathers.",
+              "DRB": "As concerning the gospel, indeed, they are enemies for your sake: but as touching the election, they are most dear for the sake of the fathers.",
+              "ESV": "As regards the gospel, they are enemies for your sake. But as regards election, they are beloved for the sake of their forefathers.",
+              "LEB": "With respect to the gospel, they are enemies for your sake, but with respect to election, they are dearly loved for the sake of the fathers."
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "for God's gifts and his call are irrevocable.",
+              "KJV": "For the gifts and calling of God are without repentance.",
+              "NASB95": "for the gifts and the calling of God are irrevocable.",
+              "NKJV": "For the gifts and the calling of God are irrevocable.",
+              "DRB": "For the gifts and the calling of God are without repentance.",
+              "ESV": "For the gifts and the calling of God are irrevocable.",
+              "LEB": "For the gifts and the calling of God are irrevocable."
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "Just as you who were at one time disobedient to God have now received mercy as a result of their disobedience,",
+              "KJV": "For as ye in times past have not believed God, yet have now obtained mercy through their unbelief:",
+              "NASB95": "For just as you once were disobedient to God, but now have been shown mercy because of their disobedience,",
+              "NKJV": "For as you were once disobedient to God, yet have now obtained mercy through their disobedience,",
+              "DRB": "For as you also in times past did not believe God, but now have obtained mercy, through their unbelief;",
+              "ESV": "For just as you were at one time disobedient to God but now have received mercy because of their disobedience,",
+              "LEB": "For just as you formerly were disobedient to God, but now have been shown mercy because of the disobedience of these,"
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "so they too have now become disobedient in order that they too may now receive mercy as a result of God's mercy to you.",
+              "KJV": "Even so have these also now not believed, that through your mercy they also may obtain mercy.",
+              "NASB95": "so these also now have been disobedient, that because of the mercy shown to you they also may now be shown mercy.",
+              "NKJV": "even so these also have now been disobedient, that through the mercy shown you they also may obtain mercy.",
+              "DRB": "So these also now have not believed, for your mercy, that they also may obtain mercy.",
+              "ESV": "so they too have now been disobedient in order that by the mercy shown to you they also may now receive mercy.",
+              "LEB": "so also these have now been disobedient for your mercy, in order that they also may now be shown mercy."
+            }
+          },
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "For God has bound all men over to disobedience so that he may have mercy on them all.",
+              "KJV": "For God hath concluded them all in unbelief, that he might have mercy upon all.",
+              "NASB95": "For God has shut up all in disobedience so that He may show mercy to all.",
+              "NKJV": "For God has committed them all to disobedience, that He might have mercy on all.",
+              "DRB": "For God hath concluded all in unbelief, that he may have mercy on all.",
+              "ESV": "For God has consigned all to disobedience, that he may have mercy on all.",
+              "LEB": "For God confined them all in disobedience, in order that he could have mercy on them all."
+            }
+          },
+          {
+            "verse": 33,
+            "texts": {
+              "NIV84": "Oh, the depth of the riches of the wisdom and knowledge of God! How unsearchable his judgments, and his paths beyond tracing out!",
+              "KJV": "O the depth of the riches both of the wisdom and knowledge of God! how unsearchable are his judgments, and his ways past finding out!",
+              "NASB95": "Oh, the depth of the riches both of the wisdom and knowledge of God! How unsearchable are His judgments and unfathomable His ways!",
+              "NKJV": "Oh, the depth of the riches both of the wisdom and knowledge of God! How unsearchable are His judgments and His ways past finding out!",
+              "DRB": "O the depth of the riches of the wisdom and of the knowledge of God! How incomprehensible are his judgments, and how unsearchable his ways!",
+              "ESV": "Oh, the depth of the riches and wisdom and knowledge of God! How unsearchable are his judgments and how inscrutable his ways!",
+              "LEB": "Oh, the depth of the riches\n    and the wisdom and the knowledge of God!\nHow unsearchable are his judgments\n    and how incomprehensible are his ways!"
+            }
+          },
+          {
+            "verse": 34,
+            "texts": {
+              "NIV84": "\"Who has known the mind of the Lord? Or who has been his counselor?\"",
+              "KJV": "For who hath known the mind of the Lord? or who hath been his counsellor?",
+              "NASB95": "For who has known the mind of the Lord, or who became His counselor?",
+              "NKJV": "\u201cFor who has known the mind of the Lord?\nOr who has become His counselor?\u201d",
+              "DRB": "For who hath known the mind of the Lord? Or who hath been his counsellor?",
+              "ESV": "\u201cFor who has known the mind of the Lord,\n    or who has been his counselor?\u201d",
+              "LEB": "\u201cFor who has known the mind of the Lord,\n    or who has been his counselor?"
+            }
+          },
+          {
+            "verse": 35,
+            "texts": {
+              "NIV84": "\"Who has ever given to God, that God should repay him?\"",
+              "KJV": "Or who hath first given to him, and it shall be recompensed unto him again?",
+              "NASB95": "Or who has first given to Him that it might be paid back to him again?",
+              "NKJV": "\u201cOr who has first given to Him\nAnd it shall be repaid to him?\u201d",
+              "DRB": "Or who hath first given to him, and recompense shall be made him?",
+              "ESV": "\u201cOr who has given a gift to him\n    that he might be repaid?\u201d",
+              "LEB": "Or who has given in advance to him,\n    and it will be paid back to him?\u201d"
+            }
+          },
+          {
+            "verse": 36,
+            "texts": {
+              "NIV84": "For from him and through him and to him are all things. To him be the glory forever! Amen.",
+              "KJV": "For of him, and through him, and to him, are all things: to whom be glory for ever. Amen.",
+              "NASB95": "For from Him and through Him and to Him are all things. To Him be the glory forever. Amen.",
+              "NKJV": "For of Him and through Him and to Him are all things, to whom be glory forever. Amen.",
+              "DRB": "For of him, and by him, and in him, are all things: to him be glory for ever. Amen.",
+              "ESV": "For from him and through him and to him are all things. To him be glory forever. Amen.",
+              "LEB": "For from him and through him and to him are all things.\n    To him be glory for eternity! Amen."
+            }
+          }
+        ]
+      },
+      {
+        "id": "rom_12_9_21",
+        "title": "Behave Like a Christian Living in Love",
+        "description": "",
+        "reference": {
+          "book": "Romans",
+          "chapter": 12,
+          "start": 9,
+          "end": 21
+        },
+        "rows": [
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Love must be sincere. Hate what is evil; cling to what is good.",
+              "KJV": "Let love be without dissimulation. Abhor that which is evil; cleave to that which is good.",
+              "NASB95": "Let love be without hypocrisy. Abhor what is evil; cling to what is good.",
+              "NKJV": "Let love be without hypocrisy. Abhor what is evil. Cling to what is good.",
+              "DRB": "Let love be without dissimulation. Hating that which is evil, cleaving to that which is good.",
+              "ESV": "Let love be genuine. Abhor what is evil; hold fast to what is good.",
+              "LEB": "Love must be without hypocrisy. Abhor what is evil; be attached to what is good,"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Be devoted to one another in brotherly love. Honor one another above yourselves.",
+              "KJV": "Be kindly affectioned one to another with brotherly love; in honour preferring one another;",
+              "NASB95": "Be devoted to one another in brotherly love; give preference to one another in honor;",
+              "NKJV": "Be kindly affectionate to one another with brotherly love, in honor giving preference to one another;",
+              "DRB": "Loving one another with the charity of brotherhood, with honour preventing one another.",
+              "ESV": "Love one another with brotherly affection. Outdo one another in showing honor.",
+              "LEB": "being devoted to one another in brotherly love, esteeming one another more highly in honor,"
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Never be lacking in zeal, but keep your spiritual fervor, serving the Lord.",
+              "KJV": "Not slothful in business; fervent in spirit; serving the Lord;",
+              "NASB95": "not lagging behind in diligence, fervent in spirit, serving the Lord;",
+              "NKJV": "not lagging in diligence, fervent in spirit, serving the Lord;",
+              "DRB": "In carefulness not slothful. In spirit fervent. Serving the Lord.",
+              "ESV": "Do not be slothful in zeal, be fervent in spirit, serve the Lord.",
+              "LEB": "not lagging in diligence, being enthusiastic in spirit, serving the Lord,"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Be joyful in hope, patient in affliction, faithful in prayer.",
+              "KJV": "Rejoicing in hope; patient in tribulation; continuing instant in prayer;",
+              "NASB95": "rejoicing in hope, persevering in tribulation, devoted to prayer,",
+              "NKJV": "rejoicing in hope, patient in tribulation, continuing steadfastly in prayer;",
+              "DRB": "Rejoicing in hope. Patient in tribulation. Instant in prayer.",
+              "ESV": "Rejoice in hope, be patient in tribulation, be constant in prayer.",
+              "LEB": "rejoicing in hope, enduring in affliction, being devoted to prayer,"
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Share with God's people who are in need. Practice hospitality.",
+              "KJV": "Distributing to the necessity of saints; given to hospitality.",
+              "NASB95": "contributing to the needs of the saints, practicing hospitality.",
+              "NKJV": "distributing to the needs of the saints, given to hospitality.",
+              "DRB": "Communicating to the necessities of the saints. Pursuing hospitality.",
+              "ESV": "Contribute to the needs of the saints and seek to show hospitality.",
+              "LEB": "contributing to the needs of the saints, pursuing hospitality."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "Bless those who persecute you; bless and do not curse.",
+              "KJV": "Bless them which persecute you: bless, and curse not.",
+              "NASB95": "Bless those who persecute you; bless and do not curse.",
+              "NKJV": "Bless those who persecute you; bless and do not curse.",
+              "DRB": "Bless them that persecute you: bless, and curse not.",
+              "ESV": "Bless those who persecute you; bless and do not curse them.",
+              "LEB": "Bless those who persecute, bless and do not curse them."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Rejoice with those who rejoice; mourn with those who mourn.",
+              "KJV": "Rejoice with them that do rejoice, and weep with them that weep.",
+              "NASB95": "Rejoice with those who rejoice, and weep with those who weep.",
+              "NKJV": "Rejoice with those who rejoice, and weep with those who weep.",
+              "DRB": "Rejoice with them that rejoice; weep with them that weep.",
+              "ESV": "Rejoice with those who rejoice, weep with those who weep.",
+              "LEB": "Rejoice with those who rejoice; weep with those who weep."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "Live in harmony with one another. Do not be proud, but be willing to associate with people of low position. Do not be conceited.",
+              "KJV": "Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits.",
+              "NASB95": "Be of the same mind toward one another; do not be haughty in mind, but associate with the lowly. Do not be wise in your own estimation.",
+              "NKJV": "Be of the same mind toward one another. Do not set your mind on high things, but associate with the humble. Do not be wise in your own opinion.",
+              "DRB": "Being of one mind one towards another. Not minding high things, but consenting to the humble. Be not wise in your own conceits.",
+              "ESV": "Live in harmony with one another. Do not be haughty, but associate with the lowly. Never be wise in your own sight.",
+              "LEB": "Think the same thing toward one another; do not think arrogantly, but associate with the lowly. Do not be wise in your own sight."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "Do not repay anyone evil for evil. Be careful to do what is right in the eyes of everybody.",
+              "KJV": "Recompense to no man evil for evil. Provide things honest in the sight of all men.",
+              "NASB95": "Never pay back evil for evil to anyone. Respect what is right in the sight of all men.",
+              "NKJV": "Repay no one evil for evil. Have regard for good things in the sight of all men.",
+              "DRB": "To no man rendering evil for evil. Providing good things, not only in the sight of God, but also in the sight of all men.",
+              "ESV": "Repay no one evil for evil, but give thought to do what is honorable in the sight of all.",
+              "LEB": "Pay back no one evil for evil. Take thought for what is good in the sight of all people."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "If it is possible, as far as it depends on you, live at peace with everyone.",
+              "KJV": "If it be possible, as much as lieth in you, live peaceably with all men.",
+              "NASB95": "If possible, so far as it depends on you, be at peace with all men.",
+              "NKJV": "If it is possible, as much as depends on you, live peaceably with all men.",
+              "DRB": "If it be possible, as much as is in you, have peace with all men.",
+              "ESV": "If possible, so far as it depends on you, live peaceably with all.",
+              "LEB": "If it is possible on your part, be at peace with all people."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "Do not take revenge, my friends, but leave room for God's wrath, for it is written: \"It is mine to avenge; I will repay,\" says the Lord.",
+              "KJV": "Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord.",
+              "NASB95": "Never take your own revenge, beloved, but leave room for the wrath of God, for it is written, \u201cVengeance is Mine, I will repay,\u201d says the Lord.",
+              "NKJV": "Beloved, do not avenge yourselves, but rather give place to wrath; for it is written, \u201cVengeance is Mine, I will repay,\u201d says the Lord.",
+              "DRB": "Revenge not yourselves, my dearly beloved; but give place unto wrath, for it is written: Revenge is mine, I will repay, saith the Lord.",
+              "ESV": "Beloved, never avenge yourselves, but leave it to the wrath of God, for it is written, \u201cVengeance is mine, I will repay, says the Lord.\u201d",
+              "LEB": "Do not take revenge yourselves, dear friends, but give place to God\u2019s wrath, for it is written, \u201cVengeance is mine, I will repay,\u201d says the Lord."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "On the contrary: \"If your enemy is hungry, feed him; if he is thirsty, give him something to drink. In doing this, you will heap burning coals on his head.\"",
+              "KJV": "Therefore if thine enemy hunger, feed him; if he thirst, give him drink: for in so doing thou shalt heap coals of fire on his head.",
+              "NASB95": "\u201cBut if your enemy is hungry, feed him, and if he is thirsty, give him a drink; for in so doing you will heap burning coals on his head.\u201d",
+              "NKJV": "Therefore\n\u201cIf your enemy is hungry, feed him;\nIf he is thirsty, give him a drink;\nFor in so doing you will heap coals of fire on his head.\u201d",
+              "DRB": "But if thy enemy be hungry, give him to eat; if he thirst, give him to drink. For, doing this, thou shalt heap coals of fire upon his head.",
+              "ESV": "To the contrary, \u201cif your enemy is hungry, feed him; if he is thirsty, give him something to drink; for by so doing you will heap burning coals on his head.\u201d",
+              "LEB": "But \u201cif your enemy is hungry, feed him; if he is thirsty, give him something to drink; for by doing this, you will heap up coals of fire upon his head.\u201d"
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "Do not be overcome by evil, but overcome evil with good.",
+              "KJV": "Be not overcome of evil, but overcome evil with good.",
+              "NASB95": "Do not be overcome by evil, but overcome evil with good.",
+              "NKJV": "Do not be overcome by evil, but overcome evil with good.",
+              "DRB": "Be not overcome by evil, but overcome evil by good.",
+              "ESV": "Do not be overcome by evil, but overcome evil with good.",
+              "LEB": "Do not be overcome by evil, but overcome evil with good."
+            }
+          }
+        ]
+      },
+      {
+        "id": "rom_14_1_12",
+        "title": "Principles of Conscience",
+        "description": "The Law of Liberty - The Weak and Strong",
+        "reference": {
+          "book": "Romans",
+          "chapter": 14,
+          "start": 1,
+          "end": 12
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Accept him whose faith is weak, without passing judgment on disputable matters.",
+              "KJV": "Him that is weak in the faith receive ye, but not to doubtful disputations.",
+              "NASB95": "Now accept the one who is weak in faith, but not for the purpose of passing judgment on his opinions.",
+              "NKJV": "Receive one who is weak in the faith, but not to disputes over doubtful things.",
+              "DRB": "NOW him that is weak in faith, take unto you: not in disputes about thoughts.",
+              "ESV": "As for the one who is weak in faith, welcome him, but not to quarrel over opinions.",
+              "LEB": "Now receive the one who is weak in faith, but not for quarrels about opinions."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "One man's faith allows him to eat everything, but another man, whose faith is weak, eats only vegetables.",
+              "KJV": "For one believeth that he may eat all things: another, who is weak, eateth herbs.",
+              "NASB95": "One person has faith that he may eat all things, but he who is weak eats vegetables only.",
+              "NKJV": "For one believes he may eat all things, but he who is weak eats only vegetables.",
+              "DRB": "For one believeth that he may eat all things: but he that is weak, let him eat herbs.",
+              "ESV": "One person believes he may eat anything, while the weak person eats only vegetables.",
+              "LEB": "One believes he may eat all things, but the one who is weak eats only vegetables."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "The man who eats everything must not look down on him who does not, and the man who does not eat everything must not condemn the man who does, for God has accepted him.",
+              "KJV": "Let not him that eateth despise him that eateth not; and let not him which eateth not judge him that eateth: for God hath received him.",
+              "NASB95": "The one who eats is not to regard with contempt the one who does not eat, and the one who does not eat is not to judge the one who eats, for God has accepted him.",
+              "NKJV": "Let not him who eats despise him who does not eat, and let not him who does not eat judge him who eats; for God has received him.",
+              "DRB": "Let not him that eateth, despise him that eateth not: and he that eateth not, let him not judge him that eateth. For God hath taken him to him.",
+              "ESV": "Let not the one who eats despise the one who abstains, and let not the one who abstains pass judgment on the one who eats, for God has welcomed him.",
+              "LEB": "The one who eats must not despise the one who does not eat, and the one who does not eat must not judge the one who eats, because God has accepted him."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Who are you to judge someone else's servant? To his own master he stands or falls. And he will stand, for the Lord is able to make him stand.",
+              "KJV": "Who art thou that judgest another man's servant? to his own master he standeth or falleth. Yea, he shall be holden up: for God is able to make him stand.",
+              "NASB95": "Who are you to judge the servant of another? To his own master he stands or falls; and he will stand, for the Lord is able to make him stand.",
+              "NKJV": "Who are you to judge another\u2019s servant? To his own master he stands or falls. Indeed, he will be made to stand, for God is able to make him stand.",
+              "DRB": "Who art thou that judgest another man's servant? To his own lord he standeth or falleth. And he shall stand: for God is able to make him stand.",
+              "ESV": "Who are you to pass judgment on the servant of another? It is before his own master that he stands or falls. And he will be upheld, for the Lord is able to make him stand.",
+              "LEB": "Who are you, who passes judgment on the domestic slave belonging to someone else? To his own master he stands or falls, and he will stand, for the Lord is able to make him stand."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "One man considers one day more sacred than another; another man considers every day alike. Each one should be fully convinced in his own mind.",
+              "KJV": "One man esteemeth one day above another: another esteemeth every day alike. Let every man be fully persuaded in his own mind.",
+              "NASB95": "One person regards one day above another, another regards every day alike. Each person must be fully convinced in his own mind.",
+              "NKJV": "One person esteems one day above another; another esteems every day alike. Let each be fully convinced in his own mind.",
+              "DRB": "For one judgeth between day and day: and another judgeth every day: let every man abound in his own sense.",
+              "ESV": "One person esteems one day as better than another, while another esteems all days alike. Each one should be fully convinced in his own mind.",
+              "LEB": "One person prefers one day over another day, and another person regards every day alike. Each one must be fully convinced in his own mind."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "He who regards one day as special, does so to the Lord. He who eats meat, eats to the Lord, for he gives thanks to God; and he who abstains, does so to the Lord and gives thanks to God.",
+              "KJV": "He that regardeth the day, regardeth it unto the Lord; and he that regardeth not the day, to the Lord he doth not regard it. He that eateth, eateth to the Lord, for he giveth God thanks; and he that eateth not, to the Lord he eateth not, and giveth God thanks.",
+              "NASB95": "He who observes the day, observes it for the Lord, and he who eats, does so for the Lord, for he gives thanks to God; and he who eats not, for the Lord he does not eat, and gives thanks to God.",
+              "NKJV": "He who observes the day, observes it to the Lord; and he who does not observe the day, to the Lord he does not observe it. He who eats, eats to the Lord, for he gives God thanks; and he who does not eat, to the Lord he does not eat, and gives God thanks.",
+              "DRB": "He that regardeth the day, regardeth it unto the Lord. And he that eateth, eateth to the Lord: for he giveth thanks to God. And he that eateth not, to the Lord he eateth not, and giveth thanks to God.",
+              "ESV": "The one who observes the day, observes it in honor of the Lord. The one who eats, eats in honor of the Lord, since he gives thanks to God, while the one who abstains, abstains in honor of the Lord and gives thanks to God.",
+              "LEB": "The one who is intent on the day is intent on it for the Lord, and the one who eats eats for the Lord, because he is thankful to God, and the one who does not eat does not eat for the Lord, and he is thankful to God."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "For none of us lives to himself alone and none of us dies to himself alone.",
+              "KJV": "For none of us liveth to himself, and no man dieth to himself.",
+              "NASB95": "For not one of us lives for himself, and not one dies for himself;",
+              "NKJV": "For none of us lives to himself, and no one dies to himself.",
+              "DRB": "For none of us liveth to himself; and no man dieth to himself.",
+              "ESV": "For none of us lives to himself, and none of us dies to himself.",
+              "LEB": "For none of us lives for himself and none dies for himself."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "If we live, we live to the Lord; and if we die, we die to the Lord. So, whether we live or die, we belong to the Lord.",
+              "KJV": "For whether we live, we live unto the Lord; and whether we die, we die unto the Lord: whether we live therefore, or die, we are the Lord's.",
+              "NASB95": "for if we live, we live for the Lord, or if we die, we die for the Lord; therefore whether we live or die, we are the Lord\u2019s.",
+              "NKJV": "For if we live, we live to the Lord; and if we die, we die to the Lord. Therefore, whether we live or die, we are the Lord\u2019s.",
+              "DRB": "For whether we live, we live unto the Lord; or whether we die, we die unto the Lord. Therefore, whether we live, or whether we die, we are the Lord's.",
+              "ESV": "For if we live, we live to the Lord, and if we die, we die to the Lord. So then, whether we live or whether we die, we are the Lord's.",
+              "LEB": "For if we live, we live for the Lord, and if we die, we die for the Lord. Therefore whether we live or whether we die, we are the Lord\u2019s."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "For this very reason, Christ died and returned to life so that he might be the Lord of both the dead and the living.",
+              "KJV": "For to this end Christ both died, and rose, and revived, that he might be Lord both of the dead and living.",
+              "NASB95": "For to this end Christ died and lived again, that He might be Lord both of the dead and of the living.",
+              "NKJV": "For to this end Christ died and rose and lived again, that He might be Lord of both the dead and the living.",
+              "DRB": "For to this end Christ died and rose again; that he might be Lord both of the dead and of the living.",
+              "ESV": "For to this end Christ died and lived again, that he might be Lord both of the dead and of the living.",
+              "LEB": "For Christ died and became alive again for this reason, in order that he might be Lord of both the dead and the living."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "You, then, why do you judge your brother? Or why do you look down on your brother? For we will all stand before God's judgment seat.",
+              "KJV": "But why dost thou judge thy brother? or why dost thou set at nought thy brother? for we shall all stand before the judgment seat of Christ.",
+              "NASB95": "But you, why do you judge your brother? Or you again, why do you regard your brother with contempt? For we will all stand before the judgment seat of God.",
+              "NKJV": "But why do you judge your brother? Or why do you show contempt for your brother? For we shall all stand before the judgment seat of Christ.",
+              "DRB": "But thou, why judgest thou thy brother? or thou, why dost thou despise thy brother? For we shall all stand before the judgment seat of Christ.",
+              "ESV": "Why do you pass judgment on your brother? Or you, why do you despise your brother? For we will all stand before the judgment seat of God;",
+              "LEB": "But why do you judge your brother? Or also, why do you despise your brother? For we will all stand before the judgment seat of God."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "It is written: \"'As surely as I live,' says the Lord, 'every knee will bow before me; every tongue will confess to God.'\"",
+              "KJV": "For it is written, As I live, saith the Lord, every knee shall bow to me, and every tongue shall confess to God.",
+              "NASB95": "For it is written,\n\u201cAs I live, says the Lord, every knee shall bow to Me,\nAnd every tongue shall give praise to God.\u201d",
+              "NKJV": "For it is written:\n\u201cAs I live, says the Lord,\nEvery knee shall bow to Me,\nAnd every tongue shall confess to God.\u201d",
+              "DRB": "For it is written: As I live, saith the Lord, every knee shall bow to me, and every tongue shall confess to God.",
+              "ESV": "for it is written,\n\u201cAs I live, says the Lord, every knee shall bow to me,\n    and every tongue shall confess to God.\u201d",
+              "LEB": "For it is written,\n\u201cAs I live, says the Lord, every knee will bow to me,\nand every tongue will praise God.\u201d"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "So then, each of us will give an account of himself to God.",
+              "KJV": "So then every one of us shall give account of himself to God.",
+              "NASB95": "So then each one of us will give an account of himself to God.",
+              "NKJV": "So then each of us shall give account of himself to God.",
+              "DRB": "Therefore every one of us shall render account to God for himself.",
+              "ESV": "So then each of us will give an account of himself to God.",
+              "LEB": "So each one of us will give an account concerning himself."
+            }
+          }
+        ]
+      },
+      {
+        "id": "1co_7_25_40",
+        "title": "Concerning the Unmarried",
+        "description": "",
+        "reference": {
+          "book": "1 Corinthians",
+          "chapter": 7,
+          "start": 25,
+          "end": 40
+        },
+        "rows": [
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "Now about virgins: I have no command from the Lord, but I give a judgment as one who by the Lord's mercy is trustworthy.",
+              "KJV": "Now concerning virgins I have no commandment of the Lord: yet I give my judgment, as one that hath obtained mercy of the Lord to be faithful.",
+              "NASB95": "Now concerning virgins I have no command of the Lord, but I give an opinion as one who by the mercy of the Lord is trustworthy.",
+              "NKJV": "Now concerning virgins: I have no commandment from the Lord; yet I give judgment as one whom the Lord in His mercy has made trustworthy.",
+              "DRB": "Now concerning virgins, I have no commandment of the Lord; but I give counsel, as having obtained mercy of the Lord, to be faithful.",
+              "ESV": "Now concerning the betrothed, I have no command from the Lord, but I give my judgment as one who by the Lord's mercy is trustworthy.",
+              "LEB": "Now concerning virgins I do not have a command from the Lord, but I am giving an opinion as one shown mercy by the Lord to be trustworthy."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "Because of the present crisis, I think that it is good for you to remain as you are.",
+              "KJV": "I suppose therefore that this is good for the present distress, I say, that it is good for a man so to be.",
+              "NASB95": "I think then that this is good in view of the present distress, that it is good for a man to remain as he is.",
+              "NKJV": "I suppose therefore that this is good because of the present distress\u2014that it is good for a man to remain as he is:",
+              "DRB": "I think therefore that this is good for the present necessity, that it is good for a man so to be.",
+              "ESV": "I think that in view of the present distress it is good for a person to remain as he is.",
+              "LEB": "Therefore, I consider this to be good because of the impending distress, that it is good for a man to be thus."
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "Are you married? Do not seek a divorce. Are you unmarried? Do not look for a wife.",
+              "KJV": "Art thou bound unto a wife? seek not to be loosed. Art thou loosed from a wife? seek not a wife.",
+              "NASB95": "Are you bound to a wife? Do not seek to be released. Are you released from a wife? Do not seek a wife.",
+              "NKJV": "Are you bound to a wife? Do not seek to be loosed. Are you loosed from a wife? Do not seek a wife.",
+              "DRB": "Art thou bound to a wife ? seek not to be loosed. Art thou loosed from a wife ? seek not a wife.",
+              "ESV": "Are you bound to a wife? Do not seek to be free. Are you free from a wife? Do not seek a wife.",
+              "LEB": "Are you bound to a wife? Do not seek release. Are you free from a wife? Do not seek a wife."
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "But if you do marry, you have not sinned; and if a virgin marries, she has not sinned. But those who marry will face many troubles in this life, and I want to spare you this.",
+              "KJV": "But and if thou marry, thou hast not sinned; and if a virgin marry, she hath not sinned. Nevertheless such shall have trouble in the flesh: but I spare you.",
+              "NASB95": "But if you marry, you have not sinned; and if a virgin marries, she has not sinned. Yet such will have trouble in this life, and I am trying to spare you.",
+              "NKJV": "But even if you do marry, you have not sinned; and if a virgin marries, she has not sinned. Nevertheless such will have trouble in the flesh, but I would spare you.",
+              "DRB": "But if thou take a wife, thou hast not sinned. And if a virgin marry, she hath not sinned: nevertheless, such shall have tribulation of the flesh. But I spare you.",
+              "ESV": "But if you do marry, you have not sinned, and if a betrothed woman marries, she has not sinned. Yet those who marry will have worldly troubles, and I would spare you that.",
+              "LEB": "But if you marry, you have not sinned, and if the virgin marries, she has not sinned. But such people will have affliction in the flesh, and I would spare you."
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "What I mean, brothers, is that the time is short. From now on those who have wives should live as if they had none;",
+              "KJV": "But this I say, brethren, the time is short: it remaineth, that both they that have wives be as though they had none;",
+              "NASB95": "But this I say, brethren, the time has been shortened, so that from now on those who have wives should be as though they had none;",
+              "NKJV": "But this I say, brethren, the time is short, so that from now on even those who have wives should be as though they had none,",
+              "DRB": "This therefore I say, brethren; the time is short; it remaineth, that they also who have wives, be as if they had none;",
+              "ESV": "This is what I mean, brothers: the appointed time has grown very short. From now on, let those who have wives live as though they had none,",
+              "LEB": "But I say this, brothers: the time is shortened, that from now on even those who have wives should be as if they do not have wives,"
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "those who mourn, as if they did not; those who are happy, as if they were not; those who buy something, as if it were not theirs to keep;",
+              "KJV": "And they that weep, as though they wept not; and they that rejoice, as though they rejoiced not; and they that buy, as though they possessed not;",
+              "NASB95": "and those who weep, as though they did not weep; and those who rejoice, as though they did not rejoice; and those who buy, as though they did not possess;",
+              "NKJV": "those who weep as though they did not weep, those who rejoice as though they did not rejoice, those who buy as though they did not possess,",
+              "DRB": "And they that weep, as though they wept not; and they that rejoice, as if they rejoiced not; and they that buy, as though they possessed not;",
+              "ESV": "and those who mourn as though they were not mourning, and those who rejoice as though they were not rejoicing, and those who buy as though they had no goods,",
+              "LEB": "and those who weep as if they do not weep, and those who rejoice as if they do not rejoice, and those who buy as if they do not possess,"
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "those who use the things of the world, as if not engrossed in them. For this world in its present form is passing away.",
+              "KJV": "And they that use this world, as not abusing it: for the fashion of this world passeth away.",
+              "NASB95": "and those who use the world, as though they did not make full use of it; for the form of this world is passing away.",
+              "NKJV": "and those who use this world as not misusing it. For the form of this world is passing away.",
+              "DRB": "And they that use this world, as if they used it not: for the fashion of this world passeth away.",
+              "ESV": "and those who deal with the world as though they had no dealings with it. For the present form of this world is passing away.",
+              "LEB": "and those who make use of the world as if they do not make full use of it. For the present form of this world is passing away."
+            }
+          },
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "I would like you to be free from concern. An unmarried man is concerned about the Lord's affairs--how he can please the Lord.",
+              "KJV": "But I would have you without carefulness. He that is unmarried careth for the things that belong to the Lord, how he may please the Lord:",
+              "NASB95": "But I want you to be free from concern. One who is unmarried is concerned about the things of the Lord, how he may please the Lord;",
+              "NKJV": "But I want you to be without care. He who is unmarried cares for the things of the Lord\u2014how he may please the Lord.",
+              "DRB": "But I would have you to be without solicitude. He that is without a wife, is solicitous for the things that belong to the Lord, how he may please God.",
+              "ESV": "I want you to be free from anxieties. The unmarried man is anxious about the things of the Lord, how to please the Lord.",
+              "LEB": "But I want you to be free from care. The unmarried person cares for the things of the Lord, how he may please the Lord."
+            }
+          },
+          {
+            "verse": 33,
+            "texts": {
+              "NIV84": "But a married man is concerned about the affairs of this world--how he can please his wife--",
+              "KJV": "But he that is married careth for the things that are of the world, how he may please his wife.",
+              "NASB95": "but one who is married is concerned about the things of the world, how he may please his wife,",
+              "NKJV": "But he who is married cares about the things of the world\u2014how he may please his wife.",
+              "DRB": "But he that is with a wife, is solicitous for the things of the world, how he may please his wife: and he is divided.",
+              "ESV": "But the married man is anxious about worldly things, how to please his wife,",
+              "LEB": "But the one who is married cares for the things of the world, how he may please his wife,"
+            }
+          },
+          {
+            "verse": 34,
+            "texts": {
+              "NIV84": "and his interests are divided. An unmarried woman or virgin is concerned about the Lord's affairs: Her aim is to be devoted to the Lord in both body and spirit. But a married woman is concerned about the affairs of this world--how she can please her husband.",
+              "KJV": "There is difference also between a wife and a virgin. The unmarried woman careth for the things of the Lord, that she may be holy both in body and in spirit: but she that is married careth for the things of the world, how she may please her husband.",
+              "NASB95": "and his interests are divided. The woman who is unmarried, and the virgin, is concerned about the things of the Lord, that she may be holy both in body and spirit; but one who is married is concerned about the things of the world, how she may please her husband.",
+              "NKJV": "There is a difference between a wife and a virgin. The unmarried woman cares about the things of the Lord, that she may be holy both in body and in spirit. But she who is married cares about the things of the world\u2014how she may please her husband.",
+              "DRB": "And the unmarried woman and the virgin thinketh on the things of the Lord, that she may be holy both in body and in spirit. But she that is married thinketh on the things of the world, how she may please her husband.",
+              "ESV": "and his interests are divided. And the unmarried or betrothed woman is anxious about the things of the Lord, how to be holy in body and spirit. But the married woman is anxious about worldly things, how to please her husband.",
+              "LEB": "and he is divided. And the unmarried woman or the virgin cares for the things of the Lord, in order that she may be holy both in body and in spirit. But the married woman cares for the things of the world, how she may please her husband."
+            }
+          },
+          {
+            "verse": 35,
+            "texts": {
+              "NIV84": "I am saying this for your own good, not to restrict you, but that you may live in a right way in undivided devotion to the Lord.",
+              "KJV": "And this I speak for your own profit; not that I may cast a snare upon you, but for that which is comely, and that ye may attend upon the Lord without distraction.",
+              "NASB95": "This I say for your own benefit; not to put a restraint upon you, but to promote what is appropriate and to secure undistracted devotion to the Lord.",
+              "NKJV": "And this I say for your own profit, not that I may put a leash on you, but for what is proper, and that you may serve the Lord without distraction.",
+              "DRB": "And this I speak for your profit: not to cast a snare upon you; but for that which is decent, and which may give you power to attend upon the Lord, without impediment.",
+              "ESV": "I say this for your own benefit, not to lay any restraint upon you, but to promote good order and to secure your undivided devotion to the Lord.",
+              "LEB": "Now I am saying this for your own benefit, not that I may put a restriction on you, but to promote appropriate and devoted service to the Lord without distraction."
+            }
+          },
+          {
+            "verse": 36,
+            "texts": {
+              "NIV84": "If anyone thinks he is acting improperly toward the virgin he is engaged to, and if she is getting along in years and he feels he ought to marry, he should do as he wants. He is not sinning. They should get married.",
+              "KJV": "But if any man think that he behaveth himself uncomely toward his virgin, if she pass the flower of her age, and need so require, let him do what he will, he sinneth not: let them marry.",
+              "NASB95": "But if any man thinks that he is acting unbecomingly toward his virgin daughter, if she is past her youth, and if it must be so, let him do what he wishes, he does not sin; let her marry.",
+              "NKJV": "But if any man thinks he is behaving improperly toward his virgin, if she is past the flower of youth, and thus it must be, let him do what he wishes. He does not sin; let them marry.",
+              "DRB": "But if any man think that he seemeth dishonoured, with regard to his virgin, for that she is above the age, and it must so be: let him do what he will; he sinneth not, if she marry.",
+              "ESV": "If anyone thinks that he is not behaving properly toward his betrothed, if his passions are strong, and it has to be, let him do as he wishes: let them marry\u2014it is no sin.",
+              "LEB": "But if anyone thinks he is behaving dishonorably concerning his virgin, if she is past her prime and it ought to be thus, let him do what he wishes. He does not sin. Let them marry."
+            }
+          },
+          {
+            "verse": 37,
+            "texts": {
+              "NIV84": "But the man who has settled the matter in his own mind, who is under no compulsion but has control over his own will, and who has made up his mind not to marry the virgin--this man also does the right thing.",
+              "KJV": "Nevertheless he that standeth stedfast in his heart, having no necessity, but hath power over his own will, and hath so decreed in his heart that he will keep his virgin, doeth well.",
+              "NASB95": "But he who stands firm in his heart, being under no constraint, but has authority over his own will, and has decided this in his own heart, to keep his own virgin daughter, he will do well.",
+              "NKJV": "Nevertheless he who stands steadfast in his heart, having no necessity, but has power over his own will, and has so determined in his heart that he will keep his virgin, does well.",
+              "DRB": "For he that hath determined being steadfast in his heart, having no necessity, but having power of his own will; and hath judged this in his heart, to keep his virgin, doth well.",
+              "ESV": "But whoever is firmly established in his heart, being under no necessity but having his desire under control, and has determined this in his heart, to keep her as his betrothed, he will do well.",
+              "LEB": "But he who stands firm in his heart, not having necessity, but has authority concerning his own will, and has decided this in his own heart, to keep his own virgin, he will do well."
+            }
+          },
+          {
+            "verse": 38,
+            "texts": {
+              "NIV84": "So then, he who marries the virgin does right, but he who does not marry her does even better.",
+              "KJV": "So then he that giveth her in marriage doeth well; but he that giveth her not in marriage doeth better.",
+              "NASB95": "So then both he who gives his own virgin daughter in marriage does well, and he who does not give her in marriage will do better.",
+              "NKJV": "So then he who gives her in marriage does well, but he who does not give her in marriage does better.",
+              "DRB": "Therefore, both he that giveth his virgin in marriage, doth well; and he that giveth her not, doth better.",
+              "ESV": "So then he who marries his betrothed does well, and he who refrains from marriage will do even better.",
+              "LEB": "So then, the one who marries his own virgin does well, and the one who does not marry her will do better."
+            }
+          },
+          {
+            "verse": 39,
+            "texts": {
+              "NIV84": "A woman is bound to her husband as long as he lives. But if her husband dies, she is free to marry anyone she wishes, but he must belong to the Lord.",
+              "KJV": "The wife is bound by the law as long as her husband liveth; but if her husband be dead, she is at liberty to be married to whom she will; only in the Lord.",
+              "NASB95": "A wife is bound as long as her husband lives; but if her husband is dead, she is free to be married to whom she wishes, only in the Lord.",
+              "NKJV": "A wife is bound by law as long as her husband lives; but if her husband dies, she is at liberty to be married to whom she wishes, only in the Lord.",
+              "DRB": "A woman is bound by the law as long as her husband liveth; but if her husband die, she is at liberty: let her marry to whom she will; only in the Lord.",
+              "ESV": "A wife is bound to her husband as long as he lives. But if her husband dies, she is free to be married to whom she wishes, only in the Lord.",
+              "LEB": "A wife is bound for as long a time as her husband lives. But if her husband dies, she is free to marry whomever she wishes, only in the Lord."
+            }
+          },
+          {
+            "verse": 40,
+            "texts": {
+              "NIV84": "In my judgment, she is happier if she stays as she is--and I think that I too have the Spirit of God.",
+              "KJV": "But she is happier if she so abide, after my judgment: and I think also that I have the Spirit of God.",
+              "NASB95": "But in my opinion she is happier if she remains as she is; and I think that I also have the Spirit of God.",
+              "NKJV": "But she is happier if she remains as she is, according to my judgment\u2014and I think I also have the Spirit of God.",
+              "DRB": "But more blessed shall she be, if she so remain, according to my counsel; and I think that I also have the spirit of God.",
+              "ESV": "Yet in my judgment she is happier if she remains as she is. And I think that I too have the Spirit of God.",
+              "LEB": "But she is happier if she remains thus, according to my opinion\u2014and I think I have the Spirit of God."
+            }
+          }
+        ]
+      },
+      {
+        "id": "2co_8_1_15",
+        "title": "Excel in Generous Giving",
+        "description": "",
+        "reference": {
+          "book": "2 Corinthians",
+          "chapter": 8,
+          "start": 1,
+          "end": 15
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "And now, brothers, we want you to know about the grace that God has given the Macedonian churches.",
+              "KJV": "Moreover, brethren, we do you to wit of the grace of God bestowed on the churches of Macedonia;",
+              "NASB95": "Now, brethren, we wish to make known to you the grace of God which has been given in the churches of Macedonia,",
+              "NKJV": "Moreover, brethren, we make known to you the grace of God bestowed on the churches of Macedonia:",
+              "DRB": "Now we make known unto you, brethren, the grace of God, that hath been given in the churches of Macedonia.",
+              "ESV": "We want you to know, brothers, about the grace of God that has been given among the churches of Macedonia,",
+              "LEB": "Now we make known to you, brothers, the grace of God that has been given among the churches of Macedonia,"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Out of the most severe trial, their overflowing joy and their extreme poverty welled up in rich generosity.",
+              "KJV": "How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality.",
+              "NASB95": "that in a great ordeal of affliction their abundance of joy and their deep poverty overflowed in the wealth of their liberality.",
+              "NKJV": "that in a great trial of affliction the abundance of their joy and their deep poverty abounded in the riches of their liberality.",
+              "DRB": "That in much experience of tribulation, they have had abundance of joy; and their very deep poverty hath abounded unto the riches of their simplicity.",
+              "ESV": "for in a severe test of affliction, their abundance of joy and their extreme poverty have overflowed in a wealth of generosity on their part.",
+              "LEB": "that with a great ordeal of affliction, the abundance of their joy and the extreme depth of their poverty have overflowed to the wealth of their generosity."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "For I testify that they gave as much as they were able, and even beyond their ability. Entirely on their own,",
+              "KJV": "For to their power, I bear record, yea, and beyond their power they were willing of themselves;",
+              "NASB95": "For I testify that according to their ability, and beyond their ability, they gave of their own accord,",
+              "NKJV": "For I bear witness that according to their ability, yes, and beyond their ability, they were freely willing,",
+              "DRB": "For according to their power ( I bear them witness), and beyond their power, they were willing.",
+              "ESV": "For they gave according to their means, as I can testify, and beyond their means, of their own accord,",
+              "LEB": "I testify that they gave according to their ability, and beyond their ability, by their own choice,"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "they urgently pleaded with us for the privilege of sharing in this service to the saints.",
+              "KJV": "Praying us with much intreaty that we would receive the gift, and take upon us the fellowship of the ministering to the saints.",
+              "NASB95": "begging us with much urging for the favor of participation in the support of the saints,",
+              "NKJV": "imploring us with much urgency that we would receive the gift and the fellowship of the ministering to the saints.",
+              "DRB": "With much entreaty begging of us the grace and communication of the ministry that is done toward the saints.",
+              "ESV": "begging us earnestly for the favor of taking part in the relief of the saints\u2014",
+              "LEB": "requesting of us with much exhortation the favor and the fellowship of the ministry to the saints,"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "And they did not do as we expected, but they gave themselves first to the Lord and then to us in keeping with God's will.",
+              "KJV": "And this they did, not as we hoped, but first gave their own selves to the Lord, and unto us by the will of God.",
+              "NASB95": "and this, not as we had expected, but they first gave themselves to the Lord and to us by the will of God.",
+              "NKJV": "And not only as we had hoped, but they first gave themselves to the Lord, and then to us by the will of God.",
+              "DRB": "And not as we hoped, but they gave their own selves first to the Lord, then to us by the will of God:",
+              "ESV": "and this, not as we expected, but they gave themselves first to the Lord and then by the will of God to us.",
+              "LEB": "and not just as we had hoped, but they gave themselves first to the Lord and then to us, by the will of God."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "So we urged Titus, since he had earlier made a beginning, to bring also to completion this act of grace on your part.",
+              "KJV": "Insomuch that we desired Titus, that as he had begun, so he would also finish in you the same grace also.",
+              "NASB95": "So we urged Titus that as he had previously made a beginning, so he would also complete in you this gracious work as well.",
+              "NKJV": "So we urged Titus, that as he had begun, so he would also complete this grace in you as well.",
+              "DRB": "Insomuch, that we desired Titus, that as he had begun, so also he would finish among you this same grace.",
+              "ESV": "Accordingly, we urged Titus that as he had started, so he should complete among you this act of grace.",
+              "LEB": "So we urged Titus that, just as he had previously begun it, thus he would also complete for you this act of grace."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "But just as you excel in everything--in faith, in speech, in knowledge, in complete earnestness and in your love for us--see that you also excel in this grace of giving.",
+              "KJV": "Therefore, as ye abound in every thing, in faith, and utterance, and knowledge, and in all diligence, and in your love to us, see that ye abound in this grace also.",
+              "NASB95": "But just as you abound in everything, in faith and utterance and knowledge and in all earnestness and in the love we inspired in you, see that you abound in this gracious work also.",
+              "NKJV": "But as you abound in everything\u2014in faith, in speech, in knowledge, in all diligence, and in your love for us\u2014see that you abound in this grace also.",
+              "DRB": "That as in all things you abound in faith, and word, and knowledge, and all carefulness; moreover also in your charity towards us, so in this grace also you may abound.",
+              "ESV": "But as you excel in everything\u2014in faith, in speech, in knowledge, in all earnestness, and in our love for you\u2014see that you excel in this act of grace also.",
+              "LEB": "But just as you excel in everything\u2014in faith and in speaking and in knowledge and with all diligence and in the love from us that is in you\u2014so may you excel in this grace also."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "I am not commanding you, but I want to test the sincerity of your love by comparing it with the earnestness of others.",
+              "KJV": "I speak not by commandment, but by occasion of the forwardness of others, and to prove the sincerity of your love.",
+              "NASB95": "I am not speaking this as a command, but as proving through the earnestness of others the sincerity of your love also.",
+              "NKJV": "I speak not by commandment, but I am testing the sincerity of your love by the diligence of others.",
+              "DRB": "I speak not as commanding; but by the carefulness of others, approving also the good disposition of your charity.",
+              "ESV": "I say this not as a command, but to prove by the earnestness of others that your love also is genuine.",
+              "LEB": "I am not saying this as a command, but proving the genuineness of your love by means of the diligence of others."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sakes he became poor, so that you through his poverty might become rich.",
+              "KJV": "For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich.",
+              "NASB95": "For you know the grace of our Lord Jesus Christ, that though He was rich, yet for your sake He became poor, so that you through His poverty might become rich.",
+              "NKJV": "For you know the grace of our Lord Jesus Christ, that though He was rich, yet for your sakes He became poor, that you through His poverty might become rich.",
+              "DRB": "For you know the grace of our Lord Jesus Christ, that being rich he became poor, for your sakes; that through his poverty you might be rich.",
+              "ESV": "For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor, so that you by his poverty might become rich.",
+              "LEB": "For you know the grace of our Lord Jesus Christ, that although he was rich, for your sake he became poor, in order that you, by his poverty, may become rich."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "And here is my advice about what is best for you in this matter: Last year you were the first not only to give but also to have the desire to do so.",
+              "KJV": "And herein I give my advice: for this is expedient for you, who have begun before, not only to do, but also to be forward a year ago.",
+              "NASB95": "I give my opinion in this matter, for this is to your advantage, who were the first to begin a year ago not only to do this, but also to desire to do it.",
+              "NKJV": "And in this I give advice: It is to your advantage not only to be doing what you began and were desiring to do a year ago;",
+              "DRB": "And herein I give my advice; for this is profitable for you, who have begun not only to do, but also to be willing, a year ago.",
+              "ESV": "And in this matter I give my judgment: this benefits you, who a year ago started not only to do this work but also to desire to do it.",
+              "LEB": "And I am giving an opinion in this matter, because this is profitable for you who not only began previously, a year ago, to do something, but also to want to do it."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Now finish the work, so that your eager willingness to do it may be matched by your completion of it, according to your means.",
+              "KJV": "Now therefore perform the doing of it; that as there was a readiness to will, so there may be a performance also out of that which ye have.",
+              "NASB95": "But now finish doing it also, so that just as there was the readiness to desire it, so there may be also the completion of it by your ability.",
+              "NKJV": "but now you also must complete the doing of it; that as there was a readiness to desire it, so there also may be a completion out of what you have.",
+              "DRB": "Now therefore perform ye it also in deed; that as your mind is forward to be willing, so it may be also to perform, out of that which you have.",
+              "ESV": "So now finish doing it as well, so that your readiness in desiring it may be matched by your completing it out of what you have.",
+              "LEB": "So now also complete the doing of it, in order that just as you have the eagerness to want to do it, thus also you may complete it from what you have."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "For if the willingness is there, the gift is acceptable according to what one has, not according to what he does not have.",
+              "KJV": "For if there be first a willing mind, it is accepted according to that a man hath, and not according to that he hath not.",
+              "NASB95": "For if the readiness is present, it is acceptable according to what a person has, not according to what he does not have.",
+              "NKJV": "For if there is first a willing mind, it is accepted according to what one has, and not according to what he does not have.",
+              "DRB": "For if the will be forward, it is accepted according to that which a man hath, not according to that which he hath not.",
+              "ESV": "For if the readiness is there, it is acceptable according to what a person has, not according to what he does not have.",
+              "LEB": "For if the eagerness is present according to what one has, it is acceptable not according to what one does not have."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Our desire is not that others might be relieved while you are hard pressed, but that there might be equality.",
+              "KJV": "For I mean not that other men be eased, and ye burdened:",
+              "NASB95": "For this is not for the ease of others and for your affliction, but by way of equality\u2014",
+              "NKJV": "For I do not mean that others should be eased and you burdened;",
+              "DRB": "For I mean not that others should be eased, and you burthened, but by an equality.",
+              "ESV": "For I do not mean that others should be eased and you burdened, but that as a matter of fairness",
+              "LEB": "For this is not that for others there may be relief, and for you difficult circumstances, but as a matter of equality."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "At the present time your plenty will supply what they need, so that in turn their plenty will supply what you need. Then there will be equality,",
+              "KJV": "But by an equality, that now at this time your abundance may be a supply for their want, that their abundance also may be a supply for your want: that there may be equality:",
+              "NASB95": "at this present time your abundance being a supply for their need, so that their abundance also may become a supply for your need, that there may be equality;",
+              "NKJV": "but by an equality, that now at this time your abundance may supply their lack, that their abundance also may supply your lack\u2014that there may be equality.",
+              "DRB": "In this present time let your abundance supply their want, that their abundance also may supply your want, that there may be an equality,",
+              "ESV": "your abundance at the present time should supply their need, so that their abundance may supply your need, that there may be fairness.",
+              "LEB": "At the present time your abundance will be for their need, in order that their abundance may also be for your need, so that there may be equality,"
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "as it is written: \"He who gathered much did not have too much, and he who gathered little did not have too little.\"",
+              "KJV": "As it is written, He that had gathered much had nothing over; and he that had gathered little had no lack.",
+              "NASB95": "as it is written, \u201cHe who gathered much did not have too much, and he who gathered little had no lack.\u201d",
+              "NKJV": "As it is written, \u201cHe who gathered much had nothing left over, and he who gathered little had no lack.\u201d",
+              "DRB": "As it is written: He that had much, had nothing over; and he that had little, had no want.",
+              "ESV": "As it is written, \u201cWhoever gathered much had nothing left over, and whoever gathered little had no lack.\u201d",
+              "LEB": "just as it is written, \u201cThe one who gathered much did not have too much, and the one who gathered little did not have too little.\u201d"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2co_10_1_6",
+        "title": "The Spiritual War",
+        "description": "",
+        "reference": {
+          "book": "2 Corinthians",
+          "chapter": 10,
+          "start": 1,
+          "end": 6
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "By the meekness and gentleness of Christ, I appeal to you--I, Paul, who am \"timid\" when face to face with you, but \"bold\" when away!",
+              "KJV": "Now I Paul myself beseech you by the meekness and gentleness of Christ, who in presence am base among you, but being absent am bold toward you:",
+              "NASB95": "Now I, Paul, myself urge you by the meekness and gentleness of Christ\u2014I who am meek when face to face with you, but bold toward you when absent!",
+              "NKJV": "Now I, Paul, myself am pleading with you by the meekness and gentleness of Christ\u2014who in presence am lowly among you, but being absent am bold toward you.",
+              "DRB": "Now I Paul myself beseech you, by the mildness and modesty of Christ, who in presence indeed am lowly among you, but being absent, am bold toward you.",
+              "ESV": "I, Paul, myself entreat you, by the meekness and gentleness of Christ\u2014I who am humble when face to face with you, but bold toward you when I am away!\u2014",
+              "LEB": "Now I, Paul, appeal to you myself by the humility and gentleness of Christ, who when I am present in person am humble among you, but when I am absent am bold toward you\u2014"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "I beg you that when I come I may not have to be as bold as I expect to be toward some people who think that we live by the standards of this world.",
+              "KJV": "But I beseech you, that I may not be bold when I am present with that confidence, wherewith I think to be bold against some, which think of us as if we walked according to the flesh.",
+              "NASB95": "I ask that when I am present I need not be bold with the confidence with which I propose to be courageous against some, who regard us as if we walked according to the flesh.",
+              "NKJV": "But I beg you that when I am present I may not be bold with that confidence by which I intend to be bold against some, who think of us as if we walked according to the flesh.",
+              "DRB": "But I beseech you, that I may not be bold when I am present, with that confidence wherewith I am thought to be bold, against some, who reckon us as if we walked according to the flesh.",
+              "ESV": "I beg of you that when I am present I may not have to show boldness with such confidence as I count on showing against some who suspect us of walking according to the flesh.",
+              "LEB": "now I ask when I am present that I will not need to be bold with the confidence with which I propose to show boldness toward some who consider us as behaving according to the flesh."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "For though we live in the world, we do not wage war as the world does.",
+              "KJV": "For though we walk in the flesh, we do not war after the flesh:",
+              "NASB95": "For though we walk in the flesh, we do not war according to the flesh,",
+              "NKJV": "For though we walk in the flesh, we do not war according to the flesh.",
+              "DRB": "For though we walk in the flesh, we do not war according to the flesh.",
+              "ESV": "For though we walk in the flesh, we are not waging war according to the flesh.",
+              "LEB": "For although we are living in the flesh, we do not wage war according to the flesh,"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "The weapons we fight with are not the weapons of the world. On the contrary, they have divine power to demolish strongholds.",
+              "KJV": "(For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;)",
+              "NASB95": "for the weapons of our warfare are not of the flesh, but divinely powerful for the destruction of fortresses.",
+              "NKJV": "For the weapons of our warfare are not carnal but mighty in God for pulling down strongholds,",
+              "DRB": "For the weapons of our warfare are not carnal, but mighty to God unto the pulling down of fortifications, destroying counsels,",
+              "ESV": "For the weapons of our warfare are not of the flesh but have divine power to destroy strongholds.",
+              "LEB": "for the weapons of our warfare are not merely human, but powerful to God for the tearing down of fortresses, tearing down arguments"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "We demolish arguments and every pretension that sets itself up against the knowledge of God, and we take captive every thought to make it obedient to Christ.",
+              "KJV": "Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;",
+              "NASB95": "We are destroying speculations and every lofty thing raised up against the knowledge of God, and we are taking every thought captive to the obedience of Christ,",
+              "NKJV": "casting down arguments and every high thing that exalts itself against the knowledge of God, bringing every thought into captivity to the obedience of Christ,",
+              "DRB": "And every height that exhalteth itself against the knowledge of God, and bringing into captivity every understanding unto the obedience of Christ;",
+              "ESV": "We destroy arguments and every lofty opinion raised against the knowledge of God, and take every thought captive to obey Christ,",
+              "LEB": "and all pride that is raised up against the knowledge of God, and taking every thought captive to the obedience of Christ."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "And we will be ready to punish every act of disobedience, once your obedience is complete.",
+              "KJV": "And having in a readiness to revenge all disobedience, when your obedience is fulfilled.",
+              "NASB95": "and we are ready to punish all disobedience, whenever your obedience is complete.",
+              "NKJV": "and being ready to punish all disobedience when your obedience is fulfilled.",
+              "DRB": "And having in readiness to revenge all disobedience, when your obedience shall be fulfilled.",
+              "ESV": "being ready to punish every disobedience, when your obedience is complete.",
+              "LEB": "And we are ready to punish all disobedience, whenever your obedience is completed."
+            }
+          }
+        ]
+      },
+      {
+        "id": "php_3_12_16",
+        "title": "Pressing Toward the Goal",
+        "description": "",
+        "reference": {
+          "book": "Philippians",
+          "chapter": 3,
+          "start": 12,
+          "end": 16
+        },
+        "rows": [
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Not that I have already obtained all this, or have already been made perfect, but I press on to take hold of that for which Christ Jesus took hold of me.",
+              "KJV": "Not as though I had already attained, either were already perfect: but I follow after, if that I may apprehend that for which also I am apprehended of Christ Jesus.",
+              "NASB95": "Not that I have already obtained it or have already become perfect, but I press on so that I may lay hold of that for which also I was laid hold of by Christ Jesus.",
+              "NKJV": "Not that I have already attained, or am already perfected; but I press on, that I may lay hold of that for which Christ Jesus has also laid hold of me.",
+              "DRB": "Not as though I has already attained, or were already perfect; but I follow after, if I may by any means apprehend, wherein I am also apprehended by Christ Jesus.",
+              "ESV": "Not that I have already obtained this or am already perfect, but I press on to make it my own, because Christ Jesus has made me his own.",
+              "LEB": "Not that I have already received this, or have already been made perfect, but I press on if indeed I may lay hold of that for which also I was laid hold of by Christ."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Brothers, I do not consider myself yet to have taken hold of it. But one thing I do: Forgetting what is behind and straining toward what is ahead,",
+              "KJV": "Brethren, I count not myself to have apprehended: but this one thing I do, forgetting those things which are behind, and reaching forth unto those things which are before,",
+              "NASB95": "Brethren, I do not regard myself as having laid hold of it yet; but one thing I do: forgetting what lies behind and reaching forward to what lies ahead,",
+              "NKJV": "Brethren, I do not count myself to have apprehended; but one thing I do, forgetting those things which are behind and reaching forward to those things which are ahead,",
+              "DRB": "Brethren, I do not count myself to have apprehended. But one thing I do: forgetting the things that are behind, and stretching forth myself to those that are before,",
+              "ESV": "Brothers, I do not consider that I have made it my own. But one thing I do: forgetting what lies behind and straining forward to what lies ahead,",
+              "LEB": "Brothers, I do not consider myself to have laid hold of it. But I do one thing, forgetting the things behind and straining toward the things ahead,"
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "I press on toward the goal to win the prize for which God has called me heavenward in Christ Jesus.",
+              "KJV": "I press toward the mark for the prize of the high calling of God in Christ Jesus.",
+              "NASB95": "I press on toward the goal for the prize of the upward call of God in Christ Jesus.",
+              "NKJV": "I press toward the goal for the prize of the upward call of God in Christ Jesus.",
+              "DRB": "I press towards the mark, to the prize of the supernal vocation of God in Christ Jesus.",
+              "ESV": "I press on toward the goal for the prize of the upward call of God in Christ Jesus.",
+              "LEB": "I press on toward the goal for the prize of the upward call of God in Christ Jesus."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "All of us who are mature should take such a view of things. And if on some point you think differently, that too God will make clear to you.",
+              "KJV": "Let us therefore, as many as be perfect, be thus minded: and if in any thing ye be otherwise minded, God shall reveal even this unto you.",
+              "NASB95": "Let us therefore, as many as are perfect, have this attitude; and if in anything you have a different attitude, God will reveal that also to you;",
+              "NKJV": "Therefore let us, as many as are mature, have this mind; and if in anything you think otherwise, God will reveal even this to you.",
+              "DRB": "Let us therefore, as many as are perfect, be thus minded; and if in any thing you be otherwise minded, this also God will reveal to you.",
+              "ESV": "Let those of us who are mature think this way, and if in anything you think otherwise, God will reveal that also to you.",
+              "LEB": "Therefore as many as are perfect, let us hold this opinion, and if you think anything differently, God will reveal this also to you."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "Only let us live up to what we have already attained.",
+              "KJV": "Nevertheless, whereto we have already attained, let us walk by the same rule, let us mind the same thing.",
+              "NASB95": "however, let us keep living by that same standard to which we have attained.",
+              "NKJV": "Nevertheless, to the degree that we have already attained, let us walk by the same rule, let us be of the same mind.",
+              "DRB": "Nevertheless whereunto we are come, that we be of the same mind, let us also continue in the same rule.",
+              "ESV": "Only let us hold true to what we have attained.",
+              "LEB": "Only to what we have attained, to the same hold on."
+            }
+          }
+        ]
+      },
+      {
+        "id": "php_3_17_21",
+        "title": "Our Citizenship in Heaven",
+        "description": "",
+        "reference": {
+          "book": "Philippians",
+          "chapter": 3,
+          "start": 17,
+          "end": 21
+        },
+        "rows": [
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "Join with others in following my example, brothers, and take note of those who live according to the pattern we gave you.",
+              "KJV": "Brethren, be followers together of me, and mark them which walk so as ye have us for an ensample.",
+              "NASB95": "Brethren, join in following my example, and observe those who walk according to the pattern you have in us.",
+              "NKJV": "Brethren, join in following my example, and note those who so walk, as you have us for a pattern.",
+              "DRB": "Be ye followers of me, brethren, and observe them who walk so as you have our model.",
+              "ESV": "Brothers, join in imitating me, and keep your eyes on those who walk according to the example you have in us.",
+              "LEB": "Become fellow imitators of me, brothers, and observe those who walk in this way, just as you have us as an example."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "For, as I have often told you before and now say again even with tears, many live as enemies of the cross of Christ.",
+              "KJV": "(For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:",
+              "NASB95": "For many walk, of whom I often told you, and now tell you even weeping, that they are enemies of the cross of Christ,",
+              "NKJV": "For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:",
+              "DRB": "For many walk, of whom I have told you often (and now tell you weeping), that they are enemies of the cross of Christ;",
+              "ESV": "For many, of whom I have often told you and now tell you even with tears, walk as enemies of the cross of Christ.",
+              "LEB": "For many live, of whom I spoke about to you many times, but now speak about even weeping, as the enemies of the cross of Christ,"
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "Their destiny is destruction, their god is their stomach, and their glory is in their shame. Their mind is on earthly things.",
+              "KJV": "Whose end is destruction, whose God is their belly, and whose glory is in their shame, who mind earthly things.)",
+              "NASB95": "whose end is destruction, whose god is their appetite, and whose glory is in their shame, who set their minds on earthly things.",
+              "NKJV": "whose end is destruction, whose god is their belly, and whose glory is in their shame\u2014who set their mind on earthly things.",
+              "DRB": "Whose end is destruction; whose God is their belly; and whose glory is in their shame; who mind earthly things.",
+              "ESV": "Their end is destruction, their god is their belly, and they glory in their shame, with minds set on earthly things.",
+              "LEB": "whose end is destruction, whose God is the stomach, and whose glory is in their shame, the ones who think on earthly things."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "But our citizenship is in heaven. And we eagerly await a Savior from there, the Lord Jesus Christ,",
+              "KJV": "For our conversation is in heaven; from whence also we look for the Saviour, the Lord Jesus Christ:",
+              "NASB95": "For our citizenship is in heaven, from which also we eagerly wait for a Savior, the Lord Jesus Christ;",
+              "NKJV": "For our citizenship is in heaven, from which we also eagerly wait for the Savior, the Lord Jesus Christ,",
+              "DRB": "But our conversation is in heaven; from whence also we look for the Saviour, our Lord Jesus Christ,",
+              "ESV": "But our citizenship is in heaven, and from it we await a Savior, the Lord Jesus Christ,",
+              "LEB": "For our commonwealth exists in heaven, from which also we eagerly await a savior, the Lord Jesus Christ,"
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "who, by the power that enables him to bring everything under his control, will transform our lowly bodies so that they will be like his glorious body.",
+              "KJV": "Who shall change our vile body, that it may be fashioned like unto his glorious body, according to the working whereby he is able even to subdue all things unto himself.",
+              "NASB95": "who will transform the body of our humble state into conformity with the body of His glory, by the exertion of the power that He has even to subject all things to Himself.",
+              "NKJV": "who will transform our lowly body that it may be conformed to His glorious body, according to the working by which He is able even to subdue all things to Himself.",
+              "DRB": "Who will reform the body of our lowness, made like to the body of his glory, according to the operation whereby also he is able to subdue all things unto himself.",
+              "ESV": "who will transform our lowly body to be like his glorious body, by the power that enables him even to subject all things to himself.",
+              "LEB": "who will transform our humble body to be conformed to his glorious body, in accordance with the power that enables him even to subject all things to himself."
+            }
+          }
+        ]
+      },
+      {
+        "id": "rev_17_1_14",
+        "title": "The Doom of Babylon",
+        "description": "",
+        "reference": {
+          "book": "Revelation",
+          "chapter": 17,
+          "start": 1,
+          "end": 14
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "One of the seven angels who had the seven bowls came and said to me, \"Come, I will show you the punishment of the great prostitute, who sits on many waters.",
+              "KJV": "And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters:",
+              "NASB95": "Then one of the seven angels who had the seven bowls came and spoke with me, saying, \u201cCome here, I will show you the judgment of the great harlot who sits on many waters,",
+              "NKJV": "Then one of the seven angels who had the seven bowls came and talked with me, saying to me, \u201cCome, I will show you the judgment of the great harlot who sits on many waters,",
+              "DRB": "And there came one of the seven angels, who had the seven vials, and spoke with me, saying: Come, I will shew thee the condemnation of the great harlot, who sitteth upon many waters,",
+              "ESV": "Then one of the seven angels who had the seven bowls came and said to me, \u201cCome, I will show you the judgment of the great prostitute who is seated on many waters,",
+              "LEB": "And one of the seven angels who had the seven bowls came and spoke with me, saying, \u201cCome, I will show you the judgment of the great prostitute who is seated on many waters,"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "With her the kings of the earth committed adultery and the inhabitants of the earth were intoxicated with the wine of her adulteries.\"",
+              "KJV": "With whom the kings of the earth have committed fornication, and the inhabitants of the earth have been made drunk with the wine of her fornication.",
+              "NASB95": "with whom the kings of the earth committed acts of immorality, and those who dwell on the earth were made drunk with the wine of her immorality.\u201d",
+              "NKJV": "with whom the kings of the earth committed fornication, and the inhabitants of the earth were made drunk with the wine of her fornication.\u201d",
+              "DRB": "With whom the kings of the earth have committed fornication; and they who inhabit the earth, have been made drunk with the whine of her whoredom.",
+              "ESV": "with whom the kings of the earth have committed sexual immorality, and with the wine of whose sexual immorality the dwellers on earth have become drunk.\u201d",
+              "LEB": "with whom the kings of the earth committed sexual immorality, and those who live on the earth became drunk with the wine of her sexual immorality.\u201d"
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "Then the angel carried me away in the Spirit into a desert. There I saw a woman sitting on a scarlet beast that was covered with blasphemous names and had seven heads and ten horns.",
+              "KJV": "So he carried me away in the spirit into the wilderness: and I saw a woman sit upon a scarlet coloured beast, full of names of blasphemy, having seven heads and ten horns.",
+              "NASB95": "And he carried me away in the Spirit into a wilderness; and I saw a woman sitting on a scarlet beast, full of blasphemous names, having seven heads and ten horns.",
+              "NKJV": "So he carried me away in the Spirit into the wilderness. And I saw a woman sitting on a scarlet beast which was full of names of blasphemy, having seven heads and ten horns.",
+              "DRB": "And he took me away in spirit into the desert. And I saw a woman sitting upon a scarlet coloured beast, full of names of blasphemy, having seven heads and ten horns.",
+              "ESV": "And he carried me away in the Spirit into a wilderness, and I saw a woman sitting on a scarlet beast that was full of blasphemous names, and it had seven heads and ten horns.",
+              "LEB": "And he carried me away into the wilderness in the Spirit, and I saw a woman seated on a scarlet beast that was full of blasphemous names, having seven heads and ten horns."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "The woman was dressed in purple and scarlet, and was glittering with gold, precious stones and pearls. She held a golden cup in her hand, filled with abominable things and the filth of her adulteries.",
+              "KJV": "And the woman was arrayed in purple and scarlet colour, and decked with gold and precious stones and pearls, having a golden cup in her hand full of abominations and filthiness of her fornication:",
+              "NASB95": "The woman was clothed in purple and scarlet, and adorned with gold and precious stones and pearls, having in her hand a gold cup full of abominations and of the unclean things of her immorality,",
+              "NKJV": "The woman was arrayed in purple and scarlet, and adorned with gold and precious stones and pearls, having in her hand a golden cup full of abominations and the filthiness of her fornication.",
+              "DRB": "And the woman was clothed round about with purple and scarlet, and gilt with gold, and precious stones and pearls, having a golden cup in her hand, full of the abomination and filthiness of her fornication.",
+              "ESV": "The woman was arrayed in purple and scarlet, and adorned with gold and jewels and pearls, holding in her hand a golden cup full of abominations and the impurities of her sexual immorality.",
+              "LEB": "And the woman was dressed in purple and scarlet and adorned with gold and precious stones and pearls, holding a golden cup in her hand full of detestable things and the unclean things of her sexual immorality."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "This title was written on her forehead: MYSTERY BABYLON THE GREAT THE MOTHER OF PROSTITUTES AND OF THE ABOMINATIONS OF THE EARTH.",
+              "KJV": "And upon her forehead was a name written, Mystery, Babylon The Great, The Mother Of Harlots And Abominations Of The Earth.",
+              "NASB95": "and on her forehead a name was written, a mystery, \u201cBABYLON THE GREAT, THE MOTHER OF HARLOTS AND OF THE ABOMINATIONS OF THE EARTH.\u201d",
+              "NKJV": "And on her forehead a name was written:\nMYSTERY, BABYLON THE GREAT,\nTHE MOTHER OF HARLOTS\nAND OF THE ABOMINATIONS\nOF THE EARTH.",
+              "DRB": "And on her forehead a name was written: A mystery; Babylon the great, the mother of the fornications, and the abominations of the earth.",
+              "ESV": "And on her forehead was written a name of mystery: \u201cBabylon the great, mother of prostitutes and of earth's abominations.\u201d",
+              "LEB": "And on her forehead a name was written, a mystery: \u201cBabylon the great, the mother of prostitutes and of the detestable things of the earth.\u201d"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "I saw that the woman was drunk with the blood of the saints, the blood of those who bore testimony to Jesus.",
+              "KJV": "And I saw the woman drunken with the blood of the saints, and with the blood of the martyrs of Jesus: and when I saw her, I wondered with great admiration.",
+              "NASB95": "And I saw the woman drunk with the blood of the saints, and with the blood of the witnesses of Jesus. When I saw her, I wondered greatly.",
+              "NKJV": "I saw the woman, drunk with the blood of the saints and with the blood of the martyrs of Jesus. And when I saw her, I marveled with great amazement.",
+              "DRB": "And I saw the woman drunk with the blood of the saints, and with the blood of the martyrs of Jesus. And I wondered, when I had seen her, with great admiration.",
+              "ESV": "And I saw the woman, drunk with the blood of the saints, the blood of the martyrs of Jesus.\nWhen I saw her, I marveled greatly.",
+              "LEB": "And I saw the woman drunk with the blood of the saints and with the blood of the witnesses to Jesus.\nAnd I was greatly astonished when I saw her."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "When I saw her, I was greatly astonished. Then the angel said to me: \"Why are you astonished? I will explain to you the mystery of the woman and of the beast she rides, which has the seven heads and ten horns.",
+              "KJV": "And the angel said unto me, Wherefore didst thou marvel? I will tell thee the mystery of the woman, and of the beast that carrieth her, which hath the seven heads and ten horns.",
+              "NASB95": "And the angel said to me, \u201cWhy do you wonder? I will tell you the mystery of the woman and of the beast that carries her, which has the seven heads and the ten horns.",
+              "NKJV": "But the angel said to me, \u201cWhy did you marvel? I will tell you the mystery of the woman and of the beast that carries her, which has the seven heads and the ten horns.",
+              "DRB": "And the angel said to me: Why dost thou wonder? I will tell thee the mystery of the woman, and of the beast which carrieth her, which hath the seven heads and ten horns.",
+              "ESV": "But the angel said to me, \u201cWhy do you marvel? I will tell you the mystery of the woman, and of the beast with seven heads and ten horns that carries her.",
+              "LEB": "And the angel said to me, \u201cWhy are you astonished? I will tell you the mystery of the woman and of the beast that has the seven heads and the ten horns that carries her."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "The beast, which you saw, once was, now is not, and will come up out of the Abyss and go to his destruction. The inhabitants of the earth whose names have not been written in the book of life from the creation of the world will be astonished when they see the beast, because he once was, now is not, and yet will come.",
+              "KJV": "The beast that thou sawest was, and is not; and shall ascend out of the bottomless pit, and go into perdition: and they that dwell on the earth shall wonder, whose names were not written in the book of life from the foundation of the world, when they behold the beast that was, and is not, and yet is.",
+              "NASB95": "\u201cThe beast that you saw was, and is not, and is about to come up out of the abyss and go to destruction. And those who dwell on the earth, whose name has not been written in the book of life from the foundation of the world, will wonder when they see the beast, that he was and is not and will come.",
+              "NKJV": "The beast that you saw was, and is not, and will ascend out of the bottomless pit and go to perdition. And those who dwell on the earth will marvel, whose names are not written in the Book of Life from the foundation of the world, when they see the beast that was, and is not, and yet is.",
+              "DRB": "The beast, which thou sawest, was, and is not, and shall come up out of the bottomless pit, and go into destruction: and the inhabitants on the earth (whose names are not written in the book of life from the foundation of the world) shall wonder, seeing the beast that was, and is not.",
+              "ESV": "The beast that you saw was, and is not, and is about to rise from the bottomless pit and go to destruction. And the dwellers on earth whose names have not been written in the book of life from the foundation of the world will marvel to see the beast, because it was and is not and is to come.",
+              "LEB": "The beast that you saw was, and is not, and is going to come up from the abyss, and he is going to destruction. And those who live on the earth, whose names are not written in the book of life from the foundation of the world, will be astonished when they see the beast that was, and is not, and will be present."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "\"This calls for a mind with wisdom. The seven heads are seven hills on which the woman sits.",
+              "KJV": "And here is the mind which hath wisdom. The seven heads are seven mountains, on which the woman sitteth.",
+              "NASB95": "Here is the mind which has wisdom. The seven heads are seven mountains on which the woman sits,",
+              "NKJV": "\u201cHere is the mind which has wisdom: The seven heads are seven mountains on which the woman sits.",
+              "DRB": "And here is the understanding that hath wisdom. The seven heads are seven mountains, upon which the woman sitteth, and they are seven kings:",
+              "ESV": "This calls for a mind with wisdom: the seven heads are seven mountains on which the woman is seated;",
+              "LEB": "Here is the mind that has wisdom: the seven heads are seven mountains on which the woman sits and they are seven kings."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "They are also seven kings. Five have fallen, one is, the other has not yet come; but when he does come, he must remain for a little while.",
+              "KJV": "And there are seven kings: five are fallen, and one is, and the other is not yet come; and when he cometh, he must continue a short space.",
+              "NASB95": "and they are seven kings; five have fallen, one is, the other has not yet come; and when he comes, he must remain a little while.",
+              "NKJV": "There are also seven kings. Five have fallen, one is, and the other has not yet come. And when he comes, he must continue a short time.",
+              "DRB": "Five are fallen, one is, and the other is not yet come: and when he is come, he must remain a short time.",
+              "ESV": "they are also seven kings, five of whom have fallen, one is, the other has not yet come, and when he does come he must remain only a little while.",
+              "LEB": "Five have fallen, one is, the other has not yet come, and whenever he comes it is necessary for him to remain a short time."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "The beast who once was, and now is not, is an eighth king. He belongs to the seven and is going to his destruction.",
+              "KJV": "And the beast that was, and is not, even he is the eighth, and is of the seven, and goeth into perdition.",
+              "NASB95": "The beast which was and is not, is himself also an eighth and is one of the seven, and he goes to destruction.",
+              "NKJV": "The beast that was, and is not, is himself also the eighth, and is of the seven, and is going to perdition.",
+              "DRB": "And the beast which was, and is not: the same also is the eighth, and is of the seven, and goeth into destruction.",
+              "ESV": "As for the beast that was and is not, it is an eighth but it belongs to the seven, and it goes to destruction.",
+              "LEB": "And the beast that was, and is not, is also himself an eighth, and is of the seven, and he is going to destruction."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "\"The ten horns you saw are ten kings who have not yet received a kingdom, but who for one hour will receive authority as kings along with the beast.",
+              "KJV": "And the ten horns which thou sawest are ten kings, which have received no kingdom as yet; but receive power as kings one hour with the beast.",
+              "NASB95": "The ten horns which you saw are ten kings who have not yet received a kingdom, but they receive authority as kings with the beast for one hour.",
+              "NKJV": "\u201cThe ten horns which you saw are ten kings who have received no kingdom as yet, but they receive authority for one hour as kings with the beast.",
+              "DRB": "And the ten horns which thou sawest, are ten kings, who have not yet received a kingdom, but shall receive power as kings one hour after the beast.",
+              "ESV": "And the ten horns that you saw are ten kings who have not yet received royal power, but they are to receive authority as kings for one hour, together with the beast.",
+              "LEB": "And the ten horns that you saw are ten kings, who have not yet received a kingdom, but they will receive authority as kings for one hour with the beast."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "They have one purpose and will give their power and authority to the beast.",
+              "KJV": "These have one mind, and shall give their power and strength unto the beast.",
+              "NASB95": "These have one purpose, and they give their power and authority to the beast.",
+              "NKJV": "These are of one mind, and they will give their power and authority to the beast.",
+              "DRB": "These have one design: and their strength and power they shall deliver to the beast.",
+              "ESV": "These are of one mind, and they hand over their power and authority to the beast.",
+              "LEB": "These have one opinion, and they will give their power and authority to the beast."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "They will make war against the Lamb, but the Lamb will overcome them because he is Lord of lords and King of kings--and with him will be his called, chosen and faithful followers.\"",
+              "KJV": "These shall make war with the Lamb, and the Lamb shall overcome them: for he is Lord of lords, and King of kings: and they that are with him are called, and chosen, and faithful.",
+              "NASB95": "These will wage war against the Lamb, and the Lamb will overcome them, because He is Lord of lords and King of kings, and those who are with Him are the called and chosen and faithful.\u201d",
+              "NKJV": "These will make war with the Lamb, and the Lamb will overcome them, for He is Lord of lords and King of kings; and those who are with Him are called, chosen, and faithful.\u201d",
+              "DRB": "These shall fight with the Lamb, and the Lamb shall overcome them, because he is Lord of lords, and King of kings, and they that are with him are called, and elect, and faithful.",
+              "ESV": "They will make war on the Lamb, and the Lamb will conquer them, for he is Lord of lords and King of kings, and those with him are called and chosen and faithful.\u201d",
+              "LEB": "These will make war with the Lamb, and the Lamb will conquer them, because he is Lord of lords and King of kings, and those with him are called and chosen and faithful.\u201d"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rev_17_14_18",
+        "title": "Victory for the Lamb",
+        "description": "",
+        "reference": {
+          "book": "Revelation",
+          "chapter": 17,
+          "start": 14,
+          "end": 18
+        },
+        "rows": [
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "They will make war against the Lamb, but the Lamb will overcome them because he is Lord of lords and King of kings--and with him will be his called, chosen and faithful followers.\"",
+              "KJV": "These shall make war with the Lamb, and the Lamb shall overcome them: for he is Lord of lords, and King of kings: and they that are with him are called, and chosen, and faithful.",
+              "NASB95": "These will wage war against the Lamb, and the Lamb will overcome them, because He is Lord of lords and King of kings, and those who are with Him are the called and chosen and faithful.\u201d",
+              "NKJV": "These will make war with the Lamb, and the Lamb will overcome them, for He is Lord of lords and King of kings; and those who are with Him are called, chosen, and faithful.\u201d",
+              "DRB": "These shall fight with the Lamb, and the Lamb shall overcome them, because he is Lord of lords, and King of kings, and they that are with him are called, and elect, and faithful.",
+              "ESV": "They will make war on the Lamb, and the Lamb will conquer them, for he is Lord of lords and King of kings, and those with him are called and chosen and faithful.\u201d",
+              "LEB": "These will make war with the Lamb, and the Lamb will conquer them, because he is Lord of lords and King of kings, and those with him are called and chosen and faithful.\u201d"
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Then the angel said to me, \"The waters you saw, where the prostitute sits, are peoples, multitudes, nations and languages.",
+              "KJV": "And he saith unto me, The waters which thou sawest, where the whore sitteth, are peoples, and multitudes, and nations, and tongues.",
+              "NASB95": "And he said to me, \u201cThe waters which you saw where the harlot sits, are peoples and multitudes and nations and tongues.",
+              "NKJV": "Then he said to me, \u201cThe waters which you saw, where the harlot sits, are peoples, multitudes, nations, and tongues.",
+              "DRB": "And he said to me: The waters which thou sawest, where the harlot sitteth, are peoples, and nations, and tongues.",
+              "ESV": "And the angel said to me, \u201cThe waters that you saw, where the prostitute is seated, are peoples and multitudes and nations and languages.",
+              "LEB": "And he said to me, \u201cThe waters that you saw, where the prostitute is seated, are peoples and crowds and nations and languages."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "The beast and the ten horns you saw will hate the prostitute. They will bring her to ruin and leave her naked; they will eat her flesh and burn her with fire.",
+              "KJV": "And the ten horns which thou sawest upon the beast, these shall hate the whore, and shall make her desolate and naked, and shall eat her flesh, and burn her with fire.",
+              "NASB95": "And the ten horns which you saw, and the beast, these will hate the harlot and will make her desolate and naked, and will eat her flesh and will burn her up with fire.",
+              "NKJV": "And the ten horns which you saw on the beast, these will hate the harlot, make her desolate and naked, eat her flesh and burn her with fire.",
+              "DRB": "And the ten horns which thou sawest in the beast: these shall hate the harlot, and shall make her desolate and naked, and shall eat her flesh, and shall burn her with fire.",
+              "ESV": "And the ten horns that you saw, they and the beast will hate the prostitute. They will make her desolate and naked, and devour her flesh and burn her up with fire,",
+              "LEB": "And the ten horns that you saw and the beast, these will hate the prostitute and will make her desolate and naked, and they will eat her flesh and will burn her up with fire."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "For God has put it into their hearts to accomplish his purpose by agreeing to give the beast their power to rule, until God's words are fulfilled.",
+              "KJV": "For God hath put in their hearts to fulfil his will, and to agree, and give their kingdom unto the beast, until the words of God shall be fulfilled.",
+              "NASB95": "For God has put it in their hearts to execute His purpose by having a common purpose, and by giving their kingdom to the beast, until the words of God will be fulfilled.",
+              "NKJV": "For God has put it into their hearts to fulfill His purpose, to be of one mind, and to give their kingdom to the beast, until the words of God are fulfilled.",
+              "DRB": "For God hath given into their hearts to do that which pleaseth him: that they give their kingdom to the beast, till the words of God be fulfilled.",
+              "ESV": "for God has put it into their hearts to carry out his purpose by being of one mind and handing over their royal power to the beast, until the words of God are fulfilled.",
+              "LEB": "For God put into their hearts to carry out his purpose and to make a unanimous decision and to give their kingdom to the beast, until the words of God are fulfilled."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "The woman you saw is the great city that rules over the kings of the earth.\"",
+              "KJV": "And the woman which thou sawest is that great city, which reigneth over the kings of the earth.",
+              "NASB95": "The woman whom you saw is the great city, which reigns over the kings of the earth.\u201d",
+              "NKJV": "And the woman whom you saw is that great city which reigns over the kings of the earth.\u201d",
+              "DRB": "And the woman which thou sawest, is the great city, which hath kingdom over the kings of the earth.",
+              "ESV": "And the woman that you saw is the great city that has dominion over the kings of the earth.\u201d",
+              "LEB": "And the woman that you saw is the great city that has sovereignty over the kings of the earth."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

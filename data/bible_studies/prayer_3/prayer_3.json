@@ -1,0 +1,2033 @@
+{
+  "scripture": {
+    "header": {
+      "id": "",
+      "title": "",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NASB95",
+      "NKJV",
+      "DRB",
+      "ESV"
+    ],
+    "blocks": [
+      {
+        "id": "psa_5_1_12",
+        "title": "A Prayer for Guidance",
+        "description": "",
+        "reference": {
+          "book": "Psalm",
+          "chapter": 5,
+          "start": 1,
+          "end": 12
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Give ear to my words, O LORD, consider my sighing.",
+              "KJV": "Give ear to my words, O Lord, consider my meditation.",
+              "NASB95": "Give ear to my words, O Lord,\nConsider my groaning.",
+              "NKJV": "Give ear to my words, O Lord,\nConsider my meditation.",
+              "DRB": "Unto the end, for her that obtaineth the inheritance. A psalm of David. Give ear, O Lord, to my words, understand my cry.",
+              "ESV": "Give ear to my words, O Lord;\n    consider my groaning."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Listen to my cry for help, my King and my God, for to you I pray.",
+              "KJV": "Hearken unto the voice of my cry, my King, and my God: for unto thee will I pray.",
+              "NASB95": "Heed the sound of my cry for help, my King and my God,\nFor to You I pray.",
+              "NKJV": "Give heed to the voice of my cry,\nMy King and my God,\nFor to You I will pray.",
+              "DRB": "Hearken to the voice of my prayer, O my King and my God.",
+              "ESV": "Give attention to the sound of my cry,\n    my King and my God,\n    for to you do I pray."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "In the morning, O LORD, you hear my voice; in the morning I lay my requests before you and wait in expectation.",
+              "KJV": "My voice shalt thou hear in the morning, O Lord; in the morning will I direct my prayer unto thee, and will look up.",
+              "NASB95": "In the morning, O Lord, You will hear my voice;\nIn the morning I will order my prayer to You and eagerly watch.",
+              "NKJV": "My voice You shall hear in the morning, O Lord;\nIn the morning I will direct it to You,\nAnd I will look up.",
+              "DRB": "For to thee will I pray: O Lord, in the morning thou shalt hear my voice.",
+              "ESV": "O Lord, in the morning you hear my voice;\n    in the morning I prepare a sacrifice for you and watch."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "You are not a God who takes pleasure in evil; with you the wicked cannot dwell.",
+              "KJV": "For thou art not a God that hath pleasure in wickedness: neither shall evil dwell with thee.",
+              "NASB95": "For You are not a God who takes pleasure in wickedness;\nNo evil dwells with You.",
+              "NKJV": "For You are not a God who takes pleasure in wickedness,\nNor shall evil dwell with You.",
+              "DRB": "In the morning I will stand before thee, and will see: because thou art not a God that willest iniquity.",
+              "ESV": "For you are not a God who delights in wickedness;\n    evil may not dwell with you."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "The arrogant cannot stand in your presence; you hate all who do wrong.",
+              "KJV": "The foolish shall not stand in thy sight: thou hatest all workers of iniquity.",
+              "NASB95": "The boastful shall not stand before Your eyes;\nYou hate all who do iniquity.",
+              "NKJV": "The boastful shall not stand in Your sight;\nYou hate all workers of iniquity.",
+              "DRB": "Neither shall the wicked dwell near thee: nor shall the unjust abide before thy eyes.",
+              "ESV": "The boastful shall not stand before your eyes;\n    you hate all evildoers."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "You destroy those who tell lies; bloodthirsty and deceitful men the LORD abhors.",
+              "KJV": "Thou shalt destroy them that speak leasing: the Lord will abhor the bloody and deceitful man.",
+              "NASB95": "You destroy those who speak falsehood;\nThe Lord abhors the man of bloodshed and deceit.",
+              "NKJV": "You shall destroy those who speak falsehood;\nThe Lord abhors the bloodthirsty and deceitful man.",
+              "DRB": "Thou hatest all the workers of iniquity: Thou wilt destroy all that speak a lie. The bloody and the deceitful man the Lord will abhor.",
+              "ESV": "You destroy those who speak lies;\n    the Lord abhors the bloodthirsty and deceitful man."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "But I, by your great mercy, will come into your house; in reverence will I bow down toward your holy temple.",
+              "KJV": "But as for me, I will come into thy house in the multitude of thy mercy: and in thy fear will I worship toward thy holy temple.",
+              "NASB95": "But as for me, by Your abundant lovingkindness I will enter Your house,\nAt Your holy temple I will bow in reverence for You.",
+              "NKJV": "But as for me, I will come into Your house in the multitude of Your mercy;\nIn fear of You I will worship toward Your holy temple.",
+              "DRB": "But as for me in the multitude of thy mercy, I will come into thy house; I will worship towards thy holy temple, in thy fear.",
+              "ESV": "But I, through the abundance of your steadfast love,\n    will enter your house.\nI will bow down toward your holy temple\n    in the fear of you."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Lead me, O LORD, in your righteousness because of my enemies- make straight your way before me.",
+              "KJV": "Lead me, O Lord, in thy righteousness because of mine enemies; make thy way straight before my face.",
+              "NASB95": "O Lord, lead me in Your righteousness because of my foes;\nMake Your way straight before me.",
+              "NKJV": "Lead me, O Lord, in Your righteousness because of my enemies;\nMake Your way straight before my face.",
+              "DRB": "Conduct me, O Lord, in thy justice: because of my enemies, direct my way in thy sight.",
+              "ESV": "Lead me, O Lord, in your righteousness\n    because of my enemies;\n    make your way straight before me."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Not a word from their mouth can be trusted; their heart is filled with destruction. Their throat is an open grave; with their tongue they speak deceit.",
+              "KJV": "For there is no faithfulness in their mouth; their inward part is very wickedness; their throat is an open sepulchre; they flatter with their tongue.",
+              "NASB95": "There is nothing reliable in what they say;\nTheir inward part is destruction itself.\nTheir throat is an open grave;\nThey flatter with their tongue.",
+              "NKJV": "For there is no faithfulness in their mouth;\nTheir inward part is destruction;\nTheir throat is an open tomb;\nThey flatter with their tongue.",
+              "DRB": "for there is no truth in their mouth; their heart is vain.",
+              "ESV": "For there is no truth in their mouth;\n    their inmost self is destruction;\ntheir throat is an open grave;\n    they flatter with their tongue."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Declare them guilty, O God! Let their intrigues be their downfall. Banish them for their many sins, for they have rebelled against you.",
+              "KJV": "Destroy thou them, O God; let them fall by their own counsels; cast them out in the multitude of their transgressions; for they have rebelled against thee.",
+              "NASB95": "Hold them guilty, O God;\nBy their own devices let them fall!\nIn the multitude of their transgressions thrust them out,\nFor they are rebellious against You.",
+              "NKJV": "Pronounce them guilty, O God!\nLet them fall by their own counsels;\nCast them out in the multitude of their transgressions,\nFor they have rebelled against You.",
+              "DRB": "Their throat is an open sepulchre: they dealt deceitfully with their tongues: judge them, O God. Let them fall from their devices: according to the multitude of their wickedness cast them out: for they have provoked thee, O Lord.",
+              "ESV": "Make them bear their guilt, O God;\n    let them fall by their own counsels;\nbecause of the abundance of their transgressions cast them out,\n    for they have rebelled against you."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "But let all who take refuge in you be glad; let them ever sing for joy. Spread your protection over them, that those who love your name may rejoice in you.",
+              "KJV": "But let all those that put their trust in thee rejoice: let them ever shout for joy, because thou defendest them: let them also that love thy name be joyful in thee.",
+              "NASB95": "But let all who take refuge in You be glad,\nLet them ever sing for joy;\nAnd may You shelter them,\nThat those who love Your name may exult in You.",
+              "NKJV": "But let all those rejoice who put their trust in You;\nLet them ever shout for joy, because You defend them;\nLet those also who love Your name\nBe joyful in You.",
+              "DRB": "But let all them be glad that hope in thee: they shall rejoice for ever, and thou shalt dwell in them. And all they that love thy name shall glory in thee:",
+              "ESV": "But let all who take refuge in you rejoice;\n    let them ever sing for joy,\nand spread your protection over them,\n    that those who love your name may exult in you."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "For surely, O LORD, you bless the righteous; you surround them with your favor as with a shield.",
+              "KJV": "For thou, Lord, wilt bless the righteous; with favour wilt thou compass him as with a shield.",
+              "NASB95": "For it is You who blesses the righteous man, O Lord,\nYou surround him with favor as with a shield.",
+              "NKJV": "For You, O Lord, will bless the righteous;\nWith favor You will surround him as with a shield.",
+              "DRB": "For thou wilt bless the just. O Lord, thou hast crowned us, as with a shield of thy good will.",
+              "ESV": "For you bless the righteous, O Lord;\n    you cover him with favor as with a shield."
+            }
+          }
+        ]
+      },
+      {
+        "id": "psa_6_1_10",
+        "title": "A Prayer of Faith in Time of Distress",
+        "description": "",
+        "reference": {
+          "book": "Psalm",
+          "chapter": 6,
+          "start": 1,
+          "end": 10
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "O LORD, do not rebuke me in your anger or discipline me in your wrath.",
+              "KJV": "O Lord, rebuke me not in thine anger, neither chasten me in thy hot displeasure.",
+              "NASB95": "O Lord, do not rebuke me in Your anger,\nNor chasten me in Your wrath.",
+              "NKJV": "O Lord, do not rebuke me in Your anger,\nNor chasten me in Your hot displeasure.",
+              "DRB": "Unto the end, in verses, a psalm for David, for the octave. O Lord, rebuke me not in thy indignation, nor chastise me in thy wrath.",
+              "ESV": "O Lord, rebuke me not in your anger,\n    nor discipline me in your wrath."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Be merciful to me, LORD, for I am faint; O LORD, heal me, for my bones are in agony.",
+              "KJV": "Have mercy upon me, O Lord; for I am weak: O Lord, heal me; for my bones are vexed.",
+              "NASB95": "Be gracious to me, O Lord, for I am pining away;\nHeal me, O Lord, for my bones are dismayed.",
+              "NKJV": "Have mercy on me, O Lord, for I am weak;\nO Lord, heal me, for my bones are troubled.",
+              "DRB": "Have mercy on me, O Lord, for I am weak: heal me, O Lord, for my bones are troubled.",
+              "ESV": "Be gracious to me, O Lord, for I am languishing;\n    heal me, O Lord, for my bones are troubled."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "My soul is in anguish. How long, O LORD, how long?",
+              "KJV": "My soul is also sore vexed: but thou, O Lord, how long?",
+              "NASB95": "And my soul is greatly dismayed;\nBut You, O Lord\u2014how long?",
+              "NKJV": "My soul also is greatly troubled;\nBut You, O Lord\u2014how long?",
+              "DRB": "And my soul is troubled exceedingly: but thou, O Lord, how long?",
+              "ESV": "My soul also is greatly troubled.\n    But you, O Lord\u2014how long?"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Turn, O LORD, and deliver me; save me because of your unfailing love.",
+              "KJV": "Return, O Lord, deliver my soul: oh save me for thy mercies' sake.",
+              "NASB95": "Return, O Lord, rescue my soul;\nSave me because of Your lovingkindness.",
+              "NKJV": "Return, O Lord, deliver me!\nOh, save me for Your mercies\u2019 sake!",
+              "DRB": "Turn to me, O Lord, and deliver my soul: O save me for thy mercy's sake.",
+              "ESV": "Turn, O Lord, deliver my life;\n    save me for the sake of your steadfast love."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "No one remembers you when he is dead. Who praises you from the grave?",
+              "KJV": "For in death there is no remembrance of thee: in the grave who shall give thee thanks?",
+              "NASB95": "For there is no mention of You in death;\nIn Sheol who will give You thanks?",
+              "NKJV": "For in death there is no remembrance of You;\nIn the grave who will give You thanks?",
+              "DRB": "For there is no one in death, that is mindful of thee: and who shall confess to thee in hell?",
+              "ESV": "For in death there is no remembrance of you;\n    in Sheol who will give you praise?"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "I am worn out from groaning; all night long I flood my bed with weeping and drench my couch with tears.",
+              "KJV": "I am weary with my groaning; all the night make I my bed to swim; I water my couch with my tears.",
+              "NASB95": "I am weary with my sighing;\nEvery night I make my bed swim,\nI dissolve my couch with my tears.",
+              "NKJV": "I am weary with my groaning;\nAll night I make my bed swim;\nI drench my couch with my tears.",
+              "DRB": "I have laboured in my groanings, every night I will wash my bed: I will water my couch with my tears.",
+              "ESV": "I am weary with my moaning;\n    every night I flood my bed with tears;\n    I drench my couch with my weeping."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "My eyes grow weak with sorrow; they fail because of all my foes.",
+              "KJV": "Mine eye is consumed because of grief; it waxeth old because of all mine enemies.",
+              "NASB95": "My eye has wasted away with grief;\nIt has become old because of all my adversaries.",
+              "NKJV": "My eye wastes away because of grief;\nIt grows old because of all my enemies.",
+              "DRB": "My eye is troubled through indignation: I have grown old amongst all my enemies.",
+              "ESV": "My eye wastes away because of grief;\n    it grows weak because of all my foes."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Away from me, all you who do evil, for the LORD has heard my weeping.",
+              "KJV": "Depart from me, all ye workers of iniquity; for the Lord hath heard the voice of my weeping.",
+              "NASB95": "Depart from me, all you who do iniquity,\nFor the Lord has heard the voice of my weeping.",
+              "NKJV": "Depart from me, all you workers of iniquity;\nFor the Lord has heard the voice of my weeping.",
+              "DRB": "Depart from me, all ye workers of iniquity: for the Lord hath heard the voice of my weeping.",
+              "ESV": "Depart from me, all you workers of evil,\n    for the Lord has heard the sound of my weeping."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "The LORD has heard my cry for mercy; the LORD accepts my prayer.",
+              "KJV": "The Lord hath heard my supplication; the Lord will receive my prayer.",
+              "NASB95": "The Lord has heard my supplication,\nThe Lord receives my prayer.",
+              "NKJV": "The Lord has heard my supplication;\nThe Lord will receive my prayer.",
+              "DRB": "The Lord hath heard my supplication: the Lord hath received my prayer.",
+              "ESV": "The Lord has heard my plea;\n    the Lord accepts my prayer."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "All my enemies will be ashamed and dismayed; they will turn back in sudden disgrace.",
+              "KJV": "Let all mine enemies be ashamed and sore vexed: let them return and be ashamed suddenly.",
+              "NASB95": "All my enemies will be ashamed and greatly dismayed;\nThey shall turn back, they will suddenly be ashamed.",
+              "NKJV": "Let all my enemies be ashamed and greatly troubled;\nLet them turn back and be ashamed suddenly.",
+              "DRB": "Let all my enemies be ashamed, and be very much troubled: let them be turned back, and be ashamed very speedily.",
+              "ESV": "All my enemies shall be ashamed and greatly troubled;\n    they shall turn back and be put to shame in a moment."
+            }
+          }
+        ]
+      },
+      {
+        "id": "psa_7_1_17",
+        "title": "Prayer & Praise for Deliverance",
+        "description": "",
+        "reference": {
+          "book": "Psalm",
+          "chapter": 7,
+          "start": 1,
+          "end": 17
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "O LORD my God, I take refuge in you; save and deliver me from all who pursue me,",
+              "KJV": "O Lord my God, in thee do I put my trust: save me from all them that persecute me, and deliver me:",
+              "NASB95": "O Lord my God, in You I have taken refuge;\nSave me from all those who pursue me, and deliver me,",
+              "NKJV": "O Lord my God, in You I put my trust;\nSave me from all those who persecute me;\nAnd deliver me,",
+              "DRB": "The psalm of David which he sung to the Lord for the words of Chusi the son of Jemini. [2 Kings 16.] O Lord my God, in thee have I put my trust: save me from all them that persecute me, and deliver me.",
+              "ESV": "O Lord my God, in you do I take refuge;\n    save me from all my pursuers and deliver me,"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "or they will tear me like a lion and rip me to pieces with no one to rescue me.",
+              "KJV": "Lest he tear my soul like a lion, rending it in pieces, while there is none to deliver.",
+              "NASB95": "Or he will tear my soul like a lion,\nDragging me away, while there is none to deliver.",
+              "NKJV": "Lest they tear me like a lion,\nRending me in pieces, while there is none to deliver.",
+              "DRB": "Lest at any time he seize upon my soul like a lion, while there is no one to redeem me, nor to save.",
+              "ESV": "lest like a lion they tear my soul apart,\n    rending it in pieces, with none to deliver."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "O LORD my God, if I have done this and there is guilt on my hands-",
+              "KJV": "O Lord my God, If I have done this; if there be iniquity in my hands;",
+              "NASB95": "O Lord my God, if I have done this,\nIf there is injustice in my hands,",
+              "NKJV": "O Lord my God, if I have done this:\nIf there is iniquity in my hands,",
+              "DRB": "O Lord my God, if I have done this thing, if there be iniquity in my hands:",
+              "ESV": "O Lord my God, if I have done this,\n    if there is wrong in my hands,"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "if I have done evil to him who is at peace with me or without cause have robbed my foe-",
+              "KJV": "If I have rewarded evil unto him that was at peace with me; (yea, I have delivered him that without cause is mine enemy:)",
+              "NASB95": "If I have rewarded evil to my friend,\nOr have plundered him who without cause was my adversary,",
+              "NKJV": "If I have repaid evil to him who was at peace with me,\nOr have plundered my enemy without cause,",
+              "DRB": "If I have rendered to them that repaid me evils, let me deservedly fall empty before my enemies.",
+              "ESV": "if I have repaid my friend with evil\n    or plundered my enemy without cause,"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "then let my enemy pursue and overtake me; let him trample my life to the ground and make me sleep in the dust. Selah",
+              "KJV": "Let the enemy persecute my soul, and take it; yea, let him tread down my life upon the earth, and lay mine honour in the dust. Selah.",
+              "NASB95": "Let the enemy pursue my soul and overtake it;\nAnd let him trample my life down to the ground\nAnd lay my glory in the dust. Selah.",
+              "NKJV": "Let the enemy pursue me and overtake me;\nYes, let him trample my life to the earth,\nAnd lay my honor in the dust. Selah",
+              "DRB": "Let the enemy pursue my soul, and take it, and tread down my life on the earth, and bring down my glory to the dust.",
+              "ESV": "let the enemy pursue my soul and overtake it,\n    and let him trample my life to the ground\n    and lay my glory in the dust. Selah"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Arise, O LORD, in your anger; rise up against the rage of my enemies. Awake, my God; decree justice.",
+              "KJV": "Arise, O Lord, in thine anger, lift up thyself because of the rage of mine enemies: and awake for me to the judgment that thou hast commanded.",
+              "NASB95": "Arise, O Lord, in Your anger;\nLift up Yourself against the rage of my adversaries,\nAnd arouse Yourself for me; You have appointed judgment.",
+              "NKJV": "Arise, O Lord, in Your anger;\nLift Yourself up because of the rage of my enemies;\nRise up for me to the judgment You have commanded!",
+              "DRB": "Rise up, O Lord, in thy anger: and be thou exalted in the borders of my enemies. And arise, O Lord my God, in the precept which thou hast commanded:",
+              "ESV": "Arise, O Lord, in your anger;\n    lift yourself up against the fury of my enemies;\n    awake for me; you have appointed a judgment."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Let the assembled peoples gather around you. Rule over them from on high;",
+              "KJV": "So shall the congregation of the people compass thee about: for their sakes therefore return thou on high.",
+              "NASB95": "Let the assembly of the peoples encompass You,\nAnd over them return on high.",
+              "NKJV": "So the congregation of the peoples shall surround You;\nFor their sakes, therefore, return on high.",
+              "DRB": "and a congregation of people shall surround thee. And for their sakes return thou on high.",
+              "ESV": "Let the assembly of the peoples be gathered about you;\n    over it return on high."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "let the LORD judge the peoples. Judge me, O LORD, according to my righteousness, according to my integrity, O Most High.",
+              "KJV": "The Lord shall judge the people: judge me, O Lord, according to my righteousness, and according to mine integrity that is in me.",
+              "NASB95": "The Lord judges the peoples;\nVindicate me, O Lord, according to my righteousness and my integrity that is in me.",
+              "NKJV": "The Lord shall judge the peoples;\nJudge me, O Lord, according to my righteousness,\nAnd according to my integrity within me.",
+              "DRB": "The Lord judgeth the people. Judge me, O Lord, according to my justice, and according to my innocence in me.",
+              "ESV": "The Lord judges the peoples;\n    judge me, O Lord, according to my righteousness\n    and according to the integrity that is in me."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "O righteous God, who searches minds and hearts, bring to an end the violence of the wicked and make the righteous secure.",
+              "KJV": "Oh let the wickedness of the wicked come to an end; but establish the just: for the righteous God trieth the hearts and reins.",
+              "NASB95": "O let the evil of the wicked come to an end, but establish the righteous;\nFor the righteous God tries the hearts and minds.",
+              "NKJV": "Oh, let the wickedness of the wicked come to an end,\nBut establish the just;\nFor the righteous God tests the hearts and minds.",
+              "DRB": "The wickedness of sinners shall be brought to nought: and thou shalt direct the just: the searcher of hearts and reins is God.",
+              "ESV": "Oh, let the evil of the wicked come to an end,\n    and may you establish the righteous\u2014\nyou who test the minds and hearts,\n    O righteous God!"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "My shield is God Most High, who saves the upright in heart.",
+              "KJV": "My defence is of God, which saveth the upright in heart.",
+              "NASB95": "My shield is with God,\nWho saves the upright in heart.",
+              "NKJV": "My defense is of God,\nWho saves the upright in heart.",
+              "DRB": "Just is my help from the Lord: who saveth the upright of heart.",
+              "ESV": "My shield is with God,\n    who saves the upright in heart."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "God is a righteous judge, a God who expresses his wrath every day.",
+              "KJV": "God judgeth the righteous, and God is angry with the wicked every day.",
+              "NASB95": "God is a righteous judge,\nAnd a God who has indignation every day.",
+              "NKJV": "God is a just judge,\nAnd God is angry with the wicked every day.",
+              "DRB": "God is a just judge, strong and patient: is he angry every day?",
+              "ESV": "God is a righteous judge,\n    and a God who feels indignation every day."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "If he does not relent, he will sharpen his sword; he will bend and string his bow.",
+              "KJV": "If he turn not, he will whet his sword; he hath bent his bow, and made it ready.",
+              "NASB95": "If a man does not repent, He will sharpen His sword;\nHe has bent His bow and made it ready.",
+              "NKJV": "If he does not turn back,\nHe will sharpen His sword;\nHe bends His bow and makes it ready.",
+              "DRB": "Except you will be converted, he will brandish his sword: he hath bent his bow and made it ready.",
+              "ESV": "If a man does not repent, God will whet his sword;\n    he has bent and readied his bow;"
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "He has prepared his deadly weapons; he makes ready his flaming arrows.",
+              "KJV": "He hath also prepared for him the instruments of death; he ordaineth his arrows against the persecutors.",
+              "NASB95": "He has also prepared for Himself deadly weapons;\nHe makes His arrows fiery shafts.",
+              "NKJV": "He also prepares for Himself instruments of death;\nHe makes His arrows into fiery shafts.",
+              "DRB": "And in it he hath prepared the instruments of death, he hath made ready his arrows for them that burn.",
+              "ESV": "he has prepared for him his deadly weapons,\n    making his arrows fiery shafts."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "He who is pregnant with evil and conceives trouble gives birth to disillusionment.",
+              "KJV": "Behold, he travaileth with iniquity, and hath conceived mischief, and brought forth falsehood.",
+              "NASB95": "Behold, he travails with wickedness,\nAnd he conceives mischief and brings forth falsehood.",
+              "NKJV": "Behold, the wicked brings forth iniquity;\nYes, he conceives trouble and brings forth falsehood.",
+              "DRB": "Behold he hath been in labour with injustice; he hath conceived sorrow, and brought forth iniquity.",
+              "ESV": "Behold, the wicked man conceives evil\n    and is pregnant with mischief\n    and gives birth to lies."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "He who digs a hole and scoops it out falls into the pit he has made.",
+              "KJV": "He made a pit, and digged it, and is fallen into the ditch which he made.",
+              "NASB95": "He has dug a pit and hollowed it out,\nAnd has fallen into the hole which he made.",
+              "NKJV": "He made a pit and dug it out,\nAnd has fallen into the ditch which he made.",
+              "DRB": "He hath opened a pit and dug it; and he is fallen into the hole he made.",
+              "ESV": "He makes a pit, digging it out,\n    and falls into the hole that he has made."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "The trouble he causes recoils on himself; his violence comes down on his own head.",
+              "KJV": "His mischief shall return upon his own head, and his violent dealing shall come down upon his own pate.",
+              "NASB95": "His mischief will return upon his own head,\nAnd his violence will descend upon his own pate.",
+              "NKJV": "His trouble shall return upon his own head,\nAnd his violent dealing shall come down on his own crown.",
+              "DRB": "His sorrow shall be turned on his own head: and his iniquity shall comedown upon his crown.",
+              "ESV": "His mischief returns upon his own head,\n    and on his own skull his violence descends."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "I will give thanks to the LORD because of his righteousness and will sing praise to the name of the LORD Most High.",
+              "KJV": "I will praise the Lord according to his righteousness: and will sing praise to the name of the Lord most high.",
+              "NASB95": "I will give thanks to the Lord according to His righteousness\nAnd will sing praise to the name of the Lord Most High.",
+              "NKJV": "I will praise the Lord according to His righteousness,\nAnd will sing praise to the name of the Lord Most High.",
+              "DRB": "I will give glory to the Lord according to his justice: and will sing to the name of the Lord the most high.",
+              "ESV": "I will give to the Lord the thanks due to his righteousness,\n    and I will sing praise to the name of the Lord, the Most High."
+            }
+          }
+        ]
+      },
+      {
+        "id": "psa_9_1_20",
+        "title": "Prayer and Thanksgiving",
+        "description": "",
+        "reference": {
+          "book": "Psalm",
+          "chapter": 9,
+          "start": 1,
+          "end": 20
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "I will praise you, O LORD, with all my heart; I will tell of all your wonders.",
+              "KJV": "I will praise thee, O Lord, with my whole heart; I will shew forth all thy marvellous works.",
+              "NASB95": "I will give thanks to the Lord with all my heart;\nI will tell of all Your wonders.",
+              "NKJV": "I will praise You, O Lord, with my whole heart;\nI will tell of all Your marvelous works.",
+              "DRB": "Unto the end, for the hidden things of the Son. A psalm for David. I will give praise to thee, O Lord, with my whole heart: I will relate all thy wonders.",
+              "ESV": "I will give thanks to the Lord with my whole heart;\n    I will recount all of your wonderful deeds."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "I will be glad and rejoice in you; I will sing praise to your name, O Most High.",
+              "KJV": "I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High.",
+              "NASB95": "I will be glad and exult in You;\nI will sing praise to Your name, O Most High.",
+              "NKJV": "I will be glad and rejoice in You;\nI will sing praise to Your name, O Most High.",
+              "DRB": "I will be glad and rejoice in thee: I will sing to thy name, O thou most high.",
+              "ESV": "I will be glad and exult in you;\n    I will sing praise to your name, O Most High."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "My enemies turn back; they stumble and perish before you.",
+              "KJV": "When mine enemies are turned back, they shall fall and perish at thy presence.",
+              "NASB95": "When my enemies turn back,\nThey stumble and perish before You.",
+              "NKJV": "When my enemies turn back,\nThey shall fall and perish at Your presence.",
+              "DRB": "When my enemy shall be turned back: they shall be weakened and perish before thy face.",
+              "ESV": "When my enemies turn back,\n    they stumble and perish before your presence."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "For you have upheld my right and my cause; you have sat on your throne, judging righteously.",
+              "KJV": "For thou hast maintained my right and my cause; thou satest in the throne judging right.",
+              "NASB95": "For You have maintained my just cause;\nYou have sat on the throne judging righteously.",
+              "NKJV": "For You have maintained my right and my cause;\nYou sat on the throne judging in righteousness.",
+              "DRB": "For thou hast maintained my judgment and my cause: thou hast sat on the throne, who judgest justice.",
+              "ESV": "For you have maintained my just cause;\n    you have sat on the throne, giving righteous judgment."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "You have rebuked the nations and destroyed the wicked; you have blotted out their name for ever and ever.",
+              "KJV": "Thou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name for ever and ever.",
+              "NASB95": "You have rebuked the nations, You have destroyed the wicked;\nYou have blotted out their name forever and ever.",
+              "NKJV": "You have rebuked the nations,\nYou have destroyed the wicked;\nYou have blotted out their name forever and ever.",
+              "DRB": "Thou hast rebuked the Gentiles, and the wicked one hath perished: thou hast blotted out their name for ever and ever.",
+              "ESV": "You have rebuked the nations; you have made the wicked perish;\n    you have blotted out their name forever and ever."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Endless ruin has overtaken the enemy, you have uprooted their cities; even the memory of them has perished.",
+              "KJV": "O thou enemy, destructions are come to a perpetual end: and thou hast destroyed cities; their memorial is perished with them.",
+              "NASB95": "The enemy has come to an end in perpetual ruins,\nAnd You have uprooted the cities;\nThe very memory of them has perished.",
+              "NKJV": "O enemy, destructions are finished forever!\nAnd you have destroyed cities;\nEven their memory has perished.",
+              "DRB": "The swords of the enemy have failed unto the end: and their cities thou hast destroyed. Their memory hath perished with a noise.",
+              "ESV": "The enemy came to an end in everlasting ruins;\n    their cities you rooted out;\n    the very memory of them has perished."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "The LORD reigns forever; he has established his throne for judgment.",
+              "KJV": "But the Lord shall endure for ever: he hath prepared his throne for judgment.",
+              "NASB95": "But the Lord abides forever;\nHe has established His throne for judgment,",
+              "NKJV": "But the Lord shall endure forever;\nHe has prepared His throne for judgment.",
+              "DRB": "but the Lord remaineth for ever. He hath prepared his throne in judgment:",
+              "ESV": "But the Lord sits enthroned forever;\n    he has established his throne for justice,"
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "He will judge the world in righteousness; he will govern the peoples with justice.",
+              "KJV": "And he shall judge the world in righteousness, he shall minister judgment to the people in uprightness.",
+              "NASB95": "And He will judge the world in righteousness;\nHe will execute judgment for the peoples with equity.",
+              "NKJV": "He shall judge the world in righteousness,\nAnd He shall administer judgment for the peoples in uprightness.",
+              "DRB": "and he shall judge the world in equity, he shall judge the people in justice.",
+              "ESV": "and he judges the world with righteousness;\n    he judges the peoples with uprightness."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "The LORD is a refuge for the oppressed, a stronghold in times of trouble.",
+              "KJV": "The Lord also will be a refuge for the oppressed, a refuge in times of trouble.",
+              "NASB95": "The Lord also will be a stronghold for the oppressed,\nA stronghold in times of trouble;",
+              "NKJV": "The Lord also will be a refuge for the oppressed,\nA refuge in times of trouble.",
+              "DRB": "And the Lord is become a refuge for the poor: a helper in due time in tribulation.",
+              "ESV": "The Lord is a stronghold for the oppressed,\n    a stronghold in times of trouble."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Those who know your name will trust in you, for you, LORD, have never forsaken those who seek you.",
+              "KJV": "And they that know thy name will put their trust in thee: for thou, Lord, hast not forsaken them that seek thee.",
+              "NASB95": "And those who know Your name will put their trust in You,\nFor You, O Lord, have not forsaken those who seek You.",
+              "NKJV": "And those who know Your name will put their trust in You;\nFor You, Lord, have not forsaken those who seek You.",
+              "DRB": "And let them trust in thee who know thy name: for thou hast not forsaken them that seek thee, O Lord.",
+              "ESV": "And those who know your name put their trust in you,\n    for you, O Lord, have not forsaken those who seek you."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Sing praises to the LORD, enthroned in Zion; proclaim among the nations what he has done.",
+              "KJV": "Sing praises to the Lord, which dwelleth in Zion: declare among the people his doings.",
+              "NASB95": "Sing praises to the Lord, who dwells in Zion;\nDeclare among the peoples His deeds.",
+              "NKJV": "Sing praises to the Lord, who dwells in Zion!\nDeclare His deeds among the people.",
+              "DRB": "Sing ye to the Lord, who dwelleth in Sion: declare his ways among the Gentiles:",
+              "ESV": "Sing praises to the Lord, who sits enthroned in Zion!\n    Tell among the peoples his deeds!"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "For he who avenges blood remembers; he does not ignore the cry of the afflicted.",
+              "KJV": "When he maketh inquisition for blood, he remembereth them: he forgetteth not the cry of the humble.",
+              "NASB95": "For He who requires blood remembers them;\nHe does not forget the cry of the afflicted.",
+              "NKJV": "When He avenges blood, He remembers them;\nHe does not forget the cry of the humble.",
+              "DRB": "For requiring their blood he hath remembered the: he hath not forgotten the cry of the poor.",
+              "ESV": "For he who avenges blood is mindful of them;\n    he does not forget the cry of the afflicted."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "O LORD, see how my enemies persecute me! Have mercy and lift me up from the gates of death,",
+              "KJV": "Have mercy upon me, O Lord; consider my trouble which I suffer of them that hate me, thou that liftest me up from the gates of death:",
+              "NASB95": "Be gracious to me, O Lord;\nSee my affliction from those who hate me,\nYou who lift me up from the gates of death,",
+              "NKJV": "Have mercy on me, O Lord!\nConsider my trouble from those who hate me,\nYou who lift me up from the gates of death,",
+              "DRB": "Have mercy on me, O Lord: see my humiliation which I suffer from my enemies.",
+              "ESV": "Be gracious to me, O Lord!\n    See my affliction from those who hate me,\n    O you who lift me up from the gates of death,"
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "that I may declare your praises in the gates of the Daughter of Zion and there rejoice in your salvation.",
+              "KJV": "That I may shew forth all thy praise in the gates of the daughter of Zion: I will rejoice in thy salvation.",
+              "NASB95": "That I may tell of all Your praises,\nThat in the gates of the daughter of Zion\nI may rejoice in Your salvation.",
+              "NKJV": "That I may tell of all Your praise\nIn the gates of the daughter of Zion.\nI will rejoice in Your salvation.",
+              "DRB": "Thou that liftest me up from the gates of death, that I may declare all thy praises in the gates of the daughter of Sion.",
+              "ESV": "that I may recount all your praises,\n    that in the gates of the daughter of Zion\n    I may rejoice in your salvation."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "The nations have fallen into the pit they have dug; their feet are caught in the net they have hidden.",
+              "KJV": "The heathen are sunk down in the pit that they made: in the net which they hid is their own foot taken.",
+              "NASB95": "The nations have sunk down in the pit which they have made;\nIn the net which they hid, their own foot has been caught.",
+              "NKJV": "The nations have sunk down in the pit which they made;\nIn the net which they hid, their own foot is caught.",
+              "DRB": "I will rejoice in thy salvation: the Gentiles have stuck fast in the destruction which they have prepared. Their foot hath been taken in the very snare which they hid.",
+              "ESV": "The nations have sunk in the pit that they made;\n    in the net that they hid, their own foot has been caught."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "The LORD is known by his justice; the wicked are ensnared by the work of their hands. Higgaion. Selah",
+              "KJV": "The Lord is known by the judgment which he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah.",
+              "NASB95": "The Lord has made Himself known;\nHe has executed judgment.\nIn the work of his own hands the wicked is snared. Higgaion Selah.",
+              "NKJV": "The Lord is known by the judgment He executes;\nThe wicked is snared in the work of his own hands.\nMeditation. Selah",
+              "DRB": "The Lord shall be known when he executeth judgments: the sinner hath been caught in the works of his own hands.",
+              "ESV": "The Lord has made himself known; he has executed judgment;\n    the wicked are snared in the work of their own hands. Higgaion. Selah"
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "The wicked return to the grave, all the nations that forget God.",
+              "KJV": "The wicked shall be turned into hell, and all the nations that forget God.",
+              "NASB95": "The wicked will return to Sheol,\nEven all the nations who forget God.",
+              "NKJV": "The wicked shall be turned into hell,\nAnd all the nations that forget God.",
+              "DRB": "The wicked shall be turned into hell, all the nations that forget God.",
+              "ESV": "The wicked shall return to Sheol,\n    all the nations that forget God."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "But the needy will not always be forgotten, nor the hope of the afflicted ever perish.",
+              "KJV": "For the needy shall not always be forgotten: the expectation of the poor shall not perish for ever.",
+              "NASB95": "For the needy will not always be forgotten,\nNor the hope of the afflicted perish forever.",
+              "NKJV": "For the needy shall not always be forgotten;\nThe expectation of the poor shall not perish forever.",
+              "DRB": "For the poor man shall not be forgotten to the end: the patience of the poor shall not perish for ever.",
+              "ESV": "For the needy shall not always be forgotten,\n    and the hope of the poor shall not perish forever."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "Arise, O LORD, let not man triumph; let the nations be judged in your presence.",
+              "KJV": "Arise, O Lord; let not man prevail: let the heathen be judged in thy sight.",
+              "NASB95": "Arise, O Lord, do not let man prevail;\nLet the nations be judged before You.",
+              "NKJV": "Arise, O Lord,\nDo not let man prevail;\nLet the nations be judged in Your sight.",
+              "DRB": "Arise, O Lord, let not man be strengthened: let the Gentiles be judged in thy sight.",
+              "ESV": "Arise, O Lord! Let not man prevail;\n    let the nations be judged before you!"
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "Strike them with terror, O LORD; let the nations know they are but men. Selah",
+              "KJV": "Put them in fear, O Lord: that the nations may know themselves to be but men. Selah.",
+              "NASB95": "Put them in fear, O Lord;\nLet the nations know that they are but men. Selah.",
+              "NKJV": "Put them in fear, O Lord,\nThat the nations may know themselves to be but men. Selah",
+              "DRB": "Appoint, O Lord, a lawgiver over them: that the Gentiles may know themselves to be but men.",
+              "ESV": "Put them in fear, O Lord!\n    Let the nations know that they are but men! Selah"
+            }
+          }
+        ]
+      },
+      {
+        "id": "psa_17_1_15",
+        "title": "Prayer with Confidence",
+        "description": "",
+        "reference": {
+          "book": "Psalm",
+          "chapter": 17,
+          "start": 1,
+          "end": 15
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Hear, O LORD, my righteous plea; listen to my cry. Give ear to my prayer- it does not rise from deceitful lips.",
+              "KJV": "Hear the right, O Lord, attend unto my cry, give ear unto my prayer, that goeth not out of feigned lips.",
+              "NASB95": "Hear a just cause, O Lord, give heed to my cry;\nGive ear to my prayer, which is not from deceitful lips.",
+              "NKJV": "Hear a just cause, O Lord,\nAttend to my cry;\nGive ear to my prayer which is not from deceitful lips.",
+              "DRB": "The prayer of David. Hear, O Lord, my justice: attend to my supplication. Give ear unto my prayer, which proceedeth not from deceitful lips.",
+              "ESV": "Hear a just cause, O Lord; attend to my cry!\n    Give ear to my prayer from lips free of deceit!"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "May my vindication come from you; may your eyes see what is right.",
+              "KJV": "Let my sentence come forth from thy presence; let thine eyes behold the things that are equal.",
+              "NASB95": "Let my judgment come forth from Your presence;\nLet Your eyes look with equity.",
+              "NKJV": "Let my vindication come from Your presence;\nLet Your eyes look on the things that are upright.",
+              "DRB": "Let my judgment come forth from thy countenance: let thy eyes behold the things that are equitable.",
+              "ESV": "From your presence let my vindication come!\n    Let your eyes behold the right!"
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "Though you probe my heart and examine me at night, though you test me, you will find nothing; I have resolved that my mouth will not sin.",
+              "KJV": "Thou hast proved mine heart; thou hast visited me in the night; thou hast tried me, and shalt find nothing; I am purposed that my mouth shall not transgress.",
+              "NASB95": "You have tried my heart;\nYou have visited me by night;\nYou have tested me and You find nothing;\nI have purposed that my mouth will not transgress.",
+              "NKJV": "You have tested my heart;\nYou have visited me in the night;\nYou have tried me and have found nothing;\nI have purposed that my mouth shall not transgress.",
+              "DRB": "Thou hast proved my heart, and visited it by night, thou hast tried me by fire: and iniquity hath not been found in me.",
+              "ESV": "You have tried my heart, you have visited me by night,\n    you have tested me, and you will find nothing;\n    I have purposed that my mouth will not transgress."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "As for the deeds of men- by the word of your lips I have kept myself from the ways of the violent.",
+              "KJV": "Concerning the works of men, by the word of thy lips I have kept me from the paths of the destroyer.",
+              "NASB95": "As for the deeds of men, by the word of Your lips\nI have kept from the paths of the violent.",
+              "NKJV": "Concerning the works of men,\nBy the word of Your lips,\nI have kept away from the paths of the destroyer.",
+              "DRB": "That my mouth may not speak the works of men: for the sake of the words of thy lips, I have kept hard ways.",
+              "ESV": "With regard to the works of man, by the word of your lips\n    I have avoided the ways of the violent."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "My steps have held to your paths; my feet have not slipped.",
+              "KJV": "Hold up my goings in thy paths, that my footsteps slip not.",
+              "NASB95": "My steps have held fast to Your paths.\nMy feet have not slipped.",
+              "NKJV": "Uphold my steps in Your paths,\nThat my footsteps may not slip.",
+              "DRB": "Perfect thou my goings in thy paths: that my footsteps be not moved.",
+              "ESV": "My steps have held fast to your paths;\n    my feet have not slipped."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "I call on you, O God, for you will answer me; give ear to me and hear my prayer.",
+              "KJV": "I have called upon thee, for thou wilt hear me, O God: incline thine ear unto me, and hear my speech.",
+              "NASB95": "I have called upon You, for You will answer me, O God;\nIncline Your ear to me, hear my speech.",
+              "NKJV": "I have called upon You, for You will hear me, O God;\nIncline Your ear to me, and hear my speech.",
+              "DRB": "I have cried to thee, for thou, O God, hast heard me: O incline thy ear unto me, and hear my words.",
+              "ESV": "I call upon you, for you will answer me, O God;\n    incline your ear to me; hear my words."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Show the wonder of your great love, you who save by your right hand those who take refuge in you from their foes.",
+              "KJV": "Shew thy marvellous lovingkindness, O thou that savest by thy right hand them which put their trust in thee from those that rise up against them.",
+              "NASB95": "Wondrously show Your lovingkindness,\nO Savior of those who take refuge at Your right hand\nFrom those who rise up against them.",
+              "NKJV": "Show Your marvelous lovingkindness by Your right hand,\nO You who save those who trust in You\nFrom those who rise up against them.",
+              "DRB": "Shew forth thy wonderful mercies; thou who savest them that trust in thee.",
+              "ESV": "Wondrously show your steadfast love,\n    O Savior of those who seek refuge\n    from their adversaries at your right hand."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Keep me as the apple of your eye; hide me in the shadow of your wings",
+              "KJV": "Keep me as the apple of the eye, hide me under the shadow of thy wings,",
+              "NASB95": "Keep me as the apple of the eye;\nHide me in the shadow of Your wings",
+              "NKJV": "Keep me as the apple of Your eye;\nHide me under the shadow of Your wings,",
+              "DRB": "From them that resist thy right hand keep me, as the apple of thy eye. Protect me under the shadow of thy wings.",
+              "ESV": "Keep me as the apple of your eye;\n    hide me in the shadow of your wings,"
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "from the wicked who assail me, from my mortal enemies who surround me.",
+              "KJV": "From the wicked that oppress me, from my deadly enemies, who compass me about.",
+              "NASB95": "From the wicked who despoil me,\nMy deadly enemies who surround me.",
+              "NKJV": "From the wicked who oppress me,\nFrom my deadly enemies who surround me.",
+              "DRB": "From the face of the wicked who have afflicted me. My enemies have surrounded my soul:",
+              "ESV": "from the wicked who do me violence,\n    my deadly enemies who surround me."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "They close up their callous hearts, and their mouths speak with arrogance.",
+              "KJV": "They are inclosed in their own fat: with their mouth they speak proudly.",
+              "NASB95": "They have closed their unfeeling heart,\nWith their mouth they speak proudly.",
+              "NKJV": "They have closed up their fat hearts;\nWith their mouths they speak proudly.",
+              "DRB": "they have shut up their fat: their mouth hath spoken proudly.",
+              "ESV": "They close their hearts to pity;\n    with their mouths they speak arrogantly."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "They have tracked me down, they now surround me, with eyes alert, to throw me to the ground.",
+              "KJV": "They have now compassed us in our steps: they have set their eyes bowing down to the earth;",
+              "NASB95": "They have now surrounded us in our steps;\nThey set their eyes to cast us down to the ground.",
+              "NKJV": "They have now surrounded us in our steps;\nThey have set their eyes, crouching down to the earth,",
+              "DRB": "They have cast me forth and now they have surrounded me: they have set their eyes bowing down to the earth.",
+              "ESV": "They have now surrounded our steps;\n    they set their eyes to cast us to the ground."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "They are like a lion hungry for prey, like a great lion crouching in cover.",
+              "KJV": "Like as a lion that is greedy of his prey, and as it were a young lion lurking in secret places.",
+              "NASB95": "He is like a lion that is eager to tear,\nAnd as a young lion lurking in hiding places.",
+              "NKJV": "As a lion is eager to tear his prey,\nAnd like a young lion lurking in secret places.",
+              "DRB": "They have taken me, as a lion prepared for the prey; and as a young lion dwelling in secret places.",
+              "ESV": "He is like a lion eager to tear,\n    as a young lion lurking in ambush."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Rise up, O LORD, confront them, bring them down; rescue me from the wicked by your sword.",
+              "KJV": "Arise, O Lord, disappoint him, cast him down: deliver my soul from the wicked, which is thy sword:",
+              "NASB95": "Arise, O Lord, confront him, bring him low;\nDeliver my soul from the wicked with Your sword,",
+              "NKJV": "Arise, O Lord,\nConfront him, cast him down;\nDeliver my life from the wicked with Your sword,",
+              "DRB": "Arise, O Lord, disappoint him and supplant him; deliver my soul from the wicked one: thy sword",
+              "ESV": "Arise, O Lord! Confront him, subdue him!\n    Deliver my soul from the wicked by your sword,"
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "O LORD, by your hand save me from such men, from men of this world whose reward is in this life. You still the hunger of those you cherish; their sons have plenty, and they store up wealth for their children.",
+              "KJV": "From men which are thy hand, O Lord, from men of the world, which have their portion in this life, and whose belly thou fillest with thy hid treasure: they are full of children, and leave the rest of their substance to their babes.",
+              "NASB95": "From men with Your hand, O Lord,\nFrom men of the world, whose portion is in this life,\nAnd whose belly You fill with Your treasure;\nThey are satisfied with children,\nAnd leave their abundance to their babes.",
+              "NKJV": "With Your hand from men, O Lord,\nFrom men of the world who have their portion in this life,\nAnd whose belly You fill with Your hidden treasure.\nThey are satisfied with children,\nAnd leave the rest of their possession for their babes.",
+              "DRB": "from the enemies of thy hand. O Lord, divide them from the few of the earth in their life: their belly is filled from thy hidden stores. They are full of children: and they have left to their little ones the rest of their substance.",
+              "ESV": "from men by your hand, O Lord,\n    from men of the world whose portion is in this life.\nYou fill their womb with treasure;\n    they are satisfied with children,\n    and they leave their abundance to their infants."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "And I-in righteousness I will see your face; when I awake, I will be satisfied with seeing your likeness.",
+              "KJV": "As for me, I will behold thy face in righteousness: I shall be satisfied, when I awake, with thy likeness.",
+              "NASB95": "As for me, I shall behold Your face in righteousness;\nI will be satisfied with Your likeness when I awake.",
+              "NKJV": "As for me, I will see Your face in righteousness;\nI shall be satisfied when I awake in Your likeness.",
+              "DRB": "But as for me, I will appear before thy sight in justice: I shall be satisfied when thy glory shall appear.",
+              "ESV": "As for me, I shall behold your face in righteousness;\n    when I awake, I shall be satisfied with your likeness."
+            }
+          }
+        ]
+      },
+      {
+        "id": "psa_26_1_12",
+        "title": "A Prayer for Redemption",
+        "description": "",
+        "reference": {
+          "book": "Psalm",
+          "chapter": 26,
+          "start": 1,
+          "end": 12
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Vindicate me, O LORD, for I have led a blameless life; I have trusted in the LORD without wavering.",
+              "KJV": "Judge me, O Lord; for I have walked in mine integrity: I have trusted also in the Lord; therefore I shall not slide.",
+              "NASB95": "Vindicate me, O Lord, for I have walked in my integrity,\nAnd I have trusted in the Lord without wavering.",
+              "NKJV": "Vindicate me, O Lord,\nFor I have walked in my integrity.\nI have also trusted in the Lord;\nI shall not slip.",
+              "DRB": "Unto the end, a psalm for David. Judge me, O Lord, for I have walked in my innocence: and I have put my trust in the Lord, and shall not be weakened.",
+              "ESV": "Vindicate me, O Lord,\n    for I have walked in my integrity,\n    and I have trusted in the Lord without wavering."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Test me, O LORD, and try me, examine my heart and my mind;",
+              "KJV": "Examine me, O Lord, and prove me; try my reins and my heart.",
+              "NASB95": "Examine me, O Lord, and try me;\nTest my mind and my heart.",
+              "NKJV": "Examine me, O Lord, and prove me;\nTry my mind and my heart.",
+              "DRB": "Prove me, O Lord, and try me; burn my reins and my heart.",
+              "ESV": "Prove me, O Lord, and try me;\n    test my heart and my mind."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "for your love is ever before me, and I walk continually in your truth.",
+              "KJV": "For thy lovingkindness is before mine eyes: and I have walked in thy truth.",
+              "NASB95": "For Your lovingkindness is before my eyes,\nAnd I have walked in Your truth.",
+              "NKJV": "For Your lovingkindness is before my eyes,\nAnd I have walked in Your truth.",
+              "DRB": "For thy mercy is before my eyes; and I am well pleased with thy truth.",
+              "ESV": "For your steadfast love is before my eyes,\n    and I walk in your faithfulness."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "I do not sit with deceitful men, nor do I consort with hypocrites;",
+              "KJV": "I have not sat with vain persons, neither will I go in with dissemblers.",
+              "NASB95": "I do not sit with deceitful men,\nNor will I go with pretenders.",
+              "NKJV": "I have not sat with idolatrous mortals,\nNor will I go in with hypocrites.",
+              "DRB": "I have not sat with the council of vanity: neither will I go in with the doers of unjust things.",
+              "ESV": "I do not sit with men of falsehood,\n    nor do I consort with hypocrites."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "I abhor the assembly of evildoers and refuse to sit with the wicked.",
+              "KJV": "I have hated the congregation of evil doers; and will not sit with the wicked.",
+              "NASB95": "I hate the assembly of evildoers,\nAnd I will not sit with the wicked.",
+              "NKJV": "I have hated the assembly of evildoers,\nAnd will not sit with the wicked.",
+              "DRB": "I have hated the assembly of the malignant; and with the wicked I will not sit.",
+              "ESV": "I hate the assembly of evildoers,\n    and I will not sit with the wicked."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "I wash my hands in innocence, and go about your altar, O LORD,",
+              "KJV": "I will wash mine hands in innocency: so will I compass thine altar, O Lord:",
+              "NASB95": "I shall wash my hands in innocence,\nAnd I will go about Your altar, O Lord,",
+              "NKJV": "I will wash my hands in innocence;\nSo I will go about Your altar, O Lord,",
+              "DRB": "I will wash my hands among the innocent; and will compass thy altar, O Lord:",
+              "ESV": "I wash my hands in innocence\n    and go around your altar, O Lord,"
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "proclaiming aloud your praise and telling of all your wonderful deeds.",
+              "KJV": "That I may publish with the voice of thanksgiving, and tell of all thy wondrous works.",
+              "NASB95": "That I may proclaim with the voice of thanksgiving\nAnd declare all Your wonders.",
+              "NKJV": "That I may proclaim with the voice of thanksgiving,\nAnd tell of all Your wondrous works.",
+              "DRB": "That I may hear the voice of thy praise: and tell of all thy wondrous works.",
+              "ESV": "proclaiming thanksgiving aloud,\n    and telling all your wondrous deeds."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "I love the house where you live, O LORD, the place where your glory dwells.",
+              "KJV": "Lord, I have loved the habitation of thy house, and the place where thine honour dwelleth.",
+              "NASB95": "O Lord, I love the habitation of Your house\nAnd the place where Your glory dwells.",
+              "NKJV": "Lord, I have loved the habitation of Your house,\nAnd the place where Your glory dwells.",
+              "DRB": "I have loved, O Lord, the beauty of thy house; and the place where thy glory dwelleth.",
+              "ESV": "O Lord, I love the habitation of your house\n    and the place where your glory dwells."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Do not take away my soul along with sinners, my life with bloodthirsty men,",
+              "KJV": "Gather not my soul with sinners, nor my life with bloody men:",
+              "NASB95": "Do not take my soul away along with sinners,\nNor my life with men of bloodshed,",
+              "NKJV": "Do not gather my soul with sinners,\nNor my life with bloodthirsty men,",
+              "DRB": "Take not away my soul, O God, with the wicked: nor my life with bloody men:",
+              "ESV": "Do not sweep my soul away with sinners,\n    nor my life with bloodthirsty men,"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "in whose hands are wicked schemes, whose right hands are full of bribes.",
+              "KJV": "In whose hands is mischief, and their right hand is full of bribes.",
+              "NASB95": "In whose hands is a wicked scheme,\nAnd whose right hand is full of bribes.",
+              "NKJV": "In whose hands is a sinister scheme,\nAnd whose right hand is full of bribes.",
+              "DRB": "In whose hands are iniquities: their right hand is filled with gifts.",
+              "ESV": "in whose hands are evil devices,\n    and whose right hands are full of bribes."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "But I lead a blameless life; redeem me and be merciful to me.",
+              "KJV": "But as for me, I will walk in mine integrity: redeem me, and be merciful unto me.",
+              "NASB95": "But as for me, I shall walk in my integrity;\nRedeem me, and be gracious to me.",
+              "NKJV": "But as for me, I will walk in my integrity;\nRedeem me and be merciful to me.",
+              "DRB": "But as for me, I have walked in my innocence: redeem me, and have mercy on me.",
+              "ESV": "But as for me, I shall walk in my integrity;\n    redeem me, and be gracious to me."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "My feet stand on level ground; in the great assembly I will praise the LORD.",
+              "KJV": "My foot standeth in an even place: in the congregations will I bless the Lord.",
+              "NASB95": "My foot stands on a level place;\nIn the congregations I shall bless the Lord.",
+              "NKJV": "My foot stands in an even place;\nIn the congregations I will bless the Lord.",
+              "DRB": "My foot hath stood in the direct way: in the churches I will bless thee, O Lord.",
+              "ESV": "My foot stands on level ground;\n    in the great assembly I will bless the Lord."
+            }
+          }
+        ]
+      },
+      {
+        "id": "psa_28_1_9",
+        "title": "Rejoicing in Answered Prayer",
+        "description": "",
+        "reference": {
+          "book": "Psalm",
+          "chapter": 28,
+          "start": 1,
+          "end": 9
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "To you I call, O LORD my Rock; do not turn a deaf ear to me. For if you remain silent, I will be like those who have gone down to the pit.",
+              "KJV": "Unto thee will I cry, O Lord my rock; be not silent to me: lest, if thou be silent to me, I become like them that go down into the pit.",
+              "NASB95": "To You, O Lord, I call;\nMy rock, do not be deaf to me,\nFor if You are silent to me,\nI will become like those who go down to the pit.",
+              "NKJV": "To You I will cry, O Lord my Rock:\nDo not be silent to me,\nLest, if You are silent to me,\nI become like those who go down to the pit.",
+              "DRB": "A psalm for David himself. Unto thee will I cry, O Lord: O my God, be not thou silent to me: lest thou be silent to me, I become like them that go down into the pit.",
+              "ESV": "To you, O Lord, I call;\n    my rock, be not deaf to me,\nlest, if you be silent to me,\n    I become like those who go down to the pit."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Hear my cry for mercy as I call to you for help, as I lift up my hands toward your Most Holy Place.",
+              "KJV": "Hear the voice of my supplications, when I cry unto thee, when I lift up my hands toward thy holy oracle.",
+              "NASB95": "Hear the voice of my supplications when I cry to You for help,\nWhen I lift up my hands toward Your holy sanctuary.",
+              "NKJV": "Hear the voice of my supplications\nWhen I cry to You,\nWhen I lift up my hands toward Your holy sanctuary.",
+              "DRB": "Hear, O Lord, the voice of my supplication, when I pray to thee; when I lift up my hands to thy holy temple.",
+              "ESV": "Hear the voice of my pleas for mercy,\n    when I cry to you for help,\nwhen I lift up my hands\n    toward your most holy sanctuary."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "Do not drag me away with the wicked, with those who do evil, who speak cordially with their neighbors but harbor malice in their hearts.",
+              "KJV": "Draw me not away with the wicked, and with the workers of iniquity, which speak peace to their neighbours, but mischief is in their hearts.",
+              "NASB95": "Do not drag me away with the wicked\nAnd with those who work iniquity,\nWho speak peace with their neighbors,\nWhile evil is in their hearts.",
+              "NKJV": "Do not take me away with the wicked\nAnd with the workers of iniquity,\nWho speak peace to their neighbors,\nBut evil is in their hearts.",
+              "DRB": "Draw me not away together with the wicked; and with the workers of iniquity destroy me not: Who speak peace with their neighbour, but evils are in their hearts.",
+              "ESV": "Do not drag me off with the wicked,\n    with the workers of evil,\nwho speak peace with their neighbors\n    while evil is in their hearts."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Repay them for their deeds and for their evil work; repay them for what their hands have done and bring back upon them what they deserve.",
+              "KJV": "Give them according to their deeds, and according to the wickedness of their endeavours: give them after the work of their hands; render to them their desert.",
+              "NASB95": "Requite them according to their work and according to the evil of their practices;\nRequite them according to the deeds of their hands;\nRepay them their recompense.",
+              "NKJV": "Give them according to their deeds,\nAnd according to the wickedness of their endeavors;\nGive them according to the work of their hands;\nRender to them what they deserve.",
+              "DRB": "Give them according to their works, and according to the wickedness of their inventions. According to the works of their hands give thou to them: render to them their reward.",
+              "ESV": "Give to them according to their work\n    and according to the evil of their deeds;\ngive to them according to the work of their hands;\n    render them their due reward."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "Since they show no regard for the works of the LORD and what his hands have done, he will tear them down and never build them up again.",
+              "KJV": "Because they regard not the works of the Lord, nor the operation of his hands, he shall destroy them, and not build them up.",
+              "NASB95": "Because they do not regard the works of the Lord\nNor the deeds of His hands,\nHe will tear them down and not build them up.",
+              "NKJV": "Because they do not regard the works of the Lord,\nNor the operation of His hands,\nHe shall destroy them\nAnd not build them up.",
+              "DRB": "Because they have not understood the works of the Lord, and the operations of his hands: thou shalt destroy them, and shalt not build them up.",
+              "ESV": "Because they do not regard the works of the Lord\n    or the work of his hands,\nhe will tear them down and build them up no more."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Praise be to the LORD, for he has heard my cry for mercy.",
+              "KJV": "Blessed be the Lord, because he hath heard the voice of my supplications.",
+              "NASB95": "Blessed be the Lord,\nBecause He has heard the voice of my supplication.",
+              "NKJV": "Blessed be the Lord,\nBecause He has heard the voice of my supplications!",
+              "DRB": "Blessed be the Lord, for he hath heard the voice of my supplication.",
+              "ESV": "Blessed be the Lord!\n    For he has heard the voice of my pleas for mercy."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "The LORD is my strength and my shield; my heart trusts in him, and I am helped. My heart leaps for joy and I will give thanks to him in song.",
+              "KJV": "The Lord is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.",
+              "NASB95": "The Lord is my strength and my shield;\nMy heart trusts in Him, and I am helped;\nTherefore my heart exults,\nAnd with my song I shall thank Him.",
+              "NKJV": "The Lord is my strength and my shield;\nMy heart trusted in Him, and I am helped;\nTherefore my heart greatly rejoices,\nAnd with my song I will praise Him.",
+              "DRB": "The Lord is my helper and my protector: in him hath my heart confided, and I have been helped. And my flesh hath flourished again, and with my will I will give praise to him.",
+              "ESV": "The Lord is my strength and my shield;\n    in him my heart trusts, and I am helped;\nmy heart exults,\n    and with my song I give thanks to him."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "The LORD is the strength of his people, a fortress of salvation for his anointed one.",
+              "KJV": "The Lord is their strength, and he is the saving strength of his anointed.",
+              "NASB95": "The Lord is their strength,\nAnd He is a saving defense to His anointed.",
+              "NKJV": "The Lord is their strength,\nAnd He is the saving refuge of His anointed.",
+              "DRB": "The Lord is the strength of his people, and the protector of the salvation of his anointed.",
+              "ESV": "The Lord is the strength of his people;\n    he is the saving refuge of his anointed."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Save your people and bless your inheritance; be their shepherd and carry them forever.",
+              "KJV": "Save thy people, and bless thine inheritance: feed them also, and lift them up for ever.",
+              "NASB95": "Save Your people and bless Your inheritance;\nBe their shepherd also, and carry them forever.",
+              "NKJV": "Save Your people,\nAnd bless Your inheritance;\nShepherd them also,\nAnd bear them up forever.",
+              "DRB": "Save, O Lord, thy people, and bless thy inheritance: and rule them and exalt them for ever.",
+              "ESV": "Oh, save your people and bless your heritage!\n    Be their shepherd and carry them forever."
+            }
+          }
+        ]
+      },
+      {
+        "id": "psa_30_1_12",
+        "title": "The Blessedness of Answered Prayer",
+        "description": "",
+        "reference": {
+          "book": "Psalm",
+          "chapter": 30,
+          "start": 1,
+          "end": 12
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "I will exalt you, O LORD, for you lifted me out of the depths and did not let my enemies gloat over me.",
+              "KJV": "I will extol thee, O Lord; for thou hast lifted me up, and hast not made my foes to rejoice over me.",
+              "NASB95": "I will extol You, O Lord, for You have lifted me up,\nAnd have not let my enemies rejoice over me.",
+              "NKJV": "I will extol You, O Lord, for You have lifted me up,\nAnd have not let my foes rejoice over me.",
+              "DRB": "A psalm of a canticle, at the dedication of David's house. I will extol thee, O Lord, for thou hast upheld me: and hast not made my enemies to rejoice over me.",
+              "ESV": "I will extol you, O Lord, for you have drawn me up\n    and have not let my foes rejoice over me."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "O LORD my God, I called to you for help and you healed me.",
+              "KJV": "O Lord my God, I cried unto thee, and thou hast healed me.",
+              "NASB95": "O Lord my God,\nI cried to You for help, and You healed me.",
+              "NKJV": "O Lord my God, I cried out to You,\nAnd You healed me.",
+              "DRB": "O Lord my God, I have cried to thee, and then hast healed me.",
+              "ESV": "O Lord my God, I cried to you for help,\n    and you have healed me."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "O LORD, you brought me up from the grave; you spared me from going down into the pit.",
+              "KJV": "O Lord, thou hast brought up my soul from the grave: thou hast kept me alive, that I should not go down to the pit.",
+              "NASB95": "O Lord, You have brought up my soul from Sheol;\nYou have kept me alive, that I would not go down to the pit.",
+              "NKJV": "O Lord, You brought my soul up from the grave;\nYou have kept me alive, that I should not go down to the pit.",
+              "DRB": "Thou hast brought forth, O Lord, my soul from hell: thou hast saved me from them that go down into the pit.",
+              "ESV": "O Lord, you have brought up my soul from Sheol;\n    you restored me to life from among those who go down to the pit."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Sing to the LORD, you saints of his; praise his holy name.",
+              "KJV": "Sing unto the Lord, O ye saints of his, and give thanks at the remembrance of his holiness.",
+              "NASB95": "Sing praise to the Lord, you His godly ones,\nAnd give thanks to His holy name.",
+              "NKJV": "Sing praise to the Lord, you saints of His,\nAnd give thanks at the remembrance of His holy name.",
+              "DRB": "Sing to the Lord, O ye his saints: and give praise to the memory of his holiness.",
+              "ESV": "Sing praises to the Lord, O you his saints,\n    and give thanks to his holy name."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "For his anger lasts only a moment, but his favor lasts a lifetime; weeping may remain for a night, but rejoicing comes in the morning.",
+              "KJV": "For his anger endureth but a moment; in his favour is life: weeping may endure for a night, but joy cometh in the morning.",
+              "NASB95": "For His anger is but for a moment,\nHis favor is for a lifetime;\nWeeping may last for the night,\nBut a shout of joy comes in the morning.",
+              "NKJV": "For His anger is but for a moment,\nHis favor is for life;\nWeeping may endure for a night,\nBut joy comes in the morning.",
+              "DRB": "For wrath is in his indignation; and life in his good will. In the evening weeping shall have place, and in the morning gladness.",
+              "ESV": "For his anger is but for a moment,\n    and his favor is for a lifetime.\nWeeping may tarry for the night,\n    but joy comes with the morning."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "When I felt secure, I said, \"I will never be shaken.\"",
+              "KJV": "And in my prosperity I said, I shall never be moved.",
+              "NASB95": "Now as for me, I said in my prosperity,\n\u201cI will never be moved.\u201d",
+              "NKJV": "Now in my prosperity I said,\n\u201cI shall never be moved.\u201d",
+              "DRB": "And in my abundance I said: I shall never be moved.",
+              "ESV": "As for me, I said in my prosperity,\n    \u201cI shall never be moved.\u201d"
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "O LORD, when you favored me, you made my mountain stand firm; but when you hid your face, I was dismayed.",
+              "KJV": "Lord, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, and I was troubled.",
+              "NASB95": "O Lord, by Your favor You have made my mountain to stand strong;\nYou hid Your face, I was dismayed.",
+              "NKJV": "Lord, by Your favor You have made my mountain stand strong;\nYou hid Your face, and I was troubled.",
+              "DRB": "O Lord, in thy favour, thou gavest strength to my beauty. Thou turnedst away thy face from me, and I became troubled.",
+              "ESV": "By your favor, O Lord,\n    you made my mountain stand strong;\nyou hid your face;\n    I was dismayed."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "To you, O LORD, I called; to the Lord I cried for mercy:",
+              "KJV": "I cried to thee, O Lord; and unto the Lord I made supplication.",
+              "NASB95": "To You, O Lord, I called,\nAnd to the Lord I made supplication:",
+              "NKJV": "I cried out to You, O Lord;\nAnd to the Lord I made supplication:",
+              "DRB": "To thee, O Lord, will I cry: and I will make supplication to my God.",
+              "ESV": "To you, O Lord, I cry,\n    and to the Lord I plead for mercy:"
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "\"What gain is there in my destruction, in my going down into the pit? Will the dust praise you? Will it proclaim your faithfulness?",
+              "KJV": "What profit is there in my blood, when I go down to the pit? Shall the dust praise thee? shall it declare thy truth?",
+              "NASB95": "\u201cWhat profit is there in my blood, if I go down to the pit?\nWill the dust praise You? Will it declare Your faithfulness?",
+              "NKJV": "\u201cWhat profit is there in my blood,\nWhen I go down to the pit?\nWill the dust praise You?\nWill it declare Your truth?",
+              "DRB": "What profit is there in my blood, whilst I go down to corruption? Shall dust confess to thee, or declare thy truth?",
+              "ESV": "\u201cWhat profit is there in my death,\n    if I go down to the pit?\nWill the dust praise you?\n    Will it tell of your faithfulness?"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Hear, O LORD, and be merciful to me; O LORD, be my help.\"",
+              "KJV": "Hear, O Lord, and have mercy upon me: Lord, be thou my helper.",
+              "NASB95": "\u201cHear, O Lord, and be gracious to me;\nO Lord, be my helper.\u201d",
+              "NKJV": "Hear, O Lord, and have mercy on me;\nLord, be my helper!\u201d",
+              "DRB": "The Lord hath heard, and hath had mercy on me: the Lord became my helper.",
+              "ESV": "Hear, O Lord, and be merciful to me!\n    O Lord, be my helper!\u201d"
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "You turned my wailing into dancing; you removed my sackcloth and clothed me with joy,",
+              "KJV": "Thou hast turned for me my mourning into dancing: thou hast put off my sackcloth, and girded me with gladness;",
+              "NASB95": "You have turned for me my mourning into dancing;\nYou have loosed my sackcloth and girded me with gladness,",
+              "NKJV": "You have turned for me my mourning into dancing;\nYou have put off my sackcloth and clothed me with gladness,",
+              "DRB": "Thou hast turned for me my mourning into joy: thou hast cut my sackcloth, and hast compassed me with gladness:",
+              "ESV": "You have turned for me my mourning into dancing;\n    you have loosed my sackcloth\n    and clothed me with gladness,"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "that my heart may sing to you and not be silent. O LORD my God, I will give you thanks forever.",
+              "KJV": "To the end that my glory may sing praise to thee, and not be silent. O Lord my God, I will give thanks unto thee for ever.",
+              "NASB95": "That my soul may sing praise to You and not be silent.\nO Lord my God, I will give thanks to You forever.",
+              "NKJV": "To the end that my glory may sing praise to You and not be silent.\nO Lord my God, I will give thanks to You forever.",
+              "DRB": "To the end that my glory may sing to thee, and I may not regret: O Lord my God, I will give praise to thee for ever.",
+              "ESV": "that my glory may sing your praise and not be silent.\n    O Lord my God, I will give thanks to you forever!"
+            }
+          }
+        ]
+      },
+      {
+        "id": "psa_35_1_28",
+        "title": "The Lord the Avenger of His People",
+        "description": "",
+        "reference": {
+          "book": "Psalm",
+          "chapter": 35,
+          "start": 1,
+          "end": 28
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Contend, O LORD, with those who contend with me; fight against those who fight against me.",
+              "KJV": "Plead my cause, O Lord, with them that strive with me: fight against them that fight against me.",
+              "NASB95": "Contend, O Lord, with those who contend with me;\nFight against those who fight against me.",
+              "NKJV": "Plead my cause, O Lord, with those who strive with me;\nFight against those who fight against me.",
+              "DRB": "For David himself. Judge thou, O Lord, them that wrong me : overthrow them that fight against me.",
+              "ESV": "Contend, O Lord, with those who contend with me;\n    fight against those who fight against me!"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Take up shield and buckler; arise and come to my aid.",
+              "KJV": "Take hold of shield and buckler, and stand up for mine help.",
+              "NASB95": "Take hold of buckler and shield\nAnd rise up for my help.",
+              "NKJV": "Take hold of shield and buckler,\nAnd stand up for my help.",
+              "DRB": "Take hold of arms and shield : and rise up to help me.",
+              "ESV": "Take hold of shield and buckler\n    and rise for my help!"
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "Brandish spear and javelin against those who pursue me. Say to my soul, \"I am your salvation.\"",
+              "KJV": "Draw out also the spear, and stop the way against them that persecute me: say unto my soul, I am thy salvation.",
+              "NASB95": "Draw also the spear and the battle-axe to meet those who pursue me;\nSay to my soul, \u201cI am your salvation.\u201d",
+              "NKJV": "Also draw out the spear,\nAnd stop those who pursue me.\nSay to my soul,\n\u201cI am your salvation.\u201d",
+              "DRB": "Bring out the sword, and shut up the way against them that persecute me : say to my soul : I am thy salvation.",
+              "ESV": "Draw the spear and javelin\n    against my pursuers!\nSay to my soul,\n    \u201cI am your salvation!\u201d"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "May those who seek my life be disgraced and put to shame; may those who plot my ruin be turned back in dismay.",
+              "KJV": "Let them be confounded and put to shame that seek after my soul: let them be turned back and brought to confusion that devise my hurt.",
+              "NASB95": "Let those be ashamed and dishonored who seek my life;\nLet those be turned back and humiliated who devise evil against me.",
+              "NKJV": "Let those be put to shame and brought to dishonor\nWho seek after my life;\nLet those be turned back and brought to confusion\nWho plot my hurt.",
+              "DRB": "Let them be confounded and ashamed that seek after my soul. Let them be turned back and be confounded that devise against me.",
+              "ESV": "Let them be put to shame and dishonor\n    who seek after my life!\nLet them be turned back and disappointed\n    who devise evil against me!"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "May they be like chaff before the wind, with the angel of the LORD driving them away;",
+              "KJV": "Let them be as chaff before the wind: and let the angel of the Lord chase them.",
+              "NASB95": "Let them be like chaff before the wind,\nWith the angel of the Lord driving them on.",
+              "NKJV": "Let them be like chaff before the wind,\nAnd let the angel of the Lord chase them.",
+              "DRB": "Let them become as dust before the wind : and let the angel of the Lord straiten them.",
+              "ESV": "Let them be like chaff before the wind,\n    with the angel of the Lord driving them away!"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "may their path be dark and slippery, with the angel of the LORD pursuing them.",
+              "KJV": "Let their way be dark and slippery: and let the angel of the Lord persecute them.",
+              "NASB95": "Let their way be dark and slippery,\nWith the angel of the Lord pursuing them.",
+              "NKJV": "Let their way be dark and slippery,\nAnd let the angel of the Lord pursue them.",
+              "DRB": "Let their way become dark and slippery; and let the angel of the Lord pursue them.",
+              "ESV": "Let their way be dark and slippery,\n    with the angel of the Lord pursuing them!"
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Since they hid their net for me without cause and without cause dug a pit for me,",
+              "KJV": "For without cause have they hid for me their net in a pit, which without cause they have digged for my soul.",
+              "NASB95": "For without cause they hid their net for me;\nWithout cause they dug a pit for my soul.",
+              "NKJV": "For without cause they have hidden their net for me in a pit,\nWhich they have dug without cause for my life.",
+              "DRB": "For without cause they have hidden their net for me unto destruction : without cause they have upbraided my soul.",
+              "ESV": "For without cause they hid their net for me;\n    without cause they dug a pit for my life."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "may ruin overtake them by surprise- may the net they hid entangle them, may they fall into the pit, to their ruin.",
+              "KJV": "Let destruction come upon him at unawares; and let his net that he hath hid catch himself: into that very destruction let him fall.",
+              "NASB95": "Let destruction come upon him unawares,\nAnd let the net which he hid catch himself;\nInto that very destruction let him fall.",
+              "NKJV": "Let destruction come upon him unexpectedly,\nAnd let his net that he has hidden catch himself;\nInto that very destruction let him fall.",
+              "DRB": "Let the snare which he knoweth not come upon him : and let the net which he hath hidden catch him : and let the net which he hath hidden catch him : and into that very snare let them fall.",
+              "ESV": "Let destruction come upon him when he does not know it!\nAnd let the net that he hid ensnare him;\n    let him fall into it\u2014to his destruction!"
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Then my soul will rejoice in the LORD and delight in his salvation.",
+              "KJV": "And my soul shall be joyful in the Lord: it shall rejoice in his salvation.",
+              "NASB95": "And my soul shall rejoice in the Lord;\nIt shall exult in His salvation.",
+              "NKJV": "And my soul shall be joyful in the Lord;\nIt shall rejoice in His salvation.",
+              "DRB": "But my soul shall rejoice in the Lord; and shall be delighted in his salvation.",
+              "ESV": "Then my soul will rejoice in the Lord,\n    exulting in his salvation."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "My whole being will exclaim, \"Who is like you, O LORD? You rescue the poor from those too strong for them, the poor and needy from those who rob them.\"",
+              "KJV": "All my bones shall say, Lord, who is like unto thee, which deliverest the poor from him that is too strong for him, yea, the poor and the needy from him that spoileth him?",
+              "NASB95": "All my bones will say, \u201cLord, who is like You,\nWho delivers the afflicted from him who is too strong for him,\nAnd the afflicted and the needy from him who robs him?\u201d",
+              "NKJV": "All my bones shall say,\n\u201cLord, who is like You,\nDelivering the poor from him who is too strong for him,\nYes, the poor and the needy from him who plunders him?\u201d",
+              "DRB": "All my bones shall say : Lord, who is like to thee? Who deliverest the poor from the hand of them that are stronger than he; the needy and the poor from them that strip him.",
+              "ESV": "All my bones shall say,\n    \u201cO Lord, who is like you,\ndelivering the poor\n    from him who is too strong for him,\n    the poor and needy from him who robs him?\u201d"
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Ruthless witnesses come forward; they question me on things I know nothing about.",
+              "KJV": "False witnesses did rise up; they laid to my charge things that I knew not.",
+              "NASB95": "Malicious witnesses rise up;\nThey ask me of things that I do not know.",
+              "NKJV": "Fierce witnesses rise up;\nThey ask me things that I do not know.",
+              "DRB": "Unjust witnesses rising up have asked me things I knew not.",
+              "ESV": "Malicious witnesses rise up;\n    they ask me of things that I do not know."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "They repay me evil for good and leave my soul forlorn.",
+              "KJV": "They rewarded me evil for good to the spoiling of my soul.",
+              "NASB95": "They repay me evil for good,\nTo the bereavement of my soul.",
+              "NKJV": "They reward me evil for good,\nTo the sorrow of my soul.",
+              "DRB": "They repaid me evil for good : to the depriving me of my soul.",
+              "ESV": "They repay me evil for good;\n    my soul is bereft."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Yet when they were ill, I put on sackcloth and humbled myself with fasting. When my prayers returned to me unanswered,",
+              "KJV": "But as for me, when they were sick, my clothing was sackcloth: I humbled my soul with fasting; and my prayer returned into mine own bosom.",
+              "NASB95": "But as for me, when they were sick, my clothing was sackcloth;\nI humbled my soul with fasting,\nAnd my prayer kept returning to my bosom.",
+              "NKJV": "But as for me, when they were sick,\nMy clothing was sackcloth;\nI humbled myself with fasting;\nAnd my prayer would return to my own heart.",
+              "DRB": "But as for me, when they were troublesome to me, I was clothed with haircloth. I humbled my soul with fasting; and my prayer shall be turned into my bosom.",
+              "ESV": "But I, when they were sick\u2014\n    I wore sackcloth;\n    I afflicted myself with fasting;\nI prayed with head bowed on my chest."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "I went about mourning as though for my friend or brother. I bowed my head in grief as though weeping for my mother.",
+              "KJV": "I behaved myself as though he had been my friend or brother: I bowed down heavily, as one that mourneth for his mother.",
+              "NASB95": "I went about as though it were my friend or brother;\nI bowed down mourning, as one who sorrows for a mother.",
+              "NKJV": "I paced about as though he were my friend or brother;\nI bowed down heavily, as one who mourns for his mother.",
+              "DRB": "As a neighbour and as an own brother, so did I please : as one mourning and sorrowful so was I humbled.",
+              "ESV": "I went about as though I grieved for my friend or my brother;\nas one who laments his mother,\n    I bowed down in mourning."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "But when I stumbled, they gathered in glee; attackers gathered against me when I was unaware. They slandered me without ceasing.",
+              "KJV": "But in mine adversity they rejoiced, and gathered themselves together: yea, the abjects gathered themselves together against me, and I knew it not; they did tear me, and ceased not:",
+              "NASB95": "But at my stumbling they rejoiced and gathered themselves together;\nThe smiters whom I did not know gathered together against me,\nThey slandered me without ceasing.",
+              "NKJV": "But in my adversity they rejoiced\nAnd gathered together;\nAttackers gathered against me,\nAnd I did not know it;\nThey tore at me and did not cease;",
+              "DRB": "But they rejoiced against me, and came together : scourges were gathered together upon me, and I knew not.",
+              "ESV": "But at my stumbling they rejoiced and gathered;\n    they gathered together against me;\nwretches whom I did not know\n    tore at me without ceasing;"
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "Like the ungodly they maliciously mocked; they gnashed their teeth at me.",
+              "KJV": "With hypocritical mockers in feasts, they gnashed upon me with their teeth.",
+              "NASB95": "Like godless jesters at a feast,\nThey gnashed at me with their teeth.",
+              "NKJV": "With ungodly mockers at feasts\nThey gnashed at me with their teeth.",
+              "DRB": "They were separated, and repented not : they tempted me, they scoffed at me with scorn : they gnashed upon me with their teeth.",
+              "ESV": "like profane mockers at a feast,\n    they gnash at me with their teeth."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "O Lord, how long will you look on? Rescue my life from their ravages, my precious life from these lions.",
+              "KJV": "Lord, how long wilt thou look on? rescue my soul from their destructions, my darling from the lions.",
+              "NASB95": "Lord, how long will You look on?\nRescue my soul from their ravages,\nMy only life from the lions.",
+              "NKJV": "Lord, how long will You look on?\nRescue me from their destructions,\nMy precious life from the lions.",
+              "DRB": "Lord, when wilt thou look upon me? rescue thou soul from their malice : my only one from the lions.",
+              "ESV": "How long, O Lord, will you look on?\n    Rescue me from their destruction,\n    my precious life from the lions!"
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "I will give you thanks in the great assembly; among throngs of people I will praise you.",
+              "KJV": "I will give thee thanks in the great congregation: I will praise thee among much people.",
+              "NASB95": "I will give You thanks in the great congregation;\nI will praise You among a mighty throng.",
+              "NKJV": "I will give You thanks in the great assembly;\nI will praise You among many people.",
+              "DRB": "I will give thanks to thee in a great church; I will praise thee in a strong people.",
+              "ESV": "I will thank you in the great congregation;\n    in the mighty throng I will praise you."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "Let not those gloat over me who are my enemies without cause; let not those who hate me without reason maliciously wink the eye.",
+              "KJV": "Let not them that are mine enemies wrongfully rejoice over me: neither let them wink with the eye that hate me without a cause.",
+              "NASB95": "Do not let those who are wrongfully my enemies rejoice over me;\nNor let those who hate me without cause wink maliciously.",
+              "NKJV": "Let them not rejoice over me who are wrongfully my enemies;\nNor let them wink with the eye who hate me without a cause.",
+              "DRB": "Let not them that are my enemies wrongfully rejoice over me : who have hated me without cause, and wink with the eyes.",
+              "ESV": "Let not those rejoice over me\n    who are wrongfully my foes,\nand let not those wink the eye\n    who hate me without cause."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "They do not speak peaceably, but devise false accusations against those who live quietly in the land.",
+              "KJV": "For they speak not peace: but they devise deceitful matters against them that are quiet in the land.",
+              "NASB95": "For they do not speak peace,\nBut they devise deceitful words against those who are quiet in the land.",
+              "NKJV": "For they do not speak peace,\nBut they devise deceitful matters\nAgainst the quiet ones in the land.",
+              "DRB": "For they spoke indeed peaceably to me; and speaking in the anger of the earth they devised guile.",
+              "ESV": "For they do not speak peace,\n    but against those who are quiet in the land\n    they devise words of deceit."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "They gape at me and say, \"Aha! Aha! With our own eyes we have seen it.\"",
+              "KJV": "Yea, they opened their mouth wide against me, and said, Aha, aha, our eye hath seen it.",
+              "NASB95": "They opened their mouth wide against me;\nThey said, \u201cAha, aha, our eyes have seen it!\u201d",
+              "NKJV": "They also opened their mouth wide against me,\nAnd said, \u201cAha, aha!\nOur eyes have seen it.\u201d",
+              "DRB": "And they opened their mouth wide against me; they said : Well done, well done, our eyes have seen it.",
+              "ESV": "They open wide their mouths against me;\n    they say, \u201cAha, Aha!\n    Our eyes have seen it!\u201d"
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "O LORD, you have seen this; be not silent. Do not be far from me, O Lord.",
+              "KJV": "This thou hast seen, O Lord: keep not silence: O Lord, be not far from me.",
+              "NASB95": "You have seen it, O Lord, do not keep silent;\nO Lord, do not be far from me.",
+              "NKJV": "This You have seen, O Lord;\nDo not keep silence.\nO Lord, do not be far from me.",
+              "DRB": "Thou hast seen, O Lord, be not thou silent : O Lord, depart not from me.",
+              "ESV": "You have seen, O Lord; be not silent!\n    O Lord, be not far from me!"
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "Awake, and rise to my defense! Contend for me, my God and Lord.",
+              "KJV": "Stir up thyself, and awake to my judgment, even unto my cause, my God and my Lord.",
+              "NASB95": "Stir up Yourself, and awake to my right\nAnd to my cause, my God and my Lord.",
+              "NKJV": "Stir up Yourself, and awake to my vindication,\nTo my cause, my God and my Lord.",
+              "DRB": "Arise, and be attentive to my judgment : to my cause, my God, and my Lord.",
+              "ESV": "Awake and rouse yourself for my vindication,\n    for my cause, my God and my Lord!"
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "Vindicate me in your righteousness, O LORD my God; do not let them gloat over me.",
+              "KJV": "Judge me, O Lord my God, according to thy righteousness; and let them not rejoice over me.",
+              "NASB95": "Judge me, O Lord my God, according to Your righteousness,\nAnd do not let them rejoice over me.",
+              "NKJV": "Vindicate me, O Lord my God, according to Your righteousness;\nAnd let them not rejoice over me.",
+              "DRB": "Judge me, O Lord my God according to thy justice, and let them not rejoice over me.",
+              "ESV": "Vindicate me, O Lord, my God,\n    according to your righteousness,\n    and let them not rejoice over me!"
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "Do not let them think, \"Aha, just what we wanted!\" or say, \"We have swallowed him up.\"",
+              "KJV": "Let them not say in their hearts, Ah, so would we have it: let them not say, We have swallowed him up.",
+              "NASB95": "Do not let them say in their heart, \u201cAha, our desire!\u201d\nDo not let them say, \u201cWe have swallowed him up!\u201d",
+              "NKJV": "Let them not say in their hearts, \u201cAh, so we would have it!\u201d\nLet them not say, \u201cWe have swallowed him up.\u201d",
+              "DRB": "Let them not say in their hearts : It is well, it is well, to our mind : neither let them say : We have swallowed him up.",
+              "ESV": "Let them not say in their hearts,\n    \u201cAha, our heart's desire!\u201d\nLet them not say, \u201cWe have swallowed him up.\u201d"
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "May all who gloat over my distress be put to shame and confusion; may all who exalt themselves over me be clothed with shame and disgrace.",
+              "KJV": "Let them be ashamed and brought to confusion together that rejoice at mine hurt: let them be clothed with shame and dishonour that magnify themselves against me.",
+              "NASB95": "Let those be ashamed and humiliated altogether who rejoice at my distress;\nLet those be clothed with shame and dishonor who magnify themselves over me.",
+              "NKJV": "Let them be ashamed and brought to mutual confusion\nWho rejoice at my hurt;\nLet them be clothed with shame and dishonor\nWho exalt themselves against me.",
+              "DRB": "Let them blush : and be ashamed together, who rejoice at my evils. Let them be clothed with confusion and shame, who speak great things against me.",
+              "ESV": "Let them be put to shame and disappointed altogether\n    who rejoice at my calamity!\nLet them be clothed with shame and dishonor\n    who magnify themselves against me!"
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "May those who delight in my vindication shout for joy and gladness; may they always say, \"The LORD be exalted, who delights in the well-being of his servant.\"",
+              "KJV": "Let them shout for joy, and be glad, that favour my righteous cause: yea, let them say continually, Let the Lord be magnified, which hath pleasure in the prosperity of his servant.",
+              "NASB95": "Let them shout for joy and rejoice, who favor my vindication;\nAnd let them say continually, \u201cThe Lord be magnified,\nWho delights in the prosperity of His servant.\u201d",
+              "NKJV": "Let them shout for joy and be glad,\nWho favor my righteous cause;\nAnd let them say continually,\n\u201cLet the Lord be magnified,\nWho has pleasure in the prosperity of His servant.\u201d",
+              "DRB": "Let them rejoice and be glad, who are well pleased with my justice, and let them say always : The Lord be magnified, who delights in the peace of his servant.",
+              "ESV": "Let those who delight in my righteousness\n    shout for joy and be glad\n    and say evermore,\n\u201cGreat is the Lord,\n    who delights in the welfare of his servant!\u201d"
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "My tongue will speak of your righteousness and of your praises all day long.",
+              "KJV": "And my tongue shall speak of thy righteousness and of thy praise all the day long.",
+              "NASB95": "And my tongue shall declare Your righteousness\nAnd Your praise all day long.",
+              "NKJV": "And my tongue shall speak of Your righteousness\nAnd of Your praise all the day long.",
+              "DRB": "Any my tongue shall meditate thy justice, thy praise all the day long.",
+              "ESV": "Then my tongue shall tell of your righteousness\n    and of your praise all the day long."
+            }
+          }
+        ]
+      },
+      {
+        "id": "psa_38_1_22",
+        "title": "Prayer in Time of Chastening",
+        "description": "",
+        "reference": {
+          "book": "Psalm",
+          "chapter": 38,
+          "start": 1,
+          "end": 22
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "O LORD, do not rebuke me in your anger or discipline me in your wrath.",
+              "KJV": "O Lord, rebuke me not in thy wrath: neither chasten me in thy hot displeasure.",
+              "NASB95": "O Lord, rebuke me not in Your wrath,\nAnd chasten me not in Your burning anger.",
+              "NKJV": "O Lord, do not rebuke me in Your wrath,\nNor chasten me in Your hot displeasure!",
+              "DRB": "A psalm for David, for a remembrance of the sabbath. Rebuke me not, O Lord, in thy indignation; nor chastise me in thy wrath.",
+              "ESV": "O Lord, rebuke me not in your anger,\n    nor discipline me in your wrath!"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "For your arrows have pierced me, and your hand has come down upon me.",
+              "KJV": "For thine arrows stick fast in me, and thy hand presseth me sore.",
+              "NASB95": "For Your arrows have sunk deep into me,\nAnd Your hand has pressed down on me.",
+              "NKJV": "For Your arrows pierce me deeply,\nAnd Your hand presses me down.",
+              "DRB": "For thy arrows are fastened in me : and thy hand hath been strong upon me.",
+              "ESV": "For your arrows have sunk into me,\n    and your hand has come down on me."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "Because of your wrath there is no health in my body; my bones have no soundness because of my sin.",
+              "KJV": "There is no soundness in my flesh because of thine anger; neither is there any rest in my bones because of my sin.",
+              "NASB95": "There is no soundness in my flesh because of Your indignation;\nThere is no health in my bones because of my sin.",
+              "NKJV": "There is no soundness in my flesh\nBecause of Your anger,\nNor any health in my bones\nBecause of my sin.",
+              "DRB": "There is no health in my flesh, because of thy wrath : there is no peace for my bones, because of my sins.",
+              "ESV": "There is no soundness in my flesh\n    because of your indignation;\nthere is no health in my bones\n    because of my sin."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "My guilt has overwhelmed me like a burden too heavy to bear.",
+              "KJV": "For mine iniquities are gone over mine head: as an heavy burden they are too heavy for me.",
+              "NASB95": "For my iniquities are gone over my head;\nAs a heavy burden they weigh too much for me.",
+              "NKJV": "For my iniquities have gone over my head;\nLike a heavy burden they are too heavy for me.",
+              "DRB": "For my iniquities are gone over my head : and as a heavy burden are become heavy upon me.",
+              "ESV": "For my iniquities have gone over my head;\n    like a heavy burden, they are too heavy for me."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "My wounds fester and are loathsome because of my sinful folly.",
+              "KJV": "My wounds stink and are corrupt because of my foolishness.",
+              "NASB95": "My wounds grow foul and fester\nBecause of my folly.",
+              "NKJV": "My wounds are foul and festering\nBecause of my foolishness.",
+              "DRB": "My sores are putrified and corrupted, because of my foolishness.",
+              "ESV": "My wounds stink and fester\n    because of my foolishness,"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "I am bowed down and brought very low; all day long I go about mourning.",
+              "KJV": "I am troubled; I am bowed down greatly; I go mourning all the day long.",
+              "NASB95": "I am bent over and greatly bowed down;\nI go mourning all day long.",
+              "NKJV": "I am troubled, I am bowed down greatly;\nI go mourning all the day long.",
+              "DRB": "I am become miserable, and am bowed down even to the end : I walked sorrowful all the day long.",
+              "ESV": "I am utterly bowed down and prostrate;\n    all the day I go about mourning."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "My back is filled with searing pain; there is no health in my body.",
+              "KJV": "For my loins are filled with a loathsome disease: and there is no soundness in my flesh.",
+              "NASB95": "For my loins are filled with burning,\nAnd there is no soundness in my flesh.",
+              "NKJV": "For my loins are full of inflammation,\nAnd there is no soundness in my flesh.",
+              "DRB": "For my loins are filled with illusions; and there is no health in my flesh.",
+              "ESV": "For my sides are filled with burning,\n    and there is no soundness in my flesh."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "I am feeble and utterly crushed; I groan in anguish of heart.",
+              "KJV": "I am feeble and sore broken: I have roared by reason of the disquietness of my heart.",
+              "NASB95": "I am benumbed and badly crushed;\nI groan because of the agitation of my heart.",
+              "NKJV": "I am feeble and severely broken;\nI groan because of the turmoil of my heart.",
+              "DRB": "I am afflicted and humbled exceedingly : I roared with the groaning of my heart.",
+              "ESV": "I am feeble and crushed;\n    I groan because of the tumult of my heart."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "All my longings lie open before you, O Lord; my sighing is not hidden from you.",
+              "KJV": "Lord, all my desire is before thee; and my groaning is not hid from thee.",
+              "NASB95": "Lord, all my desire is before You;\nAnd my sighing is not hidden from You.",
+              "NKJV": "Lord, all my desire is before You;\nAnd my sighing is not hidden from You.",
+              "DRB": "Lord, all my desire is before thee, and my groaning is not hidden from thee.",
+              "ESV": "O Lord, all my longing is before you;\n    my sighing is not hidden from you."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "My heart pounds, my strength fails me; even the light has gone from my eyes.",
+              "KJV": "My heart panteth, my strength faileth me: as for the light of mine eyes, it also is gone from me.",
+              "NASB95": "My heart throbs, my strength fails me;\nAnd the light of my eyes, even that has gone from me.",
+              "NKJV": "My heart pants, my strength fails me;\nAs for the light of my eyes, it also has gone from me.",
+              "DRB": "My heart is troubled, my strength hath left me, and the light of my eyes itself is not with me.",
+              "ESV": "My heart throbs; my strength fails me,\n    and the light of my eyes\u2014it also has gone from me."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "My friends and companions avoid me because of my wounds; my neighbors stay far away.",
+              "KJV": "My lovers and my friends stand aloof from my sore; and my kinsmen stand afar off.",
+              "NASB95": "My loved ones and my friends stand aloof from my plague;\nAnd my kinsmen stand afar off.",
+              "NKJV": "My loved ones and my friends stand aloof from my plague,\nAnd my relatives stand afar off.",
+              "DRB": "My friends and my neighbours have drawn near, and stood against me. And they that were near me stood afar off :",
+              "ESV": "My friends and companions stand aloof from my plague,\n    and my nearest kin stand far off."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Those who seek my life set their traps, those who would harm me talk of my ruin; all day long they plot deception.",
+              "KJV": "They also that seek after my life lay snares for me: and they that seek my hurt speak mischievous things, and imagine deceits all the day long.",
+              "NASB95": "Those who seek my life lay snares for me;\nAnd those who seek to injure me have threatened destruction,\nAnd they devise treachery all day long.",
+              "NKJV": "Those also who seek my life lay snares for me;\nThose who seek my hurt speak of destruction,\nAnd plan deception all the day long.",
+              "DRB": "And they that sought my soul used violence. And they that sought evils to me spoke vain things, and studied deceits all the day long.",
+              "ESV": "Those who seek my life lay their snares;\n    those who seek my hurt speak of ruin\n    and meditate treachery all day long."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "I am like a deaf man, who cannot hear, like a mute, who cannot open his mouth;",
+              "KJV": "But I, as a deaf man, heard not; and I was as a dumb man that openeth not his mouth.",
+              "NASB95": "But I, like a deaf man, do not hear;\nAnd I am like a mute man who does not open his mouth.",
+              "NKJV": "But I, like a deaf man, do not hear;\nAnd I am like a mute who does not open his mouth.",
+              "DRB": "But I, as a deaf man, heard not : and as a dumb man not opening his mouth.",
+              "ESV": "But I am like a deaf man; I do not hear,\n    like a mute man who does not open his mouth."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "I have become like a man who does not hear, whose mouth can offer no reply.",
+              "KJV": "Thus I was as a man that heareth not, and in whose mouth are no reproofs.",
+              "NASB95": "Yes, I am like a man who does not hear,\nAnd in whose mouth are no arguments.",
+              "NKJV": "Thus I am like a man who does not hear,\nAnd in whose mouth is no response.",
+              "DRB": "And I became as a man that heareth not : and that hath no reproofs in his mouth.",
+              "ESV": "I have become like a man who does not hear,\n    and in whose mouth are no rebukes."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "I wait for you, O LORD; you will answer, O Lord my God.",
+              "KJV": "For in thee, O Lord, do I hope: thou wilt hear, O Lord my God.",
+              "NASB95": "For I hope in You, O Lord;\nYou will answer, O Lord my God.",
+              "NKJV": "For in You, O Lord, I hope;\nYou will hear, O Lord my God.",
+              "DRB": "For in thee, O Lord, have I hoped : thou wilt hear me, O Lord my God.",
+              "ESV": "But for you, O Lord, do I wait;\n    it is you, O Lord my God, who will answer."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "For I said, \"Do not let them gloat or exalt themselves over me when my foot slips.\"",
+              "KJV": "For I said, Hear me, lest otherwise they should rejoice over me: when my foot slippeth, they magnify themselves against me.",
+              "NASB95": "For I said, \u201cMay they not rejoice over me,\nWho, when my foot slips, would magnify themselves against me.\u201d",
+              "NKJV": "For I said, \u201cHear me, lest they rejoice over me,\nLest, when my foot slips, they exalt themselves against me.\u201d",
+              "DRB": "For I said: Lest at any time my enemies rejoice over me : and whilst my feet are moved, they speak great things against me.",
+              "ESV": "For I said, \u201cOnly let them not rejoice over me,\n    who boast against me when my foot slips!\u201d"
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "For I am about to fall, and my pain is ever with me.",
+              "KJV": "For I am ready to halt, and my sorrow is continually before me.",
+              "NASB95": "For I am ready to fall,\nAnd my sorrow is continually before me.",
+              "NKJV": "For I am ready to fall,\nAnd my sorrow is continually before me.",
+              "DRB": "For I am ready for scourges : and my sorrow is continually before me.",
+              "ESV": "For I am ready to fall,\n    and my pain is ever before me."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "I confess my iniquity; I am troubled by my sin.",
+              "KJV": "For I will declare mine iniquity; I will be sorry for my sin.",
+              "NASB95": "For I confess my iniquity;\nI am full of anxiety because of my sin.",
+              "NKJV": "For I will declare my iniquity;\nI will be in anguish over my sin.",
+              "DRB": "For I will declare my inequity : and I will think for my sin.",
+              "ESV": "I confess my iniquity;\n    I am sorry for my sin."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "Many are those who are my vigorous enemies; those who hate me without reason are numerous.",
+              "KJV": "But mine enemies are lively, and they are strong: and they that hate me wrongfully are multiplied.",
+              "NASB95": "But my enemies are vigorous and strong,\nAnd many are those who hate me wrongfully.",
+              "NKJV": "But my enemies are vigorous, and they are strong;\nAnd those who hate me wrongfully have multiplied.",
+              "DRB": "But my enemies live, and are stronger that I : and they hate me wrongfully are multiplied.",
+              "ESV": "But my foes are vigorous, they are mighty,\n    and many are those who hate me wrongfully."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "Those who repay my good with evil slander me when I pursue what is good.",
+              "KJV": "They also that render evil for good are mine adversaries; because I follow the thing that good is.",
+              "NASB95": "And those who repay evil for good,\nThey oppose me, because I follow what is good.",
+              "NKJV": "Those also who render evil for good,\nThey are my adversaries, because I follow what is good.",
+              "DRB": "They that render evil for good, have detracted me, because I followed goodness.",
+              "ESV": "Those who render me evil for good\n    accuse me because I follow after good."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "O LORD, do not forsake me; be not far from me, O my God.",
+              "KJV": "Forsake me not, O Lord: O my God, be not far from me.",
+              "NASB95": "Do not forsake me, O Lord;\nO my God, do not be far from me!",
+              "NKJV": "Do not forsake me, O Lord;\nO my God, be not far from me!",
+              "DRB": "Forsake me not, O Lord my God : do not thou depart from me.",
+              "ESV": "Do not forsake me, O Lord!\n    O my God, be not far from me!"
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "Come quickly to help me, O Lord my Savior.",
+              "KJV": "Make haste to help me, O Lord my salvation.",
+              "NASB95": "Make haste to help me,\nO Lord, my salvation!",
+              "NKJV": "Make haste to help me,\nO Lord, my salvation!",
+              "DRB": "Attend unto my help, O Lord, the God of my salvation.",
+              "ESV": "Make haste to help me,\n    O Lord, my salvation!"
+            }
+          }
+        ]
+      },
+      {
+        "id": "psa_39_1_13",
+        "title": "Prayer for Wisdom and Forgiveness",
+        "description": "",
+        "reference": {
+          "book": "Psalm",
+          "chapter": 39,
+          "start": 1,
+          "end": 13
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "I said, \"I will watch my ways and keep my tongue from sin; I will put a muzzle on my mouth as long as the wicked are in my presence.\"",
+              "KJV": "I said, I will take heed to my ways, that I sin not with my tongue: I will keep my mouth with a bridle, while the wicked is before me.",
+              "NASB95": "I said, \u201cI will guard my ways\nThat I may not sin with my tongue;\nI will guard my mouth as with a muzzle\nWhile the wicked are in my presence.\u201d",
+              "NKJV": "I said, \u201cI will guard my ways,\nLest I sin with my tongue;\nI will restrain my mouth with a muzzle,\nWhile the wicked are before me.\u201d",
+              "DRB": "Unto the end, for Idithun himself, a canticle of David. I said: I will take heed to my ways : that I sin not with my tongue. I have set guard to my mouth, when the sinner stood against me.",
+              "ESV": "I said, \u201cI will guard my ways,\n    that I may not sin with my tongue;\nI will guard my mouth with a muzzle,\n    so long as the wicked are in my presence.\u201d"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "But when I was silent and still, not even saying anything good, my anguish increased.",
+              "KJV": "I was dumb with silence, I held my peace, even from good; and my sorrow was stirred.",
+              "NASB95": "I was mute and silent,\nI refrained even from good,\nAnd my sorrow grew worse.",
+              "NKJV": "I was mute with silence,\nI held my peace even from good;\nAnd my sorrow was stirred up.",
+              "DRB": "I was dumb, and was humbled, and kept silence from good things : and my sorrow was renewed.",
+              "ESV": "I was mute and silent;\n    I held my peace to no avail,\nand my distress grew worse."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "My heart grew hot within me, and as I meditated, the fire burned; then I spoke with my tongue:",
+              "KJV": "My heart was hot within me, while I was musing the fire burned: then spake I with my tongue,",
+              "NASB95": "My heart was hot within me,\nWhile I was musing the fire burned;\nThen I spoke with my tongue:",
+              "NKJV": "My heart was hot within me;\nWhile I was musing, the fire burned.\nThen I spoke with my tongue:",
+              "DRB": "My heart grew hot within me : and in my meditation a fire shall flame out.",
+              "ESV": "My heart became hot within me.\nAs I mused, the fire burned;\n    then I spoke with my tongue:"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "\"Show me, O LORD, my life's end and the number of my days; let me know how fleeting is my life.",
+              "KJV": "Lord, make me to know mine end, and the measure of my days, what it is: that I may know how frail I am.",
+              "NASB95": "\u201cLord, make me to know my end\nAnd what is the extent of my days;\nLet me know how transient I am.",
+              "NKJV": "\u201cLord, make me to know my end,\nAnd what is the measure of my days,\nThat I may know how frail I am.",
+              "DRB": "I spoke with my tongue : O Lord, make me know my end. And what is the number of my days : that I may know what is wanting to me.",
+              "ESV": "\u201cO Lord, make me know my end\n    and what is the measure of my days;\n    let me know how fleeting I am!"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "You have made my days a mere handbreadth; the span of my years is as nothing before you. Each man's life is but a breath. Selah",
+              "KJV": "Behold, thou hast made my days as an handbreadth; and mine age is as nothing before thee: verily every man at his best state is altogether vanity. Selah.",
+              "NASB95": "\u201cBehold, You have made my days as handbreadths,\nAnd my lifetime as nothing in Your sight;\nSurely every man at his best is a mere breath. Selah.",
+              "NKJV": "Indeed, You have made my days as handbreadths,\nAnd my age is as nothing before You;\nCertainly every man at his best state is but vapor. Selah",
+              "DRB": "Behold thou hast made my days measurable : and my substance is as nothing before thee. And indeed all things are vanity : every man living.",
+              "ESV": "Behold, you have made my days a few handbreadths,\n    and my lifetime is as nothing before you.\nSurely all mankind stands as a mere breath! Selah"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Man is a mere phantom as he goes to and fro: He bustles about, but only in vain; he heaps up wealth, not knowing who will get it.",
+              "KJV": "Surely every man walketh in a vain shew: surely they are disquieted in vain: he heapeth up riches, and knoweth not who shall gather them.",
+              "NASB95": "\u201cSurely every man walks about as a phantom;\nSurely they make an uproar for nothing;\nHe amasses riches and does not know who will gather them.",
+              "NKJV": "Surely every man walks about like a shadow;\nSurely they busy themselves in vain;\nHe heaps up riches,\nAnd does not know who will gather them.",
+              "DRB": "Surely man passeth as an image : yea, and he is disquieted in vain. He storeth up : and he knoweth not for whom he shall gather these things.",
+              "ESV": "Surely a man goes about as a shadow!\nSurely for nothing they are in turmoil;\n    man heaps up wealth and does not know who will gather!"
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "\"But now, Lord, what do I look for? My hope is in you.",
+              "KJV": "And now, Lord, what wait I for? my hope is in thee.",
+              "NASB95": "\u201cAnd now, Lord, for what do I wait?\nMy hope is in You.",
+              "NKJV": "\u201cAnd now, Lord, what do I wait for?\nMy hope is in You.",
+              "DRB": "And now what is my hope? is it not the Lord? and my substance is with thee.",
+              "ESV": "\u201cAnd now, O Lord, for what do I wait?\n    My hope is in you."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Save me from all my transgressions; do not make me the scorn of fools.",
+              "KJV": "Deliver me from all my transgressions: make me not the reproach of the foolish.",
+              "NASB95": "\u201cDeliver me from all my transgressions;\nMake me not the reproach of the foolish.",
+              "NKJV": "Deliver me from all my transgressions;\nDo not make me the reproach of the foolish.",
+              "DRB": "Deliver thou me from all my iniquities : thou hast made me a reproach to the fool.",
+              "ESV": "Deliver me from all my transgressions.\n    Do not make me the scorn of the fool!"
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "I was silent; I would not open my mouth, for you are the one who has done this.",
+              "KJV": "I was dumb, I opened not my mouth; because thou didst it.",
+              "NASB95": "\u201cI have become mute, I do not open my mouth,\nBecause it is You who have done it.",
+              "NKJV": "I was mute, I did not open my mouth,\nBecause it was You who did it.",
+              "DRB": "I was dumb, and I opened not my mouth, because thou hast done it.",
+              "ESV": "I am mute; I do not open my mouth,\n    for it is you who have done it."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Remove your scourge from me; I am overcome by the blow of your hand.",
+              "KJV": "Remove thy stroke away from me: I am consumed by the blow of thine hand.",
+              "NASB95": "\u201cRemove Your plague from me;\nBecause of the opposition of Your hand I am perishing.",
+              "NKJV": "Remove Your plague from me;\nI am consumed by the blow of Your hand.",
+              "DRB": "Remove thy scourges from me. The strength of thy hand hath made me faint in rebukes:",
+              "ESV": "Remove your stroke from me;\n    I am spent by the hostility of your hand."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "You rebuke and discipline men for their sin; you consume their wealth like a moth- each man is but a breath. Selah",
+              "KJV": "When thou with rebukes dost correct man for iniquity, thou makest his beauty to consume away like a moth: surely every man is vanity. Selah.",
+              "NASB95": "\u201cWith reproofs You chasten a man for iniquity;\nYou consume as a moth what is precious to him;\nSurely every man is a mere breath. Selah.",
+              "NKJV": "When with rebukes You correct man for iniquity,\nYou make his beauty melt away like a moth;\nSurely every man is vapor. Selah",
+              "DRB": "thou hast corrected man for iniquity. And thou hast made his soul to waste away like a spider : surely in vain is any man disquieted.",
+              "ESV": "When you discipline a man\n    with rebukes for sin,\nyou consume like a moth what is dear to him;\n    surely all mankind is a mere breath! Selah"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "\"Hear my prayer, O LORD, listen to my cry for help; be not deaf to my weeping. For I dwell with you as an alien, a stranger, as all my fathers were.",
+              "KJV": "Hear my prayer, O Lord, and give ear unto my cry; hold not thy peace at my tears: for I am a stranger with thee, and a sojourner, as all my fathers were.",
+              "NASB95": "\u201cHear my prayer, O Lord, and give ear to my cry;\nDo not be silent at my tears;\nFor I am a stranger with You,\nA sojourner like all my fathers.",
+              "NKJV": "\u201cHear my prayer, O Lord,\nAnd give ear to my cry;\nDo not be silent at my tears;\nFor I am a stranger with You,\nA sojourner, as all my fathers were.",
+              "DRB": "Hear my prayer, O Lord, and my supplication : give ear to my tears. Be not silent : for I am a stranger with thee, and a sojourner as all my fathers were.",
+              "ESV": "\u201cHear my prayer, O Lord,\n    and give ear to my cry;\n    hold not your peace at my tears!\nFor I am a sojourner with you,\n    a guest, like all my fathers."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Look away from me, that I may rejoice again before I depart and am no more.\"",
+              "KJV": "O spare me, that I may recover strength, before I go hence, and be no more.",
+              "NASB95": "\u201cTurn Your gaze away from me, that I may smile again\nBefore I depart and am no more.\u201d",
+              "NKJV": "Remove Your gaze from me, that I may regain strength,\nBefore I go away and am no more.\u201d",
+              "DRB": "O forgive me, that I may be refreshed, before I go hence, and be no more.",
+              "ESV": "Look away from me, that I may smile again,\n    before I depart and am no more!\u201d"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

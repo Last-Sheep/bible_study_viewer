@@ -1,0 +1,1314 @@
+{
+  "scripture": {
+    "header": {
+      "id": "",
+      "title": "Prayer Part 2",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NASB95",
+      "NKJV",
+      "DRB",
+      "ESV"
+    ],
+    "blocks": [
+      {
+        "id": "isa_33_1_9",
+        "title": "A Prayer in Deep Distress",
+        "description": "",
+        "reference": {
+          "book": "Isaiah",
+          "chapter": 33,
+          "start": 1,
+          "end": 9
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Woe to you, O destroyer, you who have not been destroyed! Woe to you, O traitor, you who have not been betrayed! When you stop destroying, you will be destroyed; when you stop betraying, you will be betrayed.",
+              "KJV": "Woe to thee that spoilest, and thou wast not spoiled; and dealest treacherously, and they dealt not treacherously with thee! when thou shalt cease to spoil, thou shalt be spoiled; and when thou shalt make an end to deal treacherously, they shall deal treacherously with thee.",
+              "NASB95": "Woe to you, O destroyer,\nWhile you were not destroyed;\nAnd he who is treacherous, while others did not deal treacherously with him.\nAs soon as you finish destroying, you will be destroyed;\nAs soon as you cease to deal treacherously, others will deal treacherously with you.",
+              "NKJV": "Woe to you who plunder, though you have not been plundered;\nAnd you who deal treacherously, though they have not dealt treacherously with you!\nWhen you cease plundering,\nYou will be plundered;\nWhen you make an end of dealing treacherously,\nThey will deal treacherously with you.",
+              "DRB": "WOE to thee that spoilest, shalt not thou thyself also be spoiled? and thou that despisest, shalt not thyself also be despised? when thou shalt have made an end of spoiling, thou shalt be spoiled: when being wearied thou shalt cease to despise, thou shalt be despised.",
+              "ESV": "Ah, you destroyer,\n    who yourself have not been destroyed,\nyou traitor,\n    whom none has betrayed!\nWhen you have ceased to destroy,\n    you will be destroyed;\nand when you have finished betraying,\n    they will betray you."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "O LORD, be gracious to us; we long for you. Be our strength every morning, our salvation in time of distress.",
+              "KJV": "O Lord, be gracious unto us; we have waited for thee: be thou their arm every morning, our salvation also in the time of trouble.",
+              "NASB95": "O Lord, be gracious to us; we have waited for You.\nBe their strength every morning,\nOur salvation also in the time of distress.",
+              "NKJV": "O Lord, be gracious to us;\nWe have waited for You.\nBe their arm every morning,\nOur salvation also in the time of trouble.",
+              "DRB": "O Lord, have mercy on us: for we have waited for thee: be thou our arm in the morning, and our salvation in the time of trouble.",
+              "ESV": "O Lord, be gracious to us; we wait for you.\n    Be our arm every morning,\n    our salvation in the time of trouble."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "At the thunder of your voice, the peoples flee; when you rise up, the nations scatter.",
+              "KJV": "At the noise of the tumult the people fled; at the lifting up of thyself the nations were scattered.",
+              "NASB95": "At the sound of the tumult peoples flee;\nAt the lifting up of Yourself nations disperse.",
+              "NKJV": "At the noise of the tumult the people shall flee;\nWhen You lift Yourself up, the nations shall be scattered;",
+              "DRB": "At the voice of the angel the people fled, and at the lifting up thyself the nations are scattered.",
+              "ESV": "At the tumultuous noise peoples flee;\n    when you lift yourself up, nations are scattered,"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Your plunder, O nations, is harvested as by young locusts; like a swarm of locusts men pounce on it.",
+              "KJV": "And your spoil shall be gathered like the gathering of the caterpiller: as the running to and fro of locusts shall he run upon them.",
+              "NASB95": "Your spoil is gathered as the caterpillar gathers;\nAs locusts rushing about men rush about on it.",
+              "NKJV": "And Your plunder shall be gathered\nLike the gathering of the caterpillar;\nAs the running to and fro of locusts,\nHe shall run upon them.",
+              "DRB": "And your spoils shall be gathered together as the locusts are gathered, as when the ditches are full of them.",
+              "ESV": "and your spoil is gathered as the caterpillar gathers;\n    as locusts leap, it is leapt upon."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "The LORD is exalted, for he dwells on high; he will fill Zion with justice and righteousness.",
+              "KJV": "The Lord is exalted; for he dwelleth on high: he hath filled Zion with judgment and righteousness.",
+              "NASB95": "The Lord is exalted, for He dwells on high;\nHe has filled Zion with justice and righteousness.",
+              "NKJV": "The Lord is exalted, for He dwells on high;\nHe has filled Zion with justice and righteousness.",
+              "DRB": "The Lord is magnified, for he hath dwelt on high: he hath filled Sion with judgment and justice.",
+              "ESV": "The Lord is exalted, for he dwells on high;\n    he will fill Zion with justice and righteousness,"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "He will be the sure foundation for your times, a rich store of salvation and wisdom and knowledge; the fear of the LORD is the key to this treasure.",
+              "KJV": "And wisdom and knowledge shall be the stability of thy times, and strength of salvation: the fear of the Lord is his treasure.",
+              "NASB95": "And He will be the stability of your times,\nA wealth of salvation, wisdom and knowledge;\nThe fear of the Lord is his treasure.",
+              "NKJV": "Wisdom and knowledge will be the stability of your times,\nAnd the strength of salvation;\nThe fear of the Lord is His treasure.",
+              "DRB": "And there shall be faith in thy times: riches of salvation, wisdom and knowledge: the fear of the Lord is his treasure.",
+              "ESV": "and he will be the stability of your times,\n    abundance of salvation, wisdom, and knowledge;\n    the fear of the Lord is Zion's treasure."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Look, their brave men cry aloud in the streets; the envoys of peace weep bitterly.",
+              "KJV": "Behold, their valiant ones shall cry without: the ambassadors of peace shall weep bitterly.",
+              "NASB95": "Behold, their brave men cry in the streets,\nThe ambassadors of peace weep bitterly.",
+              "NKJV": "Surely their valiant ones shall cry outside,\nThe ambassadors of peace shall weep bitterly.",
+              "DRB": "Behold they that see shall cry without, the angels of peace shall weep bitterly.",
+              "ESV": "Behold, their heroes cry in the streets;\n    the envoys of peace weep bitterly."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "The highways are deserted, no travelers are on the roads. The treaty is broken, its witnesses are despised, no one is respected.",
+              "KJV": "The highways lie waste, the wayfaring man ceaseth: he hath broken the covenant, he hath despised the cities, he regardeth no man.",
+              "NASB95": "The highways are desolate, the traveler has ceased,\nHe has broken the covenant, he has despised the cities,\nHe has no regard for man.",
+              "NKJV": "The highways lie waste,\nThe traveling man ceases.\nHe has broken the covenant,\nHe has despised the cities,\nHe regards no man.",
+              "DRB": "The ways are made desolate, no one passeth by the road, the covenant is made void, he hath rejected the cities, he hath not regarded the men.",
+              "ESV": "The highways lie waste;\n    the traveler ceases.\nCovenants are broken;\n    cities are despised;\n    there is no regard for man."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "The land mourns and wastes away, Lebanon is ashamed and withers; Sharon is like the Arabah, and Bashan and Carmel drop their leaves.",
+              "KJV": "The earth mourneth and languisheth: Lebanon is ashamed and hewn down: Sharon is like a wilderness; and Bashan and Carmel shake off their fruits.",
+              "NASB95": "The land mourns and pines away,\nLebanon is shamed and withers;\nSharon is like a desert plain,\nAnd Bashan and Carmel lose their foliage.",
+              "NKJV": "The earth mourns and languishes,\nLebanon is shamed and shriveled;\nSharon is like a wilderness,\nAnd Bashan and Carmel shake off their fruits.",
+              "DRB": "The land hath mourned, and languished: Libanus is confounded and become foul, and Saron is become as a desert: and Basan and Carmel are shaken.",
+              "ESV": "The land mourns and languishes;\n    Lebanon is confounded and withers away;\nSharon is like a desert,\n    and Bashan and Carmel shake off their leaves."
+            }
+          }
+        ]
+      },
+      {
+        "id": "isa_63_15_19",
+        "title": "A Prayer of Penitence",
+        "description": "",
+        "reference": {
+          "book": "Isaiah",
+          "chapter": 63,
+          "start": 15,
+          "end": 19
+        },
+        "rows": [
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Look down from heaven and see from your lofty throne, holy and glorious. Where are your zeal and your might? Your tenderness and compassion are withheld from us.",
+              "KJV": "Look down from heaven, and behold from the habitation of thy holiness and of thy glory: where is thy zeal and thy strength, the sounding of thy bowels and of thy mercies toward me? are they restrained?",
+              "NASB95": "Look down from heaven and see from Your holy and glorious habitation;\nWhere are Your zeal and Your mighty deeds?\nThe stirrings of Your heart and Your compassion are restrained toward me.",
+              "NKJV": "Look down from heaven,\nAnd see from Your habitation, holy and glorious.\nWhere are Your zeal and Your strength,\nThe yearning of Your heart and Your mercies toward me?\nAre they restrained?",
+              "DRB": "Look down from heaven, and behold from thy holy habitation and the place of thy glory: where is thy zeal, and thy strength, the multitude of thy bowels, and of thy mercies? they have held back themselves from me.",
+              "ESV": "Look down from heaven and see,\n    from your holy and beautiful habitation.\nWhere are your zeal and your might?\n    The stirring of your inner parts and your compassion\n    are held back from me."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "But you are our Father, though Abraham does not know us or Israel acknowledge us; you, O LORD, are our Father, our Redeemer from of old is your name.",
+              "KJV": "Doubtless thou art our father, though Abraham be ignorant of us, and Israel acknowledge us not: thou, O Lord, art our father, our redeemer; thy name is from everlasting.",
+              "NASB95": "For You are our Father, though Abraham does not know us\nAnd Israel does not recognize us.\nYou, O Lord, are our Father,\nOur Redeemer from of old is Your name.",
+              "NKJV": "Doubtless You are our Father,\nThough Abraham was ignorant of us,\nAnd Israel does not acknowledge us.\nYou, O Lord, are our Father;\nOur Redeemer from Everlasting is Your name.",
+              "DRB": "For thou art our father, and Abraham hath not known us, and Israel hath been ignorant of us: thou, O Lord, art our father, our redeemer, from everlasting is thy name.",
+              "ESV": "For you are our Father,\n    though Abraham does not know us,\n    and Israel does not acknowledge us;\nyou, O Lord, are our Father,\n    our Redeemer from of old is your name."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "Why, O LORD, do you make us wander from your ways and harden our hearts so we do not revere you? Return for the sake of your servants, the tribes that are your inheritance.",
+              "KJV": "O Lord, why hast thou made us to err from thy ways, and hardened our heart from thy fear? Return for thy servants' sake, the tribes of thine inheritance.",
+              "NASB95": "Why, O Lord, do You cause us to stray from Your ways\nAnd harden our heart from fearing You?\nReturn for the sake of Your servants, the tribes of Your heritage.",
+              "NKJV": "O Lord, why have You made us stray from Your ways,\nAnd hardened our heart from Your fear?\nReturn for Your servants\u2019 sake,\nThe tribes of Your inheritance.",
+              "DRB": "Why hast thou made us to err, O Lord, from thy ways: why hast thou hardened our heart, that we should not fear thee? return for the sake of thy servants, the tribes of thy inheritance.",
+              "ESV": "O Lord, why do you make us wander from your ways\n    and harden our heart, so that we fear you not?\nReturn for the sake of your servants,\n    the tribes of your heritage."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "For a little while your people possessed your holy place, but now our enemies have trampled down your sanctuary.",
+              "KJV": "The people of thy holiness have possessed it but a little while: our adversaries have trodden down thy sanctuary.",
+              "NASB95": "Your holy people possessed Your sanctuary for a little while,\nOur adversaries have trodden it down.",
+              "NKJV": "Your holy people have possessed it but a little while;\nOur adversaries have trodden down Your sanctuary.",
+              "DRB": "They have possessed thy holy people as nothing: our enemies have trodden down thy sanctuary.",
+              "ESV": "Your holy people held possession for a little while;\n    our adversaries have trampled down your sanctuary."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "We are yours from of old; but you have not ruled over them, they have not been called by your name.",
+              "KJV": "We are thine: thou never barest rule over them; they were not called by thy name.",
+              "NASB95": "We have become like those over whom You have never ruled,\nLike those who were not called by Your name.",
+              "NKJV": "We have become like those of old, over whom You never ruled,\nThose who were never called by Your name.",
+              "DRB": "We are become as in the beginning, when thou didst not rule over us, and when we were not called by thy name.",
+              "ESV": "We have become like those over whom you have never ruled,\n    like those who are not called by your name."
+            }
+          }
+        ]
+      },
+      {
+        "id": "isa_64_1_12",
+        "title": "A Prayer for Help",
+        "description": "",
+        "reference": {
+          "book": "Isaiah",
+          "chapter": 64,
+          "start": 1,
+          "end": 12
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Oh, that you would rend the heavens and come down, that the mountains would tremble before you!",
+              "KJV": "Oh that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might flow down at thy presence,",
+              "NASB95": "Oh, that You would rend the heavens and come down,\nThat the mountains might quake at Your presence\u2014",
+              "NKJV": "Oh, that You would rend the heavens!\nThat You would come down!\nThat the mountains might shake at Your presence\u2014",
+              "DRB": "THAT thou wouldst rend the heavens, and wouldst come down: the mountains would melt away at thy presence.",
+              "ESV": "Oh that you would rend the heavens and come down,\n    that the mountains might quake at your presence\u2014"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "As when fire sets twigs ablaze and causes water to boil, come down to make your name known to your enemies and cause the nations to quake before you!",
+              "KJV": "As when the melting fire burneth, the fire causeth the waters to boil, to make thy name known to thine adversaries, that the nations may tremble at thy presence!",
+              "NASB95": "As fire kindles the brushwood, as fire causes water to boil\u2014\nTo make Your name known to Your adversaries,\nThat the nations may tremble at Your presence!",
+              "NKJV": "As fire burns brushwood,\nAs fire causes water to boil\u2014\nTo make Your name known to Your adversaries,\nThat the nations may tremble at Your presence!",
+              "DRB": "They would melt as at the burning of fire, the waters would burn with fire, that thy name might be made known to thy enemies: that the nations might tremble at thy presence.",
+              "ESV": "as when fire kindles brushwood\n    and the fire causes water to boil\u2014\nto make your name known to your adversaries,\n    and that the nations might tremble at your presence!"
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "For when you did awesome things that we did not expect, you came down, and the mountains trembled before you.",
+              "KJV": "When thou didst terrible things which we looked not for, thou camest down, the mountains flowed down at thy presence.",
+              "NASB95": "When You did awesome things which we did not expect,\nYou came down, the mountains quaked at Your presence.",
+              "NKJV": "When You did awesome things for which we did not look,\nYou came down,\nThe mountains shook at Your presence.",
+              "DRB": "When thou shalt do wonderful things, we shall not bear them: thou didst come down, and at thy presence the mountains melted away.",
+              "ESV": "When you did awesome things that we did not look for,\n    you came down, the mountains quaked at your presence."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Since ancient times no one has heard, no ear has perceived, no eye has seen any God besides you, who acts on behalf of those who wait for him.",
+              "KJV": "For since the beginning of the world men have not heard, nor perceived by the ear, neither hath the eye seen, O God, beside thee, what he hath prepared for him that waiteth for him.",
+              "NASB95": "For from days of old they have not heard or perceived by ear,\nNor has the eye seen a God besides You,\nWho acts in behalf of the one who waits for Him.",
+              "NKJV": "For since the beginning of the world\nMen have not heard nor perceived by the ear,\nNor has the eye seen any God besides You,\nWho acts for the one who waits for Him.",
+              "DRB": "From the beginning of the world they have not heard, nor perceived with the ears: the eye hath not seen, O God, besides thee, what things thou hast prepared for them that wait for thee.",
+              "ESV": "From of old no one has heard\n    or perceived by the ear,\nno eye has seen a God besides you,\n    who acts for those who wait for him."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "You come to the help of those who gladly do right, who remember your ways. But when we continued to sin against them, you were angry. How then can we be saved?",
+              "KJV": "Thou meetest him that rejoiceth and worketh righteousness, those that remember thee in thy ways: behold, thou art wroth; for we have sinned: in those is continuance, and we shall be saved.",
+              "NASB95": "You meet him who rejoices in doing righteousness,\nWho remembers You in Your ways.\nBehold, You were angry, for we sinned,\nWe continued in them a long time;\nAnd shall we be saved?",
+              "NKJV": "You meet him who rejoices and does righteousness,\nWho remembers You in Your ways.\nYou are indeed angry, for we have sinned\u2014\nIn these ways we continue;\nAnd we need to be saved.",
+              "DRB": "Thou hast met him that rejoiceth, and doth justice: in thy ways they shall remember thee: behold thou art angry, and we have sinned: in them we have been always, and we shall be saved.",
+              "ESV": "You meet him who joyfully works righteousness,\n    those who remember you in your ways.\nBehold, you were angry, and we sinned;\n    in our sins we have been a long time, and shall we be saved?"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "All of us have become like one who is unclean, and all our righteous acts are like filthy rags; we all shrivel up like a leaf, and like the wind our sins sweep us away.",
+              "KJV": "But we are all as an unclean thing, and all our righteousnesses are as filthy rags; and we all do fade as a leaf; and our iniquities, like the wind, have taken us away.",
+              "NASB95": "For all of us have become like one who is unclean,\nAnd all our righteous deeds are like a filthy garment;\nAnd all of us wither like a leaf,\nAnd our iniquities, like the wind, take us away.",
+              "NKJV": "But we are all like an unclean thing,\nAnd all our righteousnesses are like filthy rags;\nWe all fade as a leaf,\nAnd our iniquities, like the wind,\nHave taken us away.",
+              "DRB": "And we are all become as one unclean, and all our justices as the rag of a menstruous woman: and we have all fallen as a leaf, and our iniquities, like the wind, have taken us away.",
+              "ESV": "We have all become like one who is unclean,\n    and all our righteous deeds are like a polluted garment.\nWe all fade like a leaf,\n    and our iniquities, like the wind, take us away."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "No one calls on your name or strives to lay hold of you; for you have hidden your face from us and made us waste away because of our sins.",
+              "KJV": "And there is none that calleth upon thy name, that stirreth up himself to take hold of thee: for thou hast hid thy face from us, and hast consumed us, because of our iniquities.",
+              "NASB95": "There is no one who calls on Your name,\nWho arouses himself to take hold of You;\nFor You have hidden Your face from us\nAnd have delivered us into the power of our iniquities.",
+              "NKJV": "And there is no one who calls on Your name,\nWho stirs himself up to take hold of You;\nFor You have hidden Your face from us,\nAnd have consumed us because of our iniquities.",
+              "DRB": "There is none that calleth upon thy name: that riseth up, and taketh hold of thee: thou hast hid thy face from us, and hast crushed us in the hand of our iniquity.",
+              "ESV": "There is no one who calls upon your name,\n    who rouses himself to take hold of you;\nfor you have hidden your face from us,\n    and have made us melt in the hand of our iniquities."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Yet, O LORD, you are our Father. We are the clay, you are the potter; we are all the work of your hand.",
+              "KJV": "But now, O Lord, thou art our father; we are the clay, and thou our potter; and we all are the work of thy hand.",
+              "NASB95": "But now, O Lord, You are our Father,\nWe are the clay, and You our potter;\nAnd all of us are the work of Your hand.",
+              "NKJV": "But now, O Lord,\nYou are our Father;\nWe are the clay, and You our potter;\nAnd all we are the work of Your hand.",
+              "DRB": "And now, O Lord, thou art our father, and we are clay: and thou art our maker, and we all are the works of thy hands.",
+              "ESV": "But now, O Lord, you are our Father;\n    we are the clay, and you are our potter;\n    we are all the work of your hand."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Do not be angry beyond measure, O LORD; do not remember our sins forever. Oh, look upon us, we pray, for we are all your people.",
+              "KJV": "Be not wroth very sore, O Lord, neither remember iniquity for ever: behold, see, we beseech thee, we are all thy people.",
+              "NASB95": "Do not be angry beyond measure, O Lord,\nNor remember iniquity forever;\nBehold, look now, all of us are Your people.",
+              "NKJV": "Do not be furious, O Lord,\nNor remember iniquity forever;\nIndeed, please look\u2014we all are Your people!",
+              "DRB": "Be not very angry, O Lord, and remember no longer our iniquity: behold, see we are all thy people.",
+              "ESV": "Be not so terribly angry, O Lord,\n    and remember not iniquity forever.\n    Behold, please look, we are all your people."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Your sacred cities have become a desert; even Zion is a desert, Jerusalem a desolation.",
+              "KJV": "Thy holy cities are a wilderness, Zion is a wilderness, Jerusalem a desolation.",
+              "NASB95": "Your holy cities have become a wilderness,\nZion has become a wilderness,\nJerusalem a desolation.",
+              "NKJV": "Your holy cities are a wilderness,\nZion is a wilderness,\nJerusalem a desolation.",
+              "DRB": "The city of thy sanctuary is become a desert, Sion is made a desert, Jerusalem is desolate.",
+              "ESV": "Your holy cities have become a wilderness;\n    Zion has become a wilderness,\n    Jerusalem a desolation."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Our holy and glorious temple, where our fathers praised you, has been burned with fire, and all that we treasured lies in ruins.",
+              "KJV": "Our holy and our beautiful house, where our fathers praised thee, is burned up with fire: and all our pleasant things are laid waste.",
+              "NASB95": "Our holy and beautiful house,\nWhere our fathers praised You,\nHas been burned by fire;\nAnd all our precious things have become a ruin.",
+              "NKJV": "Our holy and beautiful temple,\nWhere our fathers praised You,\nIs burned up with fire;\nAnd all our pleasant things are laid waste.",
+              "DRB": "The house of our holiness, and of our glory, where our fathers praised thee, is burnt with fire, and all our lovely things are turned into ruins.",
+              "ESV": "Our holy and beautiful house,\n    where our fathers praised you,\nhas been burned by fire,\n    and all our pleasant places have become ruins."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "After all this, O LORD, will you hold yourself back? Will you keep silent and punish us beyond measure?",
+              "KJV": "Wilt thou refrain thyself for these things, O Lord? wilt thou hold thy peace, and afflict us very sore?",
+              "NASB95": "Will You restrain Yourself at these things, O Lord?\nWill You keep silent and afflict us beyond measure?",
+              "NKJV": "Will You restrain Yourself because of these things, O Lord?\nWill You hold Your peace, and afflict us very severely?",
+              "DRB": "Wilt thou refrain thyself, O Lord, upon these things, wilt thou hold thy peace, and afflict us vehemently?",
+              "ESV": "Will you restrain yourself at these things, O Lord?\n    Will you keep silent, and afflict us so terribly?"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ezr_8_21_23",
+        "title": "Fasting and Prayer for Protection",
+        "description": "",
+        "reference": {
+          "book": "Ezra",
+          "chapter": 8,
+          "start": 21,
+          "end": 23
+        },
+        "rows": [
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "There, by the Ahava Canal, I proclaimed a fast, so that we might humble ourselves before our God and ask him for a safe journey for us and our children, with all our possessions.",
+              "KJV": "Then I proclaimed a fast there, at the river of Ahava, that we might afflict ourselves before our God, to seek of him a right way for us, and for our little ones, and for all our substance.",
+              "NASB95": "Then I proclaimed a fast there at the river of Ahava, that we might humble ourselves before our God to seek from Him a safe journey for us, our little ones, and all our possessions.",
+              "NKJV": "Then I proclaimed a fast there at the river of Ahava, that we might humble ourselves before our God, to seek from Him the right way for us and our little ones and all our possessions.",
+              "DRB": "And I proclaimed there a fast by the river Ahava, that we might afflict ourselves before the Lord our God, and might ask of him a right way for us and for our children, and for all our substance.",
+              "ESV": "Then I proclaimed a fast there, at the river Ahava, that we might humble ourselves before our God, to seek from him a safe journey for ourselves, our children, and all our goods."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "I was ashamed to ask the king for soldiers and horsemen to protect us from enemies on the road, because we had told the king, \"The gracious hand of our God is on everyone who looks to him, but his great anger is against all who forsake him.\"",
+              "KJV": "For I was ashamed to require of the king a band of soldiers and horsemen to help us against the enemy in the way: because we had spoken unto the king, saying, The hand of our God is upon all them for good that seek him; but his power and his wrath is against all them that forsake him.",
+              "NASB95": "For I was ashamed to request from the king troops and horsemen to protect us from the enemy on the way, because we had said to the king, \u201cThe hand of our God is favorably disposed to all those who seek Him, but His power and His anger are against all those who forsake Him.\u201d",
+              "NKJV": "For I was ashamed to request of the king an escort of soldiers and horsemen to help us against the enemy on the road, because we had spoken to the king, saying, \u201cThe hand of our God is upon all those for good who seek Him, but His power and His wrath are against all those who forsake Him.\u201d",
+              "DRB": "For I was ashamed to ask the king for aid and for horsemen, to defend us from the enemy in the way: because we had said to the king: The hand of our God is upon all them that seek him in goodness: and his power and strength, and wrath upon all them that forsake him.",
+              "ESV": "For I was ashamed to ask the king for a band of soldiers and horsemen to protect us against the enemy on our way, since we had told the king, \u201cThe hand of our God is for good on all who seek him, and the power of his wrath is against all who forsake him.\u201d"
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "So we fasted and petitioned our God about this, and he answered our prayer.",
+              "KJV": "So we fasted and besought our God for this: and he was intreated of us.",
+              "NASB95": "So we fasted and sought our God concerning this matter, and He listened to our entreaty.",
+              "NKJV": "So we fasted and entreated our God for this, and He answered our prayer.",
+              "DRB": "And we fasted, and besought our God for this: and it fell out prosperously unto us.",
+              "ESV": "So we fasted and implored our God for this, and he listened to our entreaty."
+            }
+          }
+        ]
+      },
+      {
+        "id": "neh_1_1_11",
+        "title": "Nehemiah Prays for His People",
+        "description": "",
+        "reference": {
+          "book": "Nehemiah",
+          "chapter": 1,
+          "start": 1,
+          "end": 11
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "The words of Nehemiah son of Hacaliah: In the month of Kislev in the twentieth year, while I was in the citadel of Susa,",
+              "KJV": "The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,",
+              "NASB95": "The words of Nehemiah the son of Hacaliah.\nNow it happened in the month Chislev, in the twentieth year, while I was in Susa the capitol,",
+              "NKJV": "The words of Nehemiah the son of Hachaliah.\nIt came to pass in the month of Chislev, in the twentieth year, as I was in Shushan the citadel,",
+              "DRB": "The words of Nehemias the son of Helchias. And it came to pass in the month of Casleu, in the twentieth year, as I was in the castle of Susa,",
+              "ESV": "The words of Nehemiah the son of Hacaliah.\nNow it happened in the month of Chislev, in the twentieth year, as I was in Susa the citadel,"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Hanani, one of my brothers, came from Judah with some other men, and I questioned them about the Jewish remnant that survived the exile, and also about Jerusalem.",
+              "KJV": "That Hanani, one of my brethren, came, he and certain men of Judah; and I asked them concerning the Jews that had escaped, which were left of the captivity, and concerning Jerusalem.",
+              "NASB95": "that Hanani, one of my brothers, and some men from Judah came; and I asked them concerning the Jews who had escaped and had survived the captivity, and about Jerusalem.",
+              "NKJV": "that Hanani one of my brethren came with men from Judah; and I asked them concerning the Jews who had escaped, who had survived the captivity, and concerning Jerusalem.",
+              "DRB": "That Hanani one of my brethren came, he and some men of Juda; and I asked them concerning the Jews, that remained and were left of the captivity, and concerning Jerusalem.",
+              "ESV": "that Hanani, one of my brothers, came with certain men from Judah. And I asked them concerning the Jews who escaped, who had survived the exile, and concerning Jerusalem."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "They said to me, \"Those who survived the exile and are back in the province are in great trouble and disgrace. The wall of Jerusalem is broken down, and its gates have been burned with fire.\"",
+              "KJV": "And they said unto me, The remnant that are left of the captivity there in the province are in great affliction and reproach: the wall of Jerusalem also is broken down, and the gates thereof are burned with fire.",
+              "NASB95": "They said to me, \u201cThe remnant there in the province who survived the captivity are in great distress and reproach, and the wall of Jerusalem is broken down and its gates are burned with fire.\u201d",
+              "NKJV": "And they said to me, \u201cThe survivors who are left from the captivity in the province are there in great distress and reproach. The wall of Jerusalem is also broken down, and its gates are burned with fire.\u201d",
+              "DRB": "And they said to me: They that have remained, and are left of the captivity there in the province, are in great affliction, and reproach: and the wall of Jerusalem is broken down, and the gates thereof are burnt with fire.",
+              "ESV": "And they said to me, \u201cThe remnant there in the province who had survived the exile is in great trouble and shame. The wall of Jerusalem is broken down, and its gates are destroyed by fire.\u201d"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "When I heard these things, I sat down and wept. For some days I mourned and fasted and prayed before the God of heaven.",
+              "KJV": "And it came to pass, when I heard these words, that I sat down and wept, and mourned certain days, and fasted, and prayed before the God of heaven,",
+              "NASB95": "When I heard these words, I sat down and wept and mourned for days; and I was fasting and praying before the God of heaven.",
+              "NKJV": "So it was, when I heard these words, that I sat down and wept, and mourned for many days; I was fasting and praying before the God of heaven.",
+              "DRB": "And when I had heard these words, I sat down, and wept, and mourned for many days: and I fasted, and prayed before the face of the God of heaven.",
+              "ESV": "As soon as I heard these words I sat down and wept and mourned for days, and I continued fasting and praying before the God of heaven."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "Then I said: \"O LORD, God of heaven, the great and awesome God, who keeps his covenant of love with those who love him and obey his commands,",
+              "KJV": "And said, I beseech thee, O Lord God of heaven, the great and terrible God, that keepeth covenant and mercy for them that love him and observe his commandments:",
+              "NASB95": "I said, \u201cI beseech You, O Lord God of heaven, the great and awesome God, who preserves the covenant and lovingkindness for those who love Him and keep His commandments,",
+              "NKJV": "And I said: \u201cI pray, Lord God of heaven, O great and awesome God, You who keep Your covenant and mercy with those who love You and observe Your commandments,",
+              "DRB": "And I said: WI beseech thee, 0 Lord God of heaven, strong, great, and terrible, who keepest covenant and mercy with those that love thee, and keep thy commandments :",
+              "ESV": "And I said, \u201cO Lord God of heaven, the great and awesome God who keeps covenant and steadfast love with those who love him and keep his commandments,"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "let your ear be attentive and your eyes open to hear the prayer your servant is praying before you day and night for your servants, the people of Israel. I confess the sins we Israelites, including myself and my father's house, have committed against you.",
+              "KJV": "Let thine ear now be attentive, and thine eyes open, that thou mayest hear the prayer of thy servant, which I pray before thee now, day and night, for the children of Israel thy servants, and confess the sins of the children of Israel, which we have sinned against thee: both I and my father's house have sinned.",
+              "NASB95": "let Your ear now be attentive and Your eyes open to hear the prayer of Your servant which I am praying before You now, day and night, on behalf of the sons of Israel Your servants, confessing the sins of the sons of Israel which we have sinned against You; I and my father\u2019s house have sinned.",
+              "NKJV": "please let Your ear be attentive and Your eyes open, that You may hear the prayer of Your servant which I pray before You now, day and night, for the children of Israel Your servants, and confess the sins of the children of Israel which we have sinned against You. Both my father\u2019s house and I have sinned.",
+              "DRB": "Let thy ears be attentive, and thy eyes open, to hear the prayer of thy servant, which I pray before thee now, night and day, for the children of Israel thy servants: and I confess the sins of the children of Israel, by which they have sinned against thee: I and my father's house have sinned.",
+              "ESV": "let your ear be attentive and your eyes open, to hear the prayer of your servant that I now pray before you day and night for the people of Israel your servants, confessing the sins of the people of Israel, which we have sinned against you. Even I and my father's house have sinned."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "We have acted very wickedly toward you. We have not obeyed the commands, decrees and laws you gave your servant Moses.",
+              "KJV": "We have dealt very corruptly against thee, and have not kept the commandments, nor the statutes, nor the judgments, which thou commandedst thy servant Moses.",
+              "NASB95": "We have acted very corruptly against You and have not kept the commandments, nor the statutes, nor the ordinances which You commanded Your servant Moses.",
+              "NKJV": "We have acted very corruptly against You, and have not kept the commandments, the statutes, nor the ordinances which You commanded Your servant Moses.",
+              "DRB": "We have been seduced by vanity, and have not kept thy commandments, and ceremonies and judgments, which thou hast commanded thy servant Moses.",
+              "ESV": "We have acted very corruptly against you and have not kept the commandments, the statutes, and the rules that you commanded your servant Moses."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "\"Remember the instruction you gave your servant Moses, saying, 'If you are unfaithful, I will scatter you among the nations,",
+              "KJV": "Remember, I beseech thee, the word that thou commandedst thy servant Moses, saying, If ye transgress, I will scatter you abroad among the nations:",
+              "NASB95": "Remember the word which You commanded Your servant Moses, saying, \u2018If you are unfaithful I will scatter you among the peoples;",
+              "NKJV": "Remember, I pray, the word that You commanded Your servant Moses, saying, \u2018If you are unfaithful, I will scatter you among the nations;",
+              "DRB": "Remember the word that thou commandedst to Moses thy servant, saying: If you shall transgress, I will scatter you abroad among the nations:",
+              "ESV": "Remember the word that you commanded your servant Moses, saying, \u2018If you are unfaithful, I will scatter you among the peoples,"
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "but if you return to me and obey my commands, then even if your exiled people are at the farthest horizon, I will gather them from there and bring them to the place I have chosen as a dwelling for my Name.'",
+              "KJV": "But if ye turn unto me, and keep my commandments, and do them; though there were of you cast out unto the uttermost part of the heaven, yet will I gather them from thence, and will bring them unto the place that I have chosen to set my name there.",
+              "NASB95": "but if you return to Me and keep My commandments and do them, though those of you who have been scattered were in the most remote part of the heavens, I will gather them from there and will bring them to the place where I have chosen to cause My name to dwell.\u2019",
+              "NKJV": "but if you return to Me, and keep My commandments and do them, though some of you were cast out to the farthest part of the heavens, yet I will gather them from there, and bring them to the place which I have chosen as a dwelling for My name.\u2019",
+              "DRB": "But if you return to me, and keep my commandments, and do them, though you should be led away to the uttermost parts of the world, I will gather you from thence, and bring you back to the place which I have chosen for my name to dwell there.",
+              "ESV": "but if you return to me and keep my commandments and do them, though your outcasts are in the uttermost parts of heaven, from there I will gather them and bring them to the place that I have chosen, to make my name dwell there.\u2019"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "\"They are your servants and your people, whom you redeemed by your great strength and your mighty hand.",
+              "KJV": "Now these are thy servants and thy people, whom thou hast redeemed by thy great power, and by thy strong hand.",
+              "NASB95": "They are Your servants and Your people whom You redeemed by Your great power and by Your strong hand.",
+              "NKJV": "Now these are Your servants and Your people, whom You have redeemed by Your great power, and by Your strong hand.",
+              "DRB": "And these are thy servants, and thy people : whom thou hast redeemed by thy great strength, and by thy mighty hand.",
+              "ESV": "They are your servants and your people, whom you have redeemed by your great power and by your strong hand."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "O Lord, let your ear be attentive to the prayer of this your servant and to the prayer of your servants who delight in revering your name. Give your servant success today by granting him favor in the presence of this man.\" I was cupbearer to the king.",
+              "KJV": "O Lord, I beseech thee, let now thine ear be attentive to the prayer of thy servant, and to the prayer of thy servants, who desire to fear thy name: and prosper, I pray thee, thy servant this day, and grant him mercy in the sight of this man. For I was the king's cupbearer.",
+              "NASB95": "O Lord, I beseech You, may Your ear be attentive to the prayer of Your servant and the prayer of Your servants who delight to revere Your name, and make Your servant successful today and grant him compassion before this man.\u201d\nNow I was the cupbearer to the king.",
+              "NKJV": "O Lord, I pray, please let Your ear be attentive to the prayer of Your servant, and to the prayer of Your servants who desire to fear Your name; and let Your servant prosper this day, I pray, and grant him mercy in the sight of this man.\u201d\nFor I was the king\u2019s cupbearer.",
+              "DRB": "I beseech thee, O Lord, let thy ear be attentive to the prayer of thy servant, and to the prayer of thy servants who desire to fear thy name: and direct thy servant this day, and give him mercy before this man. For I was the king's cupbearer.",
+              "ESV": "O Lord, let your ear be attentive to the prayer of your servant, and to the prayer of your servants who delight to fear your name, and give success to your servant today, and grant him mercy in the sight of this man.\u201d\nNow I was cupbearer to the king."
+            }
+          }
+        ]
+      },
+      {
+        "id": "lam_5_1_22",
+        "title": "Prayer for Restoration",
+        "description": "",
+        "reference": {
+          "book": "Lamentations",
+          "chapter": 5,
+          "start": 1,
+          "end": 22
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Remember, O LORD, what has happened to us; look, and see our disgrace.",
+              "KJV": "Remember, O Lord, what is come upon us: consider, and behold our reproach.",
+              "NASB95": "Remember, O Lord, what has befallen us;\nLook, and see our reproach!",
+              "NKJV": "Remember, O Lord, what has come upon us;\nLook, and behold our reproach!",
+              "DRB": "Remember, O Lord, what is come upon us: consider and behold our reproach.",
+              "ESV": "Remember, O Lord, what has befallen us;\n    look, and see our disgrace!"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Our inheritance has been turned over to aliens, our homes to foreigners.",
+              "KJV": "Our inheritance is turned to strangers, our houses to aliens.",
+              "NASB95": "Our inheritance has been turned over to strangers,\nOur houses to aliens.",
+              "NKJV": "Our inheritance has been turned over to aliens,\nAnd our houses to foreigners.",
+              "DRB": "Our inheritance is turned to aliens: our houses to strangers.",
+              "ESV": "Our inheritance has been turned over to strangers,\n    our homes to foreigners."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "We have become orphans and fatherless, our mothers like widows.",
+              "KJV": "We are orphans and fatherless, our mothers are as widows.",
+              "NASB95": "We have become orphans without a father,\nOur mothers are like widows.",
+              "NKJV": "We have become orphans and waifs,\nOur mothers are like widows.",
+              "DRB": "We are become orphans without a father: our mothers are as widows.",
+              "ESV": "We have become orphans, fatherless;\n    our mothers are like widows."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "We must buy the water we drink; our wood can be had only at a price.",
+              "KJV": "We have drunken our water for money; our wood is sold unto us.",
+              "NASB95": "We have to pay for our drinking water,\nOur wood comes to us at a price.",
+              "NKJV": "We pay for the water we drink,\nAnd our wood comes at a price.",
+              "DRB": "We have drunk our water for money: we have bought our wood.",
+              "ESV": "We must pay for the water we drink;\n    the wood we get must be bought."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "Those who pursue us are at our heels; we are weary and find no rest.",
+              "KJV": "Our necks are under persecution: we labour, and have no rest.",
+              "NASB95": "Our pursuers are at our necks;\nWe are worn out, there is no rest for us.",
+              "NKJV": "They pursue at our heels;\nWe labor and have no rest.",
+              "DRB": "We were dragged by the necks, we were weary and no rest was given us.",
+              "ESV": "Our pursuers are at our necks;\n    we are weary; we are given no rest."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "We submitted to Egypt and Assyria to get enough bread.",
+              "KJV": "We have given the hand to the Egyptians, and to the Assyrians, to be satisfied with bread.",
+              "NASB95": "We have submitted to Egypt and Assyria to get enough bread.",
+              "NKJV": "We have given our hand to the Egyptians\nAnd the Assyrians, to be satisfied with bread.",
+              "DRB": "We have given our hand to Egypt, and to the Assyrians, that we might be satisfied with bread.",
+              "ESV": "We have given the hand to Egypt, and to Assyria,\n    to get bread enough."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Our fathers sinned and are no more, and we bear their punishment.",
+              "KJV": "Our fathers have sinned, and are not; and we have borne their iniquities.",
+              "NASB95": "Our fathers sinned, and are no more;\nIt is we who have borne their iniquities.",
+              "NKJV": "Our fathers sinned and are no more,\nBut we bear their iniquities.",
+              "DRB": "Our fathers have sinned, and are not: and we have borne their iniquities.",
+              "ESV": "Our fathers sinned, and are no more;\n    and we bear their iniquities."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Slaves rule over us, and there is none to free us from their hands.",
+              "KJV": "Servants have ruled over us: there is none that doth deliver us out of their hand.",
+              "NASB95": "Slaves rule over us;\nThere is no one to deliver us from their hand.",
+              "NKJV": "Servants rule over us;\nThere is none to deliver us from their hand.",
+              "DRB": "Servants have ruled over us: there was none to redeem us out of their hand.",
+              "ESV": "Slaves rule over us;\n    there is none to deliver us from their hand."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "We get our bread at the risk of our lives because of the sword in the desert.",
+              "KJV": "We gat our bread with the peril of our lives because of the sword of the wilderness.",
+              "NASB95": "We get our bread at the risk of our lives\nBecause of the sword in the wilderness.",
+              "NKJV": "We get our bread at the risk of our lives,\nBecause of the sword in the wilderness.",
+              "DRB": "We fetched our bread at the peril of our lives, because of the sword in the desert.",
+              "ESV": "We get our bread at the peril of our lives,\n    because of the sword in the wilderness."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Our skin is hot as an oven, feverish from hunger.",
+              "KJV": "Our skin was black like an oven because of the terrible famine.",
+              "NASB95": "Our skin has become as hot as an oven,\nBecause of the burning heat of famine.",
+              "NKJV": "Our skin is hot as an oven,\nBecause of the fever of famine.",
+              "DRB": "Our skin was burnt as an oven, by reason of the violence of the famine.",
+              "ESV": "Our skin is hot as an oven\n    with the burning heat of famine."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Women have been ravished in Zion, and virgins in the towns of Judah.",
+              "KJV": "They ravished the women in Zion, and the maids in the cities of Judah.",
+              "NASB95": "They ravished the women in Zion,\nThe virgins in the cities of Judah.",
+              "NKJV": "They ravished the women in Zion,\nThe maidens in the cities of Judah.",
+              "DRB": "They oppressed the women in Sion, and the virgins in the cities of Juda.",
+              "ESV": "Women are raped in Zion,\n    young women in the towns of Judah."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Princes have been hung up by their hands; elders are shown no respect.",
+              "KJV": "Princes are hanged up by their hand: the faces of elders were not honoured.",
+              "NASB95": "Princes were hung by their hands;\nElders were not respected.",
+              "NKJV": "Princes were hung up by their hands,\nAnd elders were not respected.",
+              "DRB": "The princes were hanged up by their hand: they did not respect the persons of the ancient.",
+              "ESV": "Princes are hung up by their hands;\n    no respect is shown to the elders."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Young men toil at the millstones; boys stagger under loads of wood.",
+              "KJV": "They took the young men to grind, and the children fell under the wood.",
+              "NASB95": "Young men worked at the grinding mill,\nAnd youths stumbled under loads of wood.",
+              "NKJV": "Young men ground at the millstones;\nBoys staggered under loads of wood.",
+              "DRB": "They abused the young men indecently: and the children fell under the wood.",
+              "ESV": "Young men are compelled to grind at the mill,\n    and boys stagger under loads of wood."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "The elders are gone from the city gate; the young men have stopped their music.",
+              "KJV": "The elders have ceased from the gate, the young men from their musick.",
+              "NASB95": "Elders are gone from the gate,\nYoung men from their music.",
+              "NKJV": "The elders have ceased gathering at the gate,\nAnd the young men from their music.",
+              "DRB": "The ancients have ceased from the gates: the young men from the choir of the singers.",
+              "ESV": "The old men have left the city gate,\n    the young men their music."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Joy is gone from our hearts; our dancing has turned to mourning.",
+              "KJV": "The joy of our heart is ceased; our dance is turned into mourning.",
+              "NASB95": "The joy of our hearts has ceased;\nOur dancing has been turned into mourning.",
+              "NKJV": "The joy of our heart has ceased;\nOur dance has turned into mourning.",
+              "DRB": "The joy of our heart is ceased, our dancing is turned into mourning.",
+              "ESV": "The joy of our hearts has ceased;\n    our dancing has been turned to mourning."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "The crown has fallen from our head. Woe to us, for we have sinned!",
+              "KJV": "The crown is fallen from our head: woe unto us, that we have sinned!",
+              "NASB95": "The crown has fallen from our head;\nWoe to us, for we have sinned!",
+              "NKJV": "The crown has fallen from our head.\nWoe to us, for we have sinned!",
+              "DRB": "The crown is fallen from our head woe to us, because we have sinned.",
+              "ESV": "The crown has fallen from our head;\n    woe to us, for we have sinned!"
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "Because of this our hearts are faint, because of these things our eyes grow dim",
+              "KJV": "For this our heart is faint; for these things our eyes are dim.",
+              "NASB95": "Because of this our heart is faint,\nBecause of these things our eyes are dim;",
+              "NKJV": "Because of this our heart is faint;\nBecause of these things our eyes grow dim;",
+              "DRB": "Therefore is our heart sorrowful, therefore are our eyes become dim,",
+              "ESV": "For this our heart has become sick,\n    for these things our eyes have grown dim,"
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "for Mount Zion, which lies desolate, with jackals prowling over it.",
+              "KJV": "Because of the mountain of Zion, which is desolate, the foxes walk upon it.",
+              "NASB95": "Because of Mount Zion which lies desolate,\nFoxes prowl in it.",
+              "NKJV": "Because of Mount Zion which is desolate,\nWith foxes walking about on it.",
+              "DRB": "For mount Sion, because it is destroyed, foxes have walked upon it.",
+              "ESV": "for Mount Zion which lies desolate;\n    jackals prowl over it."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "You, O LORD, reign forever; your throne endures from generation to generation.",
+              "KJV": "Thou, O Lord, remainest for ever; thy throne from generation to generation.",
+              "NASB95": "You, O Lord, rule forever;\nYour throne is from generation to generation.",
+              "NKJV": "You, O Lord, remain forever;\nYour throne from generation to generation.",
+              "DRB": "But thou, O Lord, shalt remain for ever, thy throne from generation to generation.",
+              "ESV": "But you, O Lord, reign forever;\n    your throne endures to all generations."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "Why do you always forget us? Why do you forsake us so long?",
+              "KJV": "Wherefore dost thou forget us for ever, and forsake us so long time?",
+              "NASB95": "Why do You forget us forever?\nWhy do You forsake us so long?",
+              "NKJV": "Why do You forget us forever,\nAnd forsake us for so long a time?",
+              "DRB": "Why wilt thou forget us for ever? why wilt thou forsake us for a long time?",
+              "ESV": "Why do you forget us forever,\n    why do you forsake us for so many days?"
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "Restore us to yourself, O LORD, that we may return; renew our days as of old",
+              "KJV": "Turn thou us unto thee, O Lord, and we shall be turned; renew our days as of old.",
+              "NASB95": "Restore us to You, O Lord, that we may be restored;\nRenew our days as of old,",
+              "NKJV": "Turn us back to You, O Lord, and we will be restored;\nRenew our days as of old,",
+              "DRB": "Convert us, O Lord, to thee, and we shall be converted: renew our days, as from the beginning.",
+              "ESV": "Restore us to yourself, O Lord, that we may be restored!\n    Renew our days as of old\u2014"
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "unless you have utterly rejected us and are angry with us beyond measure.",
+              "KJV": "But thou hast utterly rejected us; thou art very wroth against us.",
+              "NASB95": "Unless You have utterly rejected us\nAnd are exceedingly angry with us.",
+              "NKJV": "Unless You have utterly rejected us,\nAnd are very angry with us!",
+              "DRB": "But thou hast utterly rejected us, thou art exceedingly angry against us.",
+              "ESV": "unless you have utterly rejected us,\n    and you remain exceedingly angry with us."
+            }
+          }
+        ]
+      },
+      {
+        "id": "dan_9_1_19",
+        "title": "Daniel\u2019s Prayer for the People",
+        "description": "",
+        "reference": {
+          "book": "Daniel",
+          "chapter": 9,
+          "start": 1,
+          "end": 19
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "In the first year of Darius son of Ahasuerus (a Mede by descent), who was made ruler over the Babylonian kingdom-",
+              "KJV": "In the first year of Darius the son of Ahasuerus, of the seed of the Medes, which was made king over the realm of the Chaldeans;",
+              "NASB95": "In the first year of Darius the son of Ahasuerus, of Median descent, who was made king over the kingdom of the Chaldeans\u2014",
+              "NKJV": "In the first year of Darius the son of Ahasuerus, of the lineage of the Medes, who was made king over the realm of the Chaldeans\u2014",
+              "DRB": "In the first year of Darius the son of Assuerus of the seed of the Medes, who reigned over the kingdom of the Chaldeans:",
+              "ESV": "In the first year of Darius the son of Ahasuerus, by descent a Mede, who was made king over the realm of the Chaldeans\u2014"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "in the first year of his reign, I, Daniel, understood from the Scriptures, according to the word of the LORD given to Jeremiah the prophet, that the desolation of Jerusalem would last seventy years.",
+              "KJV": "In the first year of his reign I Daniel understood by books the number of the years, whereof the word of the Lord came to Jeremiah the prophet, that he would accomplish seventy years in the desolations of Jerusalem.",
+              "NASB95": "in the first year of his reign, I, Daniel, observed in the books the number of the years which was revealed as the word of the Lord to Jeremiah the prophet for the completion of the desolations of Jerusalem, namely, seventy years.",
+              "NKJV": "in the first year of his reign I, Daniel, understood by the books the number of the years specified by the word of the Lord through Jeremiah the prophet, that He would accomplish seventy years in the desolations of Jerusalem.",
+              "DRB": "The first year of his reign, I Daniel understood by books the number of the years, concerning which the word of the Lord came to Jeremias the prophet, that seventy years should be accomplished of the desolation of Jerusalem.",
+              "ESV": "in the first year of his reign, I, Daniel, perceived in the books the number of years that, according to the word of the Lord to Jeremiah the prophet, must pass before the end of the desolations of Jerusalem, namely, seventy years."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "So I turned to the Lord God and pleaded with him in prayer and petition, in fasting, and in sackcloth and ashes.",
+              "KJV": "And I set my face unto the Lord God, to seek by prayer and supplications, with fasting, and sackcloth, and ashes:",
+              "NASB95": "So I gave my attention to the Lord God to seek Him by prayer and supplications, with fasting, sackcloth and ashes.",
+              "NKJV": "Then I set my face toward the Lord God to make request by prayer and supplications, with fasting, sackcloth, and ashes.",
+              "DRB": "And I set my face to the Lord my God, to pray and make supplication with fasting, and sackcloth, and ashes.",
+              "ESV": "Then I turned my face to the Lord God, seeking him by prayer and pleas for mercy with fasting and sackcloth and ashes."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "I prayed to the LORD my God and confessed: \"O Lord, the great and awesome God, who keeps his covenant of love with all who love him and obey his commands,",
+              "KJV": "And I prayed unto the Lord my God, and made my confession, and said, O Lord, the great and dreadful God, keeping the covenant and mercy to them that love him, and to them that keep his commandments;",
+              "NASB95": "I prayed to the Lord my God and confessed and said, \u201cAlas, O Lord, the great and awesome God, who keeps His covenant and lovingkindness for those who love Him and keep His commandments,",
+              "NKJV": "And I prayed to the Lord my God, and made confession, and said, \u201cO Lord, great and awesome God, who keeps His covenant and mercy with those who love Him, and with those who keep His commandments,",
+              "DRB": "And I prayed to the Lord my God, and I made my confession, and said: I beseech thee, O Lord God, great and terrible, who keepest the covenant, and mercy to them that love thee, and keep thy commandments.",
+              "ESV": "I prayed to the Lord my God and made confession, saying, \u201cO Lord, the great and awesome God, who keeps covenant and steadfast love with those who love him and keep his commandments,"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "we have sinned and done wrong. We have been wicked and have rebelled; we have turned away from your commands and laws.",
+              "KJV": "We have sinned, and have committed iniquity, and have done wickedly, and have rebelled, even by departing from thy precepts and from thy judgments:",
+              "NASB95": "we have sinned, committed iniquity, acted wickedly and rebelled, even turning aside from Your commandments and ordinances.",
+              "NKJV": "we have sinned and committed iniquity, we have done wickedly and rebelled, even by departing from Your precepts and Your judgments.",
+              "DRB": "We have sinned, we have committed iniquity, we have done wickedly, and have revolted: and we have gone aside from thv commandments, and thy judgments.",
+              "ESV": "we have sinned and done wrong and acted wickedly and rebelled, turning aside from your commandments and rules."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "We have not listened to your servants the prophets, who spoke in your name to our kings, our princes and our fathers, and to all the people of the land.",
+              "KJV": "Neither have we hearkened unto thy servants the prophets, which spake in thy name to our kings, our princes, and our fathers, and to all the people of the land.",
+              "NASB95": "Moreover, we have not listened to Your servants the prophets, who spoke in Your name to our kings, our princes, our fathers and all the people of the land.",
+              "NKJV": "Neither have we heeded Your servants the prophets, who spoke in Your name to our kings and our princes, to our fathers and all the people of the land.",
+              "DRB": "We have not hearkened to thy servants the prophets, that have spoken in thy name to our kings, to our princes, to our fathers, and to all the people of the land.",
+              "ESV": "We have not listened to your servants the prophets, who spoke in your name to our kings, our princes, and our fathers, and to all the people of the land."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "\"Lord, you are righteous, but this day we are covered with shame-the men of Judah and people of Jerusalem and all Israel, both near and far, in all the countries where you have scattered us because of our unfaithfulness to you.",
+              "KJV": "O Lord, righteousness belongeth unto thee, but unto us confusion of faces, as at this day; to the men of Judah, and to the inhabitants of Jerusalem, and unto all Israel, that are near, and that are far off, through all the countries whither thou hast driven them, because of their trespass that they have trespassed against thee.",
+              "NASB95": "\u201cRighteousness belongs to You, O Lord, but to us open shame, as it is this day\u2014to the men of Judah, the inhabitants of Jerusalem and all Israel, those who are nearby and those who are far away in all the countries to which You have driven them, because of their unfaithful deeds which they have committed against You.",
+              "NKJV": "O Lord, righteousness belongs to You, but to us shame of face, as it is this day\u2014to the men of Judah, to the inhabitants of Jerusalem and all Israel, those near and those far off in all the countries to which You have driven them, because of the unfaithfulness which they have committed against You.",
+              "DRB": "To thee, O Lord, justice: but to us confusion of face, as at this day to the men of Juda, and to the inhabitants of Jerusalem, and to all Israel to them that are near, and to them that are far off in all the countries whither thou hast driven them, for their iniquities by which they have sinned against thee.",
+              "ESV": "To you, O Lord, belongs righteousness, but to us open shame, as at this day, to the men of Judah, to the inhabitants of Jerusalem, and to all Israel, those who are near and those who are far away, in all the lands to which you have driven them, because of the treachery that they have committed against you."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "O LORD, we and our kings, our princes and our fathers are covered with shame because we have sinned against you.",
+              "KJV": "O Lord, to us belongeth confusion of face, to our kings, to our princes, and to our fathers, because we have sinned against thee.",
+              "NASB95": "Open shame belongs to us, O Lord, to our kings, our princes and our fathers, because we have sinned against You.",
+              "NKJV": "\u201cO Lord, to us belongs shame of face, to our kings, our princes, and our fathers, because we have sinned against You.",
+              "DRB": "O Lord, to us belongeth confusion of face, to our princes, and to our fathers that have sinned.",
+              "ESV": "To us, O Lord, belongs open shame, to our kings, to our princes, and to our fathers, because we have sinned against you."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "The Lord our God is merciful and forgiving, even though we have rebelled against him;",
+              "KJV": "To the Lord our God belong mercies and forgivenesses, though we have rebelled against him;",
+              "NASB95": "To the Lord our God belong compassion and forgiveness, for we have rebelled against Him;",
+              "NKJV": "To the Lord our God belong mercy and forgiveness, though we have rebelled against Him.",
+              "DRB": "But to thee, the Lord our God, mercy and forgiveness, for we have departed from thee:",
+              "ESV": "To the Lord our God belong mercy and forgiveness, for we have rebelled against him"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "we have not obeyed the LORD our God or kept the laws he gave us through his servants the prophets.",
+              "KJV": "Neither have we obeyed the voice of the Lord our God, to walk in his laws, which he set before us by his servants the prophets.",
+              "NASB95": "nor have we obeyed the voice of the Lord our God, to walk in His teachings which He set before us through His servants the prophets.",
+              "NKJV": "We have not obeyed the voice of the Lord our God, to walk in His laws, which He set before us by His servants the prophets.",
+              "DRB": "And we have not hearkened to the voice of the Lord our God, to walk in his law, which he set before us by his servants the prophets.",
+              "ESV": "and have not obeyed the voice of the Lord our God by walking in his laws, which he set before us by his servants the prophets."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "All Israel has transgressed your law and turned away, refusing to obey you. \"Therefore the curses and sworn judgments written in the Law of Moses, the servant of God, have been poured out on us, because we have sinned against you.",
+              "KJV": "Yea, all Israel have transgressed thy law, even by departing, that they might not obey thy voice; therefore the curse is poured upon us, and the oath that is written in the law of Moses the servant of God, because we have sinned against him.",
+              "NASB95": "Indeed all Israel has transgressed Your law and turned aside, not obeying Your voice; so the curse has been poured out on us, along with the oath which is written in the law of Moses the servant of God, for we have sinned against Him.",
+              "NKJV": "Yes, all Israel has transgressed Your law, and has departed so as not to obey Your voice; therefore the curse and the oath written in the Law of Moses the servant of God have been poured out on us, because we have sinned against Him.",
+              "DRB": "And all Israel have transgressed thy law, and have turned away from hearing thy voice, and the malediction, and the curse, which is written in the book of Moses the servant of God, is fallen upon us, because we have sinned against him.",
+              "ESV": "All Israel has transgressed your law and turned aside, refusing to obey your voice. And the curse and oath that are written in the Law of Moses the servant of God have been poured out upon us, because we have sinned against him."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "You have fulfilled the words spoken against us and against our rulers by bringing upon us great disaster. Under the whole heaven nothing has ever been done like what has been done to Jerusalem.",
+              "KJV": "And he hath confirmed his words, which he spake against us, and against our judges that judged us, by bringing upon us a great evil: for under the whole heaven hath not been done as hath been done upon Jerusalem.",
+              "NASB95": "Thus He has confirmed His words which He had spoken against us and against our rulers who ruled us, to bring on us great calamity; for under the whole heaven there has not been done anything like what was done to Jerusalem.",
+              "NKJV": "And He has confirmed His words, which He spoke against us and against our judges who judged us, by bringing upon us a great disaster; for under the whole heaven such has never been done as what has been done to Jerusalem.",
+              "DRB": "And he hath confirmed his words which he spoke against us, and against our princes that judged us, that he would bring in upon us a great evil, such as never was under all the heaven, according to that which hath been done in Jerusalem.",
+              "ESV": "He has confirmed his words, which he spoke against us and against our rulers who ruled us, by bringing upon us a great calamity. For under the whole heaven there has not been done anything like what has been done against Jerusalem."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Just as it is written in the Law of Moses, all this disaster has come upon us, yet we have not sought the favor of the LORD our God by turning from our sins and giving attention to your truth.",
+              "KJV": "As it is written in the law of Moses, all this evil is come upon us: yet made we not our prayer before the Lord our God, that we might turn from our iniquities, and understand thy truth.",
+              "NASB95": "As it is written in the law of Moses, all this calamity has come on us; yet we have not sought the favor of the Lord our God by turning from our iniquity and giving attention to Your truth.",
+              "NKJV": "\u201cAs it is written in the Law of Moses, all this disaster has come upon us; yet we have not made our prayer before the Lord our God, that we might turn from our iniquities and understand Your truth.",
+              "DRB": "As it is written in the law of Moses, all this evil is come upon us: and we entreated not thy face, O Lord our God, that we might turn from our iniquities, and think on thy truth.",
+              "ESV": "As it is written in the Law of Moses, all this calamity has come upon us; yet we have not entreated the favor of the Lord our God, turning from our iniquities and gaining insight by your truth."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "The LORD did not hesitate to bring the disaster upon us, for the LORD our God is righteous in everything he does; yet we have not obeyed him.",
+              "KJV": "Therefore hath the Lord watched upon the evil, and brought it upon us: for the Lord our God is righteous in all his works which he doeth: for we obeyed not his voice.",
+              "NASB95": "Therefore the Lord has kept the calamity in store and brought it on us; for the Lord our God is righteous with respect to all His deeds which He has done, but we have not obeyed His voice.",
+              "NKJV": "Therefore the Lord has kept the disaster in mind, and brought it upon us; for the Lord our God is righteous in all the works which He does, though we have not obeyed His voice.",
+              "DRB": "And the Lord hath watched upon the evil, and hath brought it upon us: the Lord our God is just in all his works which he hath done: for we have not hearkened to his voice.",
+              "ESV": "Therefore the Lord has kept ready the calamity and has brought it upon us, for the Lord our God is righteous in all the works that he has done, and we have not obeyed his voice."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "\"Now, O Lord our God, who brought your people out of Egypt with a mighty hand and who made for yourself a name that endures to this day, we have sinned, we have done wrong.",
+              "KJV": "And now, O Lord our God, that hast brought thy people forth out of the land of Egypt with a mighty hand, and hast gotten thee renown, as at this day; we have sinned, we have done wickedly.",
+              "NASB95": "\u201cAnd now, O Lord our God, who have brought Your people out of the land of Egypt with a mighty hand and have made a name for Yourself, as it is this day\u2014we have sinned, we have been wicked.",
+              "NKJV": "And now, O Lord our God, who brought Your people out of the land of Egypt with a mighty hand, and made Yourself a name, as it is this day\u2014we have sinned, we have done wickedly!",
+              "DRB": "And now, O Lord our God, who hast brought forth thy people out of the land of Egypt with a strong hand, and hast made thee a name as at this day: we have sinned, we have committed iniquity,",
+              "ESV": "And now, O Lord our God, who brought your people out of the land of Egypt with a mighty hand, and have made a name for yourself, as at this day, we have sinned, we have done wickedly."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "O Lord, in keeping with all your righteous acts, turn away your anger and your wrath from Jerusalem, your city, your holy hill. Our sins and the iniquities of our fathers have made Jerusalem and your people an object of scorn to all those around us.",
+              "KJV": "O Lord, according to all thy righteousness, I beseech thee, let thine anger and thy fury be turned away from thy city Jerusalem, thy holy mountain: because for our sins, and for the iniquities of our fathers, Jerusalem and thy people are become a reproach to all that are about us.",
+              "NASB95": "O Lord, in accordance with all Your righteous acts, let now Your anger and Your wrath turn away from Your city Jerusalem, Your holy mountain; for because of our sins and the iniquities of our fathers, Jerusalem and Your people have become a reproach to all those around us.",
+              "NKJV": "\u201cO Lord, according to all Your righteousness, I pray, let Your anger and Your fury be turned away from Your city Jerusalem, Your holy mountain; because for our sins, and for the iniquities of our fathers, Jerusalem and Your people are a reproach to all those around us.",
+              "DRB": "O Lord, against all thy justice: let thy wrath and thy indignation be turned away, I beseech thee, from thy city Jerusalem, and from thy holy mountain. For by reason of our sins, and the iniquities of our fathers, Jerusalem, and thy people are a reproach to all that are round about us.",
+              "ESV": "\u201cO Lord, according to all your righteous acts, let your anger and your wrath turn away from your city Jerusalem, your holy hill, because for our sins, and for the iniquities of our fathers, Jerusalem and your people have become a byword among all who are around us."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "\"Now, our God, hear the prayers and petitions of your servant. For your sake, O Lord, look with favor on your desolate sanctuary.",
+              "KJV": "Now therefore, O our God, hear the prayer of thy servant, and his supplications, and cause thy face to shine upon thy sanctuary that is desolate, for the Lord's sake.",
+              "NASB95": "So now, our God, listen to the prayer of Your servant and to his supplications, and for Your sake, O Lord, let Your face shine on Your desolate sanctuary.",
+              "NKJV": "Now therefore, our God, hear the prayer of Your servant, and his supplications, and for the Lord\u2019s sake cause Your face to shine on Your sanctuary, which is desolate.",
+              "DRB": "Now therefore, O our God, hear the supplication of thy servant, and his prayers: and shew thy face upon thy sanctuary which is desolate, for thy own sake.",
+              "ESV": "Now therefore, O our God, listen to the prayer of your servant and to his pleas for mercy, and for your own sake, O Lord, make your face to shine upon your sanctuary, which is desolate."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "Give ear, O God, and hear; open your eyes and see the desolation of the city that bears your Name. We do not make requests of you because we are righteous, but because of your great mercy.",
+              "KJV": "O my God, incline thine ear, and hear; open thine eyes, and behold our desolations, and the city which is called by thy name: for we do not present our supplications before thee for our righteousnesses, but for thy great mercies.",
+              "NASB95": "O my God, incline Your ear and hear! Open Your eyes and see our desolations and the city which is called by Your name; for we are not presenting our supplications before You on account of any merits of our own, but on account of Your great compassion.",
+              "NKJV": "O my God, incline Your ear and hear; open Your eyes and see our desolations, and the city which is called by Your name; for we do not present our supplications before You because of our righteous deeds, but because of Your great mercies.",
+              "DRB": "Incline, O my God, thy ear, and hear: open thy eyes, and see our desolation, and the city upon which thy name is called: for it is not for our justifications that we present our prayers before thy face, but for the multitude of thy tender mercies.",
+              "ESV": "O my God, incline your ear and hear. Open your eyes and see our desolations, and the city that is called by your name. For we do not present our pleas before you because of our righteousness, but because of your great mercy."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "O Lord, listen! O Lord, forgive! O Lord, hear and act! For your sake, O my God, do not delay, because your city and your people bear your Name.\"",
+              "KJV": "O Lord, hear; O Lord, forgive; O Lord, hearken and do; defer not, for thine own sake, O my God: for thy city and thy people are called by thy name.",
+              "NASB95": "O Lord, hear! O Lord, forgive! O Lord, listen and take action! For Your own sake, O my God, do not delay, because Your city and Your people are called by Your name.\u201d",
+              "NKJV": "O Lord, hear! O Lord, forgive! O Lord, listen and act! Do not delay for Your own sake, my God, for Your city and Your people are called by Your name.\u201d",
+              "DRB": "O Lord, hear: O Lord, be appeased: hearken and do: delay not for thy own sake, O my God: because thy name is invocated upon thy city, and upon thy people.",
+              "ESV": "O Lord, hear; O Lord, forgive. O Lord, pay attention and act. Delay not, for your own sake, O my God, because your city and your people are called by your name.\u201d"
+            }
+          }
+        ]
+      },
+      {
+        "id": "jon_2_1_10",
+        "title": "Jonah\u2019s Prayer and God\u2019s Answer",
+        "description": "",
+        "reference": {
+          "book": "Jonah",
+          "chapter": 2,
+          "start": 1,
+          "end": 10
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "From inside the fish Jonah prayed to the LORD his God.",
+              "KJV": "Then Jonah prayed unto the Lord his God out of the fish's belly,",
+              "NASB95": "Then Jonah prayed to the Lord his God from the stomach of the fish,",
+              "NKJV": "Then Jonah prayed to the Lord his God from the fish\u2019s belly.",
+              "DRB": "And Jonas prayed to the Lord his God out of the belly of the fish.",
+              "ESV": "Then Jonah prayed to the Lord his God from the belly of the fish,"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "He said: \"In my distress I called to the LORD, and he answered me. From the depths of the grave I called for help, and you listened to my cry.",
+              "KJV": "And said, I cried by reason of mine affliction unto the Lord, and he heard me; out of the belly of hell cried I, and thou heardest my voice.",
+              "NASB95": "and he said,\n\u201cI called out of my distress to the Lord,\nAnd He answered me.\nI cried for help from the depth of Sheol;\nYou heard my voice.",
+              "NKJV": "And he said:\n\u201cI cried out to the Lord because of my affliction,\nAnd He answered me. \n\u201cOut of the belly of Sheol I cried,\nAnd You heard my voice.",
+              "DRB": "And he said: I cried out of my affliction to the Lord, and he heard me: I cried out of the belly of hell, and thou hast heard my voice.",
+              "ESV": "saying,\n\u201cI called out to the Lord, out of my distress,\n    and he answered me;\nout of the belly of Sheol I cried,\n    and you heard my voice."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "You hurled me into the deep, into the very heart of the seas, and the currents swirled about me; all your waves and breakers swept over me.",
+              "KJV": "For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me.",
+              "NASB95": "\u201cFor You had cast me into the deep,\nInto the heart of the seas,\nAnd the current engulfed me.\nAll Your breakers and billows passed over me.",
+              "NKJV": "For You cast me into the deep,\nInto the heart of the seas,\nAnd the floods surrounded me;\nAll Your billows and Your waves passed over me.",
+              "DRB": "And thou hast cast me forth into the deep in the heart of the sea, and a flood hath compassed me: all thy billows, and thy waves have passed over me.",
+              "ESV": "For you cast me into the deep,\n    into the heart of the seas,\n    and the flood surrounded me;\nall your waves and your billows\n    passed over me."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "I said, 'I have been banished from your sight; yet I will look again toward your holy temple.'",
+              "KJV": "Then I said, I am cast out of thy sight; yet I will look again toward thy holy temple.",
+              "NASB95": "\u201cSo I said, \u2018I have been expelled from Your sight.\nNevertheless I will look again toward Your holy temple.\u2019",
+              "NKJV": "Then I said, \u2018I have been cast out of Your sight;\nYet I will look again toward Your holy temple.\u2019",
+              "DRB": "And I said: I am cast away out of the sight of thy eyes: but yet I shall see thy holy temple again.",
+              "ESV": "Then I said, \u2018I am driven away\n    from your sight;\nyet I shall again look\n    upon your holy temple.\u2019"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "The engulfing waters threatened me, the deep surrounded me; seaweed was wrapped around my head.",
+              "KJV": "The waters compassed me about, even to the soul: the depth closed me round about, the weeds were wrapped about my head.",
+              "NASB95": "\u201cWater encompassed me to the point of death.\nThe great deep engulfed me,\nWeeds were wrapped around my head.",
+              "NKJV": "The waters surrounded me, even to my soul;\nThe deep closed around me;\nWeeds were wrapped around my head.",
+              "DRB": "The waters compassed me about even to the soul: the deep hath closed me round about, the sea hath covered my head.",
+              "ESV": "The waters closed in over me to take my life;\n    the deep surrounded me;\nweeds were wrapped about my head"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "To the roots of the mountains I sank down; the earth beneath barred me in forever. But you brought my life up from the pit, O LORD my God.",
+              "KJV": "I went down to the bottoms of the mountains; the earth with her bars was about me for ever: yet hast thou brought up my life from corruption, O Lord my God.",
+              "NASB95": "\u201cI descended to the roots of the mountains.\nThe earth with its bars was around me forever,\nBut You have brought up my life from the pit, O Lord my God.",
+              "NKJV": "I went down to the moorings of the mountains;\nThe earth with its bars closed behind me forever;\nYet You have brought up my life from the pit,\nO Lord, my God.",
+              "DRB": "I went down to the lowest parts of the mountains: the bars of the earth have shut me up for ever: and thou wilt bring up my life from corruption, O Lord my God.",
+              "ESV": "at the roots of the mountains.\nI went down to the land\n    whose bars closed upon me forever;\nyet you brought up my life from the pit,\n    O Lord my God."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "\"When my life was ebbing away, I remembered you, LORD, and my prayer rose to you, to your holy temple.",
+              "KJV": "When my soul fainted within me I remembered the Lord: and my prayer came in unto thee, into thine holy temple.",
+              "NASB95": "\u201cWhile I was fainting away,\nI remembered the Lord,\nAnd my prayer came to You,\nInto Your holy temple.",
+              "NKJV": "\u201cWhen my soul fainted within me,\nI remembered the Lord;\nAnd my prayer went up to You,\nInto Your holy temple.",
+              "DRB": "When my soul was in distress within me, I remembered the Lord: that my prayer may come to thee, unto thy holy temple.",
+              "ESV": "When my life was fainting away,\n    I remembered the Lord,\nand my prayer came to you,\n    into your holy temple."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "\"Those who cling to worthless idols forfeit the grace that could be theirs.",
+              "KJV": "They that observe lying vanities forsake their own mercy.",
+              "NASB95": "\u201cThose who regard vain idols\nForsake their faithfulness,",
+              "NKJV": "\u201cThose who regard worthless idols\nForsake their own Mercy.",
+              "DRB": "They that are vain observe vanities, forsake their own mercy.",
+              "ESV": "Those who pay regard to vain idols\n    forsake their hope of steadfast love."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "But I, with a song of thanksgiving, will sacrifice to you. What I have vowed I will make good. Salvation comes from the LORD.\"",
+              "KJV": "But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the Lord.",
+              "NASB95": "But I will sacrifice to You\nWith the voice of thanksgiving.\nThat which I have vowed I will pay.\nSalvation is from the Lord.\u201d",
+              "NKJV": "But I will sacrifice to You\nWith the voice of thanksgiving;\nI will pay what I have vowed.\nSalvation is of the Lord.\u201d",
+              "DRB": "But I with the voice of praise will sacrifice to thee: I will pay whatsoever I have vowed for my salvation to the Lord.",
+              "ESV": "But I with the voice of thanksgiving\n    will sacrifice to you;\nwhat I have vowed I will pay.\n    Salvation belongs to the Lord!\u201d"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "And the LORD commanded the fish, and it vomited Jonah onto dry land.",
+              "KJV": "And the Lord spake unto the fish, and it vomited out Jonah upon the dry land.",
+              "NASB95": "Then the Lord commanded the fish, and it vomited Jonah up onto the dry land.",
+              "NKJV": "So the Lord spoke to the fish, and it vomited Jonah onto dry land.",
+              "DRB": "And the Lord spoke to the fish: and it vomited out Jonas upon the dry land.",
+              "ESV": "And the Lord spoke to the fish, and it vomited Jonah out upon the dry land."
+            }
+          }
+        ]
+      },
+      {
+        "id": "hab_3_1_16",
+        "title": "The Prophet\u2019s Prayer",
+        "description": "",
+        "reference": {
+          "book": "Habakkuk",
+          "chapter": 3,
+          "start": 1,
+          "end": 16
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "A prayer of Habakkuk the prophet. On shigionoth.",
+              "KJV": "A prayer of Habakkuk the prophet upon Shigionoth.",
+              "NASB95": "A prayer of Habakkuk the prophet, according to Shigionoth.",
+              "NKJV": "A prayer of Habakkuk the prophet, on Shigionoth.",
+              "DRB": "A PRAYER OF HABACUC THE PROPHET FOR IGNORANCES.",
+              "ESV": "A prayer of Habakkuk the prophet, according to Shigionoth."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "LORD, I have heard of your fame; I stand in awe of your deeds, O LORD. Renew them in our day, in our time make them known; in wrath remember mercy.",
+              "KJV": "O Lord, I have heard thy speech, and was afraid: O Lord, revive thy work in the midst of the years, in the midst of the years make known; in wrath remember mercy.",
+              "NASB95": "Lord, I have heard the report about You and I fear.\nO Lord, revive Your work in the midst of the years,\nIn the midst of the years make it known;\nIn wrath remember mercy.",
+              "NKJV": "O Lord, I have heard Your speech and was afraid;\nO Lord, revive Your work in the midst of the years!\nIn the midst of the years make it known;\nIn wrath remember mercy.",
+              "DRB": "O Lord, I have heard thy hearing, and was afraid. O Lord, thy work, in the midst of the years bring it to life: In the midst of the years thou shalt make it known: when thou art angry, thou wilt remember mercy.",
+              "ESV": "O Lord, I have heard the report of you,\n    and your work, O Lord, do I fear.\nIn the midst of the years revive it;\n    in the midst of the years make it known;\n    in wrath remember mercy."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "God came from Teman, the Holy One from Mount Paran. Selah His glory covered the heavens and his praise filled the earth.",
+              "KJV": "God came from Teman, and the Holy One from mount Paran. Selah. His glory covered the heavens, and the earth was full of his praise.",
+              "NASB95": "God comes from Teman,\nAnd the Holy One from Mount Paran. Selah.\nHis splendor covers the heavens,\nAnd the earth is full of His praise.",
+              "NKJV": "God came from Teman,\nThe Holy One from Mount Paran. Selah \nHis glory covered the heavens,\nAnd the earth was full of His praise.",
+              "DRB": "God will come from the south, and the holy one from mount Pharan: His glory covered the heavens, and the earth is full of his praise.",
+              "ESV": "God came from Teman,\n    and the Holy One from Mount Paran. Selah\nHis splendor covered the heavens,\n    and the earth was full of his praise."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "His splendor was like the sunrise; rays flashed from his hand, where his power was hidden.",
+              "KJV": "And his brightness was as the light; he had horns coming out of his hand: and there was the hiding of his power.",
+              "NASB95": "His radiance is like the sunlight;\nHe has rays flashing from His hand,\nAnd there is the hiding of His power.",
+              "NKJV": "His brightness was like the light;\nHe had rays flashing from His hand,\nAnd there His power was hidden.",
+              "DRB": "His brightness shall be as the light; horns are in his hands: There is his strength hid:",
+              "ESV": "His brightness was like the light;\n    rays flashed from his hand;\n    and there he veiled his power."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "Plague went before him; pestilence followed his steps.",
+              "KJV": "Before him went the pestilence, and burning coals went forth at his feet.",
+              "NASB95": "Before Him goes pestilence,\nAnd plague comes after Him.",
+              "NKJV": "Before Him went pestilence,\nAnd fever followed at His feet.",
+              "DRB": "Death shall go before his face. And the devil shall go forth before his feet.",
+              "ESV": "Before him went pestilence,\n    and plague followed at his heels."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "He stood, and shook the earth; he looked, and made the nations tremble. The ancient mountains crumbled and the age-old hills collapsed. His ways are eternal.",
+              "KJV": "He stood, and measured the earth: he beheld, and drove asunder the nations; and the everlasting mountains were scattered, the perpetual hills did bow: his ways are everlasting.",
+              "NASB95": "He stood and surveyed the earth;\nHe looked and startled the nations.\nYes, the perpetual mountains were shattered,\nThe ancient hills collapsed.\nHis ways are everlasting.",
+              "NKJV": "He stood and measured the earth;\nHe looked and startled the nations.\nAnd the everlasting mountains were scattered,\nThe perpetual hills bowed.\nHis ways are everlasting.",
+              "DRB": "He stood and measured the earth. He beheld, and melted the nations: and the ancient mountains were crushed to pieces. The hills of the world were bowed down by the journeys of his eternity.",
+              "ESV": "He stood and measured the earth;\n    he looked and shook the nations;\nthen the eternal mountains were scattered;\n    the everlasting hills sank low.\n    His were the everlasting ways."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "I saw the tents of Cushan in distress, the dwellings of Midian in anguish.",
+              "KJV": "I saw the tents of Cushan in affliction: and the curtains of the land of Midian did tremble.",
+              "NASB95": "I saw the tents of Cushan under distress,\nThe tent curtains of the land of Midian were trembling.",
+              "NKJV": "I saw the tents of Cushan in affliction;\nThe curtains of the land of Midian trembled.",
+              "DRB": "I saw the tents of Ethiopia for their iniquity, the curtains of the land of Madian shall be troubled.",
+              "ESV": "I saw the tents of Cushan in affliction;\n    the curtains of the land of Midian did tremble."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Were you angry with the rivers, O LORD? Was your wrath against the streams? Did you rage against the sea when you rode with your horses and your victorious chariots?",
+              "KJV": "Was the Lord displeased against the rivers? was thine anger against the rivers? was thy wrath against the sea, that thou didst ride upon thine horses and thy chariots of salvation?",
+              "NASB95": "Did the Lord rage against the rivers,\nOr was Your anger against the rivers,\nOr was Your wrath against the sea,\nThat You rode on Your horses,\nOn Your chariots of salvation?",
+              "NKJV": "O Lord, were You displeased with the rivers,\nWas Your anger against the rivers,\nWas Your wrath against the sea,\nThat You rode on Your horses,\nYour chariots of salvation?",
+              "DRB": "Wast thou angry, O Lord, with the rivers? or was thy wrath upon the rivers? or thy indignation in the sea? Who will ride upon thy horses: and thy chariots are salvation.",
+              "ESV": "Was your wrath against the rivers, O Lord?\n    Was your anger against the rivers,\n    or your indignation against the sea,\nwhen you rode on your horses,\n    on your chariot of salvation?"
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "You uncovered your bow, you called for many arrows. Selah You split the earth with rivers;",
+              "KJV": "Thy bow was made quite naked, according to the oaths of the tribes, even thy word. Selah. Thou didst cleave the earth with rivers.",
+              "NASB95": "Your bow was made bare,\nThe rods of chastisement were sworn. Selah.\nYou cleaved the earth with rivers.",
+              "NKJV": "Your bow was made quite ready;\nOaths were sworn over Your arrows. Selah \nYou divided the earth with rivers.",
+              "DRB": "Thou wilt surely take up thy bow: according to the oaths which thou hast spoken to the tribes. Thou wilt divide the rivers of the earth.",
+              "ESV": "You stripped the sheath from your bow,\n    calling for many arrows. Selah\n    You split the earth with rivers."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "the mountains saw you and writhed. Torrents of water swept by; the deep roared and lifted its waves on high.",
+              "KJV": "The mountains saw thee, and they trembled: the overflowing of the water passed by: the deep uttered his voice, and lifted up his hands on high.",
+              "NASB95": "The mountains saw You and quaked;\nThe downpour of waters swept by.\nThe deep uttered forth its voice,\nIt lifted high its hands.",
+              "NKJV": "The mountains saw You and trembled;\nThe overflowing of the water passed by.\nThe deep uttered its voice,\nAnd lifted its hands on high.",
+              "DRB": "The mountains saw thee, and were grieved: the great body of waters passed away. The deep put forth its voice: the deep lifted up its hands.",
+              "ESV": "The mountains saw you and writhed;\n    the raging waters swept on;\nthe deep gave forth its voice;\n    it lifted its hands on high."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Sun and moon stood still in the heavens at the glint of your flying arrows, at the lightning of your flashing spear.",
+              "KJV": "The sun and moon stood still in their habitation: at the light of thine arrows they went, and at the shining of thy glittering spear.",
+              "NASB95": "Sun and moon stood in their places;\nThey went away at the light of Your arrows,\nAt the radiance of Your gleaming spear.",
+              "NKJV": "The sun and moon stood still in their habitation;\nAt the light of Your arrows they went,\nAt the shining of Your glittering spear.",
+              "DRB": "The sun and the moon stood still in their habitation, in the light of thy arrows, they shall go in the brightness of thy glittering spear.",
+              "ESV": "The sun and moon stood still in their place\n    at the light of your arrows as they sped,\n    at the flash of your glittering spear."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "In wrath you strode through the earth and in anger you threshed the nations.",
+              "KJV": "Thou didst march through the land in indignation, thou didst thresh the heathen in anger.",
+              "NASB95": "In indignation You marched through the earth;\nIn anger You trampled the nations.",
+              "NKJV": "You marched through the land in indignation;\nYou trampled the nations in anger.",
+              "DRB": "In thy anger thou wilt tread the earth under foot: in thy wrath thou wilt astonish the nations.",
+              "ESV": "You marched through the earth in fury;\n    you threshed the nations in anger."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "You came out to deliver your people, to save your anointed one. You crushed the leader of the land of wickedness, you stripped him from head to foot. Selah",
+              "KJV": "Thou wentest forth for the salvation of thy people, even for salvation with thine anointed; thou woundedst the head out of the house of the wicked, by discovering the foundation unto the neck. Selah.",
+              "NASB95": "You went forth for the salvation of Your people,\nFor the salvation of Your anointed.\nYou struck the head of the house of the evil\nTo lay him open from thigh to neck. Selah.",
+              "NKJV": "You went forth for the salvation of Your people,\nFor salvation with Your Anointed.\nYou struck the head from the house of the wicked,\nBy laying bare from foundation to neck. Selah",
+              "DRB": "Thou wentest forth for the salvation of thy people: for salvation with thy Christ. Thou struckest the head of the house of the wicked: thou hast laid bare his foundation even to the neck.",
+              "ESV": "You went out for the salvation of your people,\n    for the salvation of your anointed.\nYou crushed the head of the house of the wicked,\n    laying him bare from thigh to neck. Selah"
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "With his own spear you pierced his head when his warriors stormed out to scatter us, gloating as though about to devour the wretched who were in hiding.",
+              "KJV": "Thou didst strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing was as to devour the poor secretly.",
+              "NASB95": "You pierced with his own spears\nThe head of his throngs.\nThey stormed in to scatter us;\nTheir exultation was like those\nWho devour the oppressed in secret.",
+              "NKJV": "You thrust through with his own arrows\nThe head of his villages.\nThey came out like a whirlwind to scatter me;\nTheir rejoicing was like feasting on the poor in secret.",
+              "DRB": "Thou hast cursed his sceptres, the head of his warriors, them that came out as a whirlwind to scatter me. Their joy was like that of him that devoureth the poor man in secret.",
+              "ESV": "You pierced with his own arrows the heads of his warriors,\n    who came like a whirlwind to scatter me,\n    rejoicing as if to devour the poor in secret."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "You trampled the sea with your horses, churning the great waters.",
+              "KJV": "Thou didst walk through the sea with thine horses, through the heap of great waters.",
+              "NASB95": "You trampled on the sea with Your horses,\nOn the surge of many waters.",
+              "NKJV": "You walked through the sea with Your horses,\nThrough the heap of great waters.",
+              "DRB": "Thou madest a way in the sea for thy horses, in the mud of many waters.",
+              "ESV": "You trampled the sea with your horses,\n    the surging of mighty waters."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "I heard and my heart pounded, my lips quivered at the sound; decay crept into my bones, and my legs trembled. Yet I will wait patiently for the day of calamity to come on the nation invading us.",
+              "KJV": "When I heard, my belly trembled; my lips quivered at the voice: rottenness entered into my bones, and I trembled in myself, that I might rest in the day of trouble: when he cometh up unto the people, he will invade them with his troops.",
+              "NASB95": "I heard and my inward parts trembled,\nAt the sound my lips quivered.\nDecay enters my bones,\nAnd in my place I tremble.\nBecause I must wait quietly for the day of distress,\nFor the people to arise who will invade us.",
+              "NKJV": "When I heard, my body trembled;\nMy lips quivered at the voice;\nRottenness entered my bones;\nAnd I trembled in myself,\nThat I might rest in the day of trouble.\nWhen he comes up to the people,\nHe will invade them with his troops.",
+              "DRB": "I have heard and my bowels were troubled: my lips trembled at the voice. Let rottenness enter into my bones, and swarm under me. That I may rest in the day of tribulation: that I may go up to our people that are girded.",
+              "ESV": "I hear, and my body trembles;\n    my lips quiver at the sound;\nrottenness enters into my bones;\n    my legs tremble beneath me.\nYet I will quietly wait for the day of trouble\n    to come upon people who invade us."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

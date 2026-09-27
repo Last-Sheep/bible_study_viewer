@@ -1332,16 +1332,32 @@
         ]
       },
       {
-        "id": "rom_1_29_32",
+        "id": "rom_1_28_32",
         "title": "Unbelief and Its Consequences",
         "description": "Keywords of the sinful nature",
         "reference": {
           "book": "Romans",
           "chapter": 1,
-          "start": 29,
+          "start": 28,
           "end": 32
         },
         "rows": [
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "Furthermore, since they did not think it worthwhile to retain the knowledge of God, he gave them over to a depraved mind, to do what ought not to be done.",
+              "KJV": "And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient;",
+              "NASB95": "And just as they did not see fit to acknowledge God any longer, God gave them over to a depraved mind, to do those things which are not proper,",
+              "NKJV": "And even as they did not like to retain God in their knowledge, God gave them over to a debased mind, to do those things which are not fitting;",
+              "DRB": "And as they liked not to have God in their knowledge, God delivered them up to a reprobate sense, to do those things which are not convenient;",
+              "ESV": "And since they did not see fit to acknowledge God, God gave them up to a debased mind to do what ought not to be done.",
+              "LEB": "And just as they did not see fit to recognize God, God gave them over to a debased mind, to do the things that are not proper,",
+              "AMP": "And since they did not see fit to acknowledge God or consider Him worth knowing [as their Creator], God gave them over to a depraved mind, to do things which are improper and repulsive,",
+              "NLT": "Since they thought it foolish to acknowledge God, he abandoned them to their foolish thinking and let them do things that should never be done.",
+              "AKJV": "And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient;",
+              "NRSV": "And since they did not see fit to acknowledge God, God gave them over to an unfit mind and to do things that should not be done."
+            }
+          },
           {
             "verse": 29,
             "texts": {
