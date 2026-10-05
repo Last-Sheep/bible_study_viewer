@@ -24,14 +24,14 @@
     ],
     "blocks": [
       {
-        "id": "pro_6_12_17",
+        "id": "pro_6_12_15",
         "title": "The Wicked Man",
         "description": "",
         "reference": {
           "book": "Proverbs",
           "chapter": 6,
           "start": 12,
-          "end": 17
+          "end": 15
         },
         "rows": [
           {
@@ -80,30 +80,6 @@
               "DRB": "To such a one his destruction shall presently come, and he shall suddenly be destroyed, and shall no longer have any remedy.",
               "ESV": "therefore calamity will come upon him suddenly;\n    in a moment he will be broken beyond healing.",
               "LEB": "Upon such a man, suddenly shall his calamity come;\n    in a moment he will be damaged and there is no healing."
-            }
-          },
-          {
-            "verse": 16,
-            "texts": {
-              "NIV84": "There are six things the LORD hates, seven that are detestable to him:",
-              "KJV": "These six things doth the Lord hate: yea, seven are an abomination unto him:",
-              "NASB95": "There are six things which the Lord hates,\nYes, seven which are an abomination to Him:",
-              "NKJV": "These six things the Lord hates,\nYes, seven are an abomination to Him:",
-              "DRB": "Six things there are, which the Lord hateth, and the seventh his soul detesteth:",
-              "ESV": "There are six things that the Lord hates,\n    seven that are an abomination to him:",
-              "LEB": "There are six things Yahweh hates,\n    and seven things are abominations of his soul:"
-            }
-          },
-          {
-            "verse": 17,
-            "texts": {
-              "NIV84": "haughty eyes, a lying tongue, hands that shed innocent blood,",
-              "KJV": "A proud look, a lying tongue, and hands that shed innocent blood,",
-              "NASB95": "Haughty eyes, a lying tongue,\nAnd hands that shed innocent blood,",
-              "NKJV": "A proud look,\nA lying tongue,\nHands that shed innocent blood,",
-              "DRB": "Haughty eyes, a lying tongue, hands that shed innocent blood,",
-              "ESV": "haughty eyes, a lying tongue,\n    and hands that shed innocent blood,",
-              "LEB": "haughty eyes, a lying tongue,\n    and hands that shed innocent blood,"
             }
           }
         ]
