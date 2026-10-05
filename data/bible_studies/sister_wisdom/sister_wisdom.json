@@ -1,0 +1,2722 @@
+{
+  "scripture": {
+    "header": {
+      "id": "sister_wisdom",
+      "title": "Sister Wisdom",
+      "description": "References about calling Wisdom a Sister",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NASB95",
+      "NKJV",
+      "DRB",
+      "ESV",
+      "LEB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_1_1_7",
+        "title": "The Beginning of Knowledge",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 1,
+          "start": 1,
+          "end": 7
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "The proverbs of Solomon son of David, king of Israel:",
+              "KJV": "The proverbs of Solomon the son of David, king of Israel;",
+              "NASB95": "The proverbs of Solomon the son of David, king of Israel:",
+              "NKJV": "The proverbs of Solomon the son of David, king of Israel:",
+              "DRB": "The parables of Solomon, the son of David, king of Israel.",
+              "ESV": "The proverbs of Solomon, son of David, king of Israel:",
+              "LEB": "Proverbs of Solomon, son of David, king of Israel:"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "for attaining wisdom and discipline; for understanding words of insight;",
+              "KJV": "To know wisdom and instruction; to perceive the words of understanding;",
+              "NASB95": "To know wisdom and instruction,\nTo discern the sayings of understanding,",
+              "NKJV": "To know wisdom and instruction,\nTo perceive the words of understanding,",
+              "DRB": "To know wisdom, and instruction: To understand the words of prudence:",
+              "ESV": "To know wisdom and instruction,\n    to understand words of insight,",
+              "LEB": "To know wisdom and instruction,\n    to understand sayings of understanding,"
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "for acquiring a disciplined and prudent life, doing what is right and just and fair;",
+              "KJV": "To receive the instruction of wisdom, justice, and judgment, and equity;",
+              "NASB95": "To receive instruction in wise behavior,\nRighteousness, justice and equity;",
+              "NKJV": "To receive the instruction of wisdom,\nJustice, judgment, and equity;",
+              "DRB": "and to receive the instruction of doctrine, justice, and judgment, and equity:",
+              "ESV": "to receive instruction in wise dealing,\n    in righteousness, justice, and equity;",
+              "LEB": "to gain insightful instruction,\n    righteousness and justice and equity,"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "for giving prudence to the simple, knowledge and discretion to the young-",
+              "KJV": "To give subtilty to the simple, to the young man knowledge and discretion.",
+              "NASB95": "To give prudence to the naive,\nTo the youth knowledge and discretion,",
+              "NKJV": "To give prudence to the simple,\nTo the young man knowledge and discretion\u2014",
+              "DRB": "To give subtilty to little ones, to the young man knowledge and understanding.",
+              "ESV": "to give prudence to the simple,\n    knowledge and discretion to the youth\u2014",
+              "LEB": "to give shrewdness to the simple,\n    knowledge and purpose to the young,"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "let the wise listen and add to their learning, and let the discerning get guidance-",
+              "KJV": "A wise man will hear, and will increase learning; and a man of understanding shall attain unto wise counsels:",
+              "NASB95": "A wise man will hear and increase in learning,\nAnd a man of understanding will acquire wise counsel,",
+              "NKJV": "A wise man will hear and increase learning,\nAnd a man of understanding will attain wise counsel,",
+              "DRB": "A wise man shall hear and shall be wiser: and he that understandeth, shall possess governments.",
+              "ESV": "Let the wise hear and increase in learning,\n    and the one who understands obtain guidance,",
+              "LEB": "may the wise hear and increase learning,\n    and the one who understands gain direction,"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "for understanding proverbs and parables, the sayings and riddles of the wise.",
+              "KJV": "To understand a proverb, and the interpretation; the words of the wise, and their dark sayings.",
+              "NASB95": "To understand a proverb and a figure,\nThe words of the wise and their riddles.",
+              "NKJV": "To understand a proverb and an enigma,\nThe words of the wise and their riddles.",
+              "DRB": "He shall understand a parable, and the interpretation, the words of the wise, and their mysterious sayings.",
+              "ESV": "to understand a proverb and a saying,\n    the words of the wise and their riddles.",
+              "LEB": "to understand a proverb and an expression,\n    words of wisdom and their riddles."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "The fear of the Lord is the beginning of knowledge, but fools despise wisdom and discipline.",
+              "KJV": "The fear of the Lord is the beginning of knowledge: but fools despise wisdom and instruction.",
+              "NASB95": "The fear of the Lord is the beginning of knowledge;\nFools despise wisdom and instruction.",
+              "NKJV": "The fear of the Lord is the beginning of knowledge,\nBut fools despise wisdom and instruction.",
+              "DRB": "The fear of the Lord is the beginning of wisdom. Fools despise wisdom and instruction.",
+              "ESV": "The fear of the Lord is the beginning of knowledge;\n    fools despise wisdom and instruction.",
+              "LEB": "Fear of Yahweh is the beginning of knowledge;\n    wisdom and instruction, fools despise."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_1_8_19",
+        "title": "Shun Evil Counsel",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 1,
+          "start": 8,
+          "end": 19
+        },
+        "rows": [
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Listen, my son, to your father's instruction and do not forsake your mother's teaching.",
+              "KJV": "My son, hear the instruction of thy father, and forsake not the law of thy mother:",
+              "NASB95": "Hear, my son, your father\u2019s instruction\nAnd do not forsake your mother\u2019s teaching;",
+              "NKJV": "My son, hear the instruction of your father,\nAnd do not forsake the law of your mother;",
+              "DRB": "My son, hear the instruction of thy father, and forsake not the law of thy mother :",
+              "ESV": "Hear, my son, your father's instruction,\n    and forsake not your mother's teaching,",
+              "LEB": "My child, may you keep your father\u2019s instruction,\n    and do not reject your mother\u2019s teachings,"
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "They will be a garland to grace your head and a chain to adorn your neck.",
+              "KJV": "For they shall be an ornament of grace unto thy head, and chains about thy neck.",
+              "NASB95": "Indeed, they are a graceful wreath to your head\nAnd ornaments about your neck.",
+              "NKJV": "For they will be a graceful ornament on your head,\nAnd chains about your neck.",
+              "DRB": "That grace may be added to thy head, and a chain of gold to thy neck.",
+              "ESV": "for they are a graceful garland for your head\n    and pendants for your neck.",
+              "LEB": "for they are a garland of favor for your head,\n    and pendants for your neck."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "My son, if sinners entice you, do not give in to them.",
+              "KJV": "My son, if sinners entice thee, consent thou not.",
+              "NASB95": "My son, if sinners entice you,\nDo not consent.",
+              "NKJV": "My son, if sinners entice you,\nDo not consent.",
+              "DRB": "My son, if sinners shall entice thee, consent not to them.",
+              "ESV": "My son, if sinners entice you,\n    do not consent.",
+              "LEB": "My child, if sinners entice you, do not consent."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "If they say, \"Come along with us; let's lie in wait for someone's blood, let's waylay some harmless soul;",
+              "KJV": "If they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause:",
+              "NASB95": "If they say, \u201cCome with us,\nLet us lie in wait for blood,\nLet us ambush the innocent without cause;",
+              "NKJV": "If they say, \u201cCome with us,\nLet us lie in wait to shed blood;\nLet us lurk secretly for the innocent without cause;",
+              "DRB": "If they shall say: Come with us, let us lie in wait for blood, let us hide snares for the innocent without cause:",
+              "ESV": "If they say, \u201cCome with us, let us lie in wait for blood;\n    let us ambush the innocent without reason;",
+              "LEB": "If they say,\n    \u201cCome with us!\n    We shall lie in wait for blood;\n    we shall ambush the innocent without cause."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "let's swallow them alive, like the grave, and whole, like those who go down to the pit;",
+              "KJV": "Let us swallow them up alive as the grave; and whole, as those that go down into the pit:",
+              "NASB95": "Let us swallow them alive like Sheol,\nEven whole, as those who go down to the pit;",
+              "NKJV": "Let us swallow them alive like Sheol,\nAnd whole, like those who go down to the Pit;",
+              "DRB": "Let us swallow him up alive like hell, and whole as one that goeth down into the pit.",
+              "ESV": "like Sheol let us swallow them alive,\n    and whole, like those who go down to the pit;",
+              "LEB": "Like Sheol, we will swallow them alive\n    and whole, like those who descend to the pit."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "we will get all sorts of valuable things and fill our houses with plunder;",
+              "KJV": "We shall find all precious substance, we shall fill our houses with spoil:",
+              "NASB95": "We will find all kinds of precious wealth,\nWe will fill our houses with spoil;",
+              "NKJV": "We shall find all kinds of precious possessions,\nWe shall fill our houses with spoil;",
+              "DRB": "We shall find all precious substance, we shall fill our houses with spoils.",
+              "ESV": "we shall find all precious goods,\n    we shall fill our houses with plunder;",
+              "LEB": "We shall find all precious wealth,\n    we shall fill our houses with booty,"
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "throw in your lot with us, and we will share a common purse\"-",
+              "KJV": "Cast in thy lot among us; let us all have one purse:",
+              "NASB95": "Throw in your lot with us,\nWe shall all have one purse,\u201d",
+              "NKJV": "Cast in your lot among us,\nLet us all have one purse\u201d\u2014",
+              "DRB": "Cast in thy lot with us, let us all have one purse.",
+              "ESV": "throw in your lot among us;\n    we will all have one purse\u201d\u2014",
+              "LEB": "you shall throw your lot in our midst,\n    there will be one purse for all of us.\u201d"
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "my son, do not go along with them, do not set foot on their paths;",
+              "KJV": "My son, walk not thou in the way with them; refrain thy foot from their path:",
+              "NASB95": "My son, do not walk in the way with them.\nKeep your feet from their path,",
+              "NKJV": "My son, do not walk in the way with them,\nKeep your foot from their path;",
+              "DRB": "My son, walk not thou with them, restrain thy foot from their paths.",
+              "ESV": "my son, do not walk in the way with them;\n    hold back your foot from their paths,",
+              "LEB": "My child, do not walk in their way.\n    Keep your foot from their paths,"
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "for their feet rush into sin, they are swift to shed blood.",
+              "KJV": "For their feet run to evil, and make haste to shed blood.",
+              "NASB95": "For their feet run to evil\nAnd they hasten to shed blood.",
+              "NKJV": "For their feet run to evil,\nAnd they make haste to shed blood.",
+              "DRB": "For their feet run to evil, and make haste to shed blood.",
+              "ESV": "for their feet run to evil,\n    and they make haste to shed blood.",
+              "LEB": "for their feet run to evil,\n    and they hurry to shed blood,"
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "How useless to spread a net in full view of all the birds!",
+              "KJV": "Surely in vain the net is spread in the sight of any bird.",
+              "NASB95": "Indeed, it is useless to spread the baited net\nIn the sight of any bird;",
+              "NKJV": "Surely, in vain the net is spread\nIn the sight of any bird;",
+              "DRB": "But a net is spread in vain before the eyes of them that have wings.",
+              "ESV": "For in vain is a net spread\n    in the sight of any bird,",
+              "LEB": "for \u201cin vain is the net scattered,\n    in the sight of any winged bird.\u201d"
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "These men lie in wait for their own blood; they waylay only themselves!",
+              "KJV": "And they lay wait for their own blood; they lurk privily for their own lives.",
+              "NASB95": "But they lie in wait for their own blood;\nThey ambush their own lives.",
+              "NKJV": "But they lie in wait for their own blood,\nThey lurk secretly for their own lives.",
+              "DRB": "And they themselves lie in wait for their own blood, and practise deceits against their own souls.",
+              "ESV": "but these men lie in wait for their own blood;\n    they set an ambush for their own lives.",
+              "LEB": "They lie in wait for their own blood.\n    They ambush their own lives."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "Such is the end of all who go after ill-gotten gain; it takes away the lives of those who get it.",
+              "KJV": "So are the ways of every one that is greedy of gain; which taketh away the life of the owners thereof.",
+              "NASB95": "So are the ways of everyone who gains by violence;\nIt takes away the life of its possessors.",
+              "NKJV": "So are the ways of everyone who is greedy for gain;\nIt takes away the life of its owners.",
+              "DRB": "So the wage of every covetous man destroy the souls of the possessors.",
+              "ESV": "Such are the ways of everyone who is greedy for unjust gain;\n    it takes away the life of its possessors.",
+              "LEB": "Thus are the ways of all who are greedy for gain\u2014\n    it will take the life of its possessors."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_1_20_27",
+        "title": "Wisdom Speaks Her Words",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 1,
+          "start": 20,
+          "end": 27
+        },
+        "rows": [
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "Wisdom calls aloud in the street, she raises her voice in the public squares;",
+              "KJV": "Wisdom crieth without; she uttereth her voice in the streets:",
+              "NASB95": "Wisdom shouts in the street,\nShe lifts her voice in the square;",
+              "NKJV": "Wisdom calls aloud outside;\nShe raises her voice in the open squares.",
+              "DRB": "Wisdom preacheth abroad, she uttereth her voice in the streets:",
+              "ESV": "Wisdom cries aloud in the street,\n    in the markets she raises her voice;",
+              "LEB": "Wisdom calls out in the streets,\n    in the squares she raises her voice."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "at the head of the noisy streets she cries out, in the gateways of the city she makes her speech:",
+              "KJV": "She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, saying,",
+              "NASB95": "At the head of the noisy streets she cries out;\nAt the entrance of the gates in the city she utters her sayings:",
+              "NKJV": "She cries out in the chief concourses,\nAt the openings of the gates in the city\nShe speaks her words:",
+              "DRB": "At the head of multitudes she crieth out, in the entrance of the gates of the city she uttereth her words, saying:",
+              "ESV": "at the head of the noisy streets she cries out;\n    at the entrance of the city gates she speaks:",
+              "LEB": "On a busy corner she cries out,\n    at the entrances of the gates in the city, she speaks her sayings:"
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "\"How long will you simple ones love your simple ways? How long will mockers delight in mockery and fools hate knowledge?",
+              "KJV": "How long, ye simple ones, will ye love simplicity? and the scorners delight in their scorning, and fools hate knowledge?",
+              "NASB95": "\u201cHow long, O naive ones, will you love being simple-minded?\nAnd scoffers delight themselves in scoffing\nAnd fools hate knowledge?",
+              "NKJV": "\u201cHow long, you simple ones, will you love simplicity?\nFor scorners delight in their scorning,\nAnd fools hate knowledge.",
+              "DRB": "O children, how long will you love childishness, and fools covet those things which are hurtful to themselves, and the unwise hate knowledge?",
+              "ESV": "\u201cHow long, O simple ones, will you love being simple?\nHow long will scoffers delight in their scoffing\n    and fools hate knowledge?",
+              "LEB": "\u201cHow long, O simple ones, will you love simplicity?\n    And how long will scoffers delight in their scoffing,\n    and fools hate knowledge?"
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "If you had responded to my rebuke, I would have poured out my heart to you and made my thoughts known to you.",
+              "KJV": "Turn you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you.",
+              "NASB95": "\u201cTurn to my reproof,\nBehold, I will pour out my spirit on you;\nI will make my words known to you.",
+              "NKJV": "Turn at my rebuke;\nSurely I will pour out my spirit on you;\nI will make my words known to you.",
+              "DRB": "Turn ye at my reproof: behold I will utter my spirit to you, and will shew you my words.",
+              "ESV": "If you turn at my reproof,\nbehold, I will pour out my spirit to you;\n    I will make my words known to you.",
+              "LEB": "May you turn to my argument!\n    Behold, I shall pour out my spirit upon you;\n    I will make my words known to you."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "But since you rejected me when I called and no one gave heed when I stretched out my hand,",
+              "KJV": "Because I have called, and ye refused; I have stretched out my hand, and no man regarded;",
+              "NASB95": "\u201cBecause I called and you refused,\nI stretched out my hand and no one paid attention;",
+              "NKJV": "Because I have called and you refused,\nI have stretched out my hand and no one regarded,",
+              "DRB": "Because I called, and you refused: I stretched out my hand, and there was none that regarded.",
+              "ESV": "Because I have called and you refused to listen,\n    have stretched out my hand and no one has heeded,",
+              "LEB": "Because I called out and you refused me,\n    I stretched out my hand, yet there is none who heeds."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "since you ignored all my advice and would not accept my rebuke,",
+              "KJV": "But ye have set at nought all my counsel, and would none of my reproof:",
+              "NASB95": "And you neglected all my counsel\nAnd did not want my reproof;",
+              "NKJV": "Because you disdained all my counsel,\nAnd would have none of my rebuke,",
+              "DRB": "You have despised all my counsel, and have neglected my reprehensions.",
+              "ESV": "because you have ignored all my counsel\n    and would have none of my reproof,",
+              "LEB": "You have ignored all my counsel,\n    and my reproof you are not willing to accept."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "I in turn will laugh at your disaster; I will mock when calamity overtakes you-",
+              "KJV": "I also will laugh at your calamity; I will mock when your fear cometh;",
+              "NASB95": "I will also laugh at your calamity;\nI will mock when your dread comes,",
+              "NKJV": "I also will laugh at your calamity;\nI will mock when your terror comes,",
+              "DRB": "I also will laugh in your destruction, and will mock when that shall come to you which you feared.",
+              "ESV": "I also will laugh at your calamity;\n    I will mock when terror strikes you,",
+              "LEB": "I will also laugh at your calamity;\n    I will mock when panic comes upon you."
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "when calamity overtakes you like a storm, when disaster sweeps over you like a whirlwind, when distress and trouble overwhelm you.",
+              "KJV": "When your fear cometh as desolation, and your destruction cometh as a whirlwind; when distress and anguish cometh upon you.",
+              "NASB95": "When your dread comes like a storm\nAnd your calamity comes like a whirlwind,\nWhen distress and anguish come upon you.",
+              "NKJV": "When your terror comes like a storm,\nAnd your destruction comes like a whirlwind,\nWhen distress and anguish come upon you.",
+              "DRB": "When sudden calamity shall fall on you, and destruction, as a tempest, shall be at hand: when tribulation and distress shall come upon you:",
+              "ESV": "when terror strikes you like a storm\n    and your calamity comes like a whirlwind,\n    when distress and anguish come upon you.",
+              "LEB": "When your panic comes like a storm,\n    and your calamity arrives like a whirlwind,\n    when distress and anguish come upon you,"
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_1_28_33",
+        "title": "Listen to Wisdom",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 1,
+          "start": 28,
+          "end": 33
+        },
+        "rows": [
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "\"Then they will call to me but I will not answer; they will look for me but will not find me.",
+              "KJV": "Then shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me:",
+              "NASB95": "\u201cThen they will call on me, but I will not answer;\nThey will seek me diligently but they will not find me,",
+              "NKJV": "\u201cThen they will call on me, but I will not answer;\nThey will seek me diligently, but they will not find me.",
+              "DRB": "Then shall they call upon me, and I will not hear: they shall rise in the morning and shall not find me:",
+              "ESV": "Then they will call upon me, but I will not answer;\n    they will seek me diligently but will not find me.",
+              "LEB": "then they will call me, but I will not answer;\n    they will seek me diligently but not find me."
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "Since they hated knowledge and did not choose to fear the LORD,",
+              "KJV": "For that they hated knowledge, and did not choose the fear of the Lord:",
+              "NASB95": "Because they hated knowledge\nAnd did not choose the fear of the Lord.",
+              "NKJV": "Because they hated knowledge\nAnd did not choose the fear of the Lord,",
+              "DRB": "Because they have hated instruction and received not the fear of the Lord,",
+              "ESV": "Because they hated knowledge\n    and did not choose the fear of the Lord,",
+              "LEB": "Since they hated knowledge,\n    and did not choose the fear of Yahweh,"
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "since they would not accept my advice and spurned my rebuke,",
+              "KJV": "They would none of my counsel: they despised all my reproof.",
+              "NASB95": "\u201cThey would not accept my counsel,\nThey spurned all my reproof.",
+              "NKJV": "They would have none of my counsel\nAnd despised my every rebuke.",
+              "DRB": "Nor consented to my counsel, but despised all my reproof.",
+              "ESV": "would have none of my counsel\n    and despised all my reproof,",
+              "LEB": "they were not willing to accept my counsel,\n    they despised all my reproof."
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "they will eat the fruit of their ways and be filled with the fruit of their schemes.",
+              "KJV": "Therefore shall they eat of the fruit of their own way, and be filled with their own devices.",
+              "NASB95": "\u201cSo they shall eat of the fruit of their own way\nAnd be satiated with their own devices.",
+              "NKJV": "Therefore they shall eat the fruit of their own way,\nAnd be filled to the full with their own fancies.",
+              "DRB": "Therefore they shall eat the fruit of their own way, and shall be filled with their own devices.",
+              "ESV": "therefore they shall eat the fruit of their way,\n    and have their fill of their own devices.",
+              "LEB": "They shall eat from the fruit of their way,\n    and they shall be sated from their own schemes,"
+            }
+          },
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "For the waywardness of the simple will kill them, and the complacency of fools will destroy them;",
+              "KJV": "For the turning away of the simple shall slay them, and the prosperity of fools shall destroy them.",
+              "NASB95": "\u201cFor the waywardness of the naive will kill them,\nAnd the complacency of fools will destroy them.",
+              "NKJV": "For the turning away of the simple will slay them,\nAnd the complacency of fools will destroy them;",
+              "DRB": "The turning away of little ones shall kill them, and the prosperity of fools shall destroy them.",
+              "ESV": "For the simple are killed by their turning away,\n    and the complacency of fools destroys them;",
+              "LEB": "for the waywardness of the simple ones will kill them,\n    and the complacency of fools will destroy them."
+            }
+          },
+          {
+            "verse": 33,
+            "texts": {
+              "NIV84": "but whoever listens to me will live in safety and be at ease, without fear of harm.\"",
+              "KJV": "But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil.",
+              "NASB95": "\u201cBut he who listens to me shall live securely\nAnd will be at ease from the dread of evil.\u201d",
+              "NKJV": "But whoever listens to me will dwell safely,\nAnd will be secure, without fear of evil.\u201d",
+              "DRB": "But he that shall hear me, shall rest without terror, and shall enjoy abundance, without fear of evils.",
+              "ESV": "but whoever listens to me will dwell secure\n    and will be at ease, without dread of disaster.\u201d",
+              "LEB": "Whoever listens to me will dwell in security\n    and rest securely from dread and disaster.\u201d"
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_2_1_9",
+        "title": "She is Hidden Treasures",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 2,
+          "start": 1,
+          "end": 9
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "My son, if you accept my words and store up my commands within you,",
+              "KJV": "My son, if thou wilt receive my words, and hide my commandments with thee;",
+              "NASB95": "My son, if you will receive my words\nAnd treasure my commandments within you,",
+              "NKJV": "My son, if you receive my words,\nAnd treasure my commands within you,",
+              "DRB": "My son, if thou wilt receive my words, and wilt hide my commandments with thee,",
+              "ESV": "My son, if you receive my words\n    and treasure up my commandments with you,",
+              "LEB": "My child, if you will receive my sayings,\n    and hide my commands with you,"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "turning your ear to wisdom and applying your heart to understanding,",
+              "KJV": "So that thou incline thine ear unto wisdom, and apply thine heart to understanding;",
+              "NASB95": "Make your ear attentive to wisdom,\nIncline your heart to understanding;",
+              "NKJV": "So that you incline your ear to wisdom,\nAnd apply your heart to understanding;",
+              "DRB": "That thy ear may hearken to wisdom: Incline thy heart to know prudence:",
+              "ESV": "making your ear attentive to wisdom\n    and inclining your heart to understanding;",
+              "LEB": "in order to incline your ear toward wisdom,\n    then you shall apply your heart to understanding."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "and if you call out for insight and cry aloud for understanding,",
+              "KJV": "Yea, if thou criest after knowledge, and liftest up thy voice for understanding;",
+              "NASB95": "For if you cry for discernment,\nLift your voice for understanding;",
+              "NKJV": "Yes, if you cry out for discernment,\nAnd lift up your voice for understanding,",
+              "DRB": "For if thou shalt call for wisdom, and incline thy heart to prudence:",
+              "ESV": "yes, if you call out for insight\n    and raise your voice for understanding,",
+              "LEB": "For if you cry out for understanding,\n    if you lift your voice for insight,"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "and if you look for it as for silver and search for it as for hidden treasure,",
+              "KJV": "If thou seekest her as silver, and searchest for her as for hid treasures;",
+              "NASB95": "If you seek her as silver\nAnd search for her as for hidden treasures;",
+              "NKJV": "If you seek her as silver,\nAnd search for her as for hidden treasures;",
+              "DRB": "If thou shalt seek her as money, and shalt dig for her as for a treasure:",
+              "ESV": "if you seek it like silver\n    and search for it as for hidden treasures,",
+              "LEB": "if you seek her like silver\n    and search her out like treasure,"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "then you will understand the fear of the LORD and find the knowledge of God.",
+              "KJV": "Then shalt thou understand the fear of the Lord, and find the knowledge of God.",
+              "NASB95": "Then you will discern the fear of the Lord\nAnd discover the knowledge of God.",
+              "NKJV": "Then you will understand the fear of the Lord,\nAnd find the knowledge of God.",
+              "DRB": "Then shalt thou understand the fear of the Lord, and shalt find the knowledge of God.",
+              "ESV": "then you will understand the fear of the Lord\n    and find the knowledge of God.",
+              "LEB": "then you will understand the fear of Yahweh,\n    and the knowledge of God you will find."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "For the LORD gives wisdom, and from his mouth come knowledge and understanding.",
+              "KJV": "For the Lord giveth wisdom: out of his mouth cometh knowledge and understanding.",
+              "NASB95": "For the Lord gives wisdom;\nFrom His mouth come knowledge and understanding.",
+              "NKJV": "For the Lord gives wisdom;\nFrom His mouth come knowledge and understanding;",
+              "DRB": "Because the Lord giveth wisdom: and out of his mouth cometh prudence and knowledge.",
+              "ESV": "For the Lord gives wisdom;\n    from his mouth come knowledge and understanding;",
+              "LEB": "For Yahweh will give wisdom;\n    from his mouth come knowledge and understanding."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "He holds victory in store for the upright, he is a shield to those whose walk is blameless,",
+              "KJV": "He layeth up sound wisdom for the righteous: he is a buckler to them that walk uprightly.",
+              "NASB95": "He stores up sound wisdom for the upright;\nHe is a shield to those who walk in integrity,",
+              "NKJV": "He stores up sound wisdom for the upright;\nHe is a shield to those who walk uprightly;",
+              "DRB": "He will keep the salvation of the righteous, and protect them that walk in simplicity.",
+              "ESV": "he stores up sound wisdom for the upright;\n    he is a shield to those who walk in integrity,",
+              "LEB": "For the upright, he stores sound judgment, a shield for those who walk uprightly,"
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "for he guards the course of the just and protects the way of his faithful ones.",
+              "KJV": "He keepeth the paths of judgment, and preserveth the way of his saints.",
+              "NASB95": "Guarding the paths of justice,\nAnd He preserves the way of His godly ones.",
+              "NKJV": "He guards the paths of justice,\nAnd preserves the way of His saints.",
+              "DRB": "Keeping the paths of justice, and guarding the ways of saints.",
+              "ESV": "guarding the paths of justice\n    and watching over the way of his saints.",
+              "LEB": "in order to guard paths of justice\n    and keep the way of his faithful ones."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Then you will understand what is right and just and fair-every good path.",
+              "KJV": "Then shalt thou understand righteousness, and judgment, and equity; yea, every good path.",
+              "NASB95": "Then you will discern righteousness and justice\nAnd equity and every good course.",
+              "NKJV": "Then you will understand righteousness and justice,\nEquity and every good path.",
+              "DRB": "Then shalt thou understand justice, and judgment, and equity, and every good path.",
+              "ESV": "Then you will understand righteousness and justice\n    and equity, every good path;",
+              "LEB": "Then you will understand righteousness and justice\n    and uprightness\u2014every good course\u2014"
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_2_10_22",
+        "title": "She Protects You",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 2,
+          "start": 10,
+          "end": 22
+        },
+        "rows": [
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "For wisdom will enter your heart, and knowledge will be pleasant to your soul.",
+              "KJV": "When wisdom entereth into thine heart, and knowledge is pleasant unto thy soul;",
+              "NASB95": "For wisdom will enter your heart\nAnd knowledge will be pleasant to your soul;",
+              "NKJV": "When wisdom enters your heart,\nAnd knowledge is pleasant to your soul,",
+              "DRB": "If wisdom shall enter into thy heart, and knowledge please thy soul:",
+              "ESV": "for wisdom will come into your heart,\n    and knowledge will be pleasant to your soul;",
+              "LEB": "for wisdom will enter your heart,\n    and knowledge will be pleasing to your soul."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Discretion will protect you, and understanding will guard you.",
+              "KJV": "Discretion shall preserve thee, understanding shall keep thee:",
+              "NASB95": "Discretion will guard you,\nUnderstanding will watch over you,",
+              "NKJV": "Discretion will preserve you;\nUnderstanding will keep you,",
+              "DRB": "Counsel shall keep thee, and prudence shall preserve thee,",
+              "ESV": "discretion will watch over you,\n    understanding will guard you,",
+              "LEB": "Discretion will watch over you;\n    understanding will protect you,"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Wisdom will save you from the ways of wicked men, from men whose words are perverse,",
+              "KJV": "To deliver thee from the way of the evil man, from the man that speaketh froward things;",
+              "NASB95": "To deliver you from the way of evil,\nFrom the man who speaks perverse things;",
+              "NKJV": "To deliver you from the way of evil,\nFrom the man who speaks perverse things,",
+              "DRB": "That thou mayst be delivered from the evil way, and from the man that speaketh perverse things:",
+              "ESV": "delivering you from the way of evil,\n    from men of perverted speech,",
+              "LEB": "in order to deliver you from the way of evil,\n    from a man who speaks devious things\u2014"
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "who leave the straight paths to walk in dark ways,",
+              "KJV": "Who leave the paths of uprightness, to walk in the ways of darkness;",
+              "NASB95": "From those who leave the paths of uprightness\nTo walk in the ways of darkness;",
+              "NKJV": "From those who leave the paths of uprightness\nTo walk in the ways of darkness;",
+              "DRB": "Who leave the right way, and walk by dark ways:",
+              "ESV": "who forsake the paths of uprightness\n    to walk in the ways of darkness,",
+              "LEB": "those who forsake the paths of uprightness\n    to walk in ways of darkness,"
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "who delight in doing wrong and rejoice in the perverseness of evil,",
+              "KJV": "Who rejoice to do evil, and delight in the frowardness of the wicked;",
+              "NASB95": "Who delight in doing evil\nAnd rejoice in the perversity of evil;",
+              "NKJV": "Who rejoice in doing evil,\nAnd delight in the perversity of the wicked;",
+              "DRB": "Who are glad when they have done evil, and rejoice in most wicked things:",
+              "ESV": "who rejoice in doing evil\n    and delight in the perverseness of evil,",
+              "LEB": "those who are happy to do evil,\n    for they delight in the deviousness of evil,"
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "whose paths are crooked and who are devious in their ways.",
+              "KJV": "Whose ways are crooked, and they froward in their paths:",
+              "NASB95": "Whose paths are crooked,\nAnd who are devious in their ways;",
+              "NKJV": "Whose ways are crooked,\nAnd who are devious in their paths;",
+              "DRB": "Whose ways are perverse, and their steps infamous.",
+              "ESV": "men whose paths are crooked,\n    and who are devious in their ways.",
+              "LEB": "who are crooked in their ways,\n    and devious in their paths;"
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "It will save you also from the adulteress, from the wayward wife with her seductive words,",
+              "KJV": "To deliver thee from the strange woman, even from the stranger which flattereth with her words;",
+              "NASB95": "To deliver you from the strange woman,\nFrom the adulteress who flatters with her words;",
+              "NKJV": "To deliver you from the immoral woman,\nFrom the seductress who flatters with her words,",
+              "DRB": "That thou mayst be delivered from the strange women, and from the stranger, who softeneth her words:",
+              "ESV": "So you will be delivered from the forbidden woman,\n    from the adulteress with her smooth words,",
+              "LEB": "in order to deliver you from a strange woman,\n    from a foreign woman who flatters with her sayings,"
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "who has left the partner of her youth and ignored the covenant she made before God.",
+              "KJV": "Which forsaketh the guide of her youth, and forgetteth the covenant of her God.",
+              "NASB95": "That leaves the companion of her youth\nAnd forgets the covenant of her God;",
+              "NKJV": "Who forsakes the companion of her youth,\nAnd forgets the covenant of her God.",
+              "DRB": "And forsaketh the guide of her youth,",
+              "ESV": "who forsakes the companion of her youth\n    and forgets the covenant of her God;",
+              "LEB": "she who forsakes the partner of her youth\n    and has forgotten the covenant of her God,"
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "For her house leads down to death and her paths to the spirits of the dead.",
+              "KJV": "For her house inclineth unto death, and her paths unto the dead.",
+              "NASB95": "For her house sinks down to death\nAnd her tracks lead to the dead;",
+              "NKJV": "For her house leads down to death,\nAnd her paths to the dead;",
+              "DRB": "And hath forgotten the covenant of her God: for her house inclineth unto death, and her paths to hell.",
+              "ESV": "for her house sinks down to death,\n    and her paths to the departed;",
+              "LEB": "for her house sinks to death,\n    and to the dead are her paths."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "None who go to her return or attain the paths of life.",
+              "KJV": "None that go unto her return again, neither take they hold of the paths of life.",
+              "NASB95": "None who go to her return again,\nNor do they reach the paths of life.",
+              "NKJV": "None who go to her return,\nNor do they regain the paths of life\u2014",
+              "DRB": "None that go in unto her shall return again, neither shall they take hold of the paths of life,",
+              "ESV": "none who go to her come back,\n    nor do they regain the paths of life.",
+              "LEB": "Of all who go to her, none shall return,\n    nor do they reach paths of life."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "Thus you will walk in the ways of good men and keep to the paths of the righteous.",
+              "KJV": "That thou mayest walk in the way of good men, and keep the paths of the righteous.",
+              "NASB95": "So you will walk in the way of good men\nAnd keep to the paths of the righteous.",
+              "NKJV": "So you may walk in the way of goodness,\nAnd keep to the paths of righteousness.",
+              "DRB": "That thou mayst walk in a good way: and mayst keep the paths of the just.",
+              "ESV": "So you will walk in the way of the good\n    and keep to the paths of the righteous.",
+              "LEB": "So that you will walk on the road of those who are good,\n    and the paths of those who are righteous you shall keep."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "For the upright will live in the land, and the blameless will remain in it;",
+              "KJV": "For the upright shall dwell in the land, and the perfect shall remain in it.",
+              "NASB95": "For the upright will live in the land\nAnd the blameless will remain in it;",
+              "NKJV": "For the upright will dwell in the land,\nAnd the blameless will remain in it;",
+              "DRB": "For they that are upright shall dwell in the earth, and the simple shall continue in it.",
+              "ESV": "For the upright will inhabit the land,\n    and those with integrity will remain in it,",
+              "LEB": "For those who are upright will dwell in the land,\n    and those who are blameless will remain in it."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "but the wicked will be cut off from the land, and the unfaithful will be torn from it.",
+              "KJV": "But the wicked shall be cut off from the earth, and the transgressors shall be rooted out of it.",
+              "NASB95": "But the wicked will be cut off from the land\nAnd the treacherous will be uprooted from it.",
+              "NKJV": "But the wicked will be cut off from the earth,\nAnd the unfaithful will be uprooted from it.",
+              "DRB": "But the wicked shall be destroyed from the earth: and they that do unjustly shall be taken away from it.",
+              "ESV": "but the wicked will be cut off from the land,\n    and the treacherous will be rooted out of it.",
+              "LEB": "And those who are wicked will be cut off from the land,\n    and those who are treacherous will be uprooted from it."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_3_1_12",
+        "title": "Tablet of Your Heart",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 3,
+          "start": 1,
+          "end": 12
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "My son, do not forget my teaching, but keep my commands in your heart,",
+              "KJV": "My son, forget not my law; but let thine heart keep my commandments:",
+              "NASB95": "My son, do not forget my teaching,\nBut let your heart keep my commandments;",
+              "NKJV": "My son, do not forget my law,\nBut let your heart keep my commands;",
+              "DRB": "My son, forget not my law, and let thy heart keep my commandments.",
+              "ESV": "My son, do not forget my teaching,\n    but let your heart keep my commandments,",
+              "LEB": "My child, do not forget my instruction,\n    and may your heart guard my commands."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "for they will prolong your life many years and bring you prosperity.",
+              "KJV": "For length of days, and long life, and peace, shall they add to thee.",
+              "NASB95": "For length of days and years of life\nAnd peace they will add to you.",
+              "NKJV": "For length of days and long life\nAnd peace they will add to you.",
+              "DRB": "For they shall add to thee length of days, and years of life and peace.",
+              "ESV": "for length of days and years of life\n    and peace they will add to you.",
+              "LEB": "For length of days, years of life,\n    and peace they shall add to you."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "Let love and faithfulness never leave you; bind them around your neck, write them on the tablet of your heart.",
+              "KJV": "Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart:",
+              "NASB95": "Do not let kindness and truth leave you;\nBind them around your neck,\nWrite them on the tablet of your heart.",
+              "NKJV": "Let not mercy and truth forsake you;\nBind them around your neck,\nWrite them on the tablet of your heart,",
+              "DRB": "Let not mercy and truth leave thee, put them about thy neck, and write them in the tables of thy heart:",
+              "ESV": "Let not steadfast love and faithfulness forsake you;\n    bind them around your neck;\n    write them on the tablet of your heart.",
+              "LEB": "May loyal love and truth not forsake you;\n    bind them around your neck,\n    write them upon your heart."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Then you will win favor and a good name in the sight of God and man.",
+              "KJV": "So shalt thou find favour and good understanding in the sight of God and man.",
+              "NASB95": "So you will find favor and good repute\nIn the sight of God and man.",
+              "NKJV": "And so find favor and high esteem\nIn the sight of God and man.",
+              "DRB": "And thou shalt And grace and good understanding before God and men.",
+              "ESV": "So you will find favor and good success\n    in the sight of God and man.",
+              "LEB": "And you shall find favor and good sense\n    in the eyes of God and humankind."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "Trust in the LORD with all your heart and lean not on your own understanding;",
+              "KJV": "Trust in the Lord with all thine heart; and lean not unto thine own understanding.",
+              "NASB95": "Trust in the Lord with all your heart\nAnd do not lean on your own understanding.",
+              "NKJV": "Trust in the Lord with all your heart,\nAnd lean not on your own understanding;",
+              "DRB": "Have confidence in the Lord with all thy heart, and lean not upon thy own prudence.",
+              "ESV": "Trust in the Lord with all your heart,\n    and do not lean on your own understanding.",
+              "LEB": "Trust Yahweh with all your heart;\n    do not lean toward your own understanding."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "in all your ways acknowledge him, and he will make your paths straight.",
+              "KJV": "In all thy ways acknowledge him, and he shall direct thy paths.",
+              "NASB95": "In all your ways acknowledge Him,\nAnd He will make your paths straight.",
+              "NKJV": "In all your ways acknowledge Him,\nAnd He shall direct your paths.",
+              "DRB": "In all thy ways think on him, and he will direct thy steps.",
+              "ESV": "In all your ways acknowledge him,\n    and he will make straight your paths.",
+              "LEB": "In all your ways acknowledge him,\n    and he will straighten your paths."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Do not be wise in your own eyes; fear the LORD and shun evil.",
+              "KJV": "Be not wise in thine own eyes: fear the Lord, and depart from evil.",
+              "NASB95": "Do not be wise in your own eyes;\nFear the Lord and turn away from evil.",
+              "NKJV": "Do not be wise in your own eyes;\nFear the Lord and depart from evil.",
+              "DRB": "Be not wise in thy own conceit: fear God, and depart from evil:",
+              "ESV": "Be not wise in your own eyes;\n    fear the Lord, and turn away from evil.",
+              "LEB": "Do not be wise in your own eyes;\n    fear Yahweh and retreat from evil."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "This will bring health to your body and nourishment to your bones.",
+              "KJV": "It shall be health to thy navel, and marrow to thy bones.",
+              "NASB95": "It will be healing to your body\nAnd refreshment to your bones.",
+              "NKJV": "It will be health to your flesh,\nAnd strength to your bones.",
+              "DRB": "For it shall be health to thy navel, and moistening to thy bones.",
+              "ESV": "It will be healing to your flesh\n    and refreshment to your bones.",
+              "LEB": "There shall be healing for your flesh,\n    and refreshment for your body."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Honor the LORD with your wealth, with the firstfruits of all your crops;",
+              "KJV": "Honour the Lord with thy substance, and with the firstfruits of all thine increase:",
+              "NASB95": "Honor the Lord from your wealth\nAnd from the first of all your produce;",
+              "NKJV": "Honor the Lord with your possessions,\nAnd with the firstfruits of all your increase;",
+              "DRB": "Honour the Lord with thy substance, and give him of the first of all thy fruits :",
+              "ESV": "Honor the Lord with your wealth\n    and with the firstfruits of all your produce;",
+              "LEB": "Honor Yahweh from your substance,\n    and from the firstfruits of all that will come to you,"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "then your barns will be filled to overflowing, and your vats will brim over with new wine.",
+              "KJV": "So shall thy barns be filled with plenty, and thy presses shall burst out with new wine.",
+              "NASB95": "So your barns will be filled with plenty\nAnd your vats will overflow with new wine.",
+              "NKJV": "So your barns will be filled with plenty,\nAnd your vats will overflow with new wine.",
+              "DRB": "And thy barns shall be filled with abundance, and thy presses shall run over with wine.",
+              "ESV": "then your barns will be filled with plenty,\n    and your vats will be bursting with wine.",
+              "LEB": "and your barns shall be full of plenty,\n    and your vats shall burst with new wine."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "My son, do not despise the LORD's discipline and do not resent his rebuke,",
+              "KJV": "My son, despise not the chastening of the Lord; neither be weary of his correction:",
+              "NASB95": "My son, do not reject the discipline of the Lord\nOr loathe His reproof,",
+              "NKJV": "My son, do not despise the chastening of the Lord,\nNor detest His correction;",
+              "DRB": "My son, reject not the correction of the Lord: and do not faint when thou art chastised by him:",
+              "ESV": "My son, do not despise the Lord's discipline\n    or be weary of his reproof,",
+              "LEB": "Do not despise the discipline of Yahweh, my child.\n    Do not be weary of his reproof"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "because the LORD disciplines those he loves, as a father the son he delights in.",
+              "KJV": "For whom the Lord loveth he correcteth; even as a father the son in whom he delighteth.",
+              "NASB95": "For whom the Lord loves He reproves,\nEven as a father corrects the son in whom he delights.",
+              "NKJV": "For whom the Lord loves He corrects,\nJust as a father the son in whom he delights.",
+              "DRB": "For whom the Lord loveth, he chastiseth: and as a father in the son he pleaseth himself.",
+              "ESV": "for the Lord reproves him whom he loves,\n    as a father the son in whom he delights.",
+              "LEB": "because whomever Yahweh will love, he will rebuke,\n    as a father delights in his son."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_3_13_18",
+        "title": "She is Precious Wisdom",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 3,
+          "start": 13,
+          "end": 18
+        },
+        "rows": [
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Blessed is the man who finds wisdom, the man who gains understanding,",
+              "KJV": "Happy is the man that findeth wisdom, and the man that getteth understanding.",
+              "NASB95": "How blessed is the man who finds wisdom\nAnd the man who gains understanding.",
+              "NKJV": "Happy is the man who finds wisdom,\nAnd the man who gains understanding;",
+              "DRB": "Blessed is the man that findeth wisdom and is rich in prudence:",
+              "ESV": "Blessed is the one who finds wisdom,\n    and the one who gets understanding,",
+              "LEB": "Happy is the one who finds wisdom,\n    and one who obtains understanding."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "for she is more profitable than silver and yields better returns than gold.",
+              "KJV": "For the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold.",
+              "NASB95": "For her profit is better than the profit of silver\nAnd her gain better than fine gold.",
+              "NKJV": "For her proceeds are better than the profits of silver,\nAnd her gain than fine gold.",
+              "DRB": "The purchasing thereof is better than the merchandise of silver, and her fruit than the chiefest and purest gold:",
+              "ESV": "for the gain from her is better than gain from silver\n    and her profit better than gold.",
+              "LEB": "For her income is better than the income of silver,\n    and her revenue than that of gold."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "She is more precious than rubies; nothing you desire can compare with her.",
+              "KJV": "She is more precious than rubies: and all the things thou canst desire are not to be compared unto her.",
+              "NASB95": "She is more precious than jewels;\nAnd nothing you desire compares with her.",
+              "NKJV": "She is more precious than rubies,\nAnd all the things you may desire cannot compare with her.",
+              "DRB": "She is more precious than all riches : and all the things that are desired, are not to be compared with her.",
+              "ESV": "She is more precious than jewels,\n    and nothing you desire can compare with her.",
+              "LEB": "She is more precious than rubies,\n    and all your desires shall not compare with her."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "Long life is in her right hand; in her left hand are riches and honor.",
+              "KJV": "Length of days is in her right hand; and in her left hand riches and honour.",
+              "NASB95": "Long life is in her right hand;\nIn her left hand are riches and honor.",
+              "NKJV": "Length of days is in her right hand,\nIn her left hand riches and honor.",
+              "DRB": "Length of days is in her right hand, and in her left hand riches and glory.",
+              "ESV": "Long life is in her right hand;\n    in her left hand are riches and honor.",
+              "LEB": "Length of days is in her right hand;\n    in her left hand are riches and honor."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "Her ways are pleasant ways, and all her paths are peace.",
+              "KJV": "Her ways are ways of pleasantness, and all her paths are peace.",
+              "NASB95": "Her ways are pleasant ways\nAnd all her paths are peace.",
+              "NKJV": "Her ways are ways of pleasantness,\nAnd all her paths are peace.",
+              "DRB": "Her ways are beautiful ways, and all her paths are peaceable.",
+              "ESV": "Her ways are ways of pleasantness,\n    and all her paths are peace.",
+              "LEB": "Her ways are ways of pleasantness,\n    and all her paths are peace."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "She is a tree of life to those who embrace her; those who lay hold of her will be blessed.",
+              "KJV": "She is a tree of life to them that lay hold upon her: and happy is every one that retaineth her.",
+              "NASB95": "She is a tree of life to those who take hold of her,\nAnd happy are all who hold her fast.",
+              "NKJV": "She is a tree of life to those who take hold of her,\nAnd happy are all who retain her.",
+              "DRB": "She is a tree of life to them that lay hold on her: and he that shall retain her is blessed.",
+              "ESV": "She is a tree of life to those who lay hold of her;\n    those who hold her fast are called blessed.",
+              "LEB": "She is a tree of life for those who seize her;\n    those who take hold of her are considered happy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_3_19_26",
+        "title": "Keep sound Wisdom",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 3,
+          "start": 19,
+          "end": 26
+        },
+        "rows": [
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "By wisdom the LORD laid the earth's foundations, by understanding he set the heavens in place;",
+              "KJV": "The Lord by wisdom hath founded the earth; by understanding hath he established the heavens.",
+              "NASB95": "The Lord by wisdom founded the earth,\nBy understanding He established the heavens.",
+              "NKJV": "The Lord by wisdom founded the earth;\nBy understanding He established the heavens;",
+              "DRB": "The Lord by wisdom hath founded the earth, hath established the heavens by prudence.",
+              "ESV": "The Lord by wisdom founded the earth;\n    by understanding he established the heavens;",
+              "LEB": "Yahweh in wisdom founded the earth;\n    he established the heavens in understanding."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "by his knowledge the deeps were divided, and the clouds let drop the dew.",
+              "KJV": "By his knowledge the depths are broken up, and the clouds drop down the dew.",
+              "NASB95": "By His knowledge the deeps were broken up\nAnd the skies drip with dew.",
+              "NKJV": "By His knowledge the depths were broken up,\nAnd clouds drop down the dew.",
+              "DRB": "By his wisdom the depths have broken out, and the clouds grow thick with dew",
+              "ESV": "by his knowledge the deeps broke open,\n    and the clouds drop down the dew.",
+              "LEB": "With his knowledge, depths broke open,\n    and clouds dropped dew."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "My son, preserve sound judgment and discernment, do not let them out of your sight;",
+              "KJV": "My son, let not them depart from thine eyes: keep sound wisdom and discretion:",
+              "NASB95": "My son, let them not vanish from your sight;\nKeep sound wisdom and discretion,",
+              "NKJV": "My son, let them not depart from your eyes\u2014\nKeep sound wisdom and discretion;",
+              "DRB": "My son, let not these things depart from thy eyes: keep the law and counsel:",
+              "ESV": "My son, do not lose sight of these\u2014\n    keep sound wisdom and discretion,",
+              "LEB": "My child, may they not escape from your sight;\n    may you keep sound wisdom and prudence."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "they will be life for you, an ornament to grace your neck.",
+              "KJV": "So shall they be life unto thy soul, and grace to thy neck.",
+              "NASB95": "So they will be life to your soul\nAnd adornment to your neck.",
+              "NKJV": "So they will be life to your soul\nAnd grace to your neck.",
+              "DRB": "And there shall be life to thy soul, and grace to thy mouth.",
+              "ESV": "and they will be life for your soul\n    and adornment for your neck.",
+              "LEB": "They shall be life for your soul\n    and adornment for your neck."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "Then you will go on your way in safety, and your foot will not stumble;",
+              "KJV": "Then shalt thou walk in thy way safely, and thy foot shall not stumble.",
+              "NASB95": "Then you will walk in your way securely\nAnd your foot will not stumble.",
+              "NKJV": "Then you will walk safely in your way,\nAnd your foot will not stumble.",
+              "DRB": "Then shalt thou walk confidently in thy way, and thy foot shall not stumble:",
+              "ESV": "Then you will walk on your way securely,\n    and your foot will not stumble.",
+              "LEB": "Then you will walk in the confidence of your ways,\n    and your foot will not stumble."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "when you lie down, you will not be afraid; when you lie down, your sleep will be sweet.",
+              "KJV": "When thou liest down, thou shalt not be afraid: yea, thou shalt lie down, and thy sleep shall be sweet.",
+              "NASB95": "When you lie down, you will not be afraid;\nWhen you lie down, your sleep will be sweet.",
+              "NKJV": "When you lie down, you will not be afraid;\nYes, you will lie down and your sleep will be sweet.",
+              "DRB": "If thou sleep, thou shalt not fear: thou shalt rest, and thy sleep shall be sweet.",
+              "ESV": "If you lie down, you will not be afraid;\n    when you lie down, your sleep will be sweet.",
+              "LEB": "If you sit down, you will not panic,\n    and if you lie down, then your sleep shall be sweet."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "Have no fear of sudden disaster or of the ruin that overtakes the wicked,",
+              "KJV": "Be not afraid of sudden fear, neither of the desolation of the wicked, when it cometh.",
+              "NASB95": "Do not be afraid of sudden fear\nNor of the onslaught of the wicked when it comes;",
+              "NKJV": "Do not be afraid of sudden terror,\nNor of trouble from the wicked when it comes;",
+              "DRB": "Be not afraid of sudden fear, nor of the power of the wicked falling upon thee.",
+              "ESV": "Do not be afraid of sudden terror\n    or of the ruin of the wicked, when it comes,",
+              "LEB": "Do not be afraid of sudden panic,\n    or the storm of wickedness that will come."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "for the LORD will be your confidence and will keep your foot from being snared.",
+              "KJV": "For the Lord shall be thy confidence, and shall keep thy foot from being taken.",
+              "NASB95": "For the Lord will be your confidence\nAnd will keep your foot from being caught.",
+              "NKJV": "For the Lord will be your confidence,\nAnd will keep your foot from being caught.",
+              "DRB": "For the Lord will be at thy side, and will keep thy foot that thou be not taken.",
+              "ESV": "for the Lord will be your confidence\n    and will keep your foot from being caught.",
+              "LEB": "Yahweh will be your confidence\n    and guard your foot from capture."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_3_27_30",
+        "title": "Love Your Neighbor",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 3,
+          "start": 27,
+          "end": 30
+        },
+        "rows": [
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "Do not withhold good from those who deserve it, when it is in your power to act.",
+              "KJV": "Withhold not good from them to whom it is due, when it is in the power of thine hand to do it.",
+              "NASB95": "Do not withhold good from those to whom it is due,\nWhen it is in your power to do it.",
+              "NKJV": "Do not withhold good from those to whom it is due,\nWhen it is in the power of your hand to do so.",
+              "DRB": "Do not withhold him from doing good, who is able: if thou art able, do good thyself also.",
+              "ESV": "Do not withhold good from those to whom it is due,\n    when it is in your power to do it.",
+              "LEB": "Do not withhold good from its owner\n    when it is in the power of your hand to do."
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "Do not say to your neighbor, \"Come back later; I'll give it tomorrow\"- when you now have it with you.",
+              "KJV": "Say not unto thy neighbour, Go, and come again, and to morrow I will give; when thou hast it by thee.",
+              "NASB95": "Do not say to your neighbor, \u201cGo, and come back,\nAnd tomorrow I will give it,\u201d\nWhen you have it with you.",
+              "NKJV": "Do not say to your neighbor,\n\u201cGo, and come back,\nAnd tomorrow I will give it,\u201d\nWhen you have it with you.",
+              "DRB": "Say not to thy friend: Go, and come again: and to morrow I will give to thee: when thou canst give at present.",
+              "ESV": "Do not say to your neighbor, \u201cGo, and come again,\n    tomorrow I will give it\u201d\u2014when you have it with you.",
+              "LEB": "Do not say to your neighbor,\n    \u201cGo and return and tomorrow I will give it,\u201d\n    when it is with you."
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "Do not plot harm against your neighbor, who lives trustfully near you.",
+              "KJV": "Devise not evil against thy neighbour, seeing he dwelleth securely by thee.",
+              "NASB95": "Do not devise harm against your neighbor,\nWhile he lives securely beside you.",
+              "NKJV": "Do not devise evil against your neighbor,\nFor he dwells by you for safety\u2019s sake.",
+              "DRB": "Practise not evil against thy friend, when he hath confidence in thee.",
+              "ESV": "Do not plan evil against your neighbor,\n    who dwells trustingly beside you.",
+              "LEB": "Do not plot harm against your neighbor\n    who dwells in confidence beside you."
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "Do not accuse a man for no reason- when he has done you no harm.",
+              "KJV": "Strive not with a man without cause, if he have done thee no harm.",
+              "NASB95": "Do not contend with a man without cause,\nIf he has done you no harm.",
+              "NKJV": "Do not strive with a man without cause,\nIf he has done you no harm.",
+              "DRB": "Strive not against a man without cause, when he hath done thee no evil.",
+              "ESV": "Do not contend with a man for no reason,\n    when he has done you no harm.",
+              "LEB": "Do not quarrel with anyone without cause,\n    when he did not do you harm."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_3_31_35",
+        "title": "Do Not Envy the Oppressor",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 3,
+          "start": 31,
+          "end": 35
+        },
+        "rows": [
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "Do not envy a violent man or choose any of his ways,",
+              "KJV": "Envy thou not the oppressor, and choose none of his ways.",
+              "NASB95": "Do not envy a man of violence\nAnd do not choose any of his ways.",
+              "NKJV": "Do not envy the oppressor,\nAnd choose none of his ways;",
+              "DRB": "Envy not the unjust man, and do not follow his ways:",
+              "ESV": "Do not envy a man of violence\n    and do not choose any of his ways,",
+              "LEB": "Do not envy a man of violence,\n    and do not choose any of his ways,"
+            }
+          },
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "for the LORD detests a perverse man but takes the upright into his confidence.",
+              "KJV": "For the froward is abomination to the Lord: but his secret is with the righteous.",
+              "NASB95": "For the devious are an abomination to the Lord;\nBut He is intimate with the upright.",
+              "NKJV": "For the perverse person is an abomination to the Lord,\nBut His secret counsel is with the upright.",
+              "DRB": "For every mocker is an abomination to the Lord, and his communication is with the simple.",
+              "ESV": "for the devious person is an abomination to the Lord,\n    but the upright are in his confidence.",
+              "LEB": "for he who is perverse is an abomination of Yahweh,\n    but those who are upright are his confidence."
+            }
+          },
+          {
+            "verse": 33,
+            "texts": {
+              "NIV84": "The LORD's curse is on the house of the wicked, but he blesses the home of the righteous.",
+              "KJV": "The curse of the Lord is in the house of the wicked: but he blesseth the habitation of the just.",
+              "NASB95": "The curse of the Lord is on the house of the wicked,\nBut He blesses the dwelling of the righteous.",
+              "NKJV": "The curse of the Lord is on the house of the wicked,\nBut He blesses the home of the just.",
+              "DRB": "Want is from the Lord in the house of the wicked: but the habitations of the just shall be blessed.",
+              "ESV": "The Lord's curse is on the house of the wicked,\n    but he blesses the dwelling of the righteous.",
+              "LEB": "The curse of Yahweh is on the house of the wicked,\n    and the abode of the righteous ones he blesses."
+            }
+          },
+          {
+            "verse": 34,
+            "texts": {
+              "NIV84": "He mocks proud mockers but gives grace to the humble.",
+              "KJV": "Surely he scorneth the scorners: but he giveth grace unto the lowly.",
+              "NASB95": "Though He scoffs at the scoffers,\nYet He gives grace to the afflicted.",
+              "NKJV": "Surely He scorns the scornful,\nBut gives grace to the humble.",
+              "DRB": "He shall scorn the scorners, and to the meek he will give grace.",
+              "ESV": "Toward the scorners he is scornful,\n    but to the humble he gives favor.",
+              "LEB": "With those who scorn, he is scornful,\n    but to those who are humble, he gives favor."
+            }
+          },
+          {
+            "verse": 35,
+            "texts": {
+              "NIV84": "The wise inherit honor, but fools he holds up to shame.",
+              "KJV": "The wise shall inherit glory: but shame shall be the promotion of fools.",
+              "NASB95": "The wise will inherit honor,\nBut fools display dishonor.",
+              "NKJV": "The wise shall inherit glory,\nBut shame shall be the legacy of fools.",
+              "DRB": "The wise shall possess glory: the promotion of fools is disgrace.",
+              "ESV": "The wise will inherit honor,\n    but fools get disgrace.",
+              "LEB": "They will inherit the honor of the wise,\n    but stubborn fools, disgrace."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_4_1_4",
+        "title": "Pay Attention & Get Understanding",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 4,
+          "start": 1,
+          "end": 4
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Listen, my sons, to a father's instruction; pay attention and gain understanding.",
+              "KJV": "Hear, ye children, the instruction of a father, and attend to know understanding.",
+              "NASB95": "Hear, O sons, the instruction of a father,\nAnd give attention that you may gain understanding,",
+              "NKJV": "Hear, my children, the instruction of a father,\nAnd give attention to know understanding;",
+              "DRB": "Hear, ye children, the instruction of a father, and attend that you may know prudence.",
+              "ESV": "Hear, O sons, a father's instruction,\n    and be attentive, that you may gain insight,",
+              "LEB": "Children, listen to the instruction of a father,\n    and be attentive in order to know insight."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "I give you sound learning, so do not forsake my teaching.",
+              "KJV": "For I give you good doctrine, forsake ye not my law.",
+              "NASB95": "For I give you sound teaching;\nDo not abandon my instruction.",
+              "NKJV": "For I give you good doctrine:\nDo not forsake my law.",
+              "DRB": "I will give you a good gift, forsake not my law.",
+              "ESV": "for I give you good precepts;\n    do not forsake my teaching.",
+              "LEB": "For I have given you good instruction;\n    do not forsake my teaching."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "When I was a boy in my father's house, still tender, and an only child of my mother,",
+              "KJV": "For I was my father's son, tender and only beloved in the sight of my mother.",
+              "NASB95": "When I was a son to my father,\nTender and the only son in the sight of my mother,",
+              "NKJV": "When I was my father\u2019s son,\nTender and the only one in the sight of my mother,",
+              "DRB": "For I also was my father's son, tender and as an only son in the sight of my mother:",
+              "ESV": "When I was a son with my father,\n    tender, the only one in the sight of my mother,",
+              "LEB": "When I was a son to my father,\n    tender and alone before my mother,"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "he taught me and said, \"Lay hold of my words with all your heart; keep my commands and you will live.",
+              "KJV": "He taught me also, and said unto me, Let thine heart retain my words: keep my commandments, and live.",
+              "NASB95": "Then he taught me and said to me,\n\u201cLet your heart hold fast my words;\nKeep my commandments and live;",
+              "NKJV": "He also taught me, and said to me:\n\u201cLet your heart retain my words;\nKeep my commands, and live.",
+              "DRB": "And he taught me, and said: Let thy heart receive my words, keep my commandments, and thou shalt live.",
+              "ESV": "he taught me and said to me,\n\u201cLet your heart hold fast my words;\n    keep my commandments, and live.",
+              "LEB": "he taught me and said to me,\n    \u201cMay your heart hold fast to my words;\n    guard my commandments and live."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_4_5_13",
+        "title": "Get Wisdom for She is Your Life",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 4,
+          "start": 5,
+          "end": 13
+        },
+        "rows": [
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "Get wisdom, get understanding; do not forget my words or swerve from them.",
+              "KJV": "Get wisdom, get understanding: forget it not; neither decline from the words of my mouth.",
+              "NASB95": "Acquire wisdom! Acquire understanding!\nDo not forget nor turn away from the words of my mouth.",
+              "NKJV": "Get wisdom! Get understanding!\nDo not forget, nor turn away from the words of my mouth.",
+              "DRB": "Get wisdom, get prudence: forget not, neither decline from the words of my mouth.",
+              "ESV": "Get wisdom; get insight;\n    do not forget, and do not turn away from the words of my mouth.",
+              "LEB": "Get wisdom and insight;\n    do not forget and do not turn from the sayings of my mouth."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Do not forsake wisdom, and she will protect you; love her, and she will watch over you.",
+              "KJV": "Forsake her not, and she shall preserve thee: love her, and she shall keep thee.",
+              "NASB95": "\u201cDo not forsake her, and she will guard you;\nLove her, and she will watch over you.",
+              "NKJV": "Do not forsake her, and she will preserve you;\nLove her, and she will keep you.",
+              "DRB": "Forsake her not, and she shall keep thee: love her, and she shall preserve thee.",
+              "ESV": "Do not forsake her, and she will keep you;\n    love her, and she will guard you.",
+              "LEB": "Do not forsake her\u2014then she will guard you;\n    love her and she will keep you."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Wisdom is supreme; therefore get wisdom. Though it cost all you have, get understanding.",
+              "KJV": "Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding.",
+              "NASB95": "\u201cThe beginning of wisdom is: Acquire wisdom;\nAnd with all your acquiring, get understanding.",
+              "NKJV": "Wisdom is the principal thing;\nTherefore get wisdom.\nAnd in all your getting, get understanding.",
+              "DRB": "The beginning of wisdom, get wisdom, and with all thy possession purchase prudence.",
+              "ESV": "The beginning of wisdom is this: Get wisdom,\n    and whatever you get, get insight.",
+              "LEB": "The beginning of wisdom: Get wisdom!\n    With all that is in your possession, gain insight."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Esteem her, and she will exalt you; embrace her, and she will honor you.",
+              "KJV": "Exalt her, and she shall promote thee: she shall bring thee to honour, when thou dost embrace her.",
+              "NASB95": "\u201cPrize her, and she will exalt you;\nShe will honor you if you embrace her.",
+              "NKJV": "Exalt her, and she will promote you;\nShe will bring you honor, when you embrace her.",
+              "DRB": "Take hold on her, and she shall exalt thee: thou shalt be glorified by her, when thou shalt embrace her.",
+              "ESV": "Prize her highly, and she will exalt you;\n    she will honor you if you embrace her.",
+              "LEB": "Cherish her and she will exalt you;\n    she will honor you if you embrace her."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "She will set a garland of grace on your head and present you with a crown of splendor.\"",
+              "KJV": "She shall give to thine head an ornament of grace: a crown of glory shall she deliver to thee.",
+              "NASB95": "\u201cShe will place on your head a garland of grace;\nShe will present you with a crown of beauty.\u201d",
+              "NKJV": "She will place on your head an ornament of grace;\nA crown of glory she will deliver to you.\u201d",
+              "DRB": "She shall give to thy head increase of graces, and protect thee with a noble crown.",
+              "ESV": "She will place on your head a graceful garland;\n    she will bestow on you a beautiful crown.\u201d",
+              "LEB": "She will give a garland for your head;\n    she shall bestow a crown of glory upon you.\u201d"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Listen, my son, accept what I say, and the years of your life will be many.",
+              "KJV": "Hear, O my son, and receive my sayings; and the years of thy life shall be many.",
+              "NASB95": "Hear, my son, and accept my sayings\nAnd the years of your life will be many.",
+              "NKJV": "Hear, my son, and receive my sayings,\nAnd the years of your life will be many.",
+              "DRB": "Hear, O my son, and receive my words, that years of life may be multiplied to thee.",
+              "ESV": "Hear, my son, and accept my words,\n    that the years of your life may be many.",
+              "LEB": "Listen, my child, take my sayings,\n    and the years of your life shall be great."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "I guide you in the way of wisdom and lead you along straight paths.",
+              "KJV": "I have taught thee in the way of wisdom; I have led thee in right paths.",
+              "NASB95": "I have directed you in the way of wisdom;\nI have led you in upright paths.",
+              "NKJV": "I have taught you in the way of wisdom;\nI have led you in right paths.",
+              "DRB": "I will shew thee the way of wisdom, I will lead thee by the paths of equity:",
+              "ESV": "I have taught you the way of wisdom;\n    I have led you in the paths of uprightness.",
+              "LEB": "In the way of wisdom I have instructed you;\n    I have led you in the path of uprightness."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "When you walk, your steps will not be hampered; when you run, you will not stumble.",
+              "KJV": "When thou goest, thy steps shall not be straitened; and when thou runnest, thou shalt not stumble.",
+              "NASB95": "When you walk, your steps will not be impeded;\nAnd if you run, you will not stumble.",
+              "NKJV": "When you walk, your steps will not be hindered,\nAnd when you run, you will not stumble.",
+              "DRB": "Which when thou shalt have entered, thy steps shall not be straitened, and when thou runnest thou shalt not meet a stumblingblock.",
+              "ESV": "When you walk, your step will not be hampered,\n    and if you run, you will not stumble.",
+              "LEB": "When you walk, your step will not be hampered,\n    and if you run, you will not stumble."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Hold on to instruction, do not let it go; guard it well, for it is your life.",
+              "KJV": "Take fast hold of instruction; let her not go: keep her; for she is thy life.",
+              "NASB95": "Take hold of instruction; do not let go.\nGuard her, for she is your life.",
+              "NKJV": "Take firm hold of instruction, do not let go;\nKeep her, for she is your life.",
+              "DRB": "Take hold on instruction, leave it not: keep it, because it is thy life.",
+              "ESV": "Keep hold of instruction; do not let go;\n    guard her, for she is your life.",
+              "LEB": "Seize the instruction! Do not let go!\n    Guard her, for she is your life."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_4_14_19",
+        "title": "Righteous Path & Wicked Path",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 4,
+          "start": 14,
+          "end": 19
+        },
+        "rows": [
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "Do not set foot on the path of the wicked or walk in the way of evil men.",
+              "KJV": "Enter not into the path of the wicked, and go not in the way of evil men.",
+              "NASB95": "Do not enter the path of the wicked\nAnd do not proceed in the way of evil men.",
+              "NKJV": "Do not enter the path of the wicked,\nAnd do not walk in the way of evil.",
+              "DRB": "Be not delighted in the paths of the wicked, neither let the way of evil men please thee.",
+              "ESV": "Do not enter the path of the wicked,\n    and do not walk in the way of the evil.",
+              "LEB": "In the path of the wicked do not go;\n    do not walk in the way of those who do evil."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Avoid it, do not travel on it; turn from it and go on your way.",
+              "KJV": "Avoid it, pass not by it, turn from it, and pass away.",
+              "NASB95": "Avoid it, do not pass by it;\nTurn away from it and pass on.",
+              "NKJV": "Avoid it, do not travel on it;\nTurn away from it and pass on.",
+              "DRB": "Flee from it, pass not by it: go aside, and forsake it.",
+              "ESV": "Avoid it; do not go on it;\n    turn away from it and pass on.",
+              "LEB": "Avoid it; do not transgress it;\n    turn away from it and pass by."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "For they cannot sleep till they do evil; they are robbed of slumber till they make someone fall.",
+              "KJV": "For they sleep not, except they have done mischief; and their sleep is taken away, unless they cause some to fall.",
+              "NASB95": "For they cannot sleep unless they do evil;\nAnd they are robbed of sleep unless they make someone stumble.",
+              "NKJV": "For they do not sleep unless they have done evil;\nAnd their sleep is taken away unless they make someone fall.",
+              "DRB": "For they sleep not except they have done evil: and their sleep is taken away unless they have made some to fall.",
+              "ESV": "For they cannot sleep unless they have done wrong;\n    they are robbed of sleep unless they have made someone stumble.",
+              "LEB": "For they will not sleep if they have not done wrong,\n    and they are robbed of their sleep if they do not cause stumbling."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "They eat the bread of wickedness and drink the wine of violence.",
+              "KJV": "For they eat the bread of wickedness, and drink the wine of violence.",
+              "NASB95": "For they eat the bread of wickedness\nAnd drink the wine of violence.",
+              "NKJV": "For they eat the bread of wickedness,\nAnd drink the wine of violence.",
+              "DRB": "They eat the bread of wickedness, and drink the wine of iniquity.",
+              "ESV": "For they eat the bread of wickedness\n    and drink the wine of violence.",
+              "LEB": "For they ate the bread of wickedness,\n    and they drank the wine of violence."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "The path of the righteous is like the first gleam of dawn, shining ever brighter till the full light of day.",
+              "KJV": "But the path of the just is as the shining light, that shineth more and more unto the perfect day.",
+              "NASB95": "But the path of the righteous is like the light of dawn,\nThat shines brighter and brighter until the full day.",
+              "NKJV": "But the path of the just is like the shining sun,\nThat shines ever brighter unto the perfect day.",
+              "DRB": "But the path of the just, as a shining light, goeth forwards and increaseth even to perfect day.",
+              "ESV": "But the path of the righteous is like the light of dawn,\n    which shines brighter and brighter until full day.",
+              "LEB": "But the path of the righteous ones is like the light of dawn,\n    leading and shining until the day is full."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "But the way of the wicked is like deep darkness; they do not know what makes them stumble.",
+              "KJV": "The way of the wicked is as darkness: they know not at what they stumble.",
+              "NASB95": "The way of the wicked is like darkness;\nThey do not know over what they stumble.",
+              "NKJV": "The way of the wicked is like darkness;\nThey do not know what makes them stumble.",
+              "DRB": "The way of the wicked is darksome: they know not where they fall.",
+              "ESV": "The way of the wicked is like deep darkness;\n    they do not know over what they stumble.",
+              "LEB": "The way of the wicked ones is like deep darkness;\n    they do not know what they stumble over."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_4_20_27",
+        "title": "Watch & Guard Eyes, Ears and Heart",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 4,
+          "start": 20,
+          "end": 27
+        },
+        "rows": [
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "My son, pay attention to what I say; listen closely to my words.",
+              "KJV": "My son, attend to my words; incline thine ear unto my sayings.",
+              "NASB95": "My son, give attention to my words;\nIncline your ear to my sayings.",
+              "NKJV": "My son, give attention to my words;\nIncline your ear to my sayings.",
+              "DRB": "My son, hearken to my words, and incline thy ear to my sayings.",
+              "ESV": "My son, be attentive to my words;\n    incline your ear to my sayings.",
+              "LEB": "My child, be attentive to my words;\n    to my sayings incline your ear."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "Do not let them out of your sight, keep them within your heart;",
+              "KJV": "Let them not depart from thine eyes; keep them in the midst of thine heart.",
+              "NASB95": "Do not let them depart from your sight;\nKeep them in the midst of your heart.",
+              "NKJV": "Do not let them depart from your eyes;\nKeep them in the midst of your heart;",
+              "DRB": "Let them not depart from thy eyes, keep them in the midst of thy heart:",
+              "ESV": "Let them not escape from your sight;\n    keep them within your heart.",
+              "LEB": "May they not escape from your sight;\n    keep them in the midst of your heart."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "for they are life to those who find them and health to a man's whole body.",
+              "KJV": "For they are life unto those that find them, and health to all their flesh.",
+              "NASB95": "For they are life to those who find them\nAnd health to all their body.",
+              "NKJV": "For they are life to those who find them,\nAnd health to all their flesh.",
+              "DRB": "For they are life to those that find them, and health to all flesh.",
+              "ESV": "For they are life to those who find them,\n    and healing to all their flesh.",
+              "LEB": "For they are life to those who find them\n    and healing to the entire body."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "Above all else, guard your heart, for it is the wellspring of life.",
+              "KJV": "Keep thy heart with all diligence; for out of it are the issues of life.",
+              "NASB95": "Watch over your heart with all diligence,\nFor from it flow the springs of life.",
+              "NKJV": "Keep your heart with all diligence,\nFor out of it spring the issues of life.",
+              "DRB": "With all watchfulness keep thy heart, because life issueth out from it.",
+              "ESV": "Keep your heart with all vigilance,\n    for from it flow the springs of life.",
+              "LEB": "With all vigilance, keep your heart,\n    for from it comes the source of life."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "Put away perversity from your mouth; keep corrupt talk far from your lips.",
+              "KJV": "Put away from thee a froward mouth, and perverse lips put far from thee.",
+              "NASB95": "Put away from you a deceitful mouth\nAnd put devious speech far from you.",
+              "NKJV": "Put away from you a deceitful mouth,\nAnd put perverse lips far from you.",
+              "DRB": "Remove from thee a froward mouth, and let detracting lips be far from thee.",
+              "ESV": "Put away from you crooked speech,\n    and put devious talk far from you.",
+              "LEB": "Remove from yourself deceitful speech,\n    and abolish devious talk from yourself."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "Let your eyes look straight ahead, fix your gaze directly before you.",
+              "KJV": "Let thine eyes look right on, and let thine eyelids look straight before thee.",
+              "NASB95": "Let your eyes look directly ahead\nAnd let your gaze be fixed straight in front of you.",
+              "NKJV": "Let your eyes look straight ahead,\nAnd your eyelids look right before you.",
+              "DRB": "Let thy eyes look straight on, and let thy eyelids go before thy steps.",
+              "ESV": "Let your eyes look directly forward,\n    and your gaze be straight before you.",
+              "LEB": "May your eyes look forward\n    and your gaze be straight before you."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "Make level paths for your feet and take only ways that are firm.",
+              "KJV": "Ponder the path of thy feet, and let all thy ways be established.",
+              "NASB95": "Watch the path of your feet\nAnd all your ways will be established.",
+              "NKJV": "Ponder the path of your feet,\nAnd let all your ways be established.",
+              "DRB": "Make straight the path for thy feet, and all thy ways shall be established.",
+              "ESV": "Ponder the path of your feet;\n    then all your ways will be sure.",
+              "LEB": "May the path of your foot be balanced\n    and all your ways be sure."
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "Do not swerve to the right or the left; keep your foot from evil.",
+              "KJV": "Turn not to the right hand nor to the left: remove thy foot from evil.",
+              "NASB95": "Do not turn to the right nor to the left;\nTurn your foot from evil.",
+              "NKJV": "Do not turn to the right or the left;\nRemove your foot from evil.",
+              "DRB": "Decline not to the right hand, nor to the left: turn away thy foot from evil. For the Lord knoweth the ways that are on the right hand: but those are perverse which are on the left hand. But he will make thy courses straight, he will bring forward thy ways in peace.",
+              "ESV": "Do not swerve to the right or to the left;\n    turn your foot away from evil.",
+              "LEB": "Do not swerve right or left;\n    remove your foot from evil."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_7_1_5",
+        "title": "Sister Wisdom & Understanding Kin",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 7,
+          "start": 1,
+          "end": 5
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "My son, keep my words and store up my commands within you.",
+              "KJV": "My son, keep my words, and lay up my commandments with thee.",
+              "NASB95": "My son, keep my words\nAnd treasure my commandments within you.",
+              "NKJV": "My son, keep my words,\nAnd treasure my commands within you.",
+              "DRB": "My son, keep my words, and lay up my precepts with thee. Son,",
+              "ESV": "My son, keep my words\n    and treasure up my commandments with you;",
+              "LEB": "My child, guard my sayings;\n    store my commandments with you."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Keep my commands and you will live; guard my teachings as the apple of your eye.",
+              "KJV": "Keep my commandments, and live; and my law as the apple of thine eye.",
+              "NASB95": "Keep my commandments and live,\nAnd my teaching as the apple of your eye.",
+              "NKJV": "Keep my commands and live,\nAnd my law as the apple of your eye.",
+              "DRB": "Keep my commandments, and thou shalt live: and my law as the apple of thy eye:",
+              "ESV": "keep my commandments and live;\n    keep my teaching as the apple of your eye;",
+              "LEB": "Keep my commands and live,\n    and my teaching like the apple of your eye."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "Bind them on your fingers; write them on the tablet of your heart.",
+              "KJV": "Bind them upon thy fingers, write them upon the table of thine heart.",
+              "NASB95": "Bind them on your fingers;\nWrite them on the tablet of your heart.",
+              "NKJV": "Bind them on your fingers;\nWrite them on the tablet of your heart.",
+              "DRB": "Bind it upon thy fingers, write it upon the tables of thy heart.",
+              "ESV": "bind them on your fingers;\n    write them on the tablet of your heart.",
+              "LEB": "Bind them on your fingers;\n    write them on the tablet of your heart."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Say to wisdom, \"You are my sister,\" and call understanding your kinsman;",
+              "KJV": "Say unto wisdom, Thou art my sister; and call understanding thy kinswoman:",
+              "NASB95": "Say to wisdom, \u201cYou are my sister,\u201d\nAnd call understanding your intimate friend;",
+              "NKJV": "Say to wisdom, \u201cYou are my sister,\u201d\nAnd call understanding your nearest kin,",
+              "DRB": "Say to wisdom: Thou art my sister: and call prudence thy friend,",
+              "ESV": "Say to wisdom, \u201cYou are my sister,\u201d\n    and call insight your intimate friend,",
+              "LEB": "Say to wisdom, \u201cyou are my sister,\u201d\n    and you shall call insight, \u201cintimate friend.\u201d"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "they will keep you from the adulteress, from the wayward wife with her seductive words.",
+              "KJV": "That they may keep thee from the strange woman, from the stranger which flattereth with her words.",
+              "NASB95": "That they may keep you from an adulteress,\nFrom the foreigner who flatters with her words.",
+              "NKJV": "That they may keep you from the immoral woman,\nFrom the seductress who flatters with her words.",
+              "DRB": "That she may keep thee from the woman that is not thine, and from the stranger who sweeteneth her words.",
+              "ESV": "to keep you from the forbidden woman,\n    from the adulteress with her smooth words.",
+              "LEB": "In order to guard yourself from an adulteress,\n    from the foreigner who makes her words smooth."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_7_6_23",
+        "title": "Promiscuous & Adulterous Women",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 7,
+          "start": 6,
+          "end": 23
+        },
+        "rows": [
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "At the window of my house I looked out through the lattice.",
+              "KJV": "For at the window of my house I looked through my casement,",
+              "NASB95": "For at the window of my house\nI looked out through my lattice,",
+              "NKJV": "For at the window of my house\nI looked through my lattice,",
+              "DRB": "For I look out of the window of my house through the lattice,",
+              "ESV": "For at the window of my house\n    I have looked out through my lattice,",
+              "LEB": "For at the window of my house,\n    through my lattice, I looked down."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "I saw among the simple, I noticed among the young men, a youth who lacked judgment.",
+              "KJV": "And beheld among the simple ones, I discerned among the youths, a young man void of understanding,",
+              "NASB95": "And I saw among the naive,\nAnd discerned among the youths\nA young man lacking sense,",
+              "NKJV": "And saw among the simple,\nI perceived among the youths,\nA young man devoid of understanding,",
+              "DRB": "And I see little ones, I behold a foolish young man,",
+              "ESV": "and I have seen among the simple,\n    I have perceived among the youths,\n    a young man lacking sense,",
+              "LEB": "And I saw among the simple,\n    I observed among the youth,\n    a young man lacking sense,"
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "He was going down the street near her corner, walking along in the direction of her house",
+              "KJV": "Passing through the street near her corner; and he went the way to her house,",
+              "NASB95": "Passing through the street near her corner;\nAnd he takes the way to her house,",
+              "NKJV": "Passing along the street near her corner;\nAnd he took the path to her house",
+              "DRB": "Who passeth through the street by the corner, and goeth nigh the way of her house.",
+              "ESV": "passing along the street near her corner,\n    taking the road to her house",
+              "LEB": "passing on the street at her corner,\n    and he takes the road to her house,"
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "at twilight, as the day was fading, as the dark of night set in.",
+              "KJV": "In the twilight, in the evening, in the black and dark night:",
+              "NASB95": "In the twilight, in the evening,\nIn the middle of the night and in the darkness.",
+              "NKJV": "In the twilight, in the evening,\nIn the black and dark night.",
+              "DRB": "In the dark, when it grows late, in the darkness and obscurity of the night,",
+              "ESV": "in the twilight, in the evening,\n    at the time of night and darkness.",
+              "LEB": "at twilight, at the day\u2019s evening,\n    in the midst of night and the darkness."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Then out came a woman to meet him, dressed like a prostitute and with crafty intent.",
+              "KJV": "And, behold, there met him a woman with the attire of an harlot, and subtil of heart.",
+              "NASB95": "And behold, a woman comes to meet him,\nDressed as a harlot and cunning of heart.",
+              "NKJV": "And there a woman met him,\nWith the attire of a harlot, and a crafty heart.",
+              "DRB": "And behold a woman meeteth him in harlot's attire prepared to deceive souls; talkative and wandering,",
+              "ESV": "And behold, the woman meets him,\n    dressed as a prostitute, wily of heart.",
+              "LEB": "Then behold! A woman comes to meet him\n    with the garment of a prostitute and a secret heart."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "(She is loud and defiant, her feet never stay at home;",
+              "KJV": "(She is loud and stubborn; her feet abide not in her house:",
+              "NASB95": "She is boisterous and rebellious,\nHer feet do not remain at home;",
+              "NKJV": "She was loud and rebellious,\nHer feet would not stay at home.",
+              "DRB": "Not bearing to be quiet, not able to abide still at home,",
+              "ESV": "She is loud and wayward;\n    her feet do not stay at home;",
+              "LEB": "She is loud and stubborn;\n    her feet do not stay at her house."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "now in the street, now in the squares, at every corner she lurks.)",
+              "KJV": "Now is she without, now in the streets, and lieth in wait at every corner.)",
+              "NASB95": "She is now in the streets, now in the squares,\nAnd lurks by every corner.",
+              "NKJV": "At times she was outside, at times in the open square,\nLurking at every corner.",
+              "DRB": "Now abroad, now in the streets, now lying in wait near the corners.",
+              "ESV": "now in the street, now in the market,\n    and at every corner she lies in wait.",
+              "LEB": "Now in the street, now in the square,\n    at every corner she lies in wait."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "She took hold of him and kissed him and with a brazen face she said:",
+              "KJV": "So she caught him, and kissed him, and with an impudent face said unto him,",
+              "NASB95": "So she seizes him and kisses him\nAnd with a brazen face she says to him:",
+              "NKJV": "So she caught him and kissed him;\nWith an impudent face she said to him:",
+              "DRB": "And catching the young man, she kisseth him, and with an impudent face, flattereth, saying:",
+              "ESV": "She seizes him and kisses him,\n    and with bold face she says to him,",
+              "LEB": "She took hold of him and kissed him.\n    Her face was impudent, and she said to him,"
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "\"I have fellowship offerings at home; today I fulfilled my vows.",
+              "KJV": "I have peace offerings with me; this day have I payed my vows.",
+              "NASB95": "\u201cI was due to offer peace offerings;\nToday I have paid my vows.",
+              "NKJV": "\u201cI have peace offerings with me;\nToday I have paid my vows.",
+              "DRB": "I vowed victims for prosperity, this day I have paid my vows.",
+              "ESV": "\u201cI had to offer sacrifices,\n    and today I have paid my vows;",
+              "LEB": "\u201cSacrifices of peace offerings are upon me;\n    today I completed my vows."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "So I came out to meet you; I looked for you and have found you!",
+              "KJV": "Therefore came I forth to meet thee, diligently to seek thy face, and I have found thee.",
+              "NASB95": "\u201cTherefore I have come out to meet you,\nTo seek your presence earnestly, and I have found you.",
+              "NKJV": "So I came out to meet you,\nDiligently to seek your face,\nAnd I have found you.",
+              "DRB": "Therefore I am come out to meet thee, desirous to see thee, and I have found thee.",
+              "ESV": "so now I have come out to meet you,\n    to seek you eagerly, and I have found you.",
+              "LEB": "So I have come out to meet you,\n    to seek your face, and I have found you."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "I have covered my bed with colored linens from Egypt.",
+              "KJV": "I have decked my bed with coverings of tapestry, with carved works, with fine linen of Egypt.",
+              "NASB95": "\u201cI have spread my couch with coverings,\nWith colored linens of Egypt.",
+              "NKJV": "I have spread my bed with tapestry,\nColored coverings of Egyptian linen.",
+              "DRB": "I have woven my bed with cords, I have covered it with painted tapestry, brought from Egypt.",
+              "ESV": "I have spread my couch with coverings,\n    colored linens from Egyptian linen;",
+              "LEB": "With coverings I have adorned my couch,\n    spreads of the linen of Egypt;"
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "I have perfumed my bed with myrrh, aloes and cinnamon.",
+              "KJV": "I have perfumed my bed with myrrh, aloes, and cinnamon.",
+              "NASB95": "\u201cI have sprinkled my bed\nWith myrrh, aloes and cinnamon.",
+              "NKJV": "I have perfumed my bed\nWith myrrh, aloes, and cinnamon.",
+              "DRB": "I have perfumed my bed with myrrh, aloes, and cinnamon.",
+              "ESV": "I have perfumed my bed with myrrh,\n    aloes, and cinnamon.",
+              "LEB": "I have perfumed my bed with myrrh,\n    aloes, and cinnamon."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "Come, let's drink deep of love till morning; let's enjoy ourselves with love!",
+              "KJV": "Come, let us take our fill of love until the morning: let us solace ourselves with loves.",
+              "NASB95": "\u201cCome, let us drink our fill of love until morning;\nLet us delight ourselves with caresses.",
+              "NKJV": "Come, let us take our fill of love until morning;\nLet us delight ourselves with love.",
+              "DRB": "Come, let us be inebriated with the breasts, and let us enjoy the desired embraces, till the day appear.",
+              "ESV": "Come, let us take our fill of love till morning;\n    let us delight ourselves with love.",
+              "LEB": "Come, let us take our fill of love making,\n    until the morning let us delight in love."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "My husband is not at home; he has gone on a long journey.",
+              "KJV": "For the goodman is not at home, he is gone a long journey:",
+              "NASB95": "\u201cFor my husband is not at home,\nHe has gone on a long journey;",
+              "NKJV": "For my husband is not at home;\nHe has gone on a long journey;",
+              "DRB": "For my husband is not at home, he is gone a very long journey.",
+              "ESV": "For my husband is not at home;\n    he has gone on a long journey;",
+              "LEB": "For there is no man in his home;\n    he has gone on a long journey."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "He took his purse filled with money and will not be home till full moon.\"",
+              "KJV": "He hath taken a bag of money with him, and will come home at the day appointed.",
+              "NASB95": "He has taken a bag of money with him,\nAt the full moon he will come home.\u201d",
+              "NKJV": "He has taken a bag of money with him,\nAnd will come home on the appointed day.\u201d",
+              "DRB": "He took with him a bag of money: he mill return home the day of the full moon.",
+              "ESV": "he took a bag of money with him;\n    at full moon he will come home.\u201d",
+              "LEB": "The bag of money he took in his hand,\n    for on the day of the full moon he will come home.\u201d"
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "With persuasive words she led him astray; she seduced him with her smooth talk.",
+              "KJV": "With her much fair speech she caused him to yield, with the flattering of her lips she forced him.",
+              "NASB95": "With her many persuasions she entices him;\nWith her flattering lips she seduces him.",
+              "NKJV": "With her enticing speech she caused him to yield,\nWith her flattering lips she seduced him.",
+              "DRB": "She entangled him with many words, and drew him away with the flattery of her lips.",
+              "ESV": "With much seductive speech she persuades him;\n    with her smooth talk she compels him.",
+              "LEB": "She persuades him with the greatness of her teachings;\n    with her smooth lips she compels him."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "All at once he followed her like an ox going to the slaughter, like a deer stepping into a noose",
+              "KJV": "He goeth after her straightway, as an ox goeth to the slaughter, or as a fool to the correction of the stocks;",
+              "NASB95": "Suddenly he follows her\nAs an ox goes to the slaughter,\nOr as one in fetters to the discipline of a fool,",
+              "NKJV": "Immediately he went after her, as an ox goes to the slaughter,\nOr as a fool to the correction of the stocks,",
+              "DRB": "Immediately he followeth her as an ox led to be a victim, and as a lamb playing the wanton, and not knowing that he is drawn like a fool to bonds,",
+              "ESV": "All at once he follows her,\n    as an ox goes to the slaughter,\nor as a stag is caught fast",
+              "LEB": "He goes after her suddenly;\n    like an ox to the slaughter he goes,\n    and like a stag to the instruction of a fool,"
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "till an arrow pierces his liver, like a bird darting into a snare, little knowing it will cost him his life.",
+              "KJV": "Till a dart strike through his liver; as a bird hasteth to the snare, and knoweth not that it is for his life.",
+              "NASB95": "Until an arrow pierces through his liver;\nAs a bird hastens to the snare,\nSo he does not know that it will cost him his life.",
+              "NKJV": "Till an arrow struck his liver.\nAs a bird hastens to the snare,\nHe did not know it would cost his life.",
+              "DRB": "Till the arrow pierce his liver: as if a bird should make haste to the snare, and knoweth not that his life is in danger.",
+              "ESV": "till an arrow pierces its liver;\nas a bird rushes into a snare;\n    he does not know that it will cost him his life.",
+              "LEB": "until an arrow pierces his entrails,\n    like a bird rushing into a snare,\n    but he does not know that it will cost him his life."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_7_24_27",
+        "title": "Listen and Pay Attention",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 7,
+          "start": 24,
+          "end": 27
+        },
+        "rows": [
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "Now then, my sons, listen to me; pay attention to what I say.",
+              "KJV": "Hearken unto me now therefore, O ye children, and attend to the words of my mouth.",
+              "NASB95": "Now therefore, my sons, listen to me,\nAnd pay attention to the words of my mouth.",
+              "NKJV": "Now therefore, listen to me, my children;\nPay attention to the words of my mouth:",
+              "DRB": "Now therefore, my son, hear me, and attend to the words of my mouth.",
+              "ESV": "And now, O sons, listen to me,\n    and be attentive to the words of my mouth.",
+              "LEB": "And now, my children, listen to me,\n    and be attentive to the sayings of my mouth."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "Do not let your heart turn to her ways or stray into her paths.",
+              "KJV": "Let not thine heart decline to her ways, go not astray in her paths.",
+              "NASB95": "Do not let your heart turn aside to her ways,\nDo not stray into her paths.",
+              "NKJV": "Do not let your heart turn aside to her ways,\nDo not stray into her paths;",
+              "DRB": "Let not thy mind be drawn away in her ways: neither be thou deceived with her paths.",
+              "ESV": "Let not your heart turn aside to her ways;\n    do not stray into her paths,",
+              "LEB": "May your heart not turn aside to her ways;\n    do not stray into her path."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "Many are the victims she has brought down; her slain are a mighty throng.",
+              "KJV": "For she hath cast down many wounded: yea, many strong men have been slain by her.",
+              "NASB95": "For many are the victims she has cast down,\nAnd numerous are all her slain.",
+              "NKJV": "For she has cast down many wounded,\nAnd all who were slain by her were strong men.",
+              "DRB": "For she hath cast down many wounded, and the strongest have been slain by her.",
+              "ESV": "for many a victim has she laid low,\n    and all her slain are a mighty throng.",
+              "LEB": "For many slain she has laid low,\n    and countless are all of her killings."
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "Her house is a highway to the grave, leading down to the chambers of death.",
+              "KJV": "Her house is the way to hell, going down to the chambers of death.",
+              "NASB95": "Her house is the way to Sheol,\nDescending to the chambers of death.",
+              "NKJV": "Her house is the way to hell,\nDescending to the chambers of death.",
+              "DRB": "Her house is the way to hell, reaching even to the inner chambers of death.",
+              "ESV": "Her house is the way to Sheol,\n    going down to the chambers of death.",
+              "LEB": "The ways of Sheol are her house,\n    descending to chambers of death."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_8_1_11",
+        "title": "Wisdom Takes Her Stand",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 8,
+          "start": 1,
+          "end": 11
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Does not wisdom call out? Does not understanding raise her voice?",
+              "KJV": "Doth not wisdom cry? and understanding put forth her voice?",
+              "NASB95": "Does not wisdom call,\nAnd understanding lift up her voice?",
+              "NKJV": "Does not wisdom cry out,\nAnd understanding lift up her voice?",
+              "DRB": "Doth not wisdom cry aloud, and prudence put forth her voice ?",
+              "ESV": "Does not wisdom call?\n    Does not understanding raise her voice?",
+              "LEB": "Does not wisdom call,\n    and understanding raise its voice?"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "On the heights along the way, where the paths meet, she takes her stand;",
+              "KJV": "She standeth in the top of high places, by the way in the places of the paths.",
+              "NASB95": "On top of the heights beside the way,\nWhere the paths meet, she takes her stand;",
+              "NKJV": "She takes her stand on the top of the high hill,\nBeside the way, where the paths meet.",
+              "DRB": "Standing in the top of the highest places by the way, in the midst of the paths.",
+              "ESV": "On the heights beside the way,\n    at the crossroads she takes her stand;",
+              "LEB": "Atop the heights beside the road,\n    at the crossroads she stands."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "beside the gates leading into the city, at the entrances, she cries aloud:",
+              "KJV": "She crieth at the gates, at the entry of the city, at the coming in at the doors.",
+              "NASB95": "Beside the gates, at the opening to the city,\nAt the entrance of the doors, she cries out:",
+              "NKJV": "She cries out by the gates, at the entry of the city,\nAt the entrance of the doors:",
+              "DRB": "Beside the gates of the city, in the very doors she speaketh, saying:",
+              "ESV": "beside the gates in front of the town,\n    at the entrance of the portals she cries aloud:",
+              "LEB": "Beside gates, before towns,\n    at the entrance of doors, she cries out:"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "\"To you, O men, I call out; I raise my voice to all mankind.",
+              "KJV": "Unto you, O men, I call; and my voice is to the sons of man.",
+              "NASB95": "\u201cTo you, O men, I call,\nAnd my voice is to the sons of men.",
+              "NKJV": "\u201cTo you, O men, I call,\nAnd my voice is to the sons of men.",
+              "DRB": "O ye men, to you I call, and my voice is to the sons of men.",
+              "ESV": "\u201cTo you, O men, I call,\n    and my cry is to the children of man.",
+              "LEB": "\u201cTo you, O people, I call,\n    and my cry is to the children of humankind."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "You who are simple, gain prudence; you who are foolish, gain understanding.",
+              "KJV": "O ye simple, understand wisdom: and, ye fools, be ye of an understanding heart.",
+              "NASB95": "\u201cO naive ones, understand prudence;\nAnd, O fools, understand wisdom.",
+              "NKJV": "O you simple ones, understand prudence,\nAnd you fools, be of an understanding heart.",
+              "DRB": "O little ones, understand subtilty, and ye unwise, take notice.",
+              "ESV": "O simple ones, learn prudence;\n    O fools, learn sense.",
+              "LEB": "Learn prudence, O simple ones;\n    fools, learn intelligence."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Listen, for I have worthy things to say; I open my lips to speak what is right.",
+              "KJV": "Hear; for I will speak of excellent things; and the opening of my lips shall be right things.",
+              "NASB95": "\u201cListen, for I will speak noble things;\nAnd the opening of my lips will reveal right things.",
+              "NKJV": "Listen, for I will speak of excellent things,\nAnd from the opening of my lips will come right things;",
+              "DRB": "Hear, for I will speak of great things: and my lips shall be opened to preach right things.",
+              "ESV": "Hear, for I will speak noble things,\n    and from my lips will come what is right,",
+              "LEB": "Listen! For noble things I will speak,\n    and upright things from the opening of my lips."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "My mouth speaks what is true, for my lips detest wickedness.",
+              "KJV": "For my mouth shall speak truth; and wickedness is an abomination to my lips.",
+              "NASB95": "\u201cFor my mouth will utter truth;\nAnd wickedness is an abomination to my lips.",
+              "NKJV": "For my mouth will speak truth;\nWickedness is an abomination to my lips.",
+              "DRB": "My mouth shall meditate truth, and my lips shall hate wickedness.",
+              "ESV": "for my mouth will utter truth;\n    wickedness is an abomination to my lips.",
+              "LEB": "My mouth will utter truth,\n    and wickedness is an abomination to my lips."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "All the words of my mouth are just; none of them is crooked or perverse.",
+              "KJV": "All the words of my mouth are in righteousness; there is nothing froward or perverse in them.",
+              "NASB95": "\u201cAll the utterances of my mouth are in righteousness;\nThere is nothing crooked or perverted in them.",
+              "NKJV": "All the words of my mouth are with righteousness;\nNothing crooked or perverse is in them.",
+              "DRB": "All my words are just, there is nothing wicked nor perverse in them.",
+              "ESV": "All the words of my mouth are righteous;\n    there is nothing twisted or crooked in them.",
+              "LEB": "All sayings of my mouth are in righteousness;\n    none of them are twisted and crooked."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "To the discerning all of them are right; they are faultless to those who have knowledge.",
+              "KJV": "They are all plain to him that understandeth, and right to them that find knowledge.",
+              "NASB95": "\u201cThey are all straightforward to him who understands,\nAnd right to those who find knowledge.",
+              "NKJV": "They are all plain to him who understands,\nAnd right to those who find knowledge.",
+              "DRB": "They are right to them that understand, and just to them that find knowledge.",
+              "ESV": "They are all straight to him who understands,\n    and right to those who find knowledge.",
+              "LEB": "All of them are straight to him who understands,\n    and upright to those who find knowledge."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Choose my instruction instead of silver, knowledge rather than choice gold,",
+              "KJV": "Receive my instruction, and not silver; and knowledge rather than choice gold.",
+              "NASB95": "\u201cTake my instruction and not silver,\nAnd knowledge rather than choicest gold.",
+              "NKJV": "Receive my instruction, and not silver,\nAnd knowledge rather than choice gold;",
+              "DRB": "Receive my instruction, and not money: choose knowledge rather than gold.",
+              "ESV": "Take my instruction instead of silver,\n    and knowledge rather than choice gold,",
+              "LEB": "Take my teaching and not silver;\n    may you choose knowledge rather than choice gold."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "for wisdom is more precious than rubies, and nothing you desire can compare with her.",
+              "KJV": "For wisdom is better than rubies; and all the things that may be desired are not to be compared to it.",
+              "NASB95": "\u201cFor wisdom is better than jewels;\nAnd all desirable things cannot compare with her.",
+              "NKJV": "For wisdom is better than rubies,\nAnd all the things one may desire cannot be compared with her.",
+              "DRB": "11For wisdom is better than all the most precious things: and whatsoever may be desired cannot be compared to",
+              "ESV": "for wisdom is better than jewels,\n    and all that you may desire cannot compare with her.",
+              "LEB": "For wisdom is better than jewels,\n    and all desires shall not compare with her."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_8_12_21",
+        "title": "Wisdom Dwells With Prudence",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 8,
+          "start": 12,
+          "end": 21
+        },
+        "rows": [
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "\"I, wisdom, dwell together with prudence; I possess knowledge and discretion.",
+              "KJV": "I wisdom dwell with prudence, and find out knowledge of witty inventions.",
+              "NASB95": "\u201cI, wisdom, dwell with prudence,\nAnd I find knowledge and discretion.",
+              "NKJV": "\u201cI, wisdom, dwell with prudence,\nAnd find out knowledge and discretion.",
+              "DRB": "I wisdom dwell in counsel, and am present in learned thoughts.",
+              "ESV": "\u201cI, wisdom, dwell with prudence,\n    and I find knowledge and discretion.",
+              "LEB": "I, wisdom, live with prudence,\n    and I find knowledge and discretion."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "To fear the LORD is to hate evil; I hate pride and arrogance, evil behavior and perverse speech.",
+              "KJV": "The fear of the Lord is to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate.",
+              "NASB95": "\u201cThe fear of the Lord is to hate evil;\nPride and arrogance and the evil way\nAnd the perverted mouth, I hate.",
+              "NKJV": "The fear of the Lord is to hate evil;\nPride and arrogance and the evil way\nAnd the perverse mouth I hate.",
+              "DRB": "The fear of the Lord hateth evil: I hate arrogance, and pride, and every wicked way, and a mouth with a double tongue.",
+              "ESV": "The fear of the Lord is hatred of evil.\nPride and arrogance and the way of evil\n    and perverted speech I hate.",
+              "LEB": "The fear of Yahweh is hatred of evil,\n    pride, and arrogance and an evil way.\n    And I hate a mouth of perversity."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "Counsel and sound judgment are mine; I have understanding and power.",
+              "KJV": "Counsel is mine, and sound wisdom: I am understanding; I have strength.",
+              "NASB95": "\u201cCounsel is mine and sound wisdom;\nI am understanding, power is mine.",
+              "NKJV": "Counsel is mine, and sound wisdom;\nI am understanding, I have strength.",
+              "DRB": "Counsel and equity is mine, prudence is mine, strength is mine.",
+              "ESV": "I have counsel and sound wisdom;\n    I have insight; I have strength.",
+              "LEB": "Advice and sound judgment are mine;\n    I am understanding, strength is mine."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "By me kings reign and rulers make laws that are just;",
+              "KJV": "By me kings reign, and princes decree justice.",
+              "NASB95": "\u201cBy me kings reign,\nAnd rulers decree justice.",
+              "NKJV": "By me kings reign,\nAnd rulers decree justice.",
+              "DRB": "By me kings reign, and lawgivers decree just things,",
+              "ESV": "By me kings reign,\n    and rulers decree what is just;",
+              "LEB": "By me kings reign,\n    and rulers decree righteousness."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "by me princes govern, and all nobles who rule on earth.",
+              "KJV": "By me princes rule, and nobles, even all the judges of the earth.",
+              "NASB95": "\u201cBy me princes rule, and nobles,\nAll who judge rightly.",
+              "NKJV": "By me princes rule, and nobles,\nAll the judges of the earth.",
+              "DRB": "By me princes rule, and the mighty decree justice.",
+              "ESV": "by me princes rule,\n    and nobles, all who govern justly.",
+              "LEB": "By me rulers rule,\n    and nobles\u2014all judges of righteousness."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "I love those who love me, and those who seek me find me.",
+              "KJV": "I love them that love me; and those that seek me early shall find me.",
+              "NASB95": "\u201cI love those who love me;\nAnd those who diligently seek me will find me.",
+              "NKJV": "I love those who love me,\nAnd those who seek me diligently will find me.",
+              "DRB": "I love them that love me: and they that in the morning early watch for me, shall find me.",
+              "ESV": "I love those who love me,\n    and those who seek me diligently find me.",
+              "LEB": "I love those who love me,\n    and those who seek me diligently shall find me."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "With me are riches and honor, enduring wealth and prosperity.",
+              "KJV": "Riches and honour are with me; yea, durable riches and righteousness.",
+              "NASB95": "\u201cRiches and honor are with me,\nEnduring wealth and righteousness.",
+              "NKJV": "Riches and honor are with me,\nEnduring riches and righteousness.",
+              "DRB": "With me are riches and glory, glorious riches and justice.",
+              "ESV": "Riches and honor are with me,\n    enduring wealth and righteousness.",
+              "LEB": "Fortune and glory are with me,\n    enduring wealth and righteousness."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "My fruit is better than fine gold; what I yield surpasses choice silver.",
+              "KJV": "My fruit is better than gold, yea, than fine gold; and my revenue than choice silver.",
+              "NASB95": "\u201cMy fruit is better than gold, even pure gold,\nAnd my yield better than choicest silver.",
+              "NKJV": "My fruit is better than gold, yes, than fine gold,\nAnd my revenue than choice silver.",
+              "DRB": "For my fruit is better than gold and the precious stone, and my blossoms than choice silver.",
+              "ESV": "My fruit is better than gold, even fine gold,\n    and my yield than choice silver.",
+              "LEB": "My fruit is better than gold, even refined gold,\n    and my yield than choice silver."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "I walk in the way of righteousness, along the paths of justice,",
+              "KJV": "I lead in the way of righteousness, in the midst of the paths of judgment:",
+              "NASB95": "\u201cI walk in the way of righteousness,\nIn the midst of the paths of justice,",
+              "NKJV": "I traverse the way of righteousness,\nIn the midst of the paths of justice,",
+              "DRB": "I walk in the way of justice, in the midst of the paths of judgment,",
+              "ESV": "I walk in the way of righteousness,\n    in the paths of justice,",
+              "LEB": "In the way of righteousness I walk,\n    in the midst of paths of justice,"
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "bestowing wealth on those who love me and making their treasuries full.",
+              "KJV": "That I may cause those that love me to inherit substance; and I will fill their treasures.",
+              "NASB95": "To endow those who love me with wealth,\nThat I may fill their treasuries.",
+              "NKJV": "That I may cause those who love me to inherit wealth,\nThat I may fill their treasuries.",
+              "DRB": "That I may enrich them that love me, and may fill their treasures.",
+              "ESV": "granting an inheritance to those who love me,\n    and filling their treasuries.",
+              "LEB": "in order to endow those who love me with wealth,\n    and I will fill their treasuries."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_8_22_31",
+        "title": "She was from the Beginning",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 8,
+          "start": 22,
+          "end": 31
+        },
+        "rows": [
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "\"The LORD brought me forth as the first of his works,, before his deeds of old;",
+              "KJV": "The Lord possessed me in the beginning of his way, before his works of old.",
+              "NASB95": "\u201cThe Lord possessed me at the beginning of His way,\nBefore His works of old.",
+              "NKJV": "\u201cThe Lord possessed me at the beginning of His way,\nBefore His works of old.",
+              "DRB": "The Lord possessed me in the beginning of his ways, before he made any thing from the beginning.",
+              "ESV": "\u201cThe Lord possessed me at the beginning of his work,\n    the first of his acts of old.",
+              "LEB": "\u201cYahweh possessed me, the first of his ways,\n    before his acts of old."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "I was appointed from eternity, from the beginning, before the world began.",
+              "KJV": "I was set up from everlasting, from the beginning, or ever the earth was.",
+              "NASB95": "\u201cFrom everlasting I was established,\nFrom the beginning, from the earliest times of the earth.",
+              "NKJV": "I have been established from everlasting,\nFrom the beginning, before there was ever an earth.",
+              "DRB": "I was set up from eternity, and of old before the earth was made.",
+              "ESV": "Ages ago I was set up,\n    at the first, before the beginning of the earth.",
+              "LEB": "From eternity, I was set up from the first,\n    from the beginning of the earth."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "When there were no oceans, I was given birth, when there were no springs abounding with water;",
+              "KJV": "When there were no depths, I was brought forth; when there were no fountains abounding with water.",
+              "NASB95": "\u201cWhen there were no depths I was brought forth,\nWhen there were no springs abounding with water.",
+              "NKJV": "When there were no depths I was brought forth,\nWhen there were no fountains abounding with water.",
+              "DRB": "The depths were not as yet, and I was already conceived. neither had the fountains of waters as yet sprung out:",
+              "ESV": "When there were no depths I was brought forth,\n    when there were no springs abounding with water.",
+              "LEB": "When there were no depths, I was brought forth,\n    when there were no springs of abounding water."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "before the mountains were settled in place, before the hills, I was given birth,",
+              "KJV": "Before the mountains were settled, before the hills was I brought forth:",
+              "NASB95": "\u201cBefore the mountains were settled,\nBefore the hills I was brought forth;",
+              "NKJV": "Before the mountains were settled,\nBefore the hills, I was brought forth;",
+              "DRB": "The mountains with their huge bulk had not as yet been established: before the hills I was brought forth:",
+              "ESV": "Before the mountains had been shaped,\n    before the hills, I was brought forth,",
+              "LEB": "Before mountains had been shaped,\n    before hills, I was brought forth."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "before he made the earth or its fields or any of the dust of the world.",
+              "KJV": "While as yet he had not made the earth, nor the fields, nor the highest part of the dust of the world.",
+              "NASB95": "While He had not yet made the earth and the fields,\nNor the first dust of the world.",
+              "NKJV": "While as yet He had not made the earth or the fields,\nOr the primal dust of the world.",
+              "DRB": "He had not yet made the earth, nor the rivers, nor the poles of the world.",
+              "ESV": "before he had made the earth with its fields,\n    or the first of the dust of the world.",
+              "LEB": "When he had not yet made earth and fields,\n    or the first dust of the world,"
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "I was there when he set the heavens in place, when he marked out the horizon on the face of the deep,",
+              "KJV": "When he prepared the heavens, I was there: when he set a compass upon the face of the depth:",
+              "NASB95": "\u201cWhen He established the heavens, I was there,\nWhen He inscribed a circle on the face of the deep,",
+              "NKJV": "When He prepared the heavens, I was there,\nWhen He drew a circle on the face of the deep,",
+              "DRB": "When he prepared the heavens, I was present: when with a certain law and compass he enclosed the depths:",
+              "ESV": "When he established the heavens, I was there;\n    when he drew a circle on the face of the deep,",
+              "LEB": "when he established the heavens, there I was,\n    when he drew a circle upon the face of the deep,"
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "when he established the clouds above and fixed securely the fountains of the deep,",
+              "KJV": "When he established the clouds above: when he strengthened the fountains of the deep:",
+              "NASB95": "When He made firm the skies above,\nWhen the springs of the deep became fixed,",
+              "NKJV": "When He established the clouds above,\nWhen He strengthened the fountains of the deep,",
+              "DRB": "When he established the sky above, and poised the fountains of waters:",
+              "ESV": "when he made firm the skies above,\n    when he established the fountains of the deep,",
+              "LEB": "when he made skies from above,\n    when he founded fountains of the deep,"
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "when he gave the sea its boundary so the waters would not overstep his command, and when he marked out the foundations of the earth.",
+              "KJV": "When he gave to the sea his decree, that the waters should not pass his commandment: when he appointed the foundations of the earth:",
+              "NASB95": "When He set for the sea its boundary\nSo that the water would not transgress His command,\nWhen He marked out the foundations of the earth;",
+              "NKJV": "When He assigned to the sea its limit,\nSo that the waters would not transgress His command,\nWhen He marked out the foundations of the earth,",
+              "DRB": "When he compassed the sea with its bounds, and set a law to the waters that they should not pass their limits: when be balanced the foundations of the earth;",
+              "ESV": "when he assigned to the sea its limit,\n    so that the waters might not transgress his command,\nwhen he marked out the foundations of the earth,",
+              "LEB": "when he assigned his limits to the sea,\n    that waters shall not transgress his command,\n    when he marked the foundations of the earth,"
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "Then I was the craftsman at his side. I was filled with delight day after day, rejoicing always in his presence,",
+              "KJV": "Then I was by him, as one brought up with him: and I was daily his delight, rejoicing always before him;",
+              "NASB95": "Then I was beside Him, as a master workman;\nAnd I was daily His delight,\nRejoicing always before Him,",
+              "NKJV": "Then I was beside Him as a master craftsman;\nAnd I was daily His delight,\nRejoicing always before Him,",
+              "DRB": "I was with him forming all things: and was delighted every day, playing before him at all times;",
+              "ESV": "then I was beside him, like a master workman,\nand I was daily his delight,\n    rejoicing before him always,",
+              "LEB": "I was beside him, a master workman,\n    and I was delighting day by day,\n    rejoicing before him always,"
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "rejoicing in his whole world and delighting in mankind.",
+              "KJV": "Rejoicing in the habitable part of his earth; and my delights were with the sons of men.",
+              "NASB95": "Rejoicing in the world, His earth,\nAnd having my delight in the sons of men.",
+              "NKJV": "Rejoicing in His inhabited world,\nAnd my delight was with the sons of men.",
+              "DRB": "Playing in the world: and my delights were to be with the children of men.",
+              "ESV": "rejoicing in his inhabited world\n    and delighting in the children of man.",
+              "LEB": "rejoicing in the world of his earth,\n    and my delight was with the children of humankind."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_8_32_36",
+        "title": "Blessed is He Who Listens to Wisdom",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 8,
+          "start": 32,
+          "end": 36
+        },
+        "rows": [
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "\"Now then, my sons, listen to me; blessed are those who keep my ways.",
+              "KJV": "Now therefore hearken unto me, O ye children: for blessed are they that keep my ways.",
+              "NASB95": "\u201cNow therefore, O sons, listen to me,\nFor blessed are they who keep my ways.",
+              "NKJV": "\u201cNow therefore, listen to me, my children,\nFor blessed are those who keep my ways.",
+              "DRB": "Now therefore, ye children, hear me: Blessed are they that keep my ways.",
+              "ESV": "\u201cAnd now, O sons, listen to me:\n    blessed are those who keep my ways.",
+              "LEB": "\u201cAnd now, children, listen to me;\n    happy are those who will keep my ways."
+            }
+          },
+          {
+            "verse": 33,
+            "texts": {
+              "NIV84": "Listen to my instruction and be wise; do not ignore it.",
+              "KJV": "Hear instruction, and be wise, and refuse it not.",
+              "NASB95": "\u201cHeed instruction and be wise,\nAnd do not neglect it.",
+              "NKJV": "Hear instruction and be wise,\nAnd do not disdain it.",
+              "DRB": "Hear instruction and be wise, and refuse it not.",
+              "ESV": "Hear instruction and be wise,\n    and do not neglect it.",
+              "LEB": "Hear teaching and be wise;\n    do not neglect it."
+            }
+          },
+          {
+            "verse": 34,
+            "texts": {
+              "NIV84": "Blessed is the man who listens to me, watching daily at my doors, waiting at my doorway.",
+              "KJV": "Blessed is the man that heareth me, watching daily at my gates, waiting at the posts of my doors.",
+              "NASB95": "\u201cBlessed is the man who listens to me,\nWatching daily at my gates,\nWaiting at my doorposts.",
+              "NKJV": "Blessed is the man who listens to me,\nWatching daily at my gates,\nWaiting at the posts of my doors.",
+              "DRB": "Blessed is the man that heareth me, and that watcheth daily at my gates, and waiteth at the posts of my doors.",
+              "ESV": "Blessed is the one who listens to me,\n    watching daily at my gates,\n    waiting beside my doors.",
+              "LEB": "Happy is the person who listens to me,\n    in order to keep watch at my doors day by day,\n    in order to guard the frames of my entrances."
+            }
+          },
+          {
+            "verse": 35,
+            "texts": {
+              "NIV84": "For whoever finds me finds life and receives favor from the LORD.",
+              "KJV": "For whoso findeth me findeth life, and shall obtain favour of the Lord.",
+              "NASB95": "\u201cFor he who finds me finds life\nAnd obtains favor from the Lord.",
+              "NKJV": "For whoever finds me finds life,\nAnd obtains favor from the Lord;",
+              "DRB": "He that shall find me, shall find life, and shall have salvation from the Lord:",
+              "ESV": "For whoever finds me finds life\n    and obtains favor from the Lord,",
+              "LEB": "For he who finds me is he who finds life,\n    and he obtains favor from Yahweh."
+            }
+          },
+          {
+            "verse": 36,
+            "texts": {
+              "NIV84": "But whoever fails to find me harms himself; all who hate me love death.\"",
+              "KJV": "But he that sinneth against me wrongeth his own soul: all they that hate me love death.",
+              "NASB95": "\u201cBut he who sins against me injures himself;\nAll those who hate me love death.\u201d",
+              "NKJV": "But he who sins against me wrongs his own soul;\nAll those who hate me love death.\u201d",
+              "DRB": "But he that shall sin against me, shall hurt his own soul. All that hate me love death.",
+              "ESV": "but he who fails to find me injures himself;\n    all who hate me love death.\u201d",
+              "LEB": "But he who misses me injures himself.\n    All those who hate me love death.\u201d"
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_9_1_6",
+        "title": "Wisdom and Her Ways",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 9,
+          "start": 1,
+          "end": 6
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Wisdom has built her house; she has hewn out its seven pillars.",
+              "KJV": "Wisdom hath builded her house, she hath hewn out her seven pillars:",
+              "NASB95": "Wisdom has built her house,\nShe has hewn out her seven pillars;",
+              "NKJV": "Wisdom has built her house,\nShe has hewn out her seven pillars;",
+              "DRB": "Wisdom hath built herself a house, she hath hewn her out seven pillars.",
+              "ESV": "Wisdom has built her house;\n    she has hewn her seven pillars.",
+              "LEB": "Wisdom has built her house;\n    she has hewn her seven pillars."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "She has prepared her meat and mixed her wine; she has also set her table.",
+              "KJV": "She hath killed her beasts; she hath mingled her wine; she hath also furnished her table.",
+              "NASB95": "She has prepared her food, she has mixed her wine;\nShe has also set her table;",
+              "NKJV": "She has slaughtered her meat,\nShe has mixed her wine,\nShe has also furnished her table.",
+              "DRB": "She hath slain her victims, mingled her wine, and set forth her table.",
+              "ESV": "She has slaughtered her beasts; she has mixed her wine;\n    she has also set her table.",
+              "LEB": "She has slaughtered her slaughtering, mixed her wine,\n    and also set her table."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "She has sent out her maids, and she calls from the highest point of the city.",
+              "KJV": "She hath sent forth her maidens: she crieth upon the highest places of the city,",
+              "NASB95": "She has sent out her maidens, she calls\nFrom the tops of the heights of the city:",
+              "NKJV": "She has sent out her maidens,\nShe cries out from the highest places of the city,",
+              "DRB": "She hath sent her maids to invite to the tower, and to the walls of the city:",
+              "ESV": "She has sent out her young women to call\n    from the highest places in the town,",
+              "LEB": "She has sent her servant girls, she calls\n    upon the wings of the high places of town,"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "\"Let all who are simple come in here!\" she says to those who lack judgment.",
+              "KJV": "Whoso is simple, let him turn in hither: as for him that wanteth understanding, she saith to him,",
+              "NASB95": "\u201cWhoever is naive, let him turn in here!\u201d\nTo him who lacks understanding she says,",
+              "NKJV": "\u201cWhoever is simple, let him turn in here!\u201d\nAs for him who lacks understanding, she says to him,",
+              "DRB": "Whosoever is a little one, let him come to me. And to the unwise she said:",
+              "ESV": "\u201cWhoever is simple, let him turn in here!\u201d\n    To him who lacks sense she says,",
+              "LEB": "\u201cWhoever is simple, let him turn here.\u201d\n    As for the one who lacks sense, she says to him,"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "\"Come, eat my food and drink the wine I have mixed.",
+              "KJV": "Come, eat of my bread, and drink of the wine which I have mingled.",
+              "NASB95": "\u201cCome, eat of my food\nAnd drink of the wine I have mixed.",
+              "NKJV": "\u201cCome, eat of my bread\nAnd drink of the wine I have mixed.",
+              "DRB": "Come, eat my bread, and drink the wine which I have mingled for you.",
+              "ESV": "\u201cCome, eat of my bread\n    and drink of the wine I have mixed.",
+              "LEB": "\u201cCome, eat with my bread;\n    drink with the wine I have mixed."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Leave your simple ways and you will live; walk in the way of understanding.",
+              "KJV": "Forsake the foolish, and live; and go in the way of understanding.",
+              "NASB95": "\u201cForsake your folly and live,\nAnd proceed in the way of understanding.\u201d",
+              "NKJV": "Forsake foolishness and live,\nAnd go in the way of understanding.",
+              "DRB": "Forsake childishness, and live, and walk by the ways of prudence.",
+              "ESV": "Leave your simple ways, and live,\n    and walk in the way of insight.\u201d",
+              "LEB": "Lay aside simplicity and live;\n    walk in the way of understanding.\u201d"
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_9_7_12",
+        "title": "Scoffers and a Wise Man",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 9,
+          "start": 7,
+          "end": 12
+        },
+        "rows": [
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "\"Whoever corrects a mocker invites insult; whoever rebukes a wicked man incurs abuse.",
+              "KJV": "He that reproveth a scorner getteth to himself shame: and he that rebuketh a wicked man getteth himself a blot.",
+              "NASB95": "He who corrects a scoffer gets dishonor for himself,\nAnd he who reproves a wicked man gets insults for himself.",
+              "NKJV": "\u201cHe who corrects a scoffer gets shame for himself,\nAnd he who rebukes a wicked man only harms himself.",
+              "DRB": "He that teacheth a scorner, doth an injury to himself: and he that rebuketh a wicked man, getteth himself a blot.",
+              "ESV": "Whoever corrects a scoffer gets himself abuse,\n    and he who reproves a wicked man incurs injury.",
+              "LEB": "He who corrects a scoffer gains abuse for himself,\n    and he who rebukes the wicked gets hurt."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Do not rebuke a mocker or he will hate you; rebuke a wise man and he will love you.",
+              "KJV": "Reprove not a scorner, lest he hate thee: rebuke a wise man, and he will love thee.",
+              "NASB95": "Do not reprove a scoffer, or he will hate you,\nReprove a wise man and he will love you.",
+              "NKJV": "Do not correct a scoffer, lest he hate you;\nRebuke a wise man, and he will love you.",
+              "DRB": "Rebuke not a scorner lest he hate thee. Rebuke a wise man, and he will love thee.",
+              "ESV": "Do not reprove a scoffer, or he will hate you;\n    reprove a wise man, and he will love you.",
+              "LEB": "Do not rebuke a scoffer, lest he hate you;\n    rebuke the wise and he will love you."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Instruct a wise man and he will be wiser still; teach a righteous man and he will add to his learning.",
+              "KJV": "Give instruction to a wise man, and he will be yet wiser: teach a just man, and he will increase in learning.",
+              "NASB95": "Give instruction to a wise man and he will be still wiser,\nTeach a righteous man and he will increase his learning.",
+              "NKJV": "Give instruction to a wise man, and he will be still wiser;\nTeach a just man, and he will increase in learning.",
+              "DRB": "Give an occasion to a wise man, and wisdom shall be added to him. Teach a just man, and he shall make haste to receive it.",
+              "ESV": "Give instruction to a wise man, and he will be still wiser;\n    teach a righteous man, and he will increase in learning.",
+              "LEB": "Give to a wise one and he will become more wise;\n    teach a righteous one and he will increase learning."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "\"The fear of the LORD is the beginning of wisdom, and knowledge of the Holy One is understanding.",
+              "KJV": "The fear of the Lord is the beginning of wisdom: and the knowledge of the holy is understanding.",
+              "NASB95": "The fear of the Lord is the beginning of wisdom,\nAnd the knowledge of the Holy One is understanding.",
+              "NKJV": "\u201cThe fear of the Lord is the beginning of wisdom,\nAnd the knowledge of the Holy One is understanding.",
+              "DRB": "The fear of the Lord is the beginning of wisdom: and the knowledge of the holy is prudence.",
+              "ESV": "The fear of the Lord is the beginning of wisdom,\n    and the knowledge of the Holy One is insight.",
+              "LEB": "The start of wisdom is fear of Yahweh,\n    and knowledge of the Holy One, insight."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "For through me your days will be many, and years will be added to your life.",
+              "KJV": "For by me thy days shall be multiplied, and the years of thy life shall be increased.",
+              "NASB95": "For by me your days will be multiplied,\nAnd years of life will be added to you.",
+              "NKJV": "For by me your days will be multiplied,\nAnd years of life will be added to you.",
+              "DRB": "For by me shall thy days be multiplied, and years of life shall be added to thee.",
+              "ESV": "For by me your days will be multiplied,\n    and years will be added to your life.",
+              "LEB": "For by me your days shall increase,\n    and years of life shall multiply for you."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "If you are wise, your wisdom will reward you; if you are a mocker, you alone will suffer.\"",
+              "KJV": "If thou be wise, thou shalt be wise for thyself: but if thou scornest, thou alone shalt bear it.",
+              "NASB95": "If you are wise, you are wise for yourself,\nAnd if you scoff, you alone will bear it.",
+              "NKJV": "If you are wise, you are wise for yourself,\nAnd if you scoff, you will bear it alone.\u201d",
+              "DRB": "If thou be wise, thou shalt be so to thyself: and if a scorner, thou alone shalt bear the evil.",
+              "ESV": "If you are wise, you are wise for yourself;\n    if you scoff, you alone will bear it.",
+              "LEB": "If you are wise, you are wise for yourself,\n    and if you scoff, alone you shall bear it."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_9_13_18",
+        "title": "The Foolish Woman",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 9,
+          "start": 13,
+          "end": 18
+        },
+        "rows": [
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "The woman Folly is loud; she is undisciplined and without knowledge.",
+              "KJV": "A foolish woman is clamorous: she is simple, and knoweth nothing.",
+              "NASB95": "The woman of folly is boisterous,\nShe is naive and knows nothing.",
+              "NKJV": "A foolish woman is clamorous;\nShe is simple, and knows nothing.",
+              "DRB": "A foolish woman and clamorous, and full of allurements, and knowing nothing at all,",
+              "ESV": "The woman Folly is loud;\n    she is seductive and knows nothing.",
+              "LEB": "A woman of foolishness is loud,\n    simple, and does not know it."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "She sits at the door of her house, on a seat at the highest point of the city,",
+              "KJV": "For she sitteth at the door of her house, on a seat in the high places of the city,",
+              "NASB95": "She sits at the doorway of her house,\nOn a seat by the high places of the city,",
+              "NKJV": "For she sits at the door of her house,\nOn a seat by the highest places of the city,",
+              "DRB": "Sat at the door of her house, upon a seat, in a high place of the city,",
+              "ESV": "She sits at the door of her house;\n    she takes a seat on the highest places of the town,",
+              "LEB": "She sits at the door of her house,\n    upon a throne at the high places of town,"
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "calling out to those who pass by, who go straight on their way.",
+              "KJV": "To call passengers who go right on their ways:",
+              "NASB95": "Calling to those who pass by,\nWho are making their paths straight:",
+              "NKJV": "To call to those who pass by,\nWho go straight on their way:",
+              "DRB": "To call them that pass by the way, and go on their journey:",
+              "ESV": "calling to those who pass by,\n    who are going straight on their way,",
+              "LEB": "in order to call to those who pass by the road,\n    those who go straight on their way:"
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "\"Let all who are simple come in here!\" she says to those who lack judgment.",
+              "KJV": "Whoso is simple, let him turn in hither: and as for him that wanteth understanding, she saith to him,",
+              "NASB95": "\u201cWhoever is naive, let him turn in here,\u201d\nAnd to him who lacks understanding she says,",
+              "NKJV": "\u201cWhoever is simple, let him turn in here\u201d;\nAnd as for him who lacks understanding, she says to him,",
+              "DRB": "He that is a little one, let him turn to me. And to the fool she said:",
+              "ESV": "\u201cWhoever is simple, let him turn in here!\u201d\n    And to him who lacks sense she says,",
+              "LEB": "\u201cWhoever is simple, may he turn here!\u201d\n    As for he who lacks sense, she says to him,"
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "\"Stolen water is sweet; food eaten in secret is delicious!\"",
+              "KJV": "Stolen waters are sweet, and bread eaten in secret is pleasant.",
+              "NASB95": "\u201cStolen water is sweet;\nAnd bread eaten in secret is pleasant.\u201d",
+              "NKJV": "\u201cStolen water is sweet,\nAnd bread eaten in secret is pleasant.\u201d",
+              "DRB": "Stolen waters are sweeter, and hid den bread is more pleasant.",
+              "ESV": "\u201cStolen water is sweet,\n    and bread eaten in secret is pleasant.\u201d",
+              "LEB": "\u201cStolen waters are sweet,\n    and bread of secrecy is pleasant.\u201d"
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "But little do they know that the dead are there, that her guests are in the depths of the grave.",
+              "KJV": "But he knoweth not that the dead are there; and that her guests are in the depths of hell.",
+              "NASB95": "But he does not know that the dead are there,\nThat her guests are in the depths of Sheol.",
+              "NKJV": "But he does not know that the dead are there,\nThat her guests are in the depths of hell.",
+              "DRB": "And he did not know that giants are there, and that her guests are in the depths of hell. The Parables of Solomon",
+              "ESV": "But he does not know that the dead are there,\n    that her guests are in the depths of Sheol.",
+              "LEB": "But he does not know that the dead are there,\n    in the depths of Sheol are her guests."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

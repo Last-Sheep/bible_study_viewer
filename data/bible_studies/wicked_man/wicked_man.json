@@ -1,0 +1,588 @@
+{
+  "scripture": {
+    "header": {
+      "id": "",
+      "title": "",
+      "description": "",
+      "topics": [
+        "Sinful Nature",
+        "Sin",
+        "Sinner",
+        "Ungodly",
+        "Unholy",
+        "Unrighteous"
+      ]
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NASB95",
+      "NKJV",
+      "DRB",
+      "ESV",
+      "LEB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_6_12_17",
+        "title": "The Wicked Man",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 6,
+          "start": 12,
+          "end": 17
+        },
+        "rows": [
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "A scoundrel and villain, who goes about with a corrupt mouth,",
+              "KJV": "A naughty person, a wicked man, walketh with a froward mouth.",
+              "NASB95": "A worthless person, a wicked man,\nIs the one who walks with a perverse mouth,",
+              "NKJV": "A worthless person, a wicked man,\nWalks with a perverse mouth;",
+              "DRB": "A man that is an apostate, an unprofitable man, walketh with a perverse mouth,",
+              "ESV": "A worthless person, a wicked man,\n    goes about with crooked speech,",
+              "LEB": "A worthless man, an evil man,\n    goes around with deceitful speech."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "who winks with his eye, signals with his feet and motions with his fingers,",
+              "KJV": "He winketh with his eyes, he speaketh with his feet, he teacheth with his fingers;",
+              "NASB95": "Who winks with his eyes, who signals with his feet,\nWho points with his fingers;",
+              "NKJV": "He winks with his eyes,\nHe shuffles his feet,\nHe points with his fingers;",
+              "DRB": "He winketh with the eyes, presseth with the foot, speaketh with the finger.",
+              "ESV": "winks with his eyes, signals with his feet,\n    points with his finger,",
+              "LEB": "Winking in his eye, shuffling in his foot,\n    pointing in his fingers,"
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "who plots evil with deceit in his heart- he always stirs up dissension.",
+              "KJV": "Frowardness is in his heart, he deviseth mischief continually; he soweth discord.",
+              "NASB95": "Who with perversity in his heart continually devises evil,\nWho spreads strife.",
+              "NKJV": "Perversity is in his heart,\nHe devises evil continually,\nHe sows discord.",
+              "DRB": "With a wicked heart he deviseth evil, and at all times he soweth discord.",
+              "ESV": "with perverted heart devises evil,\n    continually sowing discord;",
+              "LEB": "perversion in his heart, he devises evil;\n    at all times he will send out discord."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Therefore disaster will overtake him in an instant; he will suddenly be destroyed-without remedy.",
+              "KJV": "Therefore shall his calamity come suddenly; suddenly shall he be broken without remedy.",
+              "NASB95": "Therefore his calamity will come suddenly;\nInstantly he will be broken and there will be no healing.",
+              "NKJV": "Therefore his calamity shall come suddenly;\nSuddenly he shall be broken without remedy.",
+              "DRB": "To such a one his destruction shall presently come, and he shall suddenly be destroyed, and shall no longer have any remedy.",
+              "ESV": "therefore calamity will come upon him suddenly;\n    in a moment he will be broken beyond healing.",
+              "LEB": "Upon such a man, suddenly shall his calamity come;\n    in a moment he will be damaged and there is no healing."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "There are six things the LORD hates, seven that are detestable to him:",
+              "KJV": "These six things doth the Lord hate: yea, seven are an abomination unto him:",
+              "NASB95": "There are six things which the Lord hates,\nYes, seven which are an abomination to Him:",
+              "NKJV": "These six things the Lord hates,\nYes, seven are an abomination to Him:",
+              "DRB": "Six things there are, which the Lord hateth, and the seventh his soul detesteth:",
+              "ESV": "There are six things that the Lord hates,\n    seven that are an abomination to him:",
+              "LEB": "There are six things Yahweh hates,\n    and seven things are abominations of his soul:"
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "haughty eyes, a lying tongue, hands that shed innocent blood,",
+              "KJV": "A proud look, a lying tongue, and hands that shed innocent blood,",
+              "NASB95": "Haughty eyes, a lying tongue,\nAnd hands that shed innocent blood,",
+              "NKJV": "A proud look,\nA lying tongue,\nHands that shed innocent blood,",
+              "DRB": "Haughty eyes, a lying tongue, hands that shed innocent blood,",
+              "ESV": "haughty eyes, a lying tongue,\n    and hands that shed innocent blood,",
+              "LEB": "haughty eyes, a lying tongue,\n    and hands that shed innocent blood,"
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_6_16_19",
+        "title": "Seven Abominations",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 6,
+          "start": 16,
+          "end": 19
+        },
+        "rows": [
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "There are six things the LORD hates, seven that are detestable to him:",
+              "KJV": "These six things doth the Lord hate: yea, seven are an abomination unto him:",
+              "NASB95": "There are six things which the Lord hates,\nYes, seven which are an abomination to Him:",
+              "NKJV": "These six things the Lord hates,\nYes, seven are an abomination to Him:",
+              "DRB": "Six things there are, which the Lord hateth, and the seventh his soul detesteth:",
+              "ESV": "There are six things that the Lord hates,\n    seven that are an abomination to him:",
+              "LEB": "There are six things Yahweh hates,\n    and seven things are abominations of his soul:"
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "haughty eyes, a lying tongue, hands that shed innocent blood,",
+              "KJV": "A proud look, a lying tongue, and hands that shed innocent blood,",
+              "NASB95": "Haughty eyes, a lying tongue,\nAnd hands that shed innocent blood,",
+              "NKJV": "A proud look,\nA lying tongue,\nHands that shed innocent blood,",
+              "DRB": "Haughty eyes, a lying tongue, hands that shed innocent blood,",
+              "ESV": "haughty eyes, a lying tongue,\n    and hands that shed innocent blood,",
+              "LEB": "haughty eyes, a lying tongue,\n    and hands that shed innocent blood,"
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "a heart that devises wicked schemes, feet that are quick to rush into evil,",
+              "KJV": "An heart that deviseth wicked imaginations, feet that be swift in running to mischief,",
+              "NASB95": "A heart that devises wicked plans,\nFeet that run rapidly to evil,",
+              "NKJV": "A heart that devises wicked plans,\nFeet that are swift in running to evil,",
+              "DRB": "A heart that deviseth wicked plots, feet that are swift to run into mischief,",
+              "ESV": "a heart that devises wicked plans,\n    feet that make haste to run to evil,",
+              "LEB": "a devising heart, plans of deception,\n    feet that hurry to run to evil,"
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "a false witness who pours out lies and a man who stirs up dissension among brothers.",
+              "KJV": "A false witness that speaketh lies, and he that soweth discord among brethren.",
+              "NASB95": "A false witness who utters lies,\nAnd one who spreads strife among brothers.",
+              "NKJV": "A false witness who speaks lies,\nAnd one who sows discord among brethren.",
+              "DRB": "A deceitful witness that uttereth lies, and him that soweth discord among brethren.",
+              "ESV": "a false witness who breathes out lies,\n    and one who sows discord among brothers.",
+              "LEB": "a false witness who breathes lies\n    and sends out discord between brothers."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_26_1_12",
+        "title": "How to Answer a Fool",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 26,
+          "start": 1,
+          "end": 12
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Like snow in summer or rain in harvest, honor is not fitting for a fool.",
+              "KJV": "As snow in summer, and as rain in harvest, so honour is not seemly for a fool.",
+              "NASB95": "Like snow in summer and like rain in harvest,\nSo honor is not fitting for a fool.",
+              "NKJV": "As snow in summer and rain in harvest,\nSo honor is not fitting for a fool.",
+              "DRB": "As snow in summer, and rain in harvest, so glory is not seemly for a fool.",
+              "ESV": "Like snow in summer or rain in harvest,\n    so honor is not fitting for a fool.",
+              "LEB": "Like snow in the summer and like rain at the harvest,\n    so honor is not fitting for a fool."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Like a fluttering sparrow or a darting swallow, an undeserved curse does not come to rest.",
+              "KJV": "As the bird by wandering, as the swallow by flying, so the curse causeless shall not come.",
+              "NASB95": "Like a sparrow in its flitting, like a swallow in its flying,\nSo a curse without cause does not alight.",
+              "NKJV": "Like a flitting sparrow, like a flying swallow,\nSo a curse without cause shall not alight.",
+              "DRB": "As a bird flying to other places, and a sparrow going here or there: so a curse uttered without cause shall come upon a man.",
+              "ESV": "Like a sparrow in its flitting, like a swallow in its flying,\n    a curse that is causeless does not alight.",
+              "LEB": "Like the sparrow is to fluttering and like the swallow is to flying,\n    so an undeserved curse does not go forth."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "A whip for the horse, a halter for the donkey, and a rod for the backs of fools!",
+              "KJV": "A whip for the horse, a bridle for the ass, and a rod for the fool's back.",
+              "NASB95": "A whip is for the horse, a bridle for the donkey,\nAnd a rod for the back of fools.",
+              "NKJV": "A whip for the horse,\nA bridle for the donkey,\nAnd a rod for the fool\u2019s back.",
+              "DRB": "A whip for a horse, and a snaffle for an ass, and a rod for the back of fools.",
+              "ESV": "A whip for the horse, a bridle for the donkey,\n    and a rod for the back of fools.",
+              "LEB": "A whip for the horse, a bridle for the donkey,\n    and a rod for the back of fools."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Do not answer a fool according to his folly, or you will be like him yourself.",
+              "KJV": "Answer not a fool according to his folly, lest thou also be like unto him.",
+              "NASB95": "Do not answer a fool according to his folly,\nOr you will also be like him.",
+              "NKJV": "Do not answer a fool according to his folly,\nLest you also be like him.",
+              "DRB": "Answer not a fool according to his folly, lest thou be made like him.",
+              "ESV": "Answer not a fool according to his folly,\n    lest you be like him yourself.",
+              "LEB": "Do not answer a fool according to his folly\n    lest you become like him\u2014even you."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "Answer a fool according to his folly, or he will be wise in his own eyes.",
+              "KJV": "Answer a fool according to his folly, lest he be wise in his own conceit.",
+              "NASB95": "Answer a fool as his folly deserves,\nThat he not be wise in his own eyes.",
+              "NKJV": "Answer a fool according to his folly,\nLest he be wise in his own eyes.",
+              "DRB": "Answer a fool according to his folly, lest he imagine himself to be wise.",
+              "ESV": "Answer a fool according to his folly,\n    lest he be wise in his own eyes.",
+              "LEB": "Answer a fool according to his folly,\n    or else he will be wise in his own eyes."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Like cutting off one's feet or drinking violence is the sending of a message by the hand of a fool.",
+              "KJV": "He that sendeth a message by the hand of a fool cutteth off the feet, and drinketh damage.",
+              "NASB95": "He cuts off his own feet and drinks violence\nWho sends a message by the hand of a fool.",
+              "NKJV": "He who sends a message by the hand of a fool\nCuts off his own feet and drinks violence.",
+              "DRB": "He that sendeth words by a foolish messenger, is lame of feet and drinketh iniquity.",
+              "ESV": "Whoever sends a message by the hand of a fool\n    cuts off his own feet and drinks violence.",
+              "LEB": "Like cutting off feet or drinking violence,\n    so is he who sends messages in the hand of a fool."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Like a lame man's legs that hang limp is a proverb in the mouth of a fool.",
+              "KJV": "The legs of the lame are not equal: so is a parable in the mouth of fools.",
+              "NASB95": "Like the legs which are useless to the lame,\nSo is a proverb in the mouth of fools.",
+              "NKJV": "Like the legs of the lame that hang limp\nIs a proverb in the mouth of fools.",
+              "DRB": "As a lame man hath fair legs in vain: so a parable is unseemly in the mouth of fools.",
+              "ESV": "Like a lame man's legs, which hang useless,\n    is a proverb in the mouth of fools.",
+              "LEB": "Like legs that hang limp from a lame person,\n    so is a proverb in the mouth of fools."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Like tying a stone in a sling is the giving of honor to a fool.",
+              "KJV": "As he that bindeth a stone in a sling, so is he that giveth honour to a fool.",
+              "NASB95": "Like one who binds a stone in a sling,\nSo is he who gives honor to a fool.",
+              "NKJV": "Like one who binds a stone in a sling\nIs he who gives honor to a fool.",
+              "DRB": "As he that casteth a stone into the heap of Mercury: so is he that giveth honour to a fool.",
+              "ESV": "Like one who binds the stone in the sling\n    is one who gives honor to a fool.",
+              "LEB": "Like binding a stone in a sling,\n    so is giving honor to a fool."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Like a thornbush in a drunkard's hand is a proverb in the mouth of a fool.",
+              "KJV": "As a thorn goeth up into the hand of a drunkard, so is a parable in the mouths of fools.",
+              "NASB95": "Like a thorn which falls into the hand of a drunkard,\nSo is a proverb in the mouth of fools.",
+              "NKJV": "Like a thorn that goes into the hand of a drunkard\nIs a proverb in the mouth of fools.",
+              "DRB": "As if a thorn should grow in the hand of a drunkard: so is a parable in the mouth of fools.",
+              "ESV": "Like a thorn that goes up into the hand of a drunkard\n    is a proverb in the mouth of fools.",
+              "LEB": "Like a thorn that goes up in the hand of a drunkard,\n    so is a proverb in the mouth of fools."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Like an archer who wounds at random is he who hires a fool or any passer-by.",
+              "KJV": "The great God that formed all things both rewardeth the fool, and rewardeth transgressors.",
+              "NASB95": "Like an archer who wounds everyone,\nSo is he who hires a fool or who hires those who pass by.",
+              "NKJV": "The great God who formed everything\nGives the fool his hire and the transgressor his wages.",
+              "DRB": "Judgment determineth causes: and he that putteth a fool to silence, appeaseth anger.",
+              "ESV": "Like an archer who wounds everyone\n    is one who hires a passing fool or drunkard.",
+              "LEB": "Like an archer who wounds everyone,\n    so is he who hires a fool or he who hires passersby."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "As a dog returns to its vomit, so a fool repeats his folly.",
+              "KJV": "As a dog returneth to his vomit, so a fool returneth to his folly.",
+              "NASB95": "Like a dog that returns to its vomit\nIs a fool who repeats his folly.",
+              "NKJV": "As a dog returns to his own vomit,\nSo a fool repeats his folly.",
+              "DRB": "As a dog that returneth to his vomit, so is the fool that repeateth his folly.",
+              "ESV": "Like a dog that returns to his vomit\n    is a fool who repeats his folly.",
+              "LEB": "Like a dog returning to his vomit\n    is a fool reverting to his folly."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Do you see a man wise in his own eyes? There is more hope for a fool than for him.",
+              "KJV": "Seest thou a man wise in his own conceit? there is more hope of a fool than of him.",
+              "NASB95": "Do you see a man wise in his own eyes?\nThere is more hope for a fool than for him.",
+              "NKJV": "Do you see a man wise in his own eyes?\nThere is more hope for a fool than for him.",
+              "DRB": "Hast thou seen a man wise in his own conceit? there shall be more hope of a fool than of him.",
+              "ESV": "Do you see a man who is wise in his own eyes?\n    There is more hope for a fool than for him.",
+              "LEB": "Do you see a man wise in his own eyes?\n    There is more hope for a fool than for him."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_26_13_16",
+        "title": "The Lazy Man",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 26,
+          "start": 13,
+          "end": 16
+        },
+        "rows": [
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "The sluggard says, \"There is a lion in the road, a fierce lion roaming the streets!\"",
+              "KJV": "The slothful man saith, There is a lion in the way; a lion is in the streets.",
+              "NASB95": "The sluggard says, \u201cThere is a lion in the road!\nA lion is in the open square!\u201d",
+              "NKJV": "The lazy man says, \u201cThere is a lion in the road!\nA fierce lion is in the streets!\u201d",
+              "DRB": "The slothful man saith: There is a lion in the way, and a lioness in the roads.",
+              "ESV": "The sluggard says, \u201cThere is a lion in the road!\n    There is a lion in the streets!\u201d",
+              "LEB": "A lazy person says \u201cA lion is in the road!\n    A lion among the streets!\u201d"
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "As a door turns on its hinges, so a sluggard turns on his bed.",
+              "KJV": "As the door turneth upon his hinges, so doth the slothful upon his bed.",
+              "NASB95": "As the door turns on its hinges,\nSo does the sluggard on his bed.",
+              "NKJV": "As a door turns on its hinges,\nSo does the lazy man on his bed.",
+              "DRB": "As the door turneth upon its hinges, so doth the slothful upon his bed.",
+              "ESV": "As a door turns on its hinges,\n    so does a sluggard on his bed.",
+              "LEB": "The door turns on its hinge,\n    and a lazy person on his bed."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "The sluggard buries his hand in the dish; he is too lazy to bring it back to his mouth.",
+              "KJV": "The slothful hideth his hand in his bosom; it grieveth him to bring it again to his mouth.",
+              "NASB95": "The sluggard buries his hand in the dish;\nHe is weary of bringing it to his mouth again.",
+              "NKJV": "The lazy man buries his hand in the bowl;\nIt wearies him to bring it back to his mouth.",
+              "DRB": "The slothful hideth his hand under his armpit, and it grieveth him to turn it to his mouth.",
+              "ESV": "The sluggard buries his hand in the dish;\n    it wears him out to bring it back to his mouth.",
+              "LEB": "A lazy person buries his hands in the dish;\n    he is too tired to return it to his mouth."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "The sluggard is wiser in his own eyes than seven men who answer discreetly.",
+              "KJV": "The sluggard is wiser in his own conceit than seven men that can render a reason.",
+              "NASB95": "The sluggard is wiser in his own eyes\nThan seven men who can give a discreet answer.",
+              "NKJV": "The lazy man is wiser in his own eyes\nThan seven men who can answer sensibly.",
+              "DRB": "The sluggard is wiser in his own conceit, than seven men that speak sentences.",
+              "ESV": "The sluggard is wiser in his own eyes\n    than seven men who can answer sensibly.",
+              "LEB": "A lazy person is wiser in his eyes\n    than seven who answer discreetly."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_26_17_19",
+        "title": "The Meddler and The Madman",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 26,
+          "start": 17,
+          "end": 19
+        },
+        "rows": [
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "Like one who seizes a dog by the ears is a passer-by who meddles in a quarrel not his own.",
+              "KJV": "He that passeth by, and meddleth with strife belonging not to him, is like one that taketh a dog by the ears.",
+              "NASB95": "Like one who takes a dog by the ears\nIs he who passes by and meddles with strife not belonging to him.",
+              "NKJV": "He who passes by and meddles in a quarrel not his own\nIs like one who takes a dog by the ears.",
+              "DRB": "As he that taketh a dog by the ears, so is he that passeth by in anger, and meddleth with another man's quarrel.",
+              "ESV": "Whoever meddles in a quarrel not his own\n    is like one who takes a passing dog by the ears.",
+              "LEB": "Grabbing onto the ears of a dog\n    passing by is one who meddles in a quarrel that is not his own."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "Like a madman shooting firebrands or deadly arrows",
+              "KJV": "As a mad man who casteth firebrands, arrows, and death,",
+              "NASB95": "Like a madman who throws\nFirebrands, arrows and death,",
+              "NKJV": "Like a madman who throws firebrands, arrows, and death,",
+              "DRB": "As he is guilty that shooteth arrows, and lances unto death :",
+              "ESV": "Like a madman who throws firebrands, arrows, and death",
+              "LEB": "Like a maniac who shoots\n    firebrands, arrows, and death,"
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "is a man who deceives his neighbor and says, \"I was only joking!\"",
+              "KJV": "So is the man that deceiveth his neighbour, and saith, Am not I in sport?",
+              "NASB95": "So is the man who deceives his neighbor,\nAnd says, \u201cWas I not joking?\u201d",
+              "NKJV": "Is the man who deceives his neighbor,\nAnd says, \u201cI was only joking!\u201d",
+              "DRB": "So is the man that hurteth his friend deceitfully: and when he is taken, saith: I did it in jest.",
+              "ESV": "is the man who deceives his neighbor\n    and says, \u201cI am only joking!\u201d",
+              "LEB": "so is a man who deceives his neighbor,\n    but says \u201cAm I not joking?\u201d"
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_26_20_23",
+        "title": "A Quarrelsome Man and Gossip",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 26,
+          "start": 20,
+          "end": 23
+        },
+        "rows": [
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "Without wood a fire goes out; without gossip a quarrel dies down.",
+              "KJV": "Where no wood is, there the fire goeth out: so where there is no talebearer, the strife ceaseth.",
+              "NASB95": "For lack of wood the fire goes out,\nAnd where there is no whisperer, contention quiets down.",
+              "NKJV": "Where there is no wood, the fire goes out;\nAnd where there is no talebearer, strife ceases.",
+              "DRB": "When the wood faileth, the fire shall go out: and when the talebearer is taken away, contentions shall cease.",
+              "ESV": "For lack of wood the fire goes out,\n    and where there is no whisperer, quarreling ceases.",
+              "LEB": "For lack of wood, a fire goes out,\n    and where there is no whisperer, quarreling will cease."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "As charcoal to embers and as wood to fire, so is a quarrelsome man for kindling strife.",
+              "KJV": "As coals are to burning coals, and wood to fire; so is a contentious man to kindle strife.",
+              "NASB95": "Like charcoal to hot embers and wood to fire,\nSo is a contentious man to kindle strife.",
+              "NKJV": "As charcoal is to burning coals, and wood to fire,\nSo is a contentious man to kindle strife.",
+              "DRB": "As coals are to burning coals, and wood to fire, so an angry man stirreth up strife.",
+              "ESV": "As charcoal to hot embers and wood to fire,\n    so is a quarrelsome man for kindling strife.",
+              "LEB": "As charcoal is to hot embers and wood is to fire,\n    so a man of quarrels is to kindling strife."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "The words of a gossip are like choice morsels; they go down to a man's inmost parts.",
+              "KJV": "The words of a talebearer are as wounds, and they go down into the innermost parts of the belly.",
+              "NASB95": "The words of a whisperer are like dainty morsels,\nAnd they go down into the innermost parts of the body.",
+              "NKJV": "The words of a talebearer are like tasty trifles,\nAnd they go down into the inmost body.",
+              "DRB": "The words of a talebearer are as it were simple, but they reach to the innermost parts of the belly.",
+              "ESV": "The words of a whisperer are like delicious morsels;\n    they go down into the inner parts of the body.",
+              "LEB": "The words of a whisperer are like delicious morsels,\n    and they go down to the inner parts of the body."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "Like a coating of glaze over earthenware are fervent lips with an evil heart.",
+              "KJV": "Burning lips and a wicked heart are like a potsherd covered with silver dross.",
+              "NASB95": "Like an earthen vessel overlaid with silver dross\nAre burning lips and a wicked heart.",
+              "NKJV": "Fervent lips with a wicked heart\nAre like earthenware covered with silver dross.",
+              "DRB": "Swelling lips joined with a corrupt heart, are like an earthen vessel adorned with silver dross.",
+              "ESV": "Like the glaze covering an earthen vessel\n    are fervent lips with an evil heart.",
+              "LEB": "Like impure silver which overlays an earthen vessel,\n    so are smooth lips and an evil heart."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_26_24_26",
+        "title": "Seven Abominations in a Malicious Heart",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 26,
+          "start": 24,
+          "end": 26
+        },
+        "rows": [
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "A malicious man disguises himself with his lips, but in his heart he harbors deceit.",
+              "KJV": "He that hateth dissembleth with his lips, and layeth up deceit within him;",
+              "NASB95": "He who hates disguises it with his lips,\nBut he lays up deceit in his heart.",
+              "NKJV": "He who hates, disguises it with his lips,\nAnd lays up deceit within himself;",
+              "DRB": "An enemy is known by his lips, when in his heart he entertaineth deceit.",
+              "ESV": "Whoever hates disguises himself with his lips\n    and harbors deceit in his heart;",
+              "LEB": "On his lips, an enemy will pretend,\n    but inside he will harbor deceit."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "Though his speech is charming, do not believe him, for seven abominations fill his heart.",
+              "KJV": "When he speaketh fair, believe him not: for there are seven abominations in his heart.",
+              "NASB95": "When he speaks graciously, do not believe him,\nFor there are seven abominations in his heart.",
+              "NKJV": "When he speaks kindly, do not believe him,\nFor there are seven abominations in his heart;",
+              "DRB": "When he shall speak low, trust him not: because there are seven mischiefs in his heart.",
+              "ESV": "when he speaks graciously, believe him not,\n    for there are seven abominations in his heart;",
+              "LEB": "When he makes his voice gracious, do not believe him,\n    for seven abominations are in his heart."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "His malice may be concealed by deception, but his wickedness will be exposed in the assembly.",
+              "KJV": "Whose hatred is covered by deceit, his wickedness shall be shewed before the whole congregation.",
+              "NASB95": "Though his hatred covers itself with guile,\nHis wickedness will be revealed before the assembly.",
+              "NKJV": "Though his hatred is covered by deceit,\nHis wickedness will be revealed before the assembly.",
+              "DRB": "He that covereth hatred deceitfully, his malice shall be laid open in the public assembly.",
+              "ESV": "though his hatred be covered with deception,\n    his wickedness will be exposed in the assembly.",
+              "LEB": "Though hatred is covered with guile,\n    its evil will be exposed in the assembly."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_26_27_28",
+        "title": "A Lying Tongue and Flattering Mouth",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 26,
+          "start": 27,
+          "end": 28
+        },
+        "rows": [
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "If a man digs a pit, he will fall into it; if a man rolls a stone, it will roll back on him.",
+              "KJV": "Whoso diggeth a pit shall fall therein: and he that rolleth a stone, it will return upon him.",
+              "NASB95": "He who digs a pit will fall into it,\nAnd he who rolls a stone, it will come back on him.",
+              "NKJV": "Whoever digs a pit will fall into it,\nAnd he who rolls a stone will have it roll back on him.",
+              "DRB": "He that diggeth a pit, shall fall into it: and he that rolleth a stone, it shall return to him.",
+              "ESV": "Whoever digs a pit will fall into it,\n    and a stone will come back on him who starts it rolling.",
+              "LEB": "He who digs a pit, in it he will fall,\n    and he who rolls a stone, on him it will come back."
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "A lying tongue hates those it hurts, and a flattering mouth works ruin.",
+              "KJV": "A lying tongue hateth those that are afflicted by it; and a flattering mouth worketh ruin.",
+              "NASB95": "A lying tongue hates those it crushes,\nAnd a flattering mouth works ruin.",
+              "NKJV": "A lying tongue hates those who are crushed by it,\nAnd a flattering mouth works ruin.",
+              "DRB": "A deceitful tongue loveth not truth: and a slippery mouth worketh ruin.",
+              "ESV": "A lying tongue hates its victims,\n    and a flattering mouth works ruin.",
+              "LEB": "A tongue of deceit hates its victim,\n    and a flattering mouth makes ruin."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "scripture": {
+    "header": {
+      "id": "",
+      "title": "",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NASB95",
+      "NKJV",
+      "DRB",
+      "ESV",
+      "LEB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_4_1_27",
+        "title": "Security in Wisdom",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 4,
+          "start": 1,
+          "end": 27
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Listen, my sons, to a father's instruction; pay attention and gain understanding.",
+              "KJV": "Hear, ye children, the instruction of a father, and attend to know understanding.",
+              "NASB95": "Hear, O sons, the instruction of a father,\nAnd give attention that you may gain understanding,",
+              "NKJV": "Hear, my children, the instruction of a father,\nAnd give attention to know understanding;",
+              "DRB": "Hear, ye children, the instruction of a father, and attend that you may know prudence.",
+              "ESV": "Hear, O sons, a father's instruction,\n    and be attentive, that you may gain insight,",
+              "LEB": "Children, listen to the instruction of a father,\n    and be attentive in order to know insight."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "I give you sound learning, so do not forsake my teaching.",
+              "KJV": "For I give you good doctrine, forsake ye not my law.",
+              "NASB95": "For I give you sound teaching;\nDo not abandon my instruction.",
+              "NKJV": "For I give you good doctrine:\nDo not forsake my law.",
+              "DRB": "I will give you a good gift, forsake not my law.",
+              "ESV": "for I give you good precepts;\n    do not forsake my teaching.",
+              "LEB": "For I have given you good instruction;\n    do not forsake my teaching."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "When I was a boy in my father's house, still tender, and an only child of my mother,",
+              "KJV": "For I was my father's son, tender and only beloved in the sight of my mother.",
+              "NASB95": "When I was a son to my father,\nTender and the only son in the sight of my mother,",
+              "NKJV": "When I was my father\u2019s son,\nTender and the only one in the sight of my mother,",
+              "DRB": "For I also was my father's son, tender and as an only son in the sight of my mother:",
+              "ESV": "When I was a son with my father,\n    tender, the only one in the sight of my mother,",
+              "LEB": "When I was a son to my father,\n    tender and alone before my mother,"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "he taught me and said, \"Lay hold of my words with all your heart; keep my commands and you will live.",
+              "KJV": "He taught me also, and said unto me, Let thine heart retain my words: keep my commandments, and live.",
+              "NASB95": "Then he taught me and said to me,\n\u201cLet your heart hold fast my words;\nKeep my commandments and live;",
+              "NKJV": "He also taught me, and said to me:\n\u201cLet your heart retain my words;\nKeep my commands, and live.",
+              "DRB": "And he taught me, and said: Let thy heart receive my words, keep my commandments, and thou shalt live.",
+              "ESV": "he taught me and said to me,\n\u201cLet your heart hold fast my words;\n    keep my commandments, and live.",
+              "LEB": "he taught me and said to me,\n    \u201cMay your heart hold fast to my words;\n    guard my commandments and live."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "Get wisdom, get understanding; do not forget my words or swerve from them.",
+              "KJV": "Get wisdom, get understanding: forget it not; neither decline from the words of my mouth.",
+              "NASB95": "Acquire wisdom! Acquire understanding!\nDo not forget nor turn away from the words of my mouth.",
+              "NKJV": "Get wisdom! Get understanding!\nDo not forget, nor turn away from the words of my mouth.",
+              "DRB": "Get wisdom, get prudence: forget not, neither decline from the words of my mouth.",
+              "ESV": "Get wisdom; get insight;\n    do not forget, and do not turn away from the words of my mouth.",
+              "LEB": "Get wisdom and insight;\n    do not forget and do not turn from the sayings of my mouth."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Do not forsake wisdom, and she will protect you; love her, and she will watch over you.",
+              "KJV": "Forsake her not, and she shall preserve thee: love her, and she shall keep thee.",
+              "NASB95": "\u201cDo not forsake her, and she will guard you;\nLove her, and she will watch over you.",
+              "NKJV": "Do not forsake her, and she will preserve you;\nLove her, and she will keep you.",
+              "DRB": "Forsake her not, and she shall keep thee: love her, and she shall preserve thee.",
+              "ESV": "Do not forsake her, and she will keep you;\n    love her, and she will guard you.",
+              "LEB": "Do not forsake her\u2014then she will guard you;\n    love her and she will keep you."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Wisdom is supreme; therefore get wisdom. Though it cost all you have, get understanding.",
+              "KJV": "Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding.",
+              "NASB95": "\u201cThe beginning of wisdom is: Acquire wisdom;\nAnd with all your acquiring, get understanding.",
+              "NKJV": "Wisdom is the principal thing;\nTherefore get wisdom.\nAnd in all your getting, get understanding.",
+              "DRB": "The beginning of wisdom, get wisdom, and with all thy possession purchase prudence.",
+              "ESV": "The beginning of wisdom is this: Get wisdom,\n    and whatever you get, get insight.",
+              "LEB": "The beginning of wisdom: Get wisdom!\n    With all that is in your possession, gain insight."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Esteem her, and she will exalt you; embrace her, and she will honor you.",
+              "KJV": "Exalt her, and she shall promote thee: she shall bring thee to honour, when thou dost embrace her.",
+              "NASB95": "\u201cPrize her, and she will exalt you;\nShe will honor you if you embrace her.",
+              "NKJV": "Exalt her, and she will promote you;\nShe will bring you honor, when you embrace her.",
+              "DRB": "Take hold on her, and she shall exalt thee: thou shalt be glorified by her, when thou shalt embrace her.",
+              "ESV": "Prize her highly, and she will exalt you;\n    she will honor you if you embrace her.",
+              "LEB": "Cherish her and she will exalt you;\n    she will honor you if you embrace her."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "She will set a garland of grace on your head and present you with a crown of splendor.\"",
+              "KJV": "She shall give to thine head an ornament of grace: a crown of glory shall she deliver to thee.",
+              "NASB95": "\u201cShe will place on your head a garland of grace;\nShe will present you with a crown of beauty.\u201d",
+              "NKJV": "She will place on your head an ornament of grace;\nA crown of glory she will deliver to you.\u201d",
+              "DRB": "She shall give to thy head increase of graces, and protect thee with a noble crown.",
+              "ESV": "She will place on your head a graceful garland;\n    she will bestow on you a beautiful crown.\u201d",
+              "LEB": "She will give a garland for your head;\n    she shall bestow a crown of glory upon you.\u201d"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Listen, my son, accept what I say, and the years of your life will be many.",
+              "KJV": "Hear, O my son, and receive my sayings; and the years of thy life shall be many.",
+              "NASB95": "Hear, my son, and accept my sayings\nAnd the years of your life will be many.",
+              "NKJV": "Hear, my son, and receive my sayings,\nAnd the years of your life will be many.",
+              "DRB": "Hear, O my son, and receive my words, that years of life may be multiplied to thee.",
+              "ESV": "Hear, my son, and accept my words,\n    that the years of your life may be many.",
+              "LEB": "Listen, my child, take my sayings,\n    and the years of your life shall be great."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "I guide you in the way of wisdom and lead you along straight paths.",
+              "KJV": "I have taught thee in the way of wisdom; I have led thee in right paths.",
+              "NASB95": "I have directed you in the way of wisdom;\nI have led you in upright paths.",
+              "NKJV": "I have taught you in the way of wisdom;\nI have led you in right paths.",
+              "DRB": "I will shew thee the way of wisdom, I will lead thee by the paths of equity:",
+              "ESV": "I have taught you the way of wisdom;\n    I have led you in the paths of uprightness.",
+              "LEB": "In the way of wisdom I have instructed you;\n    I have led you in the path of uprightness."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "When you walk, your steps will not be hampered; when you run, you will not stumble.",
+              "KJV": "When thou goest, thy steps shall not be straitened; and when thou runnest, thou shalt not stumble.",
+              "NASB95": "When you walk, your steps will not be impeded;\nAnd if you run, you will not stumble.",
+              "NKJV": "When you walk, your steps will not be hindered,\nAnd when you run, you will not stumble.",
+              "DRB": "Which when thou shalt have entered, thy steps shall not be straitened, and when thou runnest thou shalt not meet a stumblingblock.",
+              "ESV": "When you walk, your step will not be hampered,\n    and if you run, you will not stumble.",
+              "LEB": "When you walk, your step will not be hampered,\n    and if you run, you will not stumble."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Hold on to instruction, do not let it go; guard it well, for it is your life.",
+              "KJV": "Take fast hold of instruction; let her not go: keep her; for she is thy life.",
+              "NASB95": "Take hold of instruction; do not let go.\nGuard her, for she is your life.",
+              "NKJV": "Take firm hold of instruction, do not let go;\nKeep her, for she is your life.",
+              "DRB": "Take hold on instruction, leave it not: keep it, because it is thy life.",
+              "ESV": "Keep hold of instruction; do not let go;\n    guard her, for she is your life.",
+              "LEB": "Seize the instruction! Do not let go!\n    Guard her, for she is your life."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "Do not set foot on the path of the wicked or walk in the way of evil men.",
+              "KJV": "Enter not into the path of the wicked, and go not in the way of evil men.",
+              "NASB95": "Do not enter the path of the wicked\nAnd do not proceed in the way of evil men.",
+              "NKJV": "Do not enter the path of the wicked,\nAnd do not walk in the way of evil.",
+              "DRB": "Be not delighted in the paths of the wicked, neither let the way of evil men please thee.",
+              "ESV": "Do not enter the path of the wicked,\n    and do not walk in the way of the evil.",
+              "LEB": "In the path of the wicked do not go;\n    do not walk in the way of those who do evil."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Avoid it, do not travel on it; turn from it and go on your way.",
+              "KJV": "Avoid it, pass not by it, turn from it, and pass away.",
+              "NASB95": "Avoid it, do not pass by it;\nTurn away from it and pass on.",
+              "NKJV": "Avoid it, do not travel on it;\nTurn away from it and pass on.",
+              "DRB": "Flee from it, pass not by it: go aside, and forsake it.",
+              "ESV": "Avoid it; do not go on it;\n    turn away from it and pass on.",
+              "LEB": "Avoid it; do not transgress it;\n    turn away from it and pass by."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "For they cannot sleep till they do evil; they are robbed of slumber till they make someone fall.",
+              "KJV": "For they sleep not, except they have done mischief; and their sleep is taken away, unless they cause some to fall.",
+              "NASB95": "For they cannot sleep unless they do evil;\nAnd they are robbed of sleep unless they make someone stumble.",
+              "NKJV": "For they do not sleep unless they have done evil;\nAnd their sleep is taken away unless they make someone fall.",
+              "DRB": "For they sleep not except they have done evil: and their sleep is taken away unless they have made some to fall.",
+              "ESV": "For they cannot sleep unless they have done wrong;\n    they are robbed of sleep unless they have made someone stumble.",
+              "LEB": "For they will not sleep if they have not done wrong,\n    and they are robbed of their sleep if they do not cause stumbling."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "They eat the bread of wickedness and drink the wine of violence.",
+              "KJV": "For they eat the bread of wickedness, and drink the wine of violence.",
+              "NASB95": "For they eat the bread of wickedness\nAnd drink the wine of violence.",
+              "NKJV": "For they eat the bread of wickedness,\nAnd drink the wine of violence.",
+              "DRB": "They eat the bread of wickedness, and drink the wine of iniquity.",
+              "ESV": "For they eat the bread of wickedness\n    and drink the wine of violence.",
+              "LEB": "For they ate the bread of wickedness,\n    and they drank the wine of violence."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "The path of the righteous is like the first gleam of dawn, shining ever brighter till the full light of day.",
+              "KJV": "But the path of the just is as the shining light, that shineth more and more unto the perfect day.",
+              "NASB95": "But the path of the righteous is like the light of dawn,\nThat shines brighter and brighter until the full day.",
+              "NKJV": "But the path of the just is like the shining sun,\nThat shines ever brighter unto the perfect day.",
+              "DRB": "But the path of the just, as a shining light, goeth forwards and increaseth even to perfect day.",
+              "ESV": "But the path of the righteous is like the light of dawn,\n    which shines brighter and brighter until full day.",
+              "LEB": "But the path of the righteous ones is like the light of dawn,\n    leading and shining until the day is full."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "But the way of the wicked is like deep darkness; they do not know what makes them stumble.",
+              "KJV": "The way of the wicked is as darkness: they know not at what they stumble.",
+              "NASB95": "The way of the wicked is like darkness;\nThey do not know over what they stumble.",
+              "NKJV": "The way of the wicked is like darkness;\nThey do not know what makes them stumble.",
+              "DRB": "The way of the wicked is darksome: they know not where they fall.",
+              "ESV": "The way of the wicked is like deep darkness;\n    they do not know over what they stumble.",
+              "LEB": "The way of the wicked ones is like deep darkness;\n    they do not know what they stumble over."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "My son, pay attention to what I say; listen closely to my words.",
+              "KJV": "My son, attend to my words; incline thine ear unto my sayings.",
+              "NASB95": "My son, give attention to my words;\nIncline your ear to my sayings.",
+              "NKJV": "My son, give attention to my words;\nIncline your ear to my sayings.",
+              "DRB": "My son, hearken to my words, and incline thy ear to my sayings.",
+              "ESV": "My son, be attentive to my words;\n    incline your ear to my sayings.",
+              "LEB": "My child, be attentive to my words;\n    to my sayings incline your ear."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "Do not let them out of your sight, keep them within your heart;",
+              "KJV": "Let them not depart from thine eyes; keep them in the midst of thine heart.",
+              "NASB95": "Do not let them depart from your sight;\nKeep them in the midst of your heart.",
+              "NKJV": "Do not let them depart from your eyes;\nKeep them in the midst of your heart;",
+              "DRB": "Let them not depart from thy eyes, keep them in the midst of thy heart:",
+              "ESV": "Let them not escape from your sight;\n    keep them within your heart.",
+              "LEB": "May they not escape from your sight;\n    keep them in the midst of your heart."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "for they are life to those who find them and health to a man's whole body.",
+              "KJV": "For they are life unto those that find them, and health to all their flesh.",
+              "NASB95": "For they are life to those who find them\nAnd health to all their body.",
+              "NKJV": "For they are life to those who find them,\nAnd health to all their flesh.",
+              "DRB": "For they are life to those that find them, and health to all flesh.",
+              "ESV": "For they are life to those who find them,\n    and healing to all their flesh.",
+              "LEB": "For they are life to those who find them\n    and healing to the entire body."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "Above all else, guard your heart, for it is the wellspring of life.",
+              "KJV": "Keep thy heart with all diligence; for out of it are the issues of life.",
+              "NASB95": "Watch over your heart with all diligence,\nFor from it flow the springs of life.",
+              "NKJV": "Keep your heart with all diligence,\nFor out of it spring the issues of life.",
+              "DRB": "With all watchfulness keep thy heart, because life issueth out from it.",
+              "ESV": "Keep your heart with all vigilance,\n    for from it flow the springs of life.",
+              "LEB": "With all vigilance, keep your heart,\n    for from it comes the source of life."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "Put away perversity from your mouth; keep corrupt talk far from your lips.",
+              "KJV": "Put away from thee a froward mouth, and perverse lips put far from thee.",
+              "NASB95": "Put away from you a deceitful mouth\nAnd put devious speech far from you.",
+              "NKJV": "Put away from you a deceitful mouth,\nAnd put perverse lips far from you.",
+              "DRB": "Remove from thee a froward mouth, and let detracting lips be far from thee.",
+              "ESV": "Put away from you crooked speech,\n    and put devious talk far from you.",
+              "LEB": "Remove from yourself deceitful speech,\n    and abolish devious talk from yourself."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "Let your eyes look straight ahead, fix your gaze directly before you.",
+              "KJV": "Let thine eyes look right on, and let thine eyelids look straight before thee.",
+              "NASB95": "Let your eyes look directly ahead\nAnd let your gaze be fixed straight in front of you.",
+              "NKJV": "Let your eyes look straight ahead,\nAnd your eyelids look right before you.",
+              "DRB": "Let thy eyes look straight on, and let thy eyelids go before thy steps.",
+              "ESV": "Let your eyes look directly forward,\n    and your gaze be straight before you.",
+              "LEB": "May your eyes look forward\n    and your gaze be straight before you."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "Make level paths for your feet and take only ways that are firm.",
+              "KJV": "Ponder the path of thy feet, and let all thy ways be established.",
+              "NASB95": "Watch the path of your feet\nAnd all your ways will be established.",
+              "NKJV": "Ponder the path of your feet,\nAnd let all your ways be established.",
+              "DRB": "Make straight the path for thy feet, and all thy ways shall be established.",
+              "ESV": "Ponder the path of your feet;\n    then all your ways will be sure.",
+              "LEB": "May the path of your foot be balanced\n    and all your ways be sure."
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "Do not swerve to the right or the left; keep your foot from evil.",
+              "KJV": "Turn not to the right hand nor to the left: remove thy foot from evil.",
+              "NASB95": "Do not turn to the right nor to the left;\nTurn your foot from evil.",
+              "NKJV": "Do not turn to the right or the left;\nRemove your foot from evil.",
+              "DRB": "Decline not to the right hand, nor to the left: turn away thy foot from evil. For the Lord knoweth the ways that are on the right hand: but those are perverse which are on the left hand. But he will make thy courses straight, he will bring forward thy ways in peace.",
+              "ESV": "Do not swerve to the right or to the left;\n    turn your foot away from evil.",
+              "LEB": "Do not swerve right or left;\n    remove your foot from evil."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
