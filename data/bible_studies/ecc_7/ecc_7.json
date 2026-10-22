@@ -1,0 +1,383 @@
+{
+  "scripture": {
+    "header": {
+      "id": "ecc_7",
+      "title": "Ecclesiastes 7",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "ecc_7_1_4",
+        "title": "The Heart of the Wise",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 7,
+          "start": 1,
+          "end": 4
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "A good name is better than fine perfume, and the day of death better than the day of birth.",
+              "KJV": "A good name is better than precious ointment; and the day of death than the day of one's birth.",
+              "NKJV": "A good name is better than precious ointment,\nAnd the day of death than the day of one\u2019s birth;",
+              "DRB": "A good name is better than precious ointments: and the day of death than the day of one's birth."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "It is better to go to a house of mourning than to go to a house of feasting, for death is the destiny of every man; the living should take this to heart.",
+              "KJV": "It is better to go to the house of mourning, than to go to the house of feasting: for that is the end of all men; and the living will lay it to his heart.",
+              "NKJV": "Better to go to the house of mourning\nThan to go to the house of feasting,\nFor that is the end of all men;\nAnd the living will take it to heart.",
+              "DRB": "It is better to go to the house of mourning, than to the house of feasting: for in that we are put in mind of the end of all, and the living thinketh what is to come."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "Sorrow is better than laughter, because a sad face is good for the heart.",
+              "KJV": "Sorrow is better than laughter: for by the sadness of the countenance the heart is made better.",
+              "NKJV": "Sorrow is better than laughter,\nFor by a sad countenance the heart is made better.",
+              "DRB": "Anger is better than laughter: because by the sadness of the countenance the mind of the offender is corrected."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "The heart of the wise is in the house of mourning, but the heart of fools is in the house of pleasure.",
+              "KJV": "The heart of the wise is in the house of mourning; but the heart of fools is in the house of mirth.",
+              "NKJV": "The heart of the wise is in the house of mourning,\nBut the heart of fools is in the house of mirth.",
+              "DRB": "The heart of the wise is where there is mourning, and the heart of fools where there is mirth."
+            }
+          }
+        ]
+      },
+      {
+        "id": "ecc_7_5_7",
+        "title": "Rebuke of the Wise & Song of Fools",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 7,
+          "start": 5,
+          "end": 7
+        },
+        "rows": [
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "It is better to heed a wise man's rebuke than to listen to the song of fools.",
+              "KJV": "It is better to hear the rebuke of the wise, than for a man to hear the song of fools.",
+              "NKJV": "It is better to hear the rebuke of the wise\nThan for a man to hear the song of fools.",
+              "DRB": "It is better to be rebuked by a wise man, than to be deceived by the flattery of fools."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Like the crackling of thorns under the pot, so is the laughter of fools. This too is meaningless.",
+              "KJV": "For as the crackling of thorns under a pot, so is the laughter of the fool: this also is vanity.",
+              "NKJV": "For like the crackling of thorns under a pot,\nSo is the laughter of the fool.\nThis also is vanity.",
+              "DRB": "For as the crackling of thorns burning under a pot, so is the laughter of a fool: now this also is vanity."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Extortion turns a wise man into a fool, and a bribe corrupts the heart.",
+              "KJV": "Surely oppression maketh a wise man mad; and a gift destroyeth the heart.",
+              "NKJV": "Surely oppression destroys a wise man\u2019s reason,\nAnd a bribe debases the heart.",
+              "DRB": "Oppression troubleth the wise, and shall destroy the strength of his heart."
+            }
+          }
+        ]
+      },
+      {
+        "id": "ecc_7_8_10",
+        "title": "A Patient Spirit and A Proud Spirit",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 7,
+          "start": 8,
+          "end": 10
+        },
+        "rows": [
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "The end of a matter is better than its beginning, and patience is better than pride.",
+              "KJV": "Better is the end of a thing than the beginning thereof: and the patient in spirit is better than the proud in spirit.",
+              "NKJV": "The end of a thing is better than its beginning;\nThe patient in spirit is better than the proud in spirit.",
+              "DRB": "Better is the end of a speech than the beginning. Better is the patient man than the presumptuous."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Do not be quickly provoked in your spirit, for anger resides in the lap of fools.",
+              "KJV": "Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools.",
+              "NKJV": "Do not hasten in your spirit to be angry,\nFor anger rests in the bosom of fools.",
+              "DRB": "Be not quickly angry: for anger resteth in the bosom of a fool."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Do not say, \"Why were the old days better than these?\" For it is not wise to ask such questions.",
+              "KJV": "Say not thou, What is the cause that the former days were better than these? for thou dost not enquire wisely concerning this.",
+              "NKJV": "Do not say,\n\u201cWhy were the former days better than these?\u201d\nFor you do not inquire wisely concerning this.",
+              "DRB": "Say not: What thinkest thou is the cause that former times were better than they are now? for this manner of question is foolish."
+            }
+          }
+        ]
+      },
+      {
+        "id": "ecc_7_11_14",
+        "title": "Consider the Work of God",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 7,
+          "start": 11,
+          "end": 14
+        },
+        "rows": [
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Wisdom, like an inheritance, is a good thing and benefits those who see the sun.",
+              "KJV": "Wisdom is good with an inheritance: and by it there is profit to them that see the sun.",
+              "NKJV": "Wisdom is good with an inheritance,\nAnd profitable to those who see the sun.",
+              "DRB": "Wisdom with riches is more profitable, and bringeth more advantage to them that see the sun."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Wisdom is a shelter as money is a shelter, but the advantage of knowledge is this: that wisdom preserves the life of its possessor.",
+              "KJV": "For wisdom is a defence, and money is a defence: but the excellency of knowledge is, that wisdom giveth life to them that have it.",
+              "NKJV": "For wisdom is a defense as money is a defense,\nBut the excellence of knowledge is that wisdom gives life to those who have it.",
+              "DRB": "For as wisdom is a defence, so money is a defence : but learning and wisdom excel in this, that they give life to him that possesseth them."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Consider what God has done: Who can straighten what he has made crooked?",
+              "KJV": "Consider the work of God: for who can make that straight, which he hath made crooked?",
+              "NKJV": "Consider the work of God;\nFor who can make straight what He has made crooked?",
+              "DRB": "Consider the works of God, that no man can correct whom he hath despised."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "When times are good, be happy; but when times are bad, consider: God has made the one as well as the other. Therefore, a man cannot discover anything about his future.",
+              "KJV": "In the day of prosperity be joyful, but in the day of adversity consider: God also hath set the one over against the other, to the end that man should find nothing after him.",
+              "NKJV": "In the day of prosperity be joyful,\nBut in the day of adversity consider:\nSurely God has appointed the one as well as the other,\nSo that man can find out nothing that will come after him.",
+              "DRB": "In the good day enjoy good things, and beware beforehand of the evil day: for God hath made both the one and the other, that man may not find against him any just complaint."
+            }
+          }
+        ]
+      },
+      {
+        "id": "ecc_7_15_18",
+        "title": "Do Not Be Overly Wise or Wicked",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 7,
+          "start": 15,
+          "end": 18
+        },
+        "rows": [
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "In this meaningless life of mine I have seen both of these: a righteous man perishing in his righteousness, and a wicked man living long in his wickedness.",
+              "KJV": "All things have I seen in the days of my vanity: there is a just man that perisheth in his righteousness, and there is a wicked man that prolongeth his life in his wickedness.",
+              "NKJV": "I have seen everything in my days of vanity:\nThere is a just man who perishes in his righteousness,\nAnd there is a wicked man who prolongs life in his wickedness.",
+              "DRB": "These things also I saw in the days of my vanity: A just man perisheth in his justice, and a wicked man liveth a long time in his wickedness."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "Do not be overrighteous, neither be overwise- why destroy yourself?",
+              "KJV": "Be not righteous over much; neither make thyself over wise: why shouldest thou destroy thyself ?",
+              "NKJV": "Do not be overly righteous,\nNor be overly wise:\nWhy should you destroy yourself?",
+              "DRB": "Be not over just: and be not more wise than is necessary, lest thou become stupid."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "Do not be overwicked, and do not be a fool- why die before your time?",
+              "KJV": "Be not over much wicked, neither be thou foolish: why shouldest thou die before thy time?",
+              "NKJV": "Do not be overly wicked,\nNor be foolish:\nWhy should you die before your time?",
+              "DRB": "Be not overmuch wicked: and be not foolish, lest thou die before thy time."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "It is good to grasp the one and not let go of the other. The man who fears God will avoid all extremes.",
+              "KJV": "It is good that thou shouldest take hold of this; yea, also from this withdraw not thine hand: for he that feareth God shall come forth of them all.",
+              "NKJV": "It is good that you grasp this,\nAnd also not remove your hand from the other;\nFor he who fears God will escape them all.",
+              "DRB": "It is good that thou shouldst hold up the just, yea and from him withdraw not thy hand: for he that feareth God, neglecteth nothing."
+            }
+          }
+        ]
+      },
+      {
+        "id": "ecc_7_19_22",
+        "title": "Do Not Pay Attention to Everything People Say",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 7,
+          "start": 19,
+          "end": 22
+        },
+        "rows": [
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "Wisdom makes one wise man more powerful than ten rulers in a city.",
+              "KJV": "Wisdom strengtheneth the wise more than ten mighty men which are in the city.",
+              "NKJV": "Wisdom strengthens the wise\nMore than ten rulers of the city.",
+              "DRB": "Wisdom hath strengthened the wise more than ten princes of the city."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "There is not a righteous man on earth who does what is right and never sins.",
+              "KJV": "For there is not a just man upon earth, that doeth good, and sinneth not.",
+              "NKJV": "For there is not a just man on earth who does good\nAnd does not sin.",
+              "DRB": "For there is no just man upon earth, that doth good, and sinneth not."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "Do not pay attention to every word people say, or you may hear your servant cursing you-",
+              "KJV": "Also take no heed unto all words that are spoken; lest thou hear thy servant curse thee:",
+              "NKJV": "Also do not take to heart everything people say,\nLest you hear your servant cursing you.",
+              "DRB": "But do not apply thy heart to all words that are spoken: lest perhaps thou hear thy servant reviling thee."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "for you know in your heart that many times you yourself have cursed others.",
+              "KJV": "For oftentimes also thine own heart knoweth that thou thyself likewise hast cursed others.",
+              "NKJV": "For many times, also, your own heart has known\nThat even you have cursed others.",
+              "DRB": "For thy conscience knoweth that thou also hast often spoken evil of others."
+            }
+          }
+        ]
+      },
+      {
+        "id": "ecc_7_23_26",
+        "title": "A Woman Whose Heart is Snares and Nets",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 7,
+          "start": 23,
+          "end": 26
+        },
+        "rows": [
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "All this I tested by wisdom and I said, \"I am determined to be wise\"- but this was beyond me.",
+              "KJV": "All this have I proved by wisdom: I said, I will be wise; but it was far from me.",
+              "NKJV": "All this I have proved by wisdom.\nI said, \u201cI will be wise\u201d;\nBut it was far from me.",
+              "DRB": "I have tried all things in wisdom. I have said: I will be wise: and it departed farther from me,"
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "Whatever wisdom may be, it is far off and most profound- who can discover it?",
+              "KJV": "That which is far off, and exceeding deep, who can find it out?",
+              "NKJV": "As for that which is far off and exceedingly deep,\nWho can find it out?",
+              "DRB": "Much more than it was: it is a great depth, who shall find it out?"
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "So I turned my mind to understand, to investigate and to search out wisdom and the scheme of things and to understand the stupidity of wickedness and the madness of folly.",
+              "KJV": "I applied mine heart to know, and to search, and to seek out wisdom, and the reason of things, and to know the wickedness of folly, even of foolishness and madness:",
+              "NKJV": "I applied my heart to know,\nTo search and seek out wisdom and the reason of things,\nTo know the wickedness of folly,\nEven of foolishness and madness.",
+              "DRB": "I have surveyed all things with my mind, to know, and consider, and seek out wisdom and reason: and to know the wickedness of the fool, and the error of the imprudent:"
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "I find more bitter than death the woman who is a snare, whose heart is a trap and whose hands are chains. The man who pleases God will escape her, but the sinner she will ensnare.",
+              "KJV": "And I find more bitter than death the woman, whose heart is snares and nets, and her hands as bands: whoso pleaseth God shall escape from her; but the sinner shall be taken by her.",
+              "NKJV": "And I find more bitter than death\nThe woman whose heart is snares and nets,\nWhose hands are fetters.\nHe who pleases God shall escape from her,\nBut the sinner shall be trapped by her.",
+              "DRB": "And I have found a woman more bitter than death, who is the hunter's snare, and her heart is a net, and her hands are bands. He that pleaseth God shall escape from her: but he that is a sinner, shall be caught by her."
+            }
+          }
+        ]
+      },
+      {
+        "id": "ecc_7_27_29",
+        "title": "Not One Upright Woman Among a Thousand",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 7,
+          "start": 27,
+          "end": 29
+        },
+        "rows": [
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "\"Look,\" says the Teacher, \"this is what I have discovered: \"Adding one thing to another to discover the scheme of things-",
+              "KJV": "Behold, this have I found, saith the preacher, counting one by one, to find out the account:",
+              "NKJV": "\u201cHere is what I have found,\u201d says the Preacher,\n\u201cAdding one thing to the other to find out the reason,",
+              "DRB": "Lo this have I found, said Ecclesiastes, weighing one thing after another, that I might find out the account,"
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "while I was still searching but not finding- I found one upright man among a thousand, but not one upright woman among them all.",
+              "KJV": "Which yet my soul seeketh, but I find not: one man among a thousand have I found; but a woman among all those have I not found.",
+              "NKJV": "Which my soul still seeks but I cannot find:\nOne man among a thousand I have found,\nBut a woman among all these I have not found.",
+              "DRB": "Which yet my soul seeketh, and I have not found it. One man among a thousand I have found, a woman among them all I have not found."
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "This only have I found: God made mankind upright, but men have gone in search of many schemes.\"",
+              "KJV": "Lo, this only have I found, that God hath made man upright; but they have sought out many inventions.",
+              "NKJV": "Truly, this only I have found:\nThat God made man upright,\nBut they have sought out many schemes.\u201d",
+              "DRB": "Only this I have found, that God made man right, and he hath entangled himself with an infinity of questions. Who is as the wise man? and who hath known the resolution of the word?"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

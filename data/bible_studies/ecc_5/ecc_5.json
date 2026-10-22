@@ -1,0 +1,224 @@
+{
+  "scripture": {
+    "header": {
+      "id": "ecc_5",
+      "title": "Ecclesiastes 5",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "ecc_5_1_7",
+        "title": "Do Not Be Rash With Your Mouth",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 5,
+          "start": 1,
+          "end": 7
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Guard your steps when you go to the house of God. Go near to listen rather than to offer the sacrifice of fools, who do not know that they do wrong.",
+              "KJV": "Keep thy foot when thou goest to the house of God, and be more ready to hear, than to give the sacrifice of fools: for they consider not that they do evil.",
+              "NKJV": "Walk prudently when you go to the house of God; and draw near to hear rather than to give the sacrifice of fools, for they do not know that they do evil.",
+              "DRB": "Keep thy foot, when thou goest into the house of God, and draw nigh to hear. For much better is obedience, than the victims of fools, who know not what evil they do."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Do not be quick with your mouth, do not be hasty in your heart to utter anything before God. God is in heaven and you are on earth, so let your words be few.",
+              "KJV": "Be not rash with thy mouth, and let not thine heart be hasty to utter any thing before God: for God is in heaven, and thou upon earth: therefore let thy words be few.",
+              "NKJV": "Do not be rash with your mouth,\nAnd let not your heart utter anything hastily before God.\nFor God is in heaven, and you on earth;\nTherefore let your words be few.",
+              "DRB": "Speak not any thing rashly, and let not thy heart be hasty to utter a word before God. For God is in heaven, and thou upon earth: therefore let thy words be few."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "As a dream comes when there are many cares, so the speech of a fool when there are many words.",
+              "KJV": "For a dream cometh through the multitude of business; and a fool's voice is known by multitude of words.",
+              "NKJV": "For a dream comes through much activity,\nAnd a fool\u2019s voice is known by his many words.",
+              "DRB": "Dreams follow many cares: and in many words shall be found folly."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "When you make a vow to God, do not delay in fulfilling it. He has no pleasure in fools; fulfill your vow.",
+              "KJV": "When thou vowest a vow unto God, defer not to pay it; for he hath no pleasure in fools: pay that which thou hast vowed.",
+              "NKJV": "When you make a vow to God, do not delay to pay it;\nFor He has no pleasure in fools.\nPay what you have vowed\u2014",
+              "DRB": "If thou hast vowed any thing to God, defer not to pay it: for an unfaithful and foolish promise displeaseth him: but whatsoever thou hast vowed, pay it."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "It is better not to vow than to make a vow and not fulfill it.",
+              "KJV": "Better is it that thou shouldest not vow, than that thou shouldest vow and not pay.",
+              "NKJV": "Better not to vow than to vow and not pay.",
+              "DRB": "And it is much better not to vow, than after a vow not to perform the things promised."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Do not let your mouth lead you into sin. And do not protest to the temple messenger, \"My vow was a mistake.\" Why should God be angry at what you say and destroy the work of your hands?",
+              "KJV": "Suffer not thy mouth to cause thy flesh to sin; neither say thou before the angel, that it was an error: wherefore should God be angry at thy voice, and destroy the work of thine hands?",
+              "NKJV": "Do not let your mouth cause your flesh to sin, nor say before the messenger of God that it was an error. Why should God be angry at your excuse and destroy the work of your hands?",
+              "DRB": "Give not thy mouth to cause thy flesh to sin: and say not before the angel: There is no providence: lest God be angry at thy words, and destroy all the works of thy hands."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Much dreaming and many words are meaningless. Therefore stand in awe of God.",
+              "KJV": "For in the multitude of dreams and many words there are also divers vanities: but fear thou God.",
+              "NKJV": "For in the multitude of dreams and many words there is also vanity. But fear God.",
+              "DRB": "Where there are many dreams, there are many vanities, and words without number: but do thou fear God."
+            }
+          }
+        ]
+      },
+      {
+        "id": "ecc_5_8_20",
+        "title": "The Vanity of Riches and Wealth",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 5,
+          "start": 8,
+          "end": 20
+        },
+        "rows": [
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "If you see the poor oppressed in a district, and justice and rights denied, do not be surprised at such things; for one official is eyed by a higher one, and over them both are others higher still.",
+              "KJV": "If thou seest the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for he that is higher than the highest regardeth; and there be higher than they.",
+              "NKJV": "If you see the oppression of the poor, and the violent perversion of justice and righteousness in a province, do not marvel at the matter; for high official watches over high official, and higher officials are over them.",
+              "DRB": "If thou shalt see the oppressions of the poor, and violent judgments, and justice perverted in the province, wonder not at this matter: for he that is high hath another higher, and there are others still higher than these:"
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "The increase from the land is taken by all; the king himself profits from the fields.",
+              "KJV": "Moreover the profit of the earth is for all: the king himself is served by the field.",
+              "NKJV": "Moreover the profit of the land is for all; even the king is served from the field.",
+              "DRB": "Moreover there is the king that reigneth over all the land subject to him."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Whoever loves money never has money enough; whoever loves wealth is never satisfied with his income. This too is meaningless.",
+              "KJV": "He that loveth silver shall not be satisfied with silver; nor he that loveth abundance with increase: this is also vanity.",
+              "NKJV": "He who loves silver will not be satisfied with silver;\nNor he who loves abundance, with increase.\nThis also is vanity.",
+              "DRB": "A covetous man shall not be satisfied with money: and he that loveth riches shall reap no fruit from them: so this also is vanity."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "As goods increase, so do those who consume them. And what benefit are they to the owner except to feast his eyes on them?",
+              "KJV": "When goods increase, they are increased that eat them: and what good is there to the owners thereof, saving the beholding of them with their eyes?",
+              "NKJV": "When goods increase,\nThey increase who eat them;\nSo what profit have the owners\nExcept to see them with their eyes?",
+              "DRB": "Where there are great riches, there are also many to eat them. And what doth it profit the owner, but that he seeth the riches with his eyes?"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "The sleep of a laborer is sweet, whether he eats little or much, but the abundance of a rich man permits him no sleep.",
+              "KJV": "The sleep of a labouring man is sweet, whether he eat little or much: but the abundance of the rich will not suffer him to sleep.",
+              "NKJV": "The sleep of a laboring man is sweet,\nWhether he eats little or much;\nBut the abundance of the rich will not permit him to sleep.",
+              "DRB": "Sleep is sweet to a labouring man, whether he eat lttle or much: but the fulness of the rich will not suffer him to sleep."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "I have seen a grievous evil under the sun: wealth hoarded to the harm of its owner,",
+              "KJV": "There is a sore evil which I have seen under the sun, namely, riches kept for the owners thereof to their hurt.",
+              "NKJV": "There is a severe evil which I have seen under the sun:\nRiches kept for their owner to his hurt.",
+              "DRB": "There is also another grievous evil, which I have seen under the sun: riches kept to the hurt of the owner."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "or wealth lost through some misfortune, so that when he has a son there is nothing left for him.",
+              "KJV": "But those riches perish by evil travail: and he begetteth a son, and there is nothing in his hand.",
+              "NKJV": "But those riches perish through misfortune;\nWhen he begets a son, there is nothing in his hand.",
+              "DRB": "For they are lost with very great affliction: he hath begotten a son, who shall be in extremity of want."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Naked a man comes from his mother's womb, and as he comes, so he departs. He takes nothing from his labor that he can carry in his hand.",
+              "KJV": "As he came forth of his mother's womb, naked shall he return to go as he came, and shall take nothing of his labour, which he may carry away in his hand.",
+              "NKJV": "As he came from his mother\u2019s womb, naked shall he return,\nTo go as he came;\nAnd he shall take nothing from his labor\nWhich he may carry away in his hand.",
+              "DRB": "As he came forth naked from his mother's womb, so shall he return, and shall take nothing away with him of his labour."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "This too is a grievous evil: As a man comes, so he departs, and what does he gain, since he toils for the wind?",
+              "KJV": "And this also is a sore evil, that in all points as he came, so shall he go: and what profit hath he that hath laboured for the wind?",
+              "NKJV": "And this also is a severe evil\u2014\nJust exactly as he came, so shall he go.\nAnd what profit has he who has labored for the wind?",
+              "DRB": "A most deplorable evil: as he came, so shall he return. What then doth it profit him that he hath laboured for the wind?"
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "All his days he eats in darkness, with great frustration, affliction and anger.",
+              "KJV": "All his days also he eateth in darkness, and he hath much sorrow and wrath with his sickness.",
+              "NKJV": "All his days he also eats in darkness,\nAnd he has much sorrow and sickness and anger.",
+              "DRB": "All the days of his life he eateth in darkness, and in many cares, and in misery, and sorrow."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "Then I realized that it is good and proper for a man to eat and drink, and to find satisfaction in his toilsome labor under the sun during the few days of life God has given him-for this is his lot.",
+              "KJV": "Behold that which I have seen: it is good and comely for one to eat and to drink, and to enjoy the good of all his labour that he taketh under the sun all the days of his life, which God giveth him: for it is his portion.",
+              "NKJV": "Here is what I have seen: It is good and fitting for one to eat and drink, and to enjoy the good of all his labor in which he toils under the sun all the days of his life which God gives him; for it is his heritage.",
+              "DRB": "This therefore hath seemed good to me, that a man should eat and drink, and enjoy the fruit of his labour, wherewith he hath laboured under the sun, all the days of his life, which God hath given him: and this is his portion."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "Moreover, when God gives any man wealth and possessions, and enables him to enjoy them, to accept his lot and be happy in his work-this is a gift of God.",
+              "KJV": "Every man also to whom God hath given riches and wealth, and hath given him power to eat thereof, and to take his portion, and to rejoice in his labour; this is the gift of God.",
+              "NKJV": "As for every man to whom God has given riches and wealth, and given him power to eat of it, to receive his heritage and rejoice in his labor\u2014this is the gift of God.",
+              "DRB": "And every man to whom God hath given riches, and substance, and hath given him power to eat thereof, and to enjoy his portion, and to rejoice of his labour: this is the gift of God."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "He seldom reflects on the days of his life, because God keeps him occupied with gladness of heart.",
+              "KJV": "For he shall not much remember the days of his life; because God answereth him in the joy of his heart.",
+              "NKJV": "For he will not dwell unduly on the days of his life, because God keeps him busy with the joy of his heart.",
+              "DRB": "For he shall not much remember the days of his life, because God entertaineth his heart with delight,"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

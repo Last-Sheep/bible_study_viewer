@@ -1,0 +1,263 @@
+{
+  "scripture": {
+    "header": {
+      "id": "ecc_10",
+      "title": "Ecclesiastes 10",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "ecc_10_1_4",
+        "title": "A Fool Shows Everyone He is a Fool",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 10,
+          "start": 1,
+          "end": 4
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "As dead flies give perfume a bad smell, so a little folly outweighs wisdom and honor.",
+              "KJV": "Dead flies cause the ointment of the apothecary to send forth a stinking savour: so doth a little folly him that is in reputation for wisdom and honour.",
+              "NKJV": "Dead flies putrefy the perfumer\u2019s ointment,\nAnd cause it to give off a foul odor;\nSo does a little folly to one respected for wisdom and honor.",
+              "DRB": "Dying flies spoil the sweetness of the ointment. Wisdom and glory is more precious than a small and shortlived folly."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "The heart of the wise inclines to the right, but the heart of the fool to the left.",
+              "KJV": "A wise man's heart is at his right hand; but a fool's heart at his left.",
+              "NKJV": "A wise man\u2019s heart is at his right hand,\nBut a fool\u2019s heart at his left.",
+              "DRB": "The heart of a wise man is in his right hand, and the heart of a fool is in his left hand."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "Even as he walks along the road, the fool lacks sense and shows everyone how stupid he is.",
+              "KJV": "Yea also, when he that is a fool walketh by the way, his wisdom faileth him, and he saith to every one that he is a fool.",
+              "NKJV": "Even when a fool walks along the way,\nHe lacks wisdom,\nAnd he shows everyone that he is a fool.",
+              "DRB": "Yea, and the fool when he walketh in the way, whereas be himself is a fool, esteemeth all men fools."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "If a ruler's anger rises against you, do not leave your post; calmness can lay great errors to rest.",
+              "KJV": "If the spirit of the ruler rise up against thee, leave not thy place; for yielding pacifieth great offences.",
+              "NKJV": "If the spirit of the ruler rises against you,\nDo not leave your post;\nFor conciliation pacifies great offenses.",
+              "DRB": "If the spirit of him that hath power, ascend upon thee, leave not thy place: because care will make the greatest sins to cease."
+            }
+          }
+        ]
+      },
+      {
+        "id": "ecc_10_5_7",
+        "title": "An Error Proceeding From a Ruler",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 10,
+          "start": 5,
+          "end": 7
+        },
+        "rows": [
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "There is an evil I have seen under the sun, the sort of error that arises from a ruler:",
+              "KJV": "There is an evil which I have seen under the sun, as an error which proceedeth from the ruler:",
+              "NKJV": "There is an evil I have seen under the sun,\nAs an error proceeding from the ruler:",
+              "DRB": "There is an evil that I have seen under the sun, as it were by an error proceeding from the face of the prince:"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Fools are put in many high positions, while the rich occupy the low ones.",
+              "KJV": "Folly is set in great dignity, and the rich sit in low place.",
+              "NKJV": "Folly is set in great dignity,\nWhile the rich sit in a lowly place.",
+              "DRB": "A fool set in high dignity, and the rich sitting beneath."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "I have seen slaves on horseback, while princes go on foot like slaves.",
+              "KJV": "I have seen servants upon horses, and princes walking as servants upon the earth.",
+              "NKJV": "I have seen servants on horses,\nWhile princes walk on the ground like servants.",
+              "DRB": "I have seen servants upon horses: and princes walking on the ground as servants."
+            }
+          }
+        ]
+      },
+      {
+        "id": "ecc_10_8_10",
+        "title": "Those Who Dig a Pit Will Fall Into It",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 10,
+          "start": 8,
+          "end": 10
+        },
+        "rows": [
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Whoever digs a pit may fall into it; whoever breaks through a wall may be bitten by a snake.",
+              "KJV": "He that diggeth a pit shall fall into it; and whoso breaketh an hedge, a serpent shall bite him.",
+              "NKJV": "He who digs a pit will fall into it,\nAnd whoever breaks through a wall will be bitten by a serpent.",
+              "DRB": "He that diggeth a pit, shall fall into it: and he that breaketh a hedge, a serpent shall bite him."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Whoever quarries stones may be injured by them; whoever splits logs may be endangered by them.",
+              "KJV": "Whoso removeth stones shall be hurt therewith; and he that cleaveth wood shall be endangered thereby.",
+              "NKJV": "He who quarries stones may be hurt by them,\nAnd he who splits wood may be endangered by it.",
+              "DRB": "He that removeth stones, shall be hurt by them: and he that cutteth trees, shall be wounded by them."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "If the ax is dull and its edge unsharpened, more strength is needed but skill will bring success.",
+              "KJV": "If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom is profitable to direct.",
+              "NKJV": "If the ax is dull,\nAnd one does not sharpen the edge,\nThen he must use more strength;\nBut wisdom brings success.",
+              "DRB": "If the iron be blunt, and be not as before, but be made blunt, with much labour it shall be sharpened: and after industry shall follow wisdom."
+            }
+          }
+        ]
+      },
+      {
+        "id": "ecc_10_11_15",
+        "title": "A Blabber is Like the Bite of a Serpent",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 10,
+          "start": 11,
+          "end": 15
+        },
+        "rows": [
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "If a snake bites before it is charmed, there is no profit for the charmer.",
+              "KJV": "Surely the serpent will bite without enchantment; and a babbler is no better.",
+              "NKJV": "A serpent may bite when it is not charmed;\nThe babbler is no different.",
+              "DRB": "If a serpent bite in silence, he is nothing better that backbiteth secretly."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Words from a wise man's mouth are gracious, but a fool is consumed by his own lips.",
+              "KJV": "The words of a wise man's mouth are gracious; but the lips of a fool will swallow up himself.",
+              "NKJV": "The words of a wise man\u2019s mouth are gracious,\nBut the lips of a fool shall swallow him up;",
+              "DRB": "The words of the mouth of a wise man are grace: but the lips of a fool shall throw him down headlong."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "At the beginning his words are folly; at the end they are wicked madness-",
+              "KJV": "The beginning of the words of his mouth is foolishness: and the end of his talk is mischievous madness.",
+              "NKJV": "The words of his mouth begin with foolishness,\nAnd the end of his talk is raving madness.",
+              "DRB": "The beginning of his words is folly, and the end of his talk is a mischievous error."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "and the fool multiplies words. No one knows what is coming- who can tell him what will happen after him?",
+              "KJV": "A fool also is full of words: a man cannot tell what shall be; and what shall be after him, who can tell him?",
+              "NKJV": "A fool also multiplies words.\nNo man knows what is to be;\nWho can tell him what will be after him?",
+              "DRB": "A fool multiplieth words. A man cannot tell what hath been before him: and what shall be after him, who can tell him?"
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "A fool's work wearies him; he does not know the way to town.",
+              "KJV": "The labour of the foolish wearieth every one of them, because he knoweth not how to go to the city.",
+              "NKJV": "The labor of fools wearies them,\nFor they do not even know how to go to the city!",
+              "DRB": "The labour of fools shall afflict them that know not how to go to the city."
+            }
+          }
+        ]
+      },
+      {
+        "id": "ecc_10_16_20",
+        "title": "Do Not Curse the King in Thought",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 10,
+          "start": 16,
+          "end": 20
+        },
+        "rows": [
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "Woe to you, O land whose king was a servant and whose princes feast in the morning.",
+              "KJV": "Woe to thee, O land, when thy king is a child, and thy princes eat in the morning!",
+              "NKJV": "Woe to you, O land, when your king is a child,\nAnd your princes feast in the morning!",
+              "DRB": "Woe to thee, O land, when thy king is a child, and when the princes eat in the morning."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "Blessed are you, O land whose king is of noble birth and whose princes eat at a proper time- for strength and not for drunkenness.",
+              "KJV": "Blessed art thou, O land, when thy king is the son of nobles, and thy princes eat in due season, for strength, and not for drunkenness!",
+              "NKJV": "Blessed are you, O land, when your king is the son of nobles,\nAnd your princes feast at the proper time\u2014\nFor strength and not for drunkenness!",
+              "DRB": "Blessed is the land, whose king is noble, and whose princes eat in due season for refreshment, and not for riotousness."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "If a man is lazy, the rafters sag; if his hands are idle, the house leaks.",
+              "KJV": "By much slothfulness the building decayeth; and through idleness of the hands the house droppeth through.",
+              "NKJV": "Because of laziness the building decays,\nAnd through idleness of hands the house leaks.",
+              "DRB": "By slothfulness a building shall be brought down, and through the weakness of hands, the house shall drop through."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "A feast is made for laughter, and wine makes life merry, but money is the answer for everything.",
+              "KJV": "A feast is made for laughter, and wine maketh merry: but money answereth all things.",
+              "NKJV": "A feast is made for laughter,\nAnd wine makes merry;\nBut money answers everything.",
+              "DRB": "For laughter they make bread, and wine that the living may feast: and all things obey money."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "Do not revile the king even in your thoughts, or curse the rich in your bedroom, because a bird of the air may carry your words, and a bird on the wing may report what you say.",
+              "KJV": "Curse not the king, no not in thy thought; and curse not the rich in thy bedchamber: for a bird of the air shall carry the voice, and that which hath wings shall tell the matter.",
+              "NKJV": "Do not curse the king, even in your thought;\nDo not curse the rich, even in your bedroom;\nFor a bird of the air may carry your voice,\nAnd a bird in flight may tell the matter.",
+              "DRB": "Detract not the king, no not in thy thought; and speak not evil of the rich man in thy private chamber: because even the birds of the air will carry thy voice, and he that hath wings will tell what thou hast said."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

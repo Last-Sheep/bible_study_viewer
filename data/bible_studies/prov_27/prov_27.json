@@ -1,0 +1,326 @@
+{
+  "scripture": {
+    "header": {
+      "id": "prov_27",
+      "title": "",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_27_1_6",
+        "title": "Faithful are the Wounds of a Friend",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 27,
+          "start": 1,
+          "end": 6
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Do not boast about tomorrow, for you do not know what a day may bring forth.",
+              "KJV": "Boast not thyself of to morrow; for thou knowest not what a day may bring forth.",
+              "NKJV": "Do not boast about tomorrow,\nFor you do not know what a day may bring forth.",
+              "DRB": "Boast not for to morrow, for thou knowest not what the day to come may bring forth."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Let another praise you, and not your own mouth; someone else, and not your own lips.",
+              "KJV": "Let another man praise thee, and not thine own mouth; a stranger, and not thine own lips.",
+              "NKJV": "Let another man praise you, and not your own mouth;\nA stranger, and not your own lips.",
+              "DRB": "Let another praise thee, and not thy own mouth: a stranger, and not thy own lips."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "Stone is heavy and sand a burden, but provocation by a fool is heavier than both.",
+              "KJV": "A stone is heavy, and the sand weighty; but a fool's wrath is heavier than them both.",
+              "NKJV": "A stone is heavy and sand is weighty,\nBut a fool\u2019s wrath is heavier than both of them.",
+              "DRB": "A stone is heavy, and sand weighty: but the anger of a fool is heavier than them both."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Anger is cruel and fury overwhelming, but who can stand before jealousy?",
+              "KJV": "Wrath is cruel, and anger is outrageous; but who is able to stand before envy?",
+              "NKJV": "Wrath is cruel and anger a torrent,\nBut who is able to stand before jealousy?",
+              "DRB": "Anger hath no mercy, nor fury when it breaketh forth: and who can bear the violence of one provoked?"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "Better is open rebuke than hidden love.",
+              "KJV": "Open rebuke is better than secret love.",
+              "NKJV": "Open rebuke is better\nThan love carefully concealed.",
+              "DRB": "Open rebuke is better than hidden love."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Wounds from a friend can be trusted, but an enemy multiplies kisses.",
+              "KJV": "Faithful are the wounds of a friend; but the kisses of an enemy are deceitful.",
+              "NKJV": "Faithful are the wounds of a friend,\nBut the kisses of an enemy are deceitful.",
+              "DRB": "Better are the wounds of a friend, than the deceitful kisses of an enemy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_27_7_10",
+        "title": "Do Not Forsake Your Friend",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 27,
+          "start": 7,
+          "end": 10
+        },
+        "rows": [
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "He who is full loathes honey, but to the hungry even what is bitter tastes sweet.",
+              "KJV": "The full soul loatheth an honeycomb; but to the hungry soul every bitter thing is sweet.",
+              "NKJV": "A satisfied soul loathes the honeycomb,\nBut to a hungry soul every bitter thing is sweet.",
+              "DRB": "A soul that is full shall tread upon the honeycomb : and a soul that is hungry shall take even bitter for sweet."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Like a bird that strays from its nest is a man who strays from his home.",
+              "KJV": "As a bird that wandereth from her nest, so is a man that wandereth from his place.",
+              "NKJV": "Like a bird that wanders from its nest\nIs a man who wanders from his place.",
+              "DRB": "As a bird that wandereth from her nest, so is a man that leaveth his place."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Perfume and incense bring joy to the heart, and the pleasantness of one's friend springs from his earnest counsel.",
+              "KJV": "Ointment and perfume rejoice the heart: so doth the sweetness of a man's friend by hearty counsel.",
+              "NKJV": "Ointment and perfume delight the heart,\nAnd the sweetness of a man\u2019s friend gives delight by hearty counsel.",
+              "DRB": "Ointment and perfumes rejoice the heart: and the good counsels of a friend are sweet to the soul."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Do not forsake your friend and the friend of your father, and do not go to your brother's house when disaster strikes you- better a neighbor nearby than a brother far away.",
+              "KJV": "Thine own friend, and thy father's friend, forsake not; neither go into thy brother's house in the day of thy calamity: for better is a neighbour that is near than a brother far off.",
+              "NKJV": "Do not forsake your own friend or your father\u2019s friend,\nNor go to your brother\u2019s house in the day of your calamity;\nBetter is a neighbor nearby than a brother far away.",
+              "DRB": "Thy own friend, and thy father's friend forsake not: and go not into thy brother's house in the day of thy affliction. Better is a neighbour that is near, than a brother afar off."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_27_11_16",
+        "title": "A Prudent Man Forsees Evil",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 27,
+          "start": 11,
+          "end": 16
+        },
+        "rows": [
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Be wise, my son, and bring joy to my heart; then I can answer anyone who treats me with contempt.",
+              "KJV": "My son, be wise, and make my heart glad, that I may answer him that reproacheth me.",
+              "NKJV": "My son, be wise, and make my heart glad,\nThat I may answer him who reproaches me.",
+              "DRB": "Study wisdom, my son, and make my heart joyful, that thou mayst give an answer to him that reproacheth."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "The prudent see danger and take refuge, but the simple keep going and suffer for it.",
+              "KJV": "A prudent man foreseeth the evil, and hideth himself; but the simple pass on, and are punished.",
+              "NKJV": "A prudent man foresees evil and hides himself;\nThe simple pass on and are punished.",
+              "DRB": "The prudent man seeing evil hideth himself: little ones passing on have suffered losses."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Take the garment of one who puts up security for a stranger; hold it in pledge if he does it for a wayward woman.",
+              "KJV": "Take his garment that is surety for a stranger, and take a pledge of him for a strange woman.",
+              "NKJV": "Take the garment of him who is surety for a stranger,\nAnd hold it in pledge when he is surety for a seductress.",
+              "DRB": "Take away his garment that hath been surety for a stranger: and take from him a pledge for strangers."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "If a man loudly blesses his neighbor early in the morning, it will be taken as a curse.",
+              "KJV": "He that blesseth his friend with a loud voice, rising early in the morning, it shall be counted a curse to him.",
+              "NKJV": "He who blesses his friend with a loud voice, rising early in the morning,\nIt will be counted a curse to him.",
+              "DRB": "He that blesseth his neighbour with a loud voice, rising in the night, shall be like to him that curseth."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "A quarrelsome wife is like a constant dripping on a rainy day;",
+              "KJV": "A continual dropping in a very rainy day and a contentious woman are alike.",
+              "NKJV": "A continual dripping on a very rainy day\nAnd a contentious woman are alike;",
+              "DRB": "Roofs dropping through in a cold day, and a contentious woman are alike."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "restraining her is like restraining the wind or grasping oil with the hand.",
+              "KJV": "Whosoever hideth her hideth the wind, and the ointment of his right hand, which bewrayeth itself.",
+              "NKJV": "Whoever restrains her restrains the wind,\nAnd grasps oil with his right hand.",
+              "DRB": "He that retaineth her, is as he that would hold the wind, and shall call in the oil of his right hand."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_27_17_21",
+        "title": "A Man's Value By What Others Say",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 27,
+          "start": 17,
+          "end": 21
+        },
+        "rows": [
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "As iron sharpens iron, so one man sharpens another.",
+              "KJV": "Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.",
+              "NKJV": "As iron sharpens iron,\nSo a man sharpens the countenance of his friend.",
+              "DRB": "Iron sharpeneth iron, so a man sharpeneth the countenance of his friend."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "He who tends a fig tree will eat its fruit, and he who looks after his master will be honored.",
+              "KJV": "Whoso keepeth the fig tree shall eat the fruit thereof: so he that waiteth on his master shall be honoured.",
+              "NKJV": "Whoever keeps the fig tree will eat its fruit;\nSo he who waits on his master will be honored.",
+              "DRB": "He that keepeth the fig tree, shall eat the fruit thereof: and he that is the keeper of his master, shall be glorified."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "As water reflects a face, so a man's heart reflects the man.",
+              "KJV": "As in water face answereth to face, so the heart of man to man.",
+              "NKJV": "As in water face reflects face,\nSo a man\u2019s heart reveals the man.",
+              "DRB": "As the faces of them that look therein, shine in the water, so the hearts of men are laid open to the wise."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "Death and Destruction are never satisfied, and neither are the eyes of man.",
+              "KJV": "Hell and destruction are never full; so the eyes of man are never satisfied.",
+              "NKJV": "Hell and Destruction are never full;\nSo the eyes of man are never satisfied.",
+              "DRB": "Hell and destruction are never filled: so the eyes of men are never satisfied."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "The crucible for silver and the furnace for gold, but man is tested by the praise he receives.",
+              "KJV": "As the fining pot for silver, and the furnace for gold; so is a man to his praise.",
+              "NKJV": "The refining pot is for silver and the furnace for gold,\nAnd a man is valued by what others say of him.",
+              "DRB": "As silver is tried in the fining-pot and gold in the furnace: so a man is tried by the mouth of him that praiseth. The heart of the wicked seeketh after evils, but the righteous heart seeketh after knowledge."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_27_22_27",
+        "title": "Be Diligent to Know",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 27,
+          "start": 22,
+          "end": 27
+        },
+        "rows": [
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "Though you grind a fool in a mortar, grinding him like grain with a pestle, you will not remove his folly from him.",
+              "KJV": "Though thou shouldest bray a fool in a mortar among wheat with a pestle, yet will not his foolishness depart from him.",
+              "NKJV": "Though you grind a fool in a mortar with a pestle along with crushed grain,\nYet his foolishness will not depart from him.",
+              "DRB": "Though thou shouldst bray a fool in the mortar, as when a pestle striketh upon sodden barley, his folly would not be taken from him."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "Be sure you know the condition of your flocks, give careful attention to your herds;",
+              "KJV": "Be thou diligent to know the state of thy flocks, and look well to thy herds.",
+              "NKJV": "Be diligent to know the state of your flocks,\nAnd attend to your herds;",
+              "DRB": "Be diligent to know the countenance of thy cattle, and consider thy own flocks :"
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "for riches do not endure forever, and a crown is not secure for all generations.",
+              "KJV": "For riches are not for ever: and doth the crown endure to every generation?",
+              "NKJV": "For riches are not forever,\nNor does a crown endure to all generations.",
+              "DRB": "For thou shalt not always have power: but a crown shall be given to generation and generation."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "When the hay is removed and new growth appears and the grass from the hills is gathered in,",
+              "KJV": "The hay appeareth, and the tender grass sheweth itself, and herbs of the mountains are gathered.",
+              "NKJV": "When the hay is removed, and the tender grass shows itself,\nAnd the herbs of the mountains are gathered in,",
+              "DRB": "The meadows are open, and the green herbs have appeared, and the hay is gathered out of the mountains."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "the lambs will provide you with clothing, and the goats with the price of a field.",
+              "KJV": "The lambs are for thy clothing, and the goats are the price of the field.",
+              "NKJV": "The lambs will provide your clothing,\nAnd the goats the price of a field;",
+              "DRB": "Lambs are for thy clothing: and kids for the price of the field."
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "You will have plenty of goats' milk to feed you and your family and to nourish your servant girls.",
+              "KJV": "And thou shalt have goats' milk enough for thy food, for the food of thy household, and for the maintenance for thy maidens.",
+              "NKJV": "You shall have enough goats\u2019 milk for your food,\nFor the food of your household,\nAnd the nourishment of your maidservants.",
+              "DRB": "Let the milk of the goats be enough for thy food, and for the necessities of thy house, and for maintenance for thy handmaids."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

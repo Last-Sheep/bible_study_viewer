@@ -1,0 +1,375 @@
+{
+  "scripture": {
+    "header": {
+      "id": "prov_11",
+      "title": "Proverbs 11",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_11_1_6",
+        "title": "Wisdom is With the Humble",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 11,
+          "start": 1,
+          "end": 6
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "The LORD abhors dishonest scales, but accurate weights are his delight.",
+              "KJV": "A false balance is abomination to the Lord: but a just weight is his delight.",
+              "NKJV": "Dishonest scales are an abomination to the Lord,\nBut a just weight is His delight.",
+              "DRB": "A deceitful balance is an abomination before the Lord: and a just weight is his will."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "When pride comes, then comes disgrace, but with humility comes wisdom.",
+              "KJV": "When pride cometh, then cometh shame: but with the lowly is wisdom.",
+              "NKJV": "When pride comes, then comes shame;\nBut with the humble is wisdom.",
+              "DRB": "Where pride is, there also shall be reproach: but where humility is, there also is wisdom."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "The integrity of the upright guides them, but the unfaithful are destroyed by their duplicity.",
+              "KJV": "The integrity of the upright shall guide them: but the perverseness of transgressors shall destroy them.",
+              "NKJV": "The integrity of the upright will guide them,\nBut the perversity of the unfaithful will destroy them.",
+              "DRB": "The simplicity of the just shall guide them: and the deceitfulness of the wicked shall destroy them."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Wealth is worthless in the day of wrath, but righteousness delivers from death.",
+              "KJV": "Riches profit not in the day of wrath: but righteousness delivereth from death.",
+              "NKJV": "Riches do not profit in the day of wrath,\nBut righteousness delivers from death.",
+              "DRB": "Riches shall not profit in the day of revenge: but justice shall deliver from death."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "The righteousness of the blameless makes a straight way for them, but the wicked are brought down by their own wickedness.",
+              "KJV": "The righteousness of the perfect shall direct his way: but the wicked shall fall by his own wickedness.",
+              "NKJV": "The righteousness of the blameless will direct his way aright,\nBut the wicked will fall by his own wickedness.",
+              "DRB": "The justice of the upright shall make his way prosperous: and the wicked man shall fall by his own wickedness."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "The righteousness of the upright delivers them, but the unfaithful are trapped by evil desires.",
+              "KJV": "The righteousness of the upright shall deliver them: but transgressors shall be taken in their own naughtiness.",
+              "NKJV": "The righteousness of the upright will deliver them,\nBut the unfaithful will be caught by their lust.",
+              "DRB": "The justice of the righteous shall deliver them: and the unjust shall be caught in their own snares."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_11_7_11",
+        "title": "The Righteous is Delivered from Trouble",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 11,
+          "start": 7,
+          "end": 11
+        },
+        "rows": [
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "When a wicked man dies, his hope perishes; all he expected from his power comes to nothing.",
+              "KJV": "When a wicked man dieth, his expectation shall perish: and the hope of unjust men perisheth.",
+              "NKJV": "When a wicked man dies, his expectation will perish,\nAnd the hope of the unjust perishes.",
+              "DRB": "When the wicked man is dead, there shall be no hope any more: and the expectation of the solicitous shall perish."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "The righteous man is rescued from trouble, and it comes on the wicked instead.",
+              "KJV": "The righteous is delivered out of trouble, and the wicked cometh in his stead.",
+              "NKJV": "The righteous is delivered from trouble,\nAnd it comes to the wicked instead.",
+              "DRB": "The just is delivered out of distress: and the wicked shall be given up for him."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "With his mouth the godless destroys his neighbor, but through knowledge the righteous escape.",
+              "KJV": "An hypocrite with his mouth destroyeth his neighbour: but through knowledge shall the just be delivered.",
+              "NKJV": "The hypocrite with his mouth destroys his neighbor,\nBut through knowledge the righteous will be delivered.",
+              "DRB": "The dissembler with his mouth deceiveth his friend: but the just shall be delivered by knowledge."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "When the righteous prosper, the city rejoices; when the wicked perish, there are shouts of joy.",
+              "KJV": "When it goeth well with the righteous, the city rejoiceth: and when the wicked perish, there is shouting.",
+              "NKJV": "When it goes well with the righteous, the city rejoices;\nAnd when the wicked perish, there is jubilation.",
+              "DRB": "When it goeth well with the just the city shall rejoice: and when the wicked perish there shall be praise."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Through the blessing of the upright a city is exalted, but by the mouth of the wicked it is destroyed.",
+              "KJV": "By the blessing of the upright the city is exalted: but it is overthrown by the mouth of the wicked.",
+              "NKJV": "By the blessing of the upright the city is exalted,\nBut it is overthrown by the mouth of the wicked.",
+              "DRB": "By the blessing of the just the city shall be exalted: and by the mouth of the wicked it shall be overthrown."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_11_12_15",
+        "title": "A Man of Understanding Holds His Peace",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 11,
+          "start": 12,
+          "end": 15
+        },
+        "rows": [
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "A man who lacks judgment derides his neighbor, but a man of understanding holds his tongue.",
+              "KJV": "He that is void of wisdom despiseth his neighbour: but a man of understanding holdeth his peace.",
+              "NKJV": "He who is devoid of wisdom despises his neighbor,\nBut a man of understanding holds his peace.",
+              "DRB": "He that despiseth his friend, is mean of heart: but the wise man will hold his peace."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "A gossip betrays a confidence, but a trustworthy man keeps a secret.",
+              "KJV": "A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter.",
+              "NKJV": "A talebearer reveals secrets,\nBut he who is of a faithful spirit conceals a matter.",
+              "DRB": "He that walketh deceitfully, revealeth secrets: but he that is faithful, concealeth the thing committed to him by his friend."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "For lack of guidance a nation falls, but many advisers make victory sure.",
+              "KJV": "Where no counsel is, the people fall: but in the multitude of counsellors there is safety.",
+              "NKJV": "Where there is no counsel, the people fall;\nBut in the multitude of counselors there is safety.",
+              "DRB": "Where there is no governor, the people shall fall: but there is safety where there is much counsel."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "He who puts up security for another will surely suffer, but whoever refuses to strike hands in pledge is safe.",
+              "KJV": "He that is surety for a stranger shall smart for it: and he that hateth suretiship is sure.",
+              "NKJV": "He who is surety for a stranger will suffer,\nBut one who hates being surety is secure.",
+              "DRB": "He shall be afflicted with evil, that is surety for a stranger: but he that is aware of the snares, shall be secure."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_11_16_21",
+        "title": "A Gracious Woman and A Merciful Man",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 11,
+          "start": 16,
+          "end": 21
+        },
+        "rows": [
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "A kindhearted woman gains respect, but ruthless men gain only wealth.",
+              "KJV": "A gracious woman retaineth honour: and strong men retain riches.",
+              "NKJV": "A gracious woman retains honor,\nBut ruthless men retain riches.",
+              "DRB": "A gracious woman shall find glory: and the strong shall have riches."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "A kind man benefits himself, but a cruel man brings trouble on himself.",
+              "KJV": "The merciful man doeth good to his own soul: but he that is cruel troubleth his own flesh.",
+              "NKJV": "The merciful man does good for his own soul,\nBut he who is cruel troubles his own flesh.",
+              "DRB": "A merciful man doth good to his own soul: but he that is cruel casteth off even his own kindred."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "The wicked man earns deceptive wages, but he who sows righteousness reaps a sure reward.",
+              "KJV": "The wicked worketh a deceitful work: but to him that soweth righteousness shall be a sure reward.",
+              "NKJV": "The wicked man does deceptive work,\nBut he who sows righteousness will have a sure reward.",
+              "DRB": "The wicked maketh an unsteady work: but to him that soweth justice, there is a faithful reward."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "The truly righteous man attains life, but he who pursues evil goes to his death.",
+              "KJV": "As righteousness tendeth to life: so he that pursueth evil pursueth it to his own death.",
+              "NKJV": "As righteousness leads to life,\nSo he who pursues evil pursues it to his own death.",
+              "DRB": "Clemency prepareth life: and the pursuing of evil things, death."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "The LORD detests men of perverse heart but he delights in those whose ways are blameless.",
+              "KJV": "They that are of a froward heart are abomination to the Lord: but such as are upright in their way are his delight.",
+              "NKJV": "Those who are of a perverse heart are an abomination to the Lord,\nBut the blameless in their ways are His delight.",
+              "DRB": "A perverse heart is abominable to the Lord: and his will is in them that walk sincerely."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "Be sure of this: The wicked will not go unpunished, but those who are righteous will go free.",
+              "KJV": "Though hand join in hand, the wicked shall not be unpunished: but the seed of the righteous shall be delivered.",
+              "NKJV": "Though they join forces, the wicked will not go unpunished;\nBut the posterity of the righteous will be delivered.",
+              "DRB": "Hand in hand the evil man shall not be innocent: but the seed of the just shall be saved."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_11_22_26",
+        "title": "The Righteous Desire is Only Good",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 11,
+          "start": 22,
+          "end": 26
+        },
+        "rows": [
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "Like a gold ring in a pig's snout is a beautiful woman who shows no discretion.",
+              "KJV": "As a jewel of gold in a swine's snout, so is a fair woman which is without discretion.",
+              "NKJV": "As a ring of gold in a swine\u2019s snout,\nSo is a lovely woman who lacks discretion.",
+              "DRB": "A golden ring in a swine's snout, a woman fair and foolish."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "The desire of the righteous ends only in good, but the hope of the wicked only in wrath.",
+              "KJV": "The desire of the righteous is only good: but the expectation of the wicked is wrath.",
+              "NKJV": "The desire of the righteous is only good,\nBut the expectation of the wicked is wrath.",
+              "DRB": "The desire of the just is all good: the expectation of the wicked is indignation."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "One man gives freely, yet gains even more; another withholds unduly, but comes to poverty.",
+              "KJV": "There is that scattereth, and yet increaseth; and there is that withholdeth more than is meet, but it tendeth to poverty.",
+              "NKJV": "There is one who scatters, yet increases more;\nAnd there is one who withholds more than is right,\nBut it leads to poverty.",
+              "DRB": "Some distribute their own goods, and grow richer: others take away what is not their own, and are always in want."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "A generous man will prosper; he who refreshes others will himself be refreshed.",
+              "KJV": "The liberal soul shall be made fat: and he that watereth shall be watered also himself.",
+              "NKJV": "The generous soul will be made rich,\nAnd he who waters will also be watered himself.",
+              "DRB": "The soul which blesseth, shall be made fat: and he that inebriateth, shall be inebriated also himself."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "People curse the man who hoards grain, but blessing crowns him who is willing to sell.",
+              "KJV": "He that withholdeth corn, the people shall curse him: but blessing shall be upon the head of him that selleth it.",
+              "NKJV": "The people will curse him who withholds grain,\nBut blessing will be on the head of him who sells it.",
+              "DRB": "He that hideth up corn, shall be cursed among the people: but a blessing upon the head of them that sell."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_11_27_31",
+        "title": "Fruit of the Righteous is a Tree of Life",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 11,
+          "start": 27,
+          "end": 31
+        },
+        "rows": [
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "He who seeks good finds goodwill, but evil comes to him who searches for it.",
+              "KJV": "He that diligently seeketh good procureth favour: but he that seeketh mischief, it shall come unto him.",
+              "NKJV": "He who earnestly seeks good finds favor,\nBut trouble will come to him who seeks evil.",
+              "DRB": "Well doth he rise early who seeketh good things; but he that seeketh after evil things shall be oppressed by them."
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "Whoever trusts in his riches will fall, but the righteous will thrive like a green leaf.",
+              "KJV": "He that trusteth in his riches shall fall; but the righteous shall flourish as a branch.",
+              "NKJV": "He who trusts in his riches will fall,\nBut the righteous will flourish like foliage.",
+              "DRB": "He that trusteth in his riches shall fall: but the just shall spring up as a green leaf."
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "He who brings trouble on his family will inherit only wind, and the fool will be servant to the wise.",
+              "KJV": "He that troubleth his own house shall inherit the wind: and the fool shall be servant to the wise of heart.",
+              "NKJV": "He who troubles his own house will inherit the wind,\nAnd the fool will be servant to the wise of heart.",
+              "DRB": "He that troubleth his own house, shall inherit the winds: and the fool shall serve the wise."
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "The fruit of the righteous is a tree of life, and he who wins souls is wise.",
+              "KJV": "The fruit of the righteous is a tree of life; and he that winneth souls is wise.",
+              "NKJV": "The fruit of the righteous is a tree of life,\nAnd he who wins souls is wise.",
+              "DRB": "The fruit of the just man is a tree of life: and he that gaineth souls, is wise."
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "If the righteous receive their due on earth, how much more the ungodly and the sinner!",
+              "KJV": "Behold, the righteous shall be recompensed in the earth: much more the wicked and the sinner.",
+              "NKJV": "If the righteous will be recompensed on the earth,\nHow much more the ungodly and the sinner.",
+              "DRB": "If the just man receive in the earth, how much more the wicked and the sinner."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

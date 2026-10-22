@@ -1,0 +1,402 @@
+{
+  "scripture": {
+    "header": {
+      "id": "prov_24",
+      "title": "Proverbs 24",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_24_1_6",
+        "title": "A Wise Man is Strong",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 24,
+          "start": 1,
+          "end": 6
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Do not envy wicked men, do not desire their company;",
+              "KJV": "Be not thou envious against evil men, neither desire to be with them.",
+              "NKJV": "Do not be envious of evil men,\nNor desire to be with them;",
+              "DRB": "Seek not to be like evil men, neither desire to be with them:"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "for their hearts plot violence, and their lips talk about making trouble.",
+              "KJV": "For their heart studieth destruction, and their lips talk of mischief.",
+              "NKJV": "For their heart devises violence,\nAnd their lips talk of troublemaking.",
+              "DRB": "Because their mind studieth robberies, and their lips speak deceits."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "By wisdom a house is built, and through understanding it is established;",
+              "KJV": "Through wisdom is an house builded; and by understanding it is established:",
+              "NKJV": "Through wisdom a house is built,\nAnd by understanding it is established;",
+              "DRB": "By wisdom the house shall be built, and by prudence it shall be strengthened."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "through knowledge its rooms are filled with rare and beautiful treasures.",
+              "KJV": "And by knowledge shall the chambers be filled with all precious and pleasant riches.",
+              "NKJV": "By knowledge the rooms are filled\nWith all precious and pleasant riches.",
+              "DRB": "By instruction the storerooms shall be filled with all precious and most beautiful wealth."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "A wise man has great power, and a man of knowledge increases strength;",
+              "KJV": "A wise man is strong; yea, a man of knowledge increaseth strength.",
+              "NKJV": "A wise man is strong,\nYes, a man of knowledge increases strength;",
+              "DRB": "A wise man is strong: and a knowing man, stout and valiant."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "for waging war you need guidance, and for victory many advisers.",
+              "KJV": "For by wise counsel thou shalt make thy war: and in multitude of counsellors there is safety.",
+              "NKJV": "For by wise counsel you will wage your own war,\nAnd in a multitude of counselors there is safety.",
+              "DRB": "Because war is managed by due ordering: and there shall be safety where there are many counsels."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_24_7_12",
+        "title": "Deliver Those Drawn Toward Death",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 24,
+          "start": 7,
+          "end": 12
+        },
+        "rows": [
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Wisdom is too high for a fool; in the assembly at the gate he has nothing to say.",
+              "KJV": "Wisdom is too high for a fool: he openeth not his mouth in the gate.",
+              "NKJV": "Wisdom is too lofty for a fool;\nHe does not open his mouth in the gate.",
+              "DRB": "Wisdom is too high for a fool, in the gate he shall not open his mouth."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "He who plots evil will be known as a schemer.",
+              "KJV": "He that deviseth to do evil shall be called a mischievous person.",
+              "NKJV": "He who plots to do evil\nWill be called a schemer.",
+              "DRB": "He that deviseth to do evils, shall be called a fool."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "The schemes of folly are sin, and men detest a mocker.",
+              "KJV": "The thought of foolishness is sin: and the scorner is an abomination to men.",
+              "NKJV": "The devising of foolishness is sin,\nAnd the scoffer is an abomination to men.",
+              "DRB": "The thought of a fool is sin: and the detracter is the abomination of men."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "If you falter in times of trouble, how small is your strength!",
+              "KJV": "If thou faint in the day of adversity, thy strength is small.",
+              "NKJV": "If you faint in the day of adversity,\nYour strength is small.",
+              "DRB": "If thou lose hope being weary in the day of distress, thy strength shall be diminished."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Rescue those being led away to death; hold back those staggering toward slaughter.",
+              "KJV": "If thou forbear to deliver them that are drawn unto death, and those that are ready to be slain;",
+              "NKJV": "Deliver those who are drawn toward death,\nAnd hold back those stumbling to the slaughter.",
+              "DRB": "Deliver them that are led to death: and those that are drawn to death forbear not to deliver."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "If you say, \"But we knew nothing about this,\" does not he who weighs the heart perceive it? Does not he who guards your life know it? Will he not repay each person according to what he has done?",
+              "KJV": "If thou sayest, Behold, we knew it not; doth not he that pondereth the heart consider it? and he that keepeth thy soul, doth not he know it? and shall not he render to every man according to his works?",
+              "NKJV": "If you say, \u201cSurely we did not know this,\u201d\nDoes not He who weighs the hearts consider it?\nHe who keeps your soul, does He not know it?\nAnd will He not render to each man according to his deeds?",
+              "DRB": "If thou say: I have not strength enough: he that seeth into the heart, he understandeth, and nothing deceiveth the keeper of thy soul, end he shall render to a man according to his works."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_24_13_16",
+        "title": "A Righteous Man Will Rise",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 24,
+          "start": 13,
+          "end": 16
+        },
+        "rows": [
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Eat honey, my son, for it is good; honey from the comb is sweet to your taste.",
+              "KJV": "My son, eat thou honey, because it is good; and the honeycomb, which is sweet to thy taste:",
+              "NKJV": "My son, eat honey because it is good,\nAnd the honeycomb which is sweet to your taste;",
+              "DRB": "Fat honey, my son, because it is good, and the honeycomb most sweet to thy throat:"
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "Know also that wisdom is sweet to your soul; if you find it, there is a future hope for you, and your hope will not be cut off.",
+              "KJV": "So shall the knowledge of wisdom be unto thy soul: when thou hast found it, then there shall be a reward, and thy expectation shall not be cut off.",
+              "NKJV": "So shall the knowledge of wisdom be to your soul;\nIf you have found it, there is a prospect,\nAnd your hope will not be cut off.",
+              "DRB": "So also is the doctrine of wisdom to thy soul: which when thou hast found, thou shalt have hope in the end, and thy hope shall not perish."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Do not lie in wait like an outlaw against a righteous man's house, do not raid his dwelling place;",
+              "KJV": "Lay not wait, O wicked man, against the dwelling of the righteous; spoil not his resting place:",
+              "NKJV": "Do not lie in wait, O wicked man, against the dwelling of the righteous;\nDo not plunder his resting place;",
+              "DRB": "Lie not in wait, nor seek after wickedness in the house of the just, nor spoil his rest."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "for though a righteous man falls seven times, he rises again, but the wicked are brought down by calamity.",
+              "KJV": "For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief.",
+              "NKJV": "For a righteous man may fall seven times\nAnd rise again,\nBut the wicked shall fall by calamity.",
+              "DRB": "For a just man shall fall seven times and shall rise again: but the wicked shall fall down into evil."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_24_17_22",
+        "title": "Do Not Gloat When Your Enemy Falls",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 24,
+          "start": 17,
+          "end": 22
+        },
+        "rows": [
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "Do not gloat when your enemy falls; when he stumbles, do not let your heart rejoice,",
+              "KJV": "Rejoice not when thine enemy falleth, and let not thine heart be glad when he stumbleth:",
+              "NKJV": "Do not rejoice when your enemy falls,\nAnd do not let your heart be glad when he stumbles;",
+              "DRB": "When thy enemy shall fall, be not glad, and in his ruin let not thy heart rejoice:"
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "or the LORD will see and disapprove and turn his wrath away from him.",
+              "KJV": "Lest the Lord see it, and it displease him, and he turn away his wrath from him.",
+              "NKJV": "Lest the Lord see it, and it displease Him,\nAnd He turn away His wrath from him.",
+              "DRB": "Lest the Lord see, and it displease him, and he turn away his wrath from him."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "Do not fret because of evil men or be envious of the wicked,",
+              "KJV": "Fret not thyself because of evil men, neither be thou envious at the wicked:",
+              "NKJV": "Do not fret because of evildoers,\nNor be envious of the wicked;",
+              "DRB": "Contend not with the wicked, nor seek to be like the ungodly:"
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "for the evil man has no future hope, and the lamp of the wicked will be snuffed out.",
+              "KJV": "For there shall be no reward to the evil man; the candle of the wicked shall be put out.",
+              "NKJV": "For there will be no prospect for the evil man;\nThe lamp of the wicked will be put out.",
+              "DRB": "For evil men have no hope of things to come, and the lamp of the wicked shall be put out."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "Fear the LORD and the king, my son, and do not join with the rebellious,",
+              "KJV": "My son, fear thou the Lord and the king: and meddle not with them that are given to change:",
+              "NKJV": "My son, fear the Lord and the king;\nDo not associate with those given to change;",
+              "DRB": "My son, fear the Lord and the king: and have nothing to do with detracters."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "for those two will send sudden destruction upon them, and who knows what calamities they can bring? Further Sayings of the Wise",
+              "KJV": "For their calamity shall rise suddenly; and who knoweth the ruin of them both?",
+              "NKJV": "For their calamity will rise suddenly,\nAnd who knows the ruin those two can bring?",
+              "DRB": "For their destruction shall rise suddenly: and who knoweth the ruin of both?"
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_24_23_26",
+        "title": "A Right Answer Kisses the Lips",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 24,
+          "start": 23,
+          "end": 26
+        },
+        "rows": [
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "These also are sayings of the wise: To show partiality in judging is not good:",
+              "KJV": "These things also belong to the wise. It is not good to have respect of persons in judgment.",
+              "NKJV": "These things also belong to the wise:\nIt is not good to show partiality in judgment.",
+              "DRB": "These things also to the wise: It is not good to have respect to persons in judgment."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "Whoever says to the guilty, \"You are innocent\"- peoples will curse him and nations denounce him.",
+              "KJV": "He that saith unto the wicked, Thou are righteous; him shall the people curse, nations shall abhor him:",
+              "NKJV": "He who says to the wicked, \u201cYou are righteous,\u201d\nHim the people will curse;\nNations will abhor him.",
+              "DRB": "They that say to the wicked man: Thou art just: shall be cursed by the people, and the tribes shall abhor them."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "But it will go well with those who convict the guilty, and rich blessing will come upon them.",
+              "KJV": "But to them that rebuke him shall be delight, and a good blessing shall come upon them.",
+              "NKJV": "But those who rebuke the wicked will have delight,\nAnd a good blessing will come upon them.",
+              "DRB": "They that rebuke him, shall be praised: and a blessing shall come upon them."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "An honest answer is like a kiss on the lips.",
+              "KJV": "Every man shall kiss his lips that giveth a right answer.",
+              "NKJV": "He who gives a right answer kisses the lips.",
+              "DRB": "He shall kiss the lips, who answereth right words."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_24_27_34",
+        "title": "Do Not Repay Evil With Evil",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 24,
+          "start": 27,
+          "end": 34
+        },
+        "rows": [
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "Finish your outdoor work and get your fields ready; after that, build your house.",
+              "KJV": "Prepare thy work without, and make it fit for thyself in the field; and afterwards build thine house.",
+              "NKJV": "Prepare your outside work,\nMake it fit for yourself in the field;\nAnd afterward build your house.",
+              "DRB": "Prepare thy work without, and diligently till thy ground: that afterward thou mayst build thy house."
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "Do not testify against your neighbor without cause, or use your lips to deceive.",
+              "KJV": "Be not a witness against thy neighbour without cause; and deceive not with thy lips.",
+              "NKJV": "Do not be a witness against your neighbor without cause,\nFor would you deceive with your lips?",
+              "DRB": "Be not witness without cause against thy neighbour: and deceive not any man with thy lips."
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "Do not say, \"I'll do to him as he has done to me; I'll pay that man back for what he did.\"",
+              "KJV": "Say not, I will do so to him as he hath done to me: I will render to the man according to his work.",
+              "NKJV": "Do not say, \u201cI will do to him just as he has done to me;\nI will render to the man according to his work.\u201d",
+              "DRB": "Say not: I will do to him as he hath done to me: I will render to every one according to his work."
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "I went past the field of the sluggard, past the vineyard of the man who lacks judgment;",
+              "KJV": "I went by the field of the slothful, and by the vineyard of the man void of understanding;",
+              "NKJV": "I went by the field of the lazy man,\nAnd by the vineyard of the man devoid of understanding;",
+              "DRB": "I passed by the field of the slothful man, and by the vineyard of the foolish man:"
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "thorns had come up everywhere, the ground was covered with weeds, and the stone wall was in ruins.",
+              "KJV": "And, lo, it was all grown over with thorns, and nettles had covered the face thereof, and the stone wall thereof was broken down.",
+              "NKJV": "And there it was, all overgrown with thorns;\nIts surface was covered with nettles;\nIts stone wall was broken down.",
+              "DRB": "And behold it was all filled with nettles, and thorns had covered the face thereof, and the stone wall was broken down."
+            }
+          },
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "I applied my heart to what I observed and learned a lesson from what I saw:",
+              "KJV": "Then I saw, and considered it well: I looked upon it, and received instruction.",
+              "NKJV": "When I saw it, I considered it well;\nI looked on it and received instruction:",
+              "DRB": "Which when I had seen, I laid it up in my heart, and by the example I received instruction."
+            }
+          },
+          {
+            "verse": 33,
+            "texts": {
+              "NIV84": "A little sleep, a little slumber, a little folding of the hands to rest-",
+              "KJV": "Yet a little sleep, a little slumber, a little folding of the hands to sleep:",
+              "NKJV": "A little sleep, a little slumber,\nA little folding of the hands to rest;",
+              "DRB": "Thou wilt sleep a little, said I, thou wilt slumber a little, thou wilt fold thy hands a little to rest:"
+            }
+          },
+          {
+            "verse": 34,
+            "texts": {
+              "NIV84": "and poverty will come on you like a bandit and scarcity like an armed man.",
+              "KJV": "So shall thy poverty come as one that travelleth; and thy want as an armed man.",
+              "NKJV": "So shall your poverty come like a prowler,\nAnd your need like an armed man.",
+              "DRB": "And poverty shall come to thee as a runner, and beggary as an armed man."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

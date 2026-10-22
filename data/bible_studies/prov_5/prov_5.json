@@ -1,0 +1,264 @@
+{
+  "scripture": {
+    "header": {
+      "id": "prov_5",
+      "title": "Proverbs 5",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_5_1_6",
+        "title": "Pay Attention About the Immoral Woman",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 5,
+          "start": 1,
+          "end": 6
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "My son, pay attention to my wisdom, listen well to my words of insight,",
+              "KJV": "My son, attend unto my wisdom, and bow thine ear to my understanding:",
+              "NKJV": "My son, pay attention to my wisdom;\nLend your ear to my understanding,",
+              "DRB": "My son, attend to my wisdom, and incline thy ear to my prudence."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "that you may maintain discretion and your lips may preserve knowledge.",
+              "KJV": "That thou mayest regard discretion, and that thy lips may keep knowledge.",
+              "NKJV": "That you may preserve discretion,\nAnd your lips may keep knowledge.",
+              "DRB": "That thou mayst keep thoughts, and thy lips may preserve instruction. Mind not the deceit of a woman."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "For the lips of an adulteress drip honey, and her speech is smoother than oil;",
+              "KJV": "For the lips of a strange woman drop as an honeycomb, and her mouth is smoother than oil:",
+              "NKJV": "For the lips of an immoral woman drip honey,\nAnd her mouth is smoother than oil;",
+              "DRB": "For the lips of a harlot are like a honeycomb dropping, and her throat is smoother than oil."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "but in the end she is bitter as gall, sharp as a double-edged sword.",
+              "KJV": "But her end is bitter as wormwood, sharp as a two-edged sword.",
+              "NKJV": "But in the end she is bitter as wormwood,\nSharp as a two-edged sword.",
+              "DRB": "But her end is bitter as wormwood, and sharp as a two-edged sword."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "Her feet go down to death; her steps lead straight to the grave.",
+              "KJV": "Her feet go down to death; her steps take hold on hell.",
+              "NKJV": "Her feet go down to death,\nHer steps lay hold of hell.",
+              "DRB": "Her feet go down into death, and her steps go in as far as hell."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "She gives no thought to the way of life; her paths are crooked, but she knows it not.",
+              "KJV": "Lest thou shouldest ponder the path of life, her ways are moveable, that thou canst not know them.",
+              "NKJV": "Lest you ponder her path of life\u2014\nHer ways are unstable;\nYou do not know them.",
+              "DRB": "They walk not by the path of life, her steps are wandering, and unaccountable."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_5_7_14",
+        "title": "Hear These Words",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 5,
+          "start": 7,
+          "end": 14
+        },
+        "rows": [
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Now then, my sons, listen to me; do not turn aside from what I say.",
+              "KJV": "Hear me now therefore, O ye children, and depart not from the words of my mouth.",
+              "NKJV": "Therefore hear me now, my children,\nAnd do not depart from the words of my mouth.",
+              "DRB": "Now therefore, my son, hear me, and depart not from the words of my mouth."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Keep to a path far from her, do not go near the door of her house,",
+              "KJV": "Remove thy way far from her, and come not nigh the door of her house:",
+              "NKJV": "Remove your way far from her,\nAnd do not go near the door of her house,",
+              "DRB": "Remove thy way far from her, and come not nigh the doors of her house."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "lest you give your best strength to others and your years to one who is cruel,",
+              "KJV": "Lest thou give thine honour unto others, and thy years unto the cruel:",
+              "NKJV": "Lest you give your honor to others,\nAnd your years to the cruel one;",
+              "DRB": "Give not thy honour to strangers, and thy years to the cruel."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "lest strangers feast on your wealth and your toil enrich another man's house.",
+              "KJV": "Lest strangers be filled with thy wealth; and thy labours be in the house of a stranger;",
+              "NKJV": "Lest aliens be filled with your wealth,\nAnd your labors go to the house of a foreigner;",
+              "DRB": "Lest strangers be filled with thy strength, and thy labours be in another man's house,"
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "At the end of your life you will groan, when your flesh and body are spent.",
+              "KJV": "And thou mourn at the last, when thy flesh and thy body are consumed,",
+              "NKJV": "And you mourn at last,\nWhen your flesh and your body are consumed,",
+              "DRB": "And thou mourn it the last, when thou shalt have spent thy flesh and thy body, and say:"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "You will say, \"How I hated discipline! How my heart spurned correction!",
+              "KJV": "And say, How have I hated instruction, and my heart despised reproof;",
+              "NKJV": "And say:\n\u201cHow I have hated instruction,\nAnd my heart despised correction!",
+              "DRB": "Why have I hated instruction, and my heart consented not to reproof,"
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "I would not obey my teachers or listen to my instructors.",
+              "KJV": "And have not obeyed the voice of my teachers, nor inclined mine ear to them that instructed me!",
+              "NKJV": "I have not obeyed the voice of my teachers,\nNor inclined my ear to those who instructed me!",
+              "DRB": "And have not heard the voice of them that taught me, and have not in- dined my ear to masters?"
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "I have come to the brink of utter ruin in the midst of the whole assembly.\"",
+              "KJV": "I was almost in all evil in the midst of the congregation and assembly.",
+              "NKJV": "I was on the verge of total ruin,\nIn the midst of the assembly and congregation.\u201d",
+              "DRB": "I have almost been in all evil, in the midst of the church and of the congregation."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_5_15_23",
+        "title": "The Eyes of the Lord See The Ways of Man",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 5,
+          "start": 15,
+          "end": 23
+        },
+        "rows": [
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Drink water from your own cistern, running water from your own well.",
+              "KJV": "Drink waters out of thine own cistern, and running waters out of thine own well.",
+              "NKJV": "Drink water from your own cistern,\nAnd running water from your own well.",
+              "DRB": "Drink water out of thy own cistern, and the streams of thy own well:"
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "Should your springs overflow in the streets, your streams of water in the public squares?",
+              "KJV": "Let thy fountains be dispersed abroad, and rivers of waters in the streets.",
+              "NKJV": "Should your fountains be dispersed abroad,\nStreams of water in the streets?",
+              "DRB": "Let thy fountains be conveyed abroad, and in the streets divide thy waters."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "Let them be yours alone, never to be shared with strangers.",
+              "KJV": "Let them be only thine own, and not strangers' with thee.",
+              "NKJV": "Let them be only your own,\nAnd not for strangers with you.",
+              "DRB": "Keep them to thyself alone, neither let strangers be partakers with thee."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "May your fountain be blessed, and may you rejoice in the wife of your youth.",
+              "KJV": "Let thy fountain be blessed: and rejoice with the wife of thy youth.",
+              "NKJV": "Let your fountain be blessed,\nAnd rejoice with the wife of your youth.",
+              "DRB": "Let thy vein be blessed, and rejoice with the wife of thy youth:"
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "A loving doe, a graceful deer- may her breasts satisfy you always, may you ever be captivated by her love.",
+              "KJV": "Let her be as the loving hind and pleasant roe; let her breasts satisfy thee at all times; and be thou ravished always with her love.",
+              "NKJV": "As a loving deer and a graceful doe,\nLet her breasts satisfy you at all times;\nAnd always be enraptured with her love.",
+              "DRB": "Let her be thy dearest hind, and most agreeable fawn: let her breasts inebriate thee at all times; he thou delighted continually with her love."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "Why be captivated, my son, by an adulteress? Why embrace the bosom of another man's wife?",
+              "KJV": "And why wilt thou, my son, be ravished with a strange woman, and embrace the bosom of a stranger?",
+              "NKJV": "For why should you, my son, be enraptured by an immoral woman,\nAnd be embraced in the arms of a seductress?",
+              "DRB": "Why art thou seduced, my son, by a strange woman, and art cherished in the bosom of another ?"
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "For a man's ways are in full view of the LORD, and he examines all his paths.",
+              "KJV": "For the ways of man are before the eyes of the Lord, and he pondereth all his goings.",
+              "NKJV": "For the ways of man are before the eyes of the Lord,\nAnd He ponders all his paths.",
+              "DRB": "The Lord beholdeth the ways of man, and considereth all his steps."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "The evil deeds of a wicked man ensnare him; the cords of his sin hold him fast.",
+              "KJV": "His own iniquities shall take the wicked himself, and he shall be holden with the cords of his sins.",
+              "NKJV": "His own iniquities entrap the wicked man,\nAnd he is caught in the cords of his sin.",
+              "DRB": "His own iniquities catch the wicked, and he is fast bound with the ropes of his own sins."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "He will die for lack of discipline, led astray by his own great folly.",
+              "KJV": "He shall die without instruction; and in the greatness of his folly he shall go astray.",
+              "NKJV": "He shall die for lack of instruction,\nAnd in the greatness of his folly he shall go astray.",
+              "DRB": "He shall die, because he hath not received instruction, and in the multitude of his folly he shall be deceived."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

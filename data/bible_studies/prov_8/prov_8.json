@@ -1,0 +1,394 @@
+{
+  "scripture": {
+    "header": {
+      "id": "",
+      "title": "Proverbs 8",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_8_1_11",
+        "title": "Wisdom Takes Her Stand",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 8,
+          "start": 1,
+          "end": 11
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Does not wisdom call out? Does not understanding raise her voice?",
+              "KJV": "Doth not wisdom cry? and understanding put forth her voice?",
+              "NKJV": "Does not wisdom cry out,\nAnd understanding lift up her voice?",
+              "DRB": "Doth not wisdom cry aloud, and prudence put forth her voice ?"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "On the heights along the way, where the paths meet, she takes her stand;",
+              "KJV": "She standeth in the top of high places, by the way in the places of the paths.",
+              "NKJV": "She takes her stand on the top of the high hill,\nBeside the way, where the paths meet.",
+              "DRB": "Standing in the top of the highest places by the way, in the midst of the paths."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "beside the gates leading into the city, at the entrances, she cries aloud:",
+              "KJV": "She crieth at the gates, at the entry of the city, at the coming in at the doors.",
+              "NKJV": "She cries out by the gates, at the entry of the city,\nAt the entrance of the doors:",
+              "DRB": "Beside the gates of the city, in the very doors she speaketh, saying:"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "\"To you, O men, I call out; I raise my voice to all mankind.",
+              "KJV": "Unto you, O men, I call; and my voice is to the sons of man.",
+              "NKJV": "\u201cTo you, O men, I call,\nAnd my voice is to the sons of men.",
+              "DRB": "O ye men, to you I call, and my voice is to the sons of men."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "You who are simple, gain prudence; you who are foolish, gain understanding.",
+              "KJV": "O ye simple, understand wisdom: and, ye fools, be ye of an understanding heart.",
+              "NKJV": "O you simple ones, understand prudence,\nAnd you fools, be of an understanding heart.",
+              "DRB": "O little ones, understand subtilty, and ye unwise, take notice."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Listen, for I have worthy things to say; I open my lips to speak what is right.",
+              "KJV": "Hear; for I will speak of excellent things; and the opening of my lips shall be right things.",
+              "NKJV": "Listen, for I will speak of excellent things,\nAnd from the opening of my lips will come right things;",
+              "DRB": "Hear, for I will speak of great things: and my lips shall be opened to preach right things."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "My mouth speaks what is true, for my lips detest wickedness.",
+              "KJV": "For my mouth shall speak truth; and wickedness is an abomination to my lips.",
+              "NKJV": "For my mouth will speak truth;\nWickedness is an abomination to my lips.",
+              "DRB": "My mouth shall meditate truth, and my lips shall hate wickedness."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "All the words of my mouth are just; none of them is crooked or perverse.",
+              "KJV": "All the words of my mouth are in righteousness; there is nothing froward or perverse in them.",
+              "NKJV": "All the words of my mouth are with righteousness;\nNothing crooked or perverse is in them.",
+              "DRB": "All my words are just, there is nothing wicked nor perverse in them."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "To the discerning all of them are right; they are faultless to those who have knowledge.",
+              "KJV": "They are all plain to him that understandeth, and right to them that find knowledge.",
+              "NKJV": "They are all plain to him who understands,\nAnd right to those who find knowledge.",
+              "DRB": "They are right to them that understand, and just to them that find knowledge."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Choose my instruction instead of silver, knowledge rather than choice gold,",
+              "KJV": "Receive my instruction, and not silver; and knowledge rather than choice gold.",
+              "NKJV": "Receive my instruction, and not silver,\nAnd knowledge rather than choice gold;",
+              "DRB": "Receive my instruction, and not money: choose knowledge rather than gold."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "for wisdom is more precious than rubies, and nothing you desire can compare with her.",
+              "KJV": "For wisdom is better than rubies; and all the things that may be desired are not to be compared to it.",
+              "NKJV": "For wisdom is better than rubies,\nAnd all the things one may desire cannot be compared with her.",
+              "DRB": "11For wisdom is better than all the most precious things: and whatsoever may be desired cannot be compared to"
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_8_12_21",
+        "title": "Wisdom Dwells With Prudence",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 8,
+          "start": 12,
+          "end": 21
+        },
+        "rows": [
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "\"I, wisdom, dwell together with prudence; I possess knowledge and discretion.",
+              "KJV": "I wisdom dwell with prudence, and find out knowledge of witty inventions.",
+              "NKJV": "\u201cI, wisdom, dwell with prudence,\nAnd find out knowledge and discretion.",
+              "DRB": "I wisdom dwell in counsel, and am present in learned thoughts."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "To fear the LORD is to hate evil; I hate pride and arrogance, evil behavior and perverse speech.",
+              "KJV": "The fear of the Lord is to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate.",
+              "NKJV": "The fear of the Lord is to hate evil;\nPride and arrogance and the evil way\nAnd the perverse mouth I hate.",
+              "DRB": "The fear of the Lord hateth evil: I hate arrogance, and pride, and every wicked way, and a mouth with a double tongue."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "Counsel and sound judgment are mine; I have understanding and power.",
+              "KJV": "Counsel is mine, and sound wisdom: I am understanding; I have strength.",
+              "NKJV": "Counsel is mine, and sound wisdom;\nI am understanding, I have strength.",
+              "DRB": "Counsel and equity is mine, prudence is mine, strength is mine."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "By me kings reign and rulers make laws that are just;",
+              "KJV": "By me kings reign, and princes decree justice.",
+              "NKJV": "By me kings reign,\nAnd rulers decree justice.",
+              "DRB": "By me kings reign, and lawgivers decree just things,"
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "by me princes govern, and all nobles who rule on earth.",
+              "KJV": "By me princes rule, and nobles, even all the judges of the earth.",
+              "NKJV": "By me princes rule, and nobles,\nAll the judges of the earth.",
+              "DRB": "By me princes rule, and the mighty decree justice."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "I love those who love me, and those who seek me find me.",
+              "KJV": "I love them that love me; and those that seek me early shall find me.",
+              "NKJV": "I love those who love me,\nAnd those who seek me diligently will find me.",
+              "DRB": "I love them that love me: and they that in the morning early watch for me, shall find me."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "With me are riches and honor, enduring wealth and prosperity.",
+              "KJV": "Riches and honour are with me; yea, durable riches and righteousness.",
+              "NKJV": "Riches and honor are with me,\nEnduring riches and righteousness.",
+              "DRB": "With me are riches and glory, glorious riches and justice."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "My fruit is better than fine gold; what I yield surpasses choice silver.",
+              "KJV": "My fruit is better than gold, yea, than fine gold; and my revenue than choice silver.",
+              "NKJV": "My fruit is better than gold, yes, than fine gold,\nAnd my revenue than choice silver.",
+              "DRB": "For my fruit is better than gold and the precious stone, and my blossoms than choice silver."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "I walk in the way of righteousness, along the paths of justice,",
+              "KJV": "I lead in the way of righteousness, in the midst of the paths of judgment:",
+              "NKJV": "I traverse the way of righteousness,\nIn the midst of the paths of justice,",
+              "DRB": "I walk in the way of justice, in the midst of the paths of judgment,"
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "bestowing wealth on those who love me and making their treasuries full.",
+              "KJV": "That I may cause those that love me to inherit substance; and I will fill their treasures.",
+              "NKJV": "That I may cause those who love me to inherit wealth,\nThat I may fill their treasuries.",
+              "DRB": "That I may enrich them that love me, and may fill their treasures."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_8_22_31",
+        "title": "She was from the Beginning",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 8,
+          "start": 22,
+          "end": 31
+        },
+        "rows": [
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "\"The LORD brought me forth as the first of his works,, before his deeds of old;",
+              "KJV": "The Lord possessed me in the beginning of his way, before his works of old.",
+              "NKJV": "\u201cThe Lord possessed me at the beginning of His way,\nBefore His works of old.",
+              "DRB": "The Lord possessed me in the beginning of his ways, before he made any thing from the beginning."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "I was appointed from eternity, from the beginning, before the world began.",
+              "KJV": "I was set up from everlasting, from the beginning, or ever the earth was.",
+              "NKJV": "I have been established from everlasting,\nFrom the beginning, before there was ever an earth.",
+              "DRB": "I was set up from eternity, and of old before the earth was made."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "When there were no oceans, I was given birth, when there were no springs abounding with water;",
+              "KJV": "When there were no depths, I was brought forth; when there were no fountains abounding with water.",
+              "NKJV": "When there were no depths I was brought forth,\nWhen there were no fountains abounding with water.",
+              "DRB": "The depths were not as yet, and I was already conceived. neither had the fountains of waters as yet sprung out:"
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "before the mountains were settled in place, before the hills, I was given birth,",
+              "KJV": "Before the mountains were settled, before the hills was I brought forth:",
+              "NKJV": "Before the mountains were settled,\nBefore the hills, I was brought forth;",
+              "DRB": "The mountains with their huge bulk had not as yet been established: before the hills I was brought forth:"
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "before he made the earth or its fields or any of the dust of the world.",
+              "KJV": "While as yet he had not made the earth, nor the fields, nor the highest part of the dust of the world.",
+              "NKJV": "While as yet He had not made the earth or the fields,\nOr the primal dust of the world.",
+              "DRB": "He had not yet made the earth, nor the rivers, nor the poles of the world."
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "I was there when he set the heavens in place, when he marked out the horizon on the face of the deep,",
+              "KJV": "When he prepared the heavens, I was there: when he set a compass upon the face of the depth:",
+              "NKJV": "When He prepared the heavens, I was there,\nWhen He drew a circle on the face of the deep,",
+              "DRB": "When he prepared the heavens, I was present: when with a certain law and compass he enclosed the depths:"
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "when he established the clouds above and fixed securely the fountains of the deep,",
+              "KJV": "When he established the clouds above: when he strengthened the fountains of the deep:",
+              "NKJV": "When He established the clouds above,\nWhen He strengthened the fountains of the deep,",
+              "DRB": "When he established the sky above, and poised the fountains of waters:"
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "when he gave the sea its boundary so the waters would not overstep his command, and when he marked out the foundations of the earth.",
+              "KJV": "When he gave to the sea his decree, that the waters should not pass his commandment: when he appointed the foundations of the earth:",
+              "NKJV": "When He assigned to the sea its limit,\nSo that the waters would not transgress His command,\nWhen He marked out the foundations of the earth,",
+              "DRB": "When he compassed the sea with its bounds, and set a law to the waters that they should not pass their limits: when be balanced the foundations of the earth;"
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "Then I was the craftsman at his side. I was filled with delight day after day, rejoicing always in his presence,",
+              "KJV": "Then I was by him, as one brought up with him: and I was daily his delight, rejoicing always before him;",
+              "NKJV": "Then I was beside Him as a master craftsman;\nAnd I was daily His delight,\nRejoicing always before Him,",
+              "DRB": "I was with him forming all things: and was delighted every day, playing before him at all times;"
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "rejoicing in his whole world and delighting in mankind.",
+              "KJV": "Rejoicing in the habitable part of his earth; and my delights were with the sons of men.",
+              "NKJV": "Rejoicing in His inhabited world,\nAnd my delight was with the sons of men.",
+              "DRB": "Playing in the world: and my delights were to be with the children of men."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_8_32_36",
+        "title": "Blessed is He Who Listens to Wisdom",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 8,
+          "start": 32,
+          "end": 36
+        },
+        "rows": [
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "\"Now then, my sons, listen to me; blessed are those who keep my ways.",
+              "KJV": "Now therefore hearken unto me, O ye children: for blessed are they that keep my ways.",
+              "NKJV": "\u201cNow therefore, listen to me, my children,\nFor blessed are those who keep my ways.",
+              "DRB": "Now therefore, ye children, hear me: Blessed are they that keep my ways."
+            }
+          },
+          {
+            "verse": 33,
+            "texts": {
+              "NIV84": "Listen to my instruction and be wise; do not ignore it.",
+              "KJV": "Hear instruction, and be wise, and refuse it not.",
+              "NKJV": "Hear instruction and be wise,\nAnd do not disdain it.",
+              "DRB": "Hear instruction and be wise, and refuse it not."
+            }
+          },
+          {
+            "verse": 34,
+            "texts": {
+              "NIV84": "Blessed is the man who listens to me, watching daily at my doors, waiting at my doorway.",
+              "KJV": "Blessed is the man that heareth me, watching daily at my gates, waiting at the posts of my doors.",
+              "NKJV": "Blessed is the man who listens to me,\nWatching daily at my gates,\nWaiting at the posts of my doors.",
+              "DRB": "Blessed is the man that heareth me, and that watcheth daily at my gates, and waiteth at the posts of my doors."
+            }
+          },
+          {
+            "verse": 35,
+            "texts": {
+              "NIV84": "For whoever finds me finds life and receives favor from the LORD.",
+              "KJV": "For whoso findeth me findeth life, and shall obtain favour of the Lord.",
+              "NKJV": "For whoever finds me finds life,\nAnd obtains favor from the Lord;",
+              "DRB": "He that shall find me, shall find life, and shall have salvation from the Lord:"
+            }
+          },
+          {
+            "verse": 36,
+            "texts": {
+              "NIV84": "But whoever fails to find me harms himself; all who hate me love death.\"",
+              "KJV": "But he that sinneth against me wrongeth his own soul: all they that hate me love death.",
+              "NKJV": "But he who sins against me wrongs his own soul;\nAll those who hate me love death.\u201d",
+              "DRB": "But he that shall sin against me, shall hurt his own soul. All that hate me love death."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

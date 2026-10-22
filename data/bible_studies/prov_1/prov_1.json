@@ -1,0 +1,367 @@
+{
+  "scripture": {
+    "header": {
+      "id": "",
+      "title": "Proverbs 1",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_1_1_7",
+        "title": "The Beginning of Knowledge",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 1,
+          "start": 1,
+          "end": 7
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "The proverbs of Solomon son of David, king of Israel:",
+              "KJV": "The proverbs of Solomon the son of David, king of Israel;",
+              "NKJV": "The proverbs of Solomon the son of David, king of Israel:",
+              "DRB": "The parables of Solomon, the son of David, king of Israel."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "for attaining wisdom and discipline; for understanding words of insight;",
+              "KJV": "To know wisdom and instruction; to perceive the words of understanding;",
+              "NKJV": "To know wisdom and instruction,\nTo perceive the words of understanding,",
+              "DRB": "To know wisdom, and instruction: To understand the words of prudence:"
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "for acquiring a disciplined and prudent life, doing what is right and just and fair;",
+              "KJV": "To receive the instruction of wisdom, justice, and judgment, and equity;",
+              "NKJV": "To receive the instruction of wisdom,\nJustice, judgment, and equity;",
+              "DRB": "and to receive the instruction of doctrine, justice, and judgment, and equity:"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "for giving prudence to the simple, knowledge and discretion to the young-",
+              "KJV": "To give subtilty to the simple, to the young man knowledge and discretion.",
+              "NKJV": "To give prudence to the simple,\nTo the young man knowledge and discretion\u2014",
+              "DRB": "To give subtilty to little ones, to the young man knowledge and understanding."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "let the wise listen and add to their learning, and let the discerning get guidance-",
+              "KJV": "A wise man will hear, and will increase learning; and a man of understanding shall attain unto wise counsels:",
+              "NKJV": "A wise man will hear and increase learning,\nAnd a man of understanding will attain wise counsel,",
+              "DRB": "A wise man shall hear and shall be wiser: and he that understandeth, shall possess governments."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "for understanding proverbs and parables, the sayings and riddles of the wise.",
+              "KJV": "To understand a proverb, and the interpretation; the words of the wise, and their dark sayings.",
+              "NKJV": "To understand a proverb and an enigma,\nThe words of the wise and their riddles.",
+              "DRB": "He shall understand a parable, and the interpretation, the words of the wise, and their mysterious sayings."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "The fear of the Lord is the beginning of knowledge, but fools despise wisdom and discipline.",
+              "KJV": "The fear of the Lord is the beginning of knowledge: but fools despise wisdom and instruction.",
+              "NKJV": "The fear of the Lord is the beginning of knowledge,\nBut fools despise wisdom and instruction.",
+              "DRB": "The fear of the Lord is the beginning of wisdom. Fools despise wisdom and instruction."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_1_8_19",
+        "title": "Shun Evil Counsel",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 1,
+          "start": 8,
+          "end": 19
+        },
+        "rows": [
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Listen, my son, to your father's instruction and do not forsake your mother's teaching.",
+              "KJV": "My son, hear the instruction of thy father, and forsake not the law of thy mother:",
+              "NKJV": "My son, hear the instruction of your father,\nAnd do not forsake the law of your mother;",
+              "DRB": "My son, hear the instruction of thy father, and forsake not the law of thy mother :"
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "They will be a garland to grace your head and a chain to adorn your neck.",
+              "KJV": "For they shall be an ornament of grace unto thy head, and chains about thy neck.",
+              "NKJV": "For they will be a graceful ornament on your head,\nAnd chains about your neck.",
+              "DRB": "That grace may be added to thy head, and a chain of gold to thy neck."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "My son, if sinners entice you, do not give in to them.",
+              "KJV": "My son, if sinners entice thee, consent thou not.",
+              "NKJV": "My son, if sinners entice you,\nDo not consent.",
+              "DRB": "My son, if sinners shall entice thee, consent not to them."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "If they say, \"Come along with us; let's lie in wait for someone's blood, let's waylay some harmless soul;",
+              "KJV": "If they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause:",
+              "NKJV": "If they say, \u201cCome with us,\nLet us lie in wait to shed blood;\nLet us lurk secretly for the innocent without cause;",
+              "DRB": "If they shall say: Come with us, let us lie in wait for blood, let us hide snares for the innocent without cause:"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "let's swallow them alive, like the grave, and whole, like those who go down to the pit;",
+              "KJV": "Let us swallow them up alive as the grave; and whole, as those that go down into the pit:",
+              "NKJV": "Let us swallow them alive like Sheol,\nAnd whole, like those who go down to the Pit;",
+              "DRB": "Let us swallow him up alive like hell, and whole as one that goeth down into the pit."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "we will get all sorts of valuable things and fill our houses with plunder;",
+              "KJV": "We shall find all precious substance, we shall fill our houses with spoil:",
+              "NKJV": "We shall find all kinds of precious possessions,\nWe shall fill our houses with spoil;",
+              "DRB": "We shall find all precious substance, we shall fill our houses with spoils."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "throw in your lot with us, and we will share a common purse\"-",
+              "KJV": "Cast in thy lot among us; let us all have one purse:",
+              "NKJV": "Cast in your lot among us,\nLet us all have one purse\u201d\u2014",
+              "DRB": "Cast in thy lot with us, let us all have one purse."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "my son, do not go along with them, do not set foot on their paths;",
+              "KJV": "My son, walk not thou in the way with them; refrain thy foot from their path:",
+              "NKJV": "My son, do not walk in the way with them,\nKeep your foot from their path;",
+              "DRB": "My son, walk not thou with them, restrain thy foot from their paths."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "for their feet rush into sin, they are swift to shed blood.",
+              "KJV": "For their feet run to evil, and make haste to shed blood.",
+              "NKJV": "For their feet run to evil,\nAnd they make haste to shed blood.",
+              "DRB": "For their feet run to evil, and make haste to shed blood."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "How useless to spread a net in full view of all the birds!",
+              "KJV": "Surely in vain the net is spread in the sight of any bird.",
+              "NKJV": "Surely, in vain the net is spread\nIn the sight of any bird;",
+              "DRB": "But a net is spread in vain before the eyes of them that have wings."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "These men lie in wait for their own blood; they waylay only themselves!",
+              "KJV": "And they lay wait for their own blood; they lurk privily for their own lives.",
+              "NKJV": "But they lie in wait for their own blood,\nThey lurk secretly for their own lives.",
+              "DRB": "And they themselves lie in wait for their own blood, and practise deceits against their own souls."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "Such is the end of all who go after ill-gotten gain; it takes away the lives of those who get it.",
+              "KJV": "So are the ways of every one that is greedy of gain; which taketh away the life of the owners thereof.",
+              "NKJV": "So are the ways of everyone who is greedy for gain;\nIt takes away the life of its owners.",
+              "DRB": "So the wage of every covetous man destroy the souls of the possessors."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_1_20_27",
+        "title": "Wisdom Speaks Her Words",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 1,
+          "start": 20,
+          "end": 27
+        },
+        "rows": [
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "Wisdom calls aloud in the street, she raises her voice in the public squares;",
+              "KJV": "Wisdom crieth without; she uttereth her voice in the streets:",
+              "NKJV": "Wisdom calls aloud outside;\nShe raises her voice in the open squares.",
+              "DRB": "Wisdom preacheth abroad, she uttereth her voice in the streets:"
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "at the head of the noisy streets she cries out, in the gateways of the city she makes her speech:",
+              "KJV": "She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, saying,",
+              "NKJV": "She cries out in the chief concourses,\nAt the openings of the gates in the city\nShe speaks her words:",
+              "DRB": "At the head of multitudes she crieth out, in the entrance of the gates of the city she uttereth her words, saying:"
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "\"How long will you simple ones love your simple ways? How long will mockers delight in mockery and fools hate knowledge?",
+              "KJV": "How long, ye simple ones, will ye love simplicity? and the scorners delight in their scorning, and fools hate knowledge?",
+              "NKJV": "\u201cHow long, you simple ones, will you love simplicity?\nFor scorners delight in their scorning,\nAnd fools hate knowledge.",
+              "DRB": "O children, how long will you love childishness, and fools covet those things which are hurtful to themselves, and the unwise hate knowledge?"
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "If you had responded to my rebuke, I would have poured out my heart to you and made my thoughts known to you.",
+              "KJV": "Turn you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you.",
+              "NKJV": "Turn at my rebuke;\nSurely I will pour out my spirit on you;\nI will make my words known to you.",
+              "DRB": "Turn ye at my reproof: behold I will utter my spirit to you, and will shew you my words."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "But since you rejected me when I called and no one gave heed when I stretched out my hand,",
+              "KJV": "Because I have called, and ye refused; I have stretched out my hand, and no man regarded;",
+              "NKJV": "Because I have called and you refused,\nI have stretched out my hand and no one regarded,",
+              "DRB": "Because I called, and you refused: I stretched out my hand, and there was none that regarded."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "since you ignored all my advice and would not accept my rebuke,",
+              "KJV": "But ye have set at nought all my counsel, and would none of my reproof:",
+              "NKJV": "Because you disdained all my counsel,\nAnd would have none of my rebuke,",
+              "DRB": "You have despised all my counsel, and have neglected my reprehensions."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "I in turn will laugh at your disaster; I will mock when calamity overtakes you-",
+              "KJV": "I also will laugh at your calamity; I will mock when your fear cometh;",
+              "NKJV": "I also will laugh at your calamity;\nI will mock when your terror comes,",
+              "DRB": "I also will laugh in your destruction, and will mock when that shall come to you which you feared."
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "when calamity overtakes you like a storm, when disaster sweeps over you like a whirlwind, when distress and trouble overwhelm you.",
+              "KJV": "When your fear cometh as desolation, and your destruction cometh as a whirlwind; when distress and anguish cometh upon you.",
+              "NKJV": "When your terror comes like a storm,\nAnd your destruction comes like a whirlwind,\nWhen distress and anguish come upon you.",
+              "DRB": "When sudden calamity shall fall on you, and destruction, as a tempest, shall be at hand: when tribulation and distress shall come upon you:"
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_1_28_33",
+        "title": "Listen to Wisdom",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 1,
+          "start": 28,
+          "end": 33
+        },
+        "rows": [
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "\"Then they will call to me but I will not answer; they will look for me but will not find me.",
+              "KJV": "Then shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me:",
+              "NKJV": "\u201cThen they will call on me, but I will not answer;\nThey will seek me diligently, but they will not find me.",
+              "DRB": "Then shall they call upon me, and I will not hear: they shall rise in the morning and shall not find me:"
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "Since they hated knowledge and did not choose to fear the LORD,",
+              "KJV": "For that they hated knowledge, and did not choose the fear of the Lord:",
+              "NKJV": "Because they hated knowledge\nAnd did not choose the fear of the Lord,",
+              "DRB": "Because they have hated instruction and received not the fear of the Lord,"
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "since they would not accept my advice and spurned my rebuke,",
+              "KJV": "They would none of my counsel: they despised all my reproof.",
+              "NKJV": "They would have none of my counsel\nAnd despised my every rebuke.",
+              "DRB": "Nor consented to my counsel, but despised all my reproof."
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "they will eat the fruit of their ways and be filled with the fruit of their schemes.",
+              "KJV": "Therefore shall they eat of the fruit of their own way, and be filled with their own devices.",
+              "NKJV": "Therefore they shall eat the fruit of their own way,\nAnd be filled to the full with their own fancies.",
+              "DRB": "Therefore they shall eat the fruit of their own way, and shall be filled with their own devices."
+            }
+          },
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "For the waywardness of the simple will kill them, and the complacency of fools will destroy them;",
+              "KJV": "For the turning away of the simple shall slay them, and the prosperity of fools shall destroy them.",
+              "NKJV": "For the turning away of the simple will slay them,\nAnd the complacency of fools will destroy them;",
+              "DRB": "The turning away of little ones shall kill them, and the prosperity of fools shall destroy them."
+            }
+          },
+          {
+            "verse": 33,
+            "texts": {
+              "NIV84": "but whoever listens to me will live in safety and be at ease, without fear of harm.\"",
+              "KJV": "But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil.",
+              "NKJV": "But whoever listens to me will dwell safely,\nAnd will be secure, without fear of evil.\u201d",
+              "DRB": "But he that shall hear me, shall rest without terror, and shall enjoy abundance, without fear of evils."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

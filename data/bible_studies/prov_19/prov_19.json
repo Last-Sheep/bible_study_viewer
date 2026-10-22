@@ -1,0 +1,344 @@
+{
+  "scripture": {
+    "header": {
+      "id": "prov_19",
+      "title": "Proverbs 19",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_19_1_5",
+        "title": "Better is the Poor Who Walks in Integrity",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 19,
+          "start": 1,
+          "end": 5
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Better a poor man whose walk is blameless than a fool whose lips are perverse.",
+              "KJV": "Better is the poor that walketh in his integrity, than he that is perverse in his lips, and is a fool.",
+              "NKJV": "Better is the poor who walks in his integrity\nThan one who is perverse in his lips, and is a fool.",
+              "DRB": "Better is the poor man, that walketh in his simplicity, than a rich man that is perverse in his lips, and unwise."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "It is not good to have zeal without knowledge, nor to be hasty and miss the way.",
+              "KJV": "Also, that the soul be without knowledge, it is not good; and he that hasteth with his feet sinneth.",
+              "NKJV": "Also it is not good for a soul to be without knowledge,\nAnd he sins who hastens with his feet.",
+              "DRB": "Where there is no knowledge of the soul, there is no good: and he that is hasty with his feet shall stumble."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "A man's own folly ruins his life, yet his heart rages against the LORD.",
+              "KJV": "The foolishness of man perverteth his way: and his heart fretteth against the Lord.",
+              "NKJV": "The foolishness of a man twists his way,\nAnd his heart frets against the Lord.",
+              "DRB": "The folly of a man supplanteth his seeps: and he fretteth in his mind against God."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Wealth brings many friends, but a poor man's friend deserts him.",
+              "KJV": "Wealth maketh many friends; but the poor is separated from his neighbour.",
+              "NKJV": "Wealth makes many friends,\nBut the poor is separated from his friend.",
+              "DRB": "Riches make many friends: but from the poor man, even they whom he had, depart."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "A false witness will not go unpunished, and he who pours out lies will not go free.",
+              "KJV": "A false witness shall not be unpunished, and he that speaketh lies shall not escape.",
+              "NKJV": "A false witness will not go unpunished,\nAnd he who speaks lies will not escape.",
+              "DRB": "A false witness shall not be unpunished: and he that speaketh lies shall not escape."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_19_6_12",
+        "title": "Descretion Makes a Man Slow to Anger",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 19,
+          "start": 6,
+          "end": 12
+        },
+        "rows": [
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Many curry favor with a ruler, and everyone is the friend of a man who gives gifts.",
+              "KJV": "Many will intreat the favour of the prince: and every man is a friend to him that giveth gifts.",
+              "NKJV": "Many entreat the favor of the nobility,\nAnd every man is a friend to one who gives gifts.",
+              "DRB": "Many honour the person of him that is mighty, and are friends of him that giveth gifts."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "A poor man is shunned by all his relatives- how much more do his friends avoid him! Though he pursues them with pleading, they are nowhere to be found.",
+              "KJV": "All the brethren of the poor do hate him: how much more do his friends go far from him? he pursueth them with words, yet they are wanting to him.",
+              "NKJV": "All the brothers of the poor hate him;\nHow much more do his friends go far from him!\nHe may pursue them with words, yet they abandon him.",
+              "DRB": "The brethren of the poor man hate him: moreover also his friends have departed far from him. He that followeth after words only, shall have nothing."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "He who gets wisdom loves his own soul; he who cherishes understanding prospers.",
+              "KJV": "He that getteth wisdom loveth his own soul: he that keepeth understanding shall find good.",
+              "NKJV": "He who gets wisdom loves his own soul;\nHe who keeps understanding will find good.",
+              "DRB": "But he that possesseth a mind, loveth his own soul, and he that keepeth prudence shall find good things."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "A false witness will not go unpunished, and he who pours out lies will perish.",
+              "KJV": "A false witness shall not be unpunished, and he that speaketh lies shall perish.",
+              "NKJV": "A false witness will not go unpunished,\nAnd he who speaks lies shall perish.",
+              "DRB": "A false witness shall not be unpunished: and he that speaketh lies, shall perish."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "It is not fitting for a fool to live in luxury- how much worse for a slave to rule over princes!",
+              "KJV": "Delight is not seemly for a fool; much less for a servant to have rule over princes.",
+              "NKJV": "Luxury is not fitting for a fool,\nMuch less for a servant to rule over princes.",
+              "DRB": "Delicacies are not seemly for a fool: nor for a servant to have rule over princes."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "A man's wisdom gives him patience; it is to his glory to overlook an offense.",
+              "KJV": "The discretion of a man deferreth his anger; and it is his glory to pass over a transgression.",
+              "NKJV": "The discretion of a man makes him slow to anger,\nAnd his glory is to overlook a transgression.",
+              "DRB": "The learning of a man is known by patience and his glory is to pass over wrongs."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "A king's rage is like the roar of a lion, but his favor is like dew on the grass.",
+              "KJV": "The king's wrath is as the roaring of a lion; but his favour is as dew upon the grass.",
+              "NKJV": "The king\u2019s wrath is like the roaring of a lion,\nBut his favor is like dew on the grass.",
+              "DRB": "As the roaring of a lion, so also is the anger of a king: and his cheerfulness as the dew upon the grass."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_19_13_19",
+        "title": "A Man of Great Wrath",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 19,
+          "start": 13,
+          "end": 19
+        },
+        "rows": [
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "A foolish son is his father's ruin, and a quarrelsome wife is like a constant dripping.",
+              "KJV": "A foolish son is the calamity of his father: and the contentions of a wife are a continual dropping.",
+              "NKJV": "A foolish son is the ruin of his father,\nAnd the contentions of a wife are a continual dripping.",
+              "DRB": "A foolish son is the grief of his father: and a wrangling wife is like a roof continually dropping through."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "Houses and wealth are inherited from parents, but a prudent wife is from the LORD.",
+              "KJV": "House and riches are the inheritance of fathers: and a prudent wife is from the Lord.",
+              "NKJV": "Houses and riches are an inheritance from fathers,\nBut a prudent wife is from the Lord.",
+              "DRB": "House and riches are given by parents: but a prudent wife is properly from the Lord."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Laziness brings on deep sleep, and the shiftless man goes hungry.",
+              "KJV": "Slothfulness casteth into a deep sleep; and an idle soul shall suffer hunger.",
+              "NKJV": "Laziness casts one into a deep sleep,\nAnd an idle person will suffer hunger.",
+              "DRB": "Slothfulness casteth into a deep sleep, and an idle soul shall suffer hunger."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "He who obeys instructions guards his life, but he who is contemptuous of his ways will die.",
+              "KJV": "He that keepeth the commandment keepeth his own soul; but he that despiseth his ways shall die.",
+              "NKJV": "He who keeps the commandment keeps his soul,\nBut he who is careless of his ways will die.",
+              "DRB": "He that keepeth the commandment, keepeth his own soul: but he that neglecteth his own way, shall die."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "He who is kind to the poor lends to the LORD, and he will reward him for what he has done.",
+              "KJV": "He that hath pity upon the poor lendeth unto the Lord; and that which he hath given will he pay him again.",
+              "NKJV": "He who has pity on the poor lends to the Lord,\nAnd He will pay back what he has given.",
+              "DRB": "He that hath mercy on the poor, lendeth to the Lord: and he will repay him."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "Discipline your son, for in that there is hope; do not be a willing party to his death.",
+              "KJV": "Chasten thy son while there is hope, and let not thy soul spare for his crying.",
+              "NKJV": "Chasten your son while there is hope,\nAnd do not set your heart on his destruction.",
+              "DRB": "Chastise thy son, despair not: but to the killing of him set not thy soul."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "A hot-tempered man must pay the penalty; if you rescue him, you will have to do it again.",
+              "KJV": "A man of great wrath shall suffer punishment: for if thou deliver him, yet thou must do it again.",
+              "NKJV": "A man of great wrath will suffer punishment;\nFor if you rescue him, you will have to do it again.",
+              "DRB": "He that is impatient, shall suffer damage: and when he shall take away he shall add another thing."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_19_20_24",
+        "title": "Many Plans in a Man's Heart",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 19,
+          "start": 20,
+          "end": 24
+        },
+        "rows": [
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "Listen to advice and accept instruction, and in the end you will be wise.",
+              "KJV": "Hear counsel, and receive instruction, that thou mayest be wise in thy latter end.",
+              "NKJV": "Listen to counsel and receive instruction,\nThat you may be wise in your latter days.",
+              "DRB": "Hear counsel, and receive instruction, that thou mayst be wise in thy latter end."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "Many are the plans in a man's heart, but it is the LORD's purpose that prevails.",
+              "KJV": "There are many devices in a man's heart; nevertheless the counsel of the Lord, that shall stand.",
+              "NKJV": "There are many plans in a man\u2019s heart,\nNevertheless the Lord\u2019s counsel\u2014that will stand.",
+              "DRB": "There are many thoughts in the heart of a man: but the will of the Lord shall stand firm."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "What a man desires is unfailing love; better to be poor than a liar.",
+              "KJV": "The desire of a man is his kindness: and a poor man is better than a liar.",
+              "NKJV": "What is desired in a man is kindness,\nAnd a poor man is better than a liar.",
+              "DRB": "A needy man is merciful: and better is the poor than the lying man."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "The fear of the LORD leads to life: Then one rests content, untouched by trouble.",
+              "KJV": "The fear of the Lord tendeth to life: and he that hath it shall abide satisfied; he shall not be visited with evil.",
+              "NKJV": "The fear of the Lord leads to life,\nAnd he who has it will abide in satisfaction;\nHe will not be visited with evil.",
+              "DRB": "The fear of the Lord is unto life: and he shall abide in fulness without being visited with evil."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "The sluggard buries his hand in the dish; he will not even bring it back to his mouth!",
+              "KJV": "A slothful man hideth his hand in his bosom, and will not so much as bring it to his mouth again.",
+              "NKJV": "A lazy man buries his hand in the bowl,\nAnd will not so much as bring it to his mouth again.",
+              "DRB": "The slothful hideth his hand under his armpit, and will not so much as bring it to his mouth."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_19_25_29",
+        "title": "Judgments are Prepared for Scoffers",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 19,
+          "start": 25,
+          "end": 29
+        },
+        "rows": [
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "Flog a mocker, and the simple will learn prudence; rebuke a discerning man, and he will gain knowledge.",
+              "KJV": "Smite a scorner, and the simple will beware: and reprove one that hath understanding, and he will understand knowledge.",
+              "NKJV": "Strike a scoffer, and the simple will become wary;\nRebuke one who has understanding, and he will discern knowledge.",
+              "DRB": "The wicked man being; scourged, the fool shall be wiser: but if thou rebuke a wise man he will understand discipline."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "He who robs his father and drives out his mother is a son who brings shame and disgrace.",
+              "KJV": "He that wasteth his father, and chaseth away his mother, is a son that causeth shame, and bringeth reproach.",
+              "NKJV": "He who mistreats his father and chases away his mother\nIs a son who causes shame and brings reproach.",
+              "DRB": "He that afflicteth his father, and chaseth away his mother, is infamous and unhappy."
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "Stop listening to instruction, my son, and you will stray from the words of knowledge.",
+              "KJV": "Cease, my son, to hear the instruction that causeth to err from the words of knowledge.",
+              "NKJV": "Cease listening to instruction, my son,\nAnd you will stray from the words of knowledge.",
+              "DRB": "Cease not, O my son, to hear instruction, and be not ignorant of the words of knowledge."
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "A corrupt witness mocks at justice, and the mouth of the wicked gulps down evil.",
+              "KJV": "An ungodly witness scorneth judgment: and the mouth of the wicked devoureth iniquity.",
+              "NKJV": "A disreputable witness scorns justice,\nAnd the mouth of the wicked devours iniquity.",
+              "DRB": "An unjust witness scorneth judgment: and the mouth of the wicked devoureth iniquity."
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "Penalties are prepared for mockers, and beatings for the backs of fools.",
+              "KJV": "Judgments are prepared for scorners, and stripes for the back of fools.",
+              "NKJV": "Judgments are prepared for scoffers,\nAnd beatings for the backs of fools.",
+              "DRB": "Judgments are prepared for scorners: and striking hammers for the bodies of fools."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

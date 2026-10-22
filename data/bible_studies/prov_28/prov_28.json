@@ -1,0 +1,348 @@
+{
+  "scripture": {
+    "header": {
+      "id": "prov_28",
+      "title": "Proverbs 28",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_28_1_6",
+        "title": "Walk In Integrity",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 28,
+          "start": 1,
+          "end": 6
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "The wicked man flees though no one pursues, but the righteous are as bold as a lion.",
+              "KJV": "The wicked flee when no man pursueth: but the righteous are bold as a lion.",
+              "NKJV": "The wicked flee when no one pursues,\nBut the righteous are bold as a lion.",
+              "DRB": "The wicked man fleeth, when no man pursueth: but the just, bold as a lion, shall be without dread."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "When a country is rebellious, it has many rulers, but a man of understanding and knowledge maintains order.",
+              "KJV": "For the transgression of a land many are the princes thereof: but by a man of understanding and knowledge the state thereof shall be prolonged.",
+              "NKJV": "Because of the transgression of a land, many are its princes;\nBut by a man of understanding and knowledge\nRight will be prolonged.",
+              "DRB": "For the sine of the land many are the princes thereof: and for the wisdom of a man, and the knowledge of those things that are said, the life of the prince shall be prolonged."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "A ruler who oppresses the poor is like a driving rain that leaves no crops.",
+              "KJV": "A poor man that oppresseth the poor is like a sweeping rain which leaveth no food.",
+              "NKJV": "A poor man who oppresses the poor\nIs like a driving rain which leaves no food.",
+              "DRB": "A poor man that oppresseth the poor, is like a violent shower, which bringeth a famine."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Those who forsake the law praise the wicked, but those who keep the law resist them.",
+              "KJV": "They that forsake the law praise the wicked: but such as keep the law contend with them.",
+              "NKJV": "Those who forsake the law praise the wicked,\nBut such as keep the law contend with them.",
+              "DRB": "They that forsake the law, praise the wicked man: they that keep it, are incensed against him."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "Evil men do not understand justice, but those who seek the LORD understand it fully.",
+              "KJV": "Evil men understand not judgment: but they that seek the Lord understand all things.",
+              "NKJV": "Evil men do not understand justice,\nBut those who seek the Lord understand all.",
+              "DRB": "Evil men think not on judgment: but they that seek after the Lord, take notice of all things."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Better a poor man whose walk is blameless than a rich man whose ways are perverse.",
+              "KJV": "Better is the poor that walketh in his uprightness, than he that is perverse in his ways, though he be rich.",
+              "NKJV": "Better is the poor who walks in his integrity\nThan one perverse in his ways, though he be rich.",
+              "DRB": "Better is the poor man walking in his simplicity, than the rich in crooked ways."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_28_7_10",
+        "title": "Who Turns His Ear from Hearing the Law",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 28,
+          "start": 7,
+          "end": 10
+        },
+        "rows": [
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "He who keeps the law is a discerning son, but a companion of gluttons disgraces his father.",
+              "KJV": "Whoso keepeth the law is a wise son: but he that is a companion of riotous men shameth his father.",
+              "NKJV": "Whoever keeps the law is a discerning son,\nBut a companion of gluttons shames his father.",
+              "DRB": "He that keepeth the law is a wise son: but he that feedeth gluttons, shameth his father."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "He who increases his wealth by exorbitant interest amasses it for another, who will be kind to the poor.",
+              "KJV": "He that by usury and unjust gain increaseth his substance, he shall gather it for him that will pity the poor.",
+              "NKJV": "One who increases his possessions by usury and extortion\nGathers it for him who will pity the poor.",
+              "DRB": "He that heapeth together riches by usury and loan, gathereth them for him that will be bountiful to the poor."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "If anyone turns a deaf ear to the law, even his prayers are detestable.",
+              "KJV": "He that turneth away his ear from hearing the law, even his prayer shall be abomination.",
+              "NKJV": "One who turns away his ear from hearing the law,\nEven his prayer is an abomination.",
+              "DRB": "He that turneth away his ears from hearing the law, his prayer shall be as abomination."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "He who leads the upright along an evil path will fall into his own trap, but the blameless will receive a good inheritance.",
+              "KJV": "Whoso causeth the righteous to go astray in an evil way, he shall fall himself into his own pit: but the upright shall have good things in possession.",
+              "NKJV": "Whoever causes the upright to go astray in an evil way,\nHe himself will fall into his own pit;\nBut the blameless will inherit good.",
+              "DRB": "He that deceiveth the just in a wicked way, shall fall in his own destruction: and the upright shall possess his goods."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_28_11_14",
+        "title": "A Happy Man is Always Reverent",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 28,
+          "start": 11,
+          "end": 14
+        },
+        "rows": [
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "A rich man may be wise in his own eyes, but a poor man who has discernment sees through him.",
+              "KJV": "The rich man is wise in his own conceit; but the poor that hath understanding searcheth him out.",
+              "NKJV": "The rich man is wise in his own eyes,\nBut the poor who has understanding searches him out.",
+              "DRB": "The rich man seemeth to himself wise: but the poor man that is prudent shall search him out."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "When the righteous triumph, there is great elation; but when the wicked rise to power, men go into hiding.",
+              "KJV": "When righteous men do rejoice, there is great glory: but when the wicked rise, a man is hidden.",
+              "NKJV": "When the righteous rejoice, there is great glory;\nBut when the wicked arise, men hide themselves.",
+              "DRB": "In the joy of the just there is great glory: when the wicked reign, men are ruined."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "He who conceals his sins does not prosper, but whoever confesses and renounces them finds mercy.",
+              "KJV": "He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy.",
+              "NKJV": "He who covers his sins will not prosper,\nBut whoever confesses and forsakes them will have mercy.",
+              "DRB": "He that hideth his sins, shall not prosper: but he that shall confess, and forsake them, shall obtain mercy."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "Blessed is the man who always fears the LORD, but he who hardens his heart falls into trouble.",
+              "KJV": "Happy is the man that feareth alway: but he that hardeneth his heart shall fall into mischief.",
+              "NKJV": "Happy is the man who is always reverent,\nBut he who hardens his heart will fall into calamity.",
+              "DRB": "Blessed is the man that is always fearful: but he that is hardened in mind, shall fall into evil."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_28_15_18",
+        "title": "He Who Walks Blamelessly Will Be Saved",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 28,
+          "start": 15,
+          "end": 18
+        },
+        "rows": [
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Like a roaring lion or a charging bear is a wicked man ruling over a helpless people.",
+              "KJV": "As a roaring lion, and a ranging bear; so is a wicked ruler over the poor people.",
+              "NKJV": "Like a roaring lion and a charging bear\nIs a wicked ruler over poor people.",
+              "DRB": "As a roaring lion, and a hungry bear, so is a wicked prince over the poor people."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "A tyrannical ruler lacks judgment, but he who hates ill-gotten gain will enjoy a long life.",
+              "KJV": "The prince that wanteth understanding is also a great oppressor: but he that hateth covetousness shall prolong his days.",
+              "NKJV": "A ruler who lacks understanding is a great oppressor,\nBut he who hates covetousness will prolong his days.",
+              "DRB": "A prince void of prudence shall oppress many by calumny: but he that hateth covetousness, shall prolong his days."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "A man tormented by the guilt of murder will be a fugitive till death; let no one support him.",
+              "KJV": "A man that doeth violence to the blood of any person shall flee to the pit; let no man stay him.",
+              "NKJV": "A man burdened with bloodshed will flee into a pit;\nLet no one help him.",
+              "DRB": "A man that doth violence to the blood of a person, if he flee even to the pit, no man will stay him."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "He whose walk is blameless is kept safe, but he whose ways are perverse will suddenly fall.",
+              "KJV": "Whoso walketh uprightly shall be saved: but he that is perverse in his ways shall fall at once.",
+              "NKJV": "Whoever walks blamelessly will be saved,\nBut he who is perverse in his ways will suddenly fall.",
+              "DRB": "He that walketh uprightly, shall be saved: he that is perverse in his ways shall fall at once."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_28_19_23",
+        "title": "A Man With an Evil Eye",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 28,
+          "start": 19,
+          "end": 23
+        },
+        "rows": [
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "He who works his land will have abundant food, but the one who chases fantasies will have his fill of poverty.",
+              "KJV": "He that tilleth his land shall have plenty of bread: but he that followeth after vain persons shall have poverty enough.",
+              "NKJV": "He who tills his land will have plenty of bread,\nBut he who follows frivolity will have poverty enough!",
+              "DRB": "He that tilleth his ground, shall be filled with bread: but he that followeth idleness shall be filled with poverty."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "A faithful man will be richly blessed, but one eager to get rich will not go unpunished.",
+              "KJV": "A faithful man shall abound with blessings: but he that maketh haste to be rich shall not be innocent.",
+              "NKJV": "A faithful man will abound with blessings,\nBut he who hastens to be rich will not go unpunished.",
+              "DRB": "A faithful man shall be much praised: but he that maketh haste to be rich, shall not be innocent."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "To show partiality is not good- yet a man will do wrong for a piece of bread.",
+              "KJV": "To have respect of persons is not good: for for a piece of bread that man will transgress.",
+              "NKJV": "To show partiality is not good,\nBecause for a piece of bread a man will transgress.",
+              "DRB": "He that hath respect to a person in judgment, doth not well: such a man even for a morsel of bread forsaketh the truth."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "A stingy man is eager to get rich and is unaware that poverty awaits him.",
+              "KJV": "He that hasteth to be rich hath an evil eye, and considereth not that poverty shall come upon him.",
+              "NKJV": "A man with an evil eye hastens after riches,\nAnd does not consider that poverty will come upon him.",
+              "DRB": "A man, that maketh haste to be rich, and envieth others, is ignorant that poverty shall come upon him."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "He who rebukes a man will in the end gain more favor than he who has a flattering tongue.",
+              "KJV": "He that rebuketh a man afterwards shall find more favour than he that flattereth with the tongue.",
+              "NKJV": "He who rebukes a man will find more favor afterward\nThan he who flatters with the tongue.",
+              "DRB": "He that rebuketh a man, shall afterward find favour with him, more than he that by a flattering tongue deceiveth him."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_28_24_28",
+        "title": "Whoever Walks Wisely Will Be Delivered",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 28,
+          "start": 24,
+          "end": 28
+        },
+        "rows": [
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "He who robs his father or mother and says, \"It's not wrong\"- he is partner to him who destroys.",
+              "KJV": "Whoso robbeth his father or his mother, and saith, It is no transgression; the same is the companion of a destroyer.",
+              "NKJV": "Whoever robs his father or his mother,\nAnd says, \u201cIt is no transgression,\u201d\nThe same is companion to a destroyer.",
+              "DRB": "He that stealeth any thing from his father, or from his mother: and saith, This is no sin, is the partner of a murderer."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "A greedy man stirs up dissension, but he who trusts in the LORD will prosper.",
+              "KJV": "He that is of a proud heart stirreth up strife: but he that putteth his trust in the Lord shall be made fat.",
+              "NKJV": "He who is of a proud heart stirs up strife,\nBut he who trusts in the Lord will be prospered.",
+              "DRB": "He that boasteth, and puffeth up himself, stirreth up quarrels: but he that trusteth in the Lord, shall be healed."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "He who trusts in himself is a fool, but he who walks in wisdom is kept safe.",
+              "KJV": "He that trusteth in his own heart is a fool: but whoso walketh wisely, he shall be delivered.",
+              "NKJV": "He who trusts in his own heart is a fool,\nBut whoever walks wisely will be delivered.",
+              "DRB": "He that trusteth in his own heart, is a fool: but he that walketh wisely, he shall be saved."
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "He who gives to the poor will lack nothing, but he who closes his eyes to them receives many curses.",
+              "KJV": "He that giveth unto the poor shall not lack: but he that hideth his eyes shall have many a curse.",
+              "NKJV": "He who gives to the poor will not lack,\nBut he who hides his eyes will have many curses.",
+              "DRB": "He that giveth to the poor, shall not want: he that despiseth his entreaty, shall suffer indigence."
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "When the wicked rise to power, people go into hiding; but when the wicked perish, the righteous thrive.",
+              "KJV": "When the wicked rise, men hide themselves: but when they perish, the righteous increase.",
+              "NKJV": "When the wicked arise, men hide themselves;\nBut when they perish, the righteous increase.",
+              "DRB": "When the wicked rise up, men shall hide themselves: when they perish, the just shall be multiplied."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

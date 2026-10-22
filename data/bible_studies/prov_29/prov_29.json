@@ -1,0 +1,326 @@
+{
+  "scripture": {
+    "header": {
+      "id": "prov_29",
+      "title": "",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_29_1_7",
+        "title": "When the Righteous are in Authority",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 29,
+          "start": 1,
+          "end": 7
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "A man who remains stiff-necked after many rebukes will suddenly be destroyed-without remedy.",
+              "KJV": "He, that being often reproved hardeneth his neck, shall suddenly be destroyed, and that without remedy.",
+              "NKJV": "He who is often rebuked, and hardens his neck,\nWill suddenly be destroyed, and that without remedy.",
+              "DRB": "The man that with a stiff neck despiseth him that reproveth him, shall suddenly be destroyed: and health shall not follow him."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "When the righteous thrive, the people rejoice; when the wicked rule, the people groan.",
+              "KJV": "When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn.",
+              "NKJV": "When the righteous are in authority, the people rejoice;\nBut when a wicked man rules, the people groan.",
+              "DRB": "When just men increase, the people shall rejoice: when the wicked shall bear rule, the people shall mourn."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "A man who loves wisdom brings joy to his father, but a companion of prostitutes squanders his wealth.",
+              "KJV": "Whoso loveth wisdom rejoiceth his father: but he that keepeth company with harlots spendeth his substance.",
+              "NKJV": "Whoever loves wisdom makes his father rejoice,\nBut a companion of harlots wastes his wealth.",
+              "DRB": "A man that loveth wisdom, rejoiceth his father: but he that maintaineth bar lots, shall squander away his substance."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "By justice a king gives a country stability, but one who is greedy for bribes tears it down.",
+              "KJV": "The king by judgment establisheth the land: but he that receiveth gifts overthroweth it.",
+              "NKJV": "The king establishes the land by justice,\nBut he who receives bribes overthrows it.",
+              "DRB": "A just king setteth up the land: a covetous man shall destroy it."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "Whoever flatters his neighbor is spreading a net for his feet.",
+              "KJV": "A man that flattereth his neighbour spreadeth a net for his feet.",
+              "NKJV": "A man who flatters his neighbor\nSpreads a net for his feet.",
+              "DRB": "A man that speaketh to his friend with flattering and dissembling words, spreadeth a net for his feet."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "An evil man is snared by his own sin, but a righteous one can sing and be glad.",
+              "KJV": "In the transgression of an evil man there is a snare: but the righteous doth sing and rejoice.",
+              "NKJV": "By transgression an evil man is snared,\nBut the righteous sings and rejoices.",
+              "DRB": "A snare shall entangle the wicked man when he sinneth: and the just shall praise and rejoice."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "The righteous care about justice for the poor, but the wicked have no such concern.",
+              "KJV": "The righteous considereth the cause of the poor: but the wicked regardeth not to know it.",
+              "NKJV": "The righteous considers the cause of the poor,\nBut the wicked does not understand such knowledge.",
+              "DRB": "The just taketh notice of the cause of the poor: the wicked is void of knowledge."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_29_8_11",
+        "title": "Wise Men Turn Away Wrath",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 29,
+          "start": 8,
+          "end": 11
+        },
+        "rows": [
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Mockers stir up a city, but wise men turn away anger.",
+              "KJV": "Scornful men bring a city into a snare: but wise men turn away wrath.",
+              "NKJV": "Scoffers set a city aflame,\nBut wise men turn away wrath.",
+              "DRB": "Corrupt men bring a city to ruin: but wise men turn away wrath."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "If a wise man goes to court with a fool, the fool rages and scoffs, and there is no peace.",
+              "KJV": "If a wise man contendeth with a foolish man, whether he rage or laugh, there is no rest.",
+              "NKJV": "If a wise man contends with a foolish man,\nWhether the fool rages or laughs, there is no peace.",
+              "DRB": "If a wise man contend with a fool, whether he be angry or laugh, he shall find no rest."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Bloodthirsty men hate a man of integrity and seek to kill the upright.",
+              "KJV": "The bloodthirsty hate the upright: but the just seek his soul.",
+              "NKJV": "The bloodthirsty hate the blameless,\nBut the upright seek his well-being.",
+              "DRB": "Bloodthirsty men hate the upright: but just men seek his soul."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "A fool gives full vent to his anger, but a wise man keeps himself under control.",
+              "KJV": "A fool uttereth all his mind: but a wise man keepeth it in till afterwards.",
+              "NKJV": "A fool vents all his feelings,\nBut a wise man holds them back.",
+              "DRB": "A fool uttereth all his mind: a wise man deferreth, and keepeth it till afterwards."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_29_12_16",
+        "title": "The Lord Gives Light to the Eyes",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 29,
+          "start": 12,
+          "end": 16
+        },
+        "rows": [
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "If a ruler listens to lies, all his officials become wicked.",
+              "KJV": "If a ruler hearken to lies, all his servants are wicked.",
+              "NKJV": "If a ruler pays attention to lies,\nAll his servants become wicked.",
+              "DRB": "A prince that gladly heareth lying words, hath all his servants wicked."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "The poor man and the oppressor have this in common: The LORD gives sight to the eyes of both.",
+              "KJV": "The poor and the deceitful man meet together: the Lord lighteneth both their eyes.",
+              "NKJV": "The poor man and the oppressor have this in common:\nThe Lord gives light to the eyes of both.",
+              "DRB": "The poor man and the creditor have met one another: the Lord is the enlightener of them both."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "If a king judges the poor with fairness, his throne will always be secure.",
+              "KJV": "The king that faithfully judgeth the poor, his throne shall be established for ever.",
+              "NKJV": "The king who judges the poor with truth,\nHis throne will be established forever.",
+              "DRB": "The king that judgeth the poor in truth, his throne shall be established for ever."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "The rod of correction imparts wisdom, but a child left to himself disgraces his mother.",
+              "KJV": "The rod and reproof give wisdom: but a child left to himself bringeth his mother to shame.",
+              "NKJV": "The rod and rebuke give wisdom,\nBut a child left to himself brings shame to his mother.",
+              "DRB": "The rod and reproof give wisdom: but the child that is left to his own will bringeth his mother to shame."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "When the wicked thrive, so does sin, but the righteous will see their downfall.",
+              "KJV": "When the wicked are multiplied, transgression increaseth: but the righteous shall see their fall.",
+              "NKJV": "When the wicked are multiplied, transgression increases;\nBut the righteous will see their fall.",
+              "DRB": "When the wicked are multiplied, crimes shall be multiplied: but the just shall see their downfall."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_29_17_21",
+        "title": "Happy is He Who Keeps the Law",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 29,
+          "start": 17,
+          "end": 21
+        },
+        "rows": [
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "Discipline your son, and he will give you peace; he will bring delight to your soul.",
+              "KJV": "Correct thy son, and he shall give thee rest; yea, he shall give delight unto thy soul.",
+              "NKJV": "Correct your son, and he will give you rest;\nYes, he will give delight to your soul.",
+              "DRB": "Instruct thy son, and he shall refresh thee, and shall give delight to thy soul."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "Where there is no revelation, the people cast off restraint; but blessed is he who keeps the law.",
+              "KJV": "Where there is no vision, the people perish: but he that keepeth the law, happy is he.",
+              "NKJV": "Where there is no revelation, the people cast off restraint;\nBut happy is he who keeps the law.",
+              "DRB": "When prophecy shall fail, the people shall be scattered abroad: but he that keepeth the law is blessed."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "A servant cannot be corrected by mere words; though he understands, he will not respond.",
+              "KJV": "A servant will not be corrected by words: for though he understand he will not answer.",
+              "NKJV": "A servant will not be corrected by mere words;\nFor though he understands, he will not respond.",
+              "DRB": "A slave will not be corrected by words: because he understandeth what thou sayest, and will not answer."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "Do you see a man who speaks in haste? There is more hope for a fool than for him.",
+              "KJV": "Seest thou a man that is hasty in his words? there is more hope of a fool than of him.",
+              "NKJV": "Do you see a man hasty in his words?\nThere is more hope for a fool than for him.",
+              "DRB": "Hast thou seen a man hasty to speak? folly is rather to be looked for, than his amendment."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "If a man pampers his servant from youth, he will bring grief in the end.",
+              "KJV": "He that delicately bringeth up his servant from a child shall have him become his son at the length.",
+              "NKJV": "He who pampers his servant from childhood\nWill have him as a son in the end.",
+              "DRB": "He that nourisheth his servant delicately from his childhood, afterwards shall find him stubborn."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_29_22_27",
+        "title": "Justice for Man Comes From the Lord",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 29,
+          "start": 22,
+          "end": 27
+        },
+        "rows": [
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "An angry man stirs up dissension, and a hot-tempered one commits many sins.",
+              "KJV": "An angry man stirreth up strife, and a furious man aboundeth in transgression.",
+              "NKJV": "An angry man stirs up strife,\nAnd a furious man abounds in transgression.",
+              "DRB": "A passionate man provoketh quarrels: and he that is easily stirred up to wrath, shall be more prone to sin."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "A man's pride brings him low, but a man of lowly spirit gains honor.",
+              "KJV": "A man's pride shall bring him low: but honour shall uphold the humble in spirit.",
+              "NKJV": "A man\u2019s pride will bring him low,\nBut the humble in spirit will retain honor.",
+              "DRB": "Humiliation followeth the proud: and glory shall uphold the humble of spirit."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "The accomplice of a thief is his own enemy; he is put under oath and dare not testify.",
+              "KJV": "Whoso is partner with a thief hateth his own soul: he heareth cursing, and bewrayeth it not.",
+              "NKJV": "Whoever is a partner with a thief hates his own life;\nHe swears to tell the truth, but reveals nothing.",
+              "DRB": "He that is partaker with a thief, hateth his own soul: he heareth one putting him to his oath, and discovereth not."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "Fear of man will prove to be a snare, but whoever trusts in the LORD is kept safe.",
+              "KJV": "The fear of man bringeth a snare: but whoso putteth his trust in the Lord shall be safe.",
+              "NKJV": "The fear of man brings a snare,\nBut whoever trusts in the Lord shall be safe.",
+              "DRB": "He that feareth man, shall quickly fall: he that trusteth in the Lord, shall be set on high."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "Many seek an audience with a ruler, but it is from the LORD that man gets justice.",
+              "KJV": "Many seek the ruler's favour; but every man's judgment cometh from the Lord.",
+              "NKJV": "Many seek the ruler\u2019s favor,\nBut justice for man comes from the Lord.",
+              "DRB": "Many seek the face of the prince: but the judgment of every one cometh forth from the Lord."
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "The righteous detest the dishonest; the wicked detest the upright.",
+              "KJV": "An unjust man is an abomination to the just: and he that is upright in the way is abomination to the wicked.",
+              "NKJV": "An unjust man is an abomination to the righteous,\nAnd he who is upright in the way is an abomination to the wicked.",
+              "DRB": "The just abhor the wicked man: and the wicked loathe them that are in the right way. The son that keepeth the word, shall be free from destruction."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

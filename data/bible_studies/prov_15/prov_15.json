@@ -1,0 +1,393 @@
+{
+  "scripture": {
+    "header": {
+      "id": "prov_15",
+      "title": "Proverbs 15",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_15_1_6",
+        "title": "A Healing Tongue is a Tree of Life",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 15,
+          "start": 1,
+          "end": 6
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "A gentle answer turns away wrath, but a harsh word stirs up anger.",
+              "KJV": "A soft answer turneth away wrath: but grievous words stir up anger.",
+              "NKJV": "A soft answer turns away wrath,\nBut a harsh word stirs up anger.",
+              "DRB": "A mild answer breaketh wrath: but a harsh word stirreth up fury."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "The tongue of the wise commends knowledge, but the mouth of the fool gushes folly.",
+              "KJV": "The tongue of the wise useth knowledge aright: but the mouth of fools poureth out foolishness.",
+              "NKJV": "The tongue of the wise uses knowledge rightly,\nBut the mouth of fools pours forth foolishness.",
+              "DRB": "The tongue of the wise adorneth knowledge: but the mouth of fools bubbleth out folly."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "The eyes of the LORD are everywhere, keeping watch on the wicked and the good.",
+              "KJV": "The eyes of the Lord are in every place, beholding the evil and the good.",
+              "NKJV": "The eyes of the Lord are in every place,\nKeeping watch on the evil and the good.",
+              "DRB": "The eyes of the Lord in every place behold the good and the evil."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "The tongue that brings healing is a tree of life, but a deceitful tongue crushes the spirit.",
+              "KJV": "A wholesome tongue is a tree of life: but perverseness therein is a breach in the spirit.",
+              "NKJV": "A wholesome tongue is a tree of life,\nBut perverseness in it breaks the spirit.",
+              "DRB": "A peaceable tongue is a tree of life: but that which is immoderate, shall crush the spirit."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "A fool spurns his father's discipline, but whoever heeds correction shows prudence.",
+              "KJV": "A fool despiseth his father's instruction: but he that regardeth reproof is prudent.",
+              "NKJV": "A fool despises his father\u2019s instruction,\nBut he who receives correction is prudent.",
+              "DRB": "A fool laugheth at the instruction of his father: but he that regardeth reproofs shall become prudent. In abundant justice there is the greatest strength: but the devices of the wicked shall be rooted out."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "The house of the righteous contains great treasure, but the income of the wicked brings them trouble.",
+              "KJV": "In the house of the righteous is much treasure: but in the revenues of the wicked is trouble.",
+              "NKJV": "In the house of the righteous there is much treasure,\nBut in the revenue of the wicked is trouble.",
+              "DRB": "The house of the just is very much strength: and in the fruits of the wicked is trouble."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_15_7_12",
+        "title": "The Lips of the Wise\n",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 15,
+          "start": 7,
+          "end": 12
+        },
+        "rows": [
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "The lips of the wise spread knowledge; not so the hearts of fools.",
+              "KJV": "The lips of the wise disperse knowledge: but the heart of the foolish doeth not so.",
+              "NKJV": "The lips of the wise disperse knowledge,\nBut the heart of the fool does not do so.",
+              "DRB": "The lips of the wise shall disperse knowledge: the heart of fools shall be unlike."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "The LORD detests the sacrifice of the wicked, but the prayer of the upright pleases him.",
+              "KJV": "The sacrifice of the wicked is an abomination to the Lord: but the prayer of the upright is his delight.",
+              "NKJV": "The sacrifice of the wicked is an abomination to the Lord,\nBut the prayer of the upright is His delight.",
+              "DRB": "The victims of the wicked are abominable to the Lord: the vows of the just are acceptable."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "The LORD detests the way of the wicked but he loves those who pursue righteousness.",
+              "KJV": "The way of the wicked is an abomination unto the Lord: but he loveth him that followeth after righteousness.",
+              "NKJV": "The way of the wicked is an abomination to the Lord,\nBut He loves him who follows righteousness.",
+              "DRB": "The way of the wicked is an abomination to the Lord: he that followeth justice is beloved by him."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Stern discipline awaits him who leaves the path; he who hates correction will die.",
+              "KJV": "Correction is grievous unto him that forsaketh the way: and he that hateth reproof shall die.",
+              "NKJV": "Harsh discipline is for him who forsakes the way,\nAnd he who hates correction will die.",
+              "DRB": "Instruction is grievous to him that forsaketh the way of life: he that hateth reproof shall die."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Death and Destruction lie open before the LORD - how much more the hearts of men!",
+              "KJV": "Hell and destruction are before the Lord: how much more then the hearts of the children of men?",
+              "NKJV": "Hell and Destruction are before the Lord;\nSo how much more the hearts of the sons of men.",
+              "DRB": "Hell and destruction are before the Lord: how much more the hearts of the children of men?"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "A mocker resents correction; he will not consult the wise.",
+              "KJV": "A scorner loveth not one that reproveth him: neither will he go unto the wise.",
+              "NKJV": "A scoffer does not love one who corrects him,\nNor will he go to the wise.",
+              "DRB": "A corrupt man loveth not one that reproveth him: nor will he go to the wise."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_15_13_17",
+        "title": "A Merry Heart",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 15,
+          "start": 13,
+          "end": 17
+        },
+        "rows": [
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "A happy heart makes the face cheerful, but heartache crushes the spirit.",
+              "KJV": "A merry heart maketh a cheerful countenance: but by sorrow of the heart the spirit is broken.",
+              "NKJV": "A merry heart makes a cheerful countenance,\nBut by sorrow of the heart the spirit is broken.",
+              "DRB": "A glad heart maketh a cheerful countenance: but by grief of mind the spirit is cast down."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "The discerning heart seeks knowledge, but the mouth of a fool feeds on folly.",
+              "KJV": "The heart of him that hath understanding seeketh knowledge: but the mouth of fools feedeth on foolishness.",
+              "NKJV": "The heart of him who has understanding seeks knowledge,\nBut the mouth of fools feeds on foolishness.",
+              "DRB": "The heart of the wise seeketh instruction: and the mouth of fools feedeth on foolishness."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "All the days of the oppressed are wretched, but the cheerful heart has a continual feast.",
+              "KJV": "All the days of the afflicted are evil: but he that is of a merry heart hath a continual feast.",
+              "NKJV": "All the days of the afflicted are evil,\nBut he who is of a merry heart has a continual feast.",
+              "DRB": "All the days of the poor are evil: a secure mind is like a continual feast."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "Better a little with the fear of the LORD than great wealth with turmoil.",
+              "KJV": "Better is little with the fear of the Lord than great treasure and trouble therewith.",
+              "NKJV": "Better is a little with the fear of the Lord,\nThan great treasure with trouble.",
+              "DRB": "Better is a little with the fear of the Lord, than great treasures without content,"
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "Better a meal of vegetables where there is love than a fattened calf with hatred.",
+              "KJV": "Better is a dinner of herbs where love is, than a stalled ox and hatred therewith.",
+              "NKJV": "Better is a dinner of herbs where love is,\nThan a fatted calf with hatred.",
+              "DRB": "It is better to be invited to herbs with love, than to a fatted calf with hatred."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_15_18_24",
+        "title": "The Way of Life Winds Upward",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 15,
+          "start": 18,
+          "end": 24
+        },
+        "rows": [
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "A hot-tempered man stirs up dissension, but a patient man calms a quarrel.",
+              "KJV": "A wrathful man stirreth up strife: but he that is slow to anger appeaseth strife.",
+              "NKJV": "A wrathful man stirs up strife,\nBut he who is slow to anger allays contention.",
+              "DRB": "A passionate man stirreth up strifes: he that is patient appeaseth those that are stirred up."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "The way of the sluggard is blocked with thorns, but the path of the upright is a highway.",
+              "KJV": "The way of the slothful man is as an hedge of thorns: but the way of the righteous is made plain.",
+              "NKJV": "The way of the lazy man is like a hedge of thorns,\nBut the way of the upright is a highway.",
+              "DRB": "The way of the slothful is as a hedge of thorns; the way of the just is without offence."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "A wise son brings joy to his father, but a foolish man despises his mother.",
+              "KJV": "A wise son maketh a glad father: but a foolish man despiseth his mother.",
+              "NKJV": "A wise son makes a father glad,\nBut a foolish man despises his mother.",
+              "DRB": "A wise son maketh a father joyful: but the foolish man despiseth his mother."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "Folly delights a man who lacks judgment, but a man of understanding keeps a straight course.",
+              "KJV": "Folly is joy to him that is destitute of wisdom: but a man of understanding walketh uprightly.",
+              "NKJV": "Folly is joy to him who is destitute of discernment,\nBut a man of understanding walks uprightly.",
+              "DRB": "Folly is joy to the fool: and the wise man maketh straight his steps."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "Plans fail for lack of counsel, but with many advisers they succeed.",
+              "KJV": "Without counsel purposes are disappointed: but in the multitude of counsellors they are established.",
+              "NKJV": "Without counsel, plans go awry,\nBut in the multitude of counselors they are established.",
+              "DRB": "Designs are brought to nothing where there is no counsel: but where there are many counsellors, they are established."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "A man finds joy in giving an apt reply- and how good is a timely word!",
+              "KJV": "A man hath joy by the answer of his mouth: and a word spoken in due season, how good is it!",
+              "NKJV": "A man has joy by the answer of his mouth,\nAnd a word spoken in due season, how good it is!",
+              "DRB": "A man rejoiceth in the sentence of his mouth: and a word in due time is best."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "The path of life leads upward for the wise to keep him from going down to the grave.",
+              "KJV": "The way of life is above to the wise, that he may depart from hell beneath.",
+              "NKJV": "The way of life winds upward for the wise,\nThat he may turn away from hell below.",
+              "DRB": "The path of life is above for the wise, that he may decline from the lowest hell."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_15_25_28",
+        "title": "The Heart of The Righteous Studies",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 15,
+          "start": 25,
+          "end": 28
+        },
+        "rows": [
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "The LORD tears down the proud man's house but he keeps the widow's boundaries intact.",
+              "KJV": "The Lord will destroy the house of the proud: but he will establish the border of the widow.",
+              "NKJV": "The Lord will destroy the house of the proud,\nBut He will establish the boundary of the widow.",
+              "DRB": "The Lord will destroy the house of the proud: and will strengthen the borders of the widow."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "The LORD detests the thoughts of the wicked, but those of the pure are pleasing to him.",
+              "KJV": "The thoughts of the wicked are an abomination to the Lord: but the words of the pure are pleasant words.",
+              "NKJV": "The thoughts of the wicked are an abomination to the Lord,\nBut the words of the pure are pleasant.",
+              "DRB": "Evil thoughts are an abomination to the Lord: and pure words most beautiful shall be confirmed by him."
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "A greedy man brings trouble to his family, but he who hates bribes will live.",
+              "KJV": "He that is greedy of gain troubleth his own house; but he that hateth gifts shall live.",
+              "NKJV": "He who is greedy for gain troubles his own house,\nBut he who hates bribes will live.",
+              "DRB": "He that is greedy of gain troubleth his own house: but he that hateth bribes shall live. By mercy and faith sins are purged away: and by the fear of the Lord every one declineth from evil."
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "The heart of the righteous weighs its answers, but the mouth of the wicked gushes evil.",
+              "KJV": "The heart of the righteous studieth to answer: but the mouth of the wicked poureth out evil things.",
+              "NKJV": "The heart of the righteous studies how to answer,\nBut the mouth of the wicked pours forth evil.",
+              "DRB": "The mind of the just studieth obedience: the mouth of the wicked over floweth with evils."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_15_29_33",
+        "title": "The Light of the Eyes",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 15,
+          "start": 29,
+          "end": 33
+        },
+        "rows": [
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "The LORD is far from the wicked but he hears the prayer of the righteous.",
+              "KJV": "The Lord is far from the wicked: but he heareth the prayer of the righteous.",
+              "NKJV": "The Lord is far from the wicked,\nBut He hears the prayer of the righteous.",
+              "DRB": "The Lord is far from the wicked: and he will hear the prayers of the just."
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "A cheerful look brings joy to the heart, and good news gives health to the bones.",
+              "KJV": "The light of the eyes rejoiceth the heart: and a good report maketh the bones fat.",
+              "NKJV": "The light of the eyes rejoices the heart,\nAnd a good report makes the bones healthy.",
+              "DRB": "The light of the eyes rejoiceth the soul: a good name maketh the bones fat."
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "He who listens to a life-giving rebuke will be at home among the wise.",
+              "KJV": "The ear that heareth the reproof of life abideth among the wise.",
+              "NKJV": "The ear that hears the rebukes of life\nWill abide among the wise.",
+              "DRB": "The ear that heareth the reproofs of life, shall abide in the midst of the wise."
+            }
+          },
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "He who ignores discipline despises himself, but whoever heeds correction gains understanding.",
+              "KJV": "He that refuseth instruction despiseth his own soul: but he that heareth reproof getteth understanding.",
+              "NKJV": "He who disdains instruction despises his own soul,\nBut he who heeds rebuke gets understanding.",
+              "DRB": "He that rejecteth instruction, despiseth his own soul: but he that yieldeth to reproof possesseth understanding."
+            }
+          },
+          {
+            "verse": 33,
+            "texts": {
+              "NIV84": "The fear of the LORD teaches a man wisdom, and humility comes before honor.",
+              "KJV": "The fear of the Lord is the instruction of wisdom; and before honour is humility.",
+              "NKJV": "The fear of the Lord is the instruction of wisdom,\nAnd before honor is humility.",
+              "DRB": "The fear of the Lord is the lesson of wisdom: and humility goeth before glory."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

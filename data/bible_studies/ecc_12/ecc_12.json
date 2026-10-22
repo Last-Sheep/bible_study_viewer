@@ -1,0 +1,170 @@
+{
+  "scripture": {
+    "header": {
+      "id": "ecc_12",
+      "title": "Ecclesiastes 12",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "ecc_12_1_8",
+        "title": "Remember Your Creator",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 12,
+          "start": 1,
+          "end": 8
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Remember your Creator in the days of your youth, before the days of trouble come and the years approach when you will say, \"I find no pleasure in them\"-",
+              "KJV": "Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them;",
+              "NKJV": "Remember now your Creator in the days of your youth,\nBefore the difficult days come,\nAnd the years draw near when you say,\n\u201cI have no pleasure in them\u201d:",
+              "DRB": "Remember thy Creator in the days of thy youth, before the time of affliction come, and the years draw nigh of which thou shalt say: They please me not:"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "before the sun and the light and the moon and the stars grow dark, and the clouds return after the rain;",
+              "KJV": "While the sun, or the light, or the moon, or the stars, be not darkened, nor the clouds return after the rain:",
+              "NKJV": "While the sun and the light,\nThe moon and the stars,\nAre not darkened,\nAnd the clouds do not return after the rain;",
+              "DRB": "Before the sun, and the light, and the moon, and the stars be darkened, and the clouds return after the rain:"
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "when the keepers of the house tremble, and the strong men stoop, when the grinders cease because they are few, and those looking through the windows grow dim;",
+              "KJV": "In the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those that look out of the windows be darkened,",
+              "NKJV": "In the day when the keepers of the house tremble,\nAnd the strong men bow down;\nWhen the grinders cease because they are few,\nAnd those that look through the windows grow dim;",
+              "DRB": "When the keepers of the house shall tremble, and the strong men shall stagger, and the grinders shall be idle in a small number, and they that look through the holes shall be darkened:"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "when the doors to the street are closed and the sound of grinding fades; when men rise up at the sound of birds, but all their songs grow faint;",
+              "KJV": "And the doors shall be shut in the streets, when the sound of the grinding is low, and he shall rise up at the voice of the bird, and all the daughters of musick shall be brought low;",
+              "NKJV": "When the doors are shut in the streets,\nAnd the sound of grinding is low;\nWhen one rises up at the sound of a bird,\nAnd all the daughters of music are brought low.",
+              "DRB": "And they shall shut the doors in the street, when the grinder's voice shall be low, and they shall rise up at the voice of the bird, and all the daughters of music shall grow deaf."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "when men are afraid of heights and of dangers in the streets; when the almond tree blossoms and the grasshopper drags himself along and desire no longer is stirred. Then man goes to his eternal home and mourners go about the streets.",
+              "KJV": "Also when they shall be afraid of that which is high, and fears shall be in the way, and the almond tree shall flourish, and the grasshopper shall be a burden, and desire shall fail: because man goeth to his long home, and the mourners go about the streets:",
+              "NKJV": "Also they are afraid of height,\nAnd of terrors in the way;\nWhen the almond tree blossoms,\nThe grasshopper is a burden,\nAnd desire fails.\nFor man goes to his eternal home,\nAnd the mourners go about the streets.",
+              "DRB": "And they shall fear high things, and they shall be afraid in the way, the almond tree shall flourish, the locust shall be made fat, and the caper tree shall be destroyed: because man shall go into the house of his eternity, and the mourners shall go round about in the street."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Remember him-before the silver cord is severed, or the golden bowl is broken; before the pitcher is shattered at the spring, or the wheel broken at the well,",
+              "KJV": "Or ever the silver cord be loosed, or the golden bowl be broken, or the pitcher be broken at the fountain, or the wheel broken at the cistern.",
+              "NKJV": "Remember your Creator before the silver cord is loosed,\nOr the golden bowl is broken,\nOr the pitcher shattered at the fountain,\nOr the wheel broken at the well.",
+              "DRB": "Before the silver cord be broken, and the golden fillet shrink back, and the pitcher be crushed at the fountain, and the wheel be broken upon the cistern,"
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "and the dust returns to the ground it came from, and the spirit returns to God who gave it.",
+              "KJV": "Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it.",
+              "NKJV": "Then the dust will return to the earth as it was,\nAnd the spirit will return to God who gave it.",
+              "DRB": "And the dust return into its earth, from whence it was, and the spirit return to God, who gave it."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "\"Meaningless! Meaningless!\" says the Teacher. \"Everything is meaningless!\"",
+              "KJV": "Vanity of vanities, saith the preacher; all is vanity.",
+              "NKJV": "\u201cVanity of vanities,\u201d says the Preacher,\n\u201cAll is vanity.\u201d",
+              "DRB": "Vanity of vanities, said Ecclesiastes, and all things are vanity."
+            }
+          }
+        ]
+      },
+      {
+        "id": "ecc_12_9_14",
+        "title": "The Whole Duty of Man",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 12,
+          "start": 9,
+          "end": 14
+        },
+        "rows": [
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Not only was the Teacher wise, but also he imparted knowledge to the people. He pondered and searched out and set in order many proverbs.",
+              "KJV": "And moreover, because the preacher was wise, he still taught the people knowledge; yea, he gave good heed, and sought out, and set in order many proverbs.",
+              "NKJV": "And moreover, because the Preacher was wise, he still taught the people knowledge; yes, he pondered and sought out and set in order many proverbs.",
+              "DRB": "And whereas Ecclesiastes was very wise, he taught the people, and declared the things that he had done: and seeking out, he set forth many parables."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "The Teacher searched to find just the right words, and what he wrote was upright and true.",
+              "KJV": "The preacher sought to find out acceptable words: and that which was written was upright, even words of truth.",
+              "NKJV": "The Preacher sought to find acceptable words; and what was written was upright\u2014words of truth.",
+              "DRB": "He sought profitable words, and wrote words most right, and full of truth."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "The words of the wise are like goads, their collected sayings like firmly embedded nails-given by one Shepherd.",
+              "KJV": "The words of the wise are as goads, and as nails fastened by the masters of assemblies, which are given from one shepherd.",
+              "NKJV": "The words of the wise are like goads, and the words of scholars are like well-driven nails, given by one Shepherd.",
+              "DRB": "The words of the wise are as goads, and as nails deeply fastened in, which by the counsel of masters are given from one shepherd."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Be warned, my son, of anything in addition to them. Of making many books there is no end, and much study wearies the body.",
+              "KJV": "And further, by these, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh.",
+              "NKJV": "And further, my son, be admonished by these. Of making many books there is no end, and much study is wearisome to the flesh.",
+              "DRB": "More than these, my son, require not. Of making many books there is no end: and much study is an affliction of the flesh."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Now all has been heard; here is the conclusion of the matter: Fear God and keep his commandments, for this is the whole duty of man.",
+              "KJV": "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.",
+              "NKJV": "Let us hear the conclusion of the whole matter:\nFear God and keep His commandments,\nFor this is man\u2019s all.",
+              "DRB": "Let us all hear together the conclusion of the discourse. Fear God, and keep his commandments: for this is all man:"
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "For God will bring every deed into judgment, including every hidden thing, whether it is good or evil.",
+              "KJV": "For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.",
+              "NKJV": "For God will bring every work into judgment,\nIncluding every secret thing,\nWhether good or evil.",
+              "DRB": "And all things that are done, God will bring into judgment for every error, whether it be good or evil."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

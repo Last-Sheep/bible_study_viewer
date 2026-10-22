@@ -1,0 +1,335 @@
+{
+  "scripture": {
+    "header": {
+      "id": "",
+      "title": "",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_25_1_7",
+        "title": "Do Not Exalt Yourself",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 25,
+          "start": 1,
+          "end": 7
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "These are more proverbs of Solomon, copied by the men of Hezekiah king of Judah:",
+              "KJV": "These are also proverbs of Solomon, which the men of Hezekiah king of Judah copied out.",
+              "NKJV": "These also are proverbs of Solomon which the men of Hezekiah king of Judah copied:",
+              "DRB": "These are also parables of Solomon, which the men of Ezechias king of Juda copied out."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "It is the glory of God to conceal a matter; to search out a matter is the glory of kings.",
+              "KJV": "It is the glory of God to conceal a thing: but the honour of kings is to search out a matter.",
+              "NKJV": "It is the glory of God to conceal a matter,\nBut the glory of kings is to search out a matter.",
+              "DRB": "It is the glory of God to conceal the word, and the glory of kings to search out the speech."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "As the heavens are high and the earth is deep, so the hearts of kings are unsearchable.",
+              "KJV": "The heaven for height, and the earth for depth, and the heart of kings is unsearchable.",
+              "NKJV": "As the heavens for height and the earth for depth,\nSo the heart of kings is unsearchable.",
+              "DRB": "The heaven above, and the earth beneath, and the heart of kings is unsearchable."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Remove the dross from the silver, and out comes material for the silversmith;",
+              "KJV": "Take away the dross from the silver, and there shall come forth a vessel for the finer.",
+              "NKJV": "Take away the dross from silver,\nAnd it will go to the silversmith for jewelry.",
+              "DRB": "Take away the rust from silver, and there shall come forth a most pure vessel:"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "remove the wicked from the king's presence, and his throne will be established through righteousness.",
+              "KJV": "Take away the wicked from before the king, and his throne shall be established in righteousness.",
+              "NKJV": "Take away the wicked from before the king,\nAnd his throne will be established in righteousness.",
+              "DRB": "Take away wickedness from the face of the king, and his throne shall be established with justice."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Do not exalt yourself in the king's presence, and do not claim a place among great men;",
+              "KJV": "Put not forth thyself in the presence of the king, and stand not in the place of great men:",
+              "NKJV": "Do not exalt yourself in the presence of the king,\nAnd do not stand in the place of the great;",
+              "DRB": "Appear not glorious before the king, and stand not in the place of great men."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "it is better for him to say to you, \"Come up here,\" than for him to humiliate you before a nobleman. What you have seen with your eyes",
+              "KJV": "For better it is that it be said unto thee, Come up hither; than that thou shouldest be put lower in the presence of the prince whom thine eyes have seen.",
+              "NKJV": "For it is better that he say to you,\n\u201cCome up here,\u201d\nThan that you should be put lower in the presence of the prince,\nWhom your eyes have seen.",
+              "DRB": "For it is better that it should be said to thee: Come up hither; than that thou shouldst be humbled before the prince."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_25_8_12",
+        "title": "A Wise Rebuker and an Obedient Ear",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 25,
+          "start": 8,
+          "end": 12
+        },
+        "rows": [
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "do not bring hastily to court, for what will you do in the end if your neighbor puts you to shame?",
+              "KJV": "Go not forth hastily to strive, lest thou know not what to do in the end thereof, when thy neighbour hath put thee to shame.",
+              "NKJV": "Do not go hastily to court;\nFor what will you do in the end,\nWhen your neighbor has put you to shame?",
+              "DRB": "The things which thy eyes have seen, utter not hastily in a quarrel: lest after- ward thou mayst not be able to make amends, when thou hast dishonoured thy friend."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "If you argue your case with a neighbor, do not betray another man's confidence,",
+              "KJV": "Debate thy cause with thy neighbour himself; and discover not a secret to another:",
+              "NKJV": "Debate your case with your neighbor,\nAnd do not disclose the secret to another;",
+              "DRB": "Treat thy cause with thy friend, and discover not the secret to a stranger:"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "or he who hears it may shame you and you will never lose your bad reputation.",
+              "KJV": "Lest he that heareth it put thee to shame, and thine infamy turn not away.",
+              "NKJV": "Lest he who hears it expose your shame,\nAnd your reputation be ruined.",
+              "DRB": "Lest he insult over thee, when he hath heard it, and cease not to upbraid thee. Grace and friendship deliver a man: keep these for thyself, lest thou fall under reproach."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "A word aptly spoken is like apples of gold in settings of silver.",
+              "KJV": "A word fitly spoken is like apples of gold in pictures of silver.",
+              "NKJV": "A word fitly spoken is like apples of gold\nIn settings of silver.",
+              "DRB": "To speak a word in due time, is like apples of gold on beds of silver."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Like an earring of gold or an ornament of fine gold is a wise man's rebuke to a listening ear.",
+              "KJV": "As an earring of gold, and an ornament of fine gold, so is a wise reprover upon an obedient ear.",
+              "NKJV": "Like an earring of gold and an ornament of fine gold\nIs a wise rebuker to an obedient ear.",
+              "DRB": "As an earring of gold and a bright pearl, so is he that reproveth the wise, and the obedient ear."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_25_13_16",
+        "title": "Clouds and Wind Without Rain",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 25,
+          "start": 13,
+          "end": 16
+        },
+        "rows": [
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Like the coolness of snow at harvest time is a trustworthy messenger to those who send him; he refreshes the spirit of his masters.",
+              "KJV": "As the cold of snow in the time of harvest, so is a faithful messenger to them that send him: for he refresheth the soul of his masters.",
+              "NKJV": "Like the cold of snow in time of harvest\nIs a faithful messenger to those who send him,\nFor he refreshes the soul of his masters.",
+              "DRB": "As the cold of snow in the time of harvest, so is a faithful messenger to him that sent him, for he refresheth his soul."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "Like clouds and wind without rain is a man who boasts of gifts he does not give.",
+              "KJV": "Whoso boasteth himself of a false gift is like clouds and wind without rain.",
+              "NKJV": "Whoever falsely boasts of giving\nIs like clouds and wind without rain.",
+              "DRB": "As clouds, and wind, when no rain followeth, so is the man that boasteth, and doth not fulfil his promises."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Through patience a ruler can be persuaded, and a gentle tongue can break a bone.",
+              "KJV": "By long forbearing is a prince persuaded, and a soft tongue breaketh the bone.",
+              "NKJV": "By long forbearance a ruler is persuaded,\nAnd a gentle tongue breaks a bone.",
+              "DRB": "By patience a prince shall be appeased, and a soft tongue shall break hardness."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "If you find honey, eat just enough- too much of it, and you will vomit.",
+              "KJV": "Hast thou found honey? eat so much as is sufficient for thee, lest thou be filled therewith, and vomit it.",
+              "NKJV": "Have you found honey?\nEat only as much as you need,\nLest you be filled with it and vomit.",
+              "DRB": "Thou hast found honey, eat what is sufficient for thee, lest being glutted therewith thou vomit it up."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_25_17_22",
+        "title": "Singing Songs to A Heavy Heart",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 25,
+          "start": 17,
+          "end": 22
+        },
+        "rows": [
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "Seldom set foot in your neighbor's house- too much of you, and he will hate you.",
+              "KJV": "Withdraw thy foot from thy neighbour's house; lest he be weary of thee, and so hate thee.",
+              "NKJV": "Seldom set foot in your neighbor\u2019s house,\nLest he become weary of you and hate you.",
+              "DRB": "Withdraw thy foot from the house of thy neighbour, lest having his fill he hate thee."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "Like a club or a sword or a sharp arrow is the man who gives false testimony against his neighbor.",
+              "KJV": "A man that beareth false witness against his neighbour is a maul, and a sword, and a sharp arrow.",
+              "NKJV": "A man who bears false witness against his neighbor\nIs like a club, a sword, and a sharp arrow.",
+              "DRB": "A man that beareth false witness against his neighbour, is like a dart and a sword and a sharp arrow."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "Like a bad tooth or a lame foot is reliance on the unfaithful in times of trouble.",
+              "KJV": "Confidence in an unfaithful man in time of trouble is like a broken tooth, and a foot out of joint.",
+              "NKJV": "Confidence in an unfaithful man in time of trouble\nIs like a bad tooth and a foot out of joint.",
+              "DRB": "To trust to an unfaithful man in the time of trouble, is like a rotten tooth, and weary foot,"
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "Like one who takes away a garment on a cold day, or like vinegar poured on soda, is one who sings songs to a heavy heart.",
+              "KJV": "As he that taketh away a garment in cold weather, and as vinegar upon nitre, so is he that singeth songs to an heavy heart.",
+              "NKJV": "Like one who takes away a garment in cold weather,\nAnd like vinegar on soda,\nIs one who sings songs to a heavy heart.",
+              "DRB": "And one that looseth his garment in cold weather. As vinegar upon nitre, so is he that singeth songs to a very evil heart. As a moth doth by a garment, and a worm by the wood: so the sadness of a man consumeth the heart."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "If your enemy is hungry, give him food to eat; if he is thirsty, give him water to drink.",
+              "KJV": "If thine enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink:",
+              "NKJV": "If your enemy is hungry, give him bread to eat;\nAnd if he is thirsty, give him water to drink;",
+              "DRB": "If thy enemy be hungry, give him to eat: if he thirst, give him water to drink:"
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "In doing this, you will heap burning coals on his head, and the LORD will reward you.",
+              "KJV": "For thou shalt heap coals of fire upon his head, and the Lord shall reward thee.",
+              "NKJV": "For so you will heap coals of fire on his head,\nAnd the Lord will reward you.",
+              "DRB": "For thou shalt heap hot coals upon his head, and the Lord will reward thee."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_25_23_28",
+        "title": "A Backbiting Tongue",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 25,
+          "start": 23,
+          "end": 28
+        },
+        "rows": [
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "As a north wind brings rain, so a sly tongue brings angry looks.",
+              "KJV": "The north wind driveth away rain: so doth an angry countenance a backbiting tongue.",
+              "NKJV": "The north wind brings forth rain,\nAnd a backbiting tongue an angry countenance.",
+              "DRB": "The north wind driveth away rain, as doth a sad countenance a backbiting tongue."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "Better to live on a corner of the roof than share a house with a quarrelsome wife.",
+              "KJV": "It is better to dwell in the corner of the housetop, than with a brawling woman and in a wide house.",
+              "NKJV": "It is better to dwell in a corner of a housetop,\nThan in a house shared with a contentious woman.",
+              "DRB": "It is better to sit m a corner of the housetop, than with a brawling woman, and in a common house."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "Like cold water to a weary soul is good news from a distant land.",
+              "KJV": "As cold waters to a thirsty soul, so is good news from a far country.",
+              "NKJV": "As cold water to a weary soul,\nSo is good news from a far country.",
+              "DRB": "As cold water to a thirsty soul, so is good tidings from a far country."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "Like a muddied spring or a polluted well is a righteous man who gives way to the wicked.",
+              "KJV": "A righteous man falling down before the wicked is as a troubled fountain, and a corrupt spring.",
+              "NKJV": "A righteous man who falters before the wicked\nIs like a murky spring and a polluted well.",
+              "DRB": "A just man falling down before the wicked, is as a fountain troubled with the foot, and a corrupted spring."
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "It is not good to eat too much honey, nor is it honorable to seek one's own honor.",
+              "KJV": "It is not good to eat much honey: so for men to search their own glory is not glory.",
+              "NKJV": "It is not good to eat much honey;\nSo to seek one\u2019s own glory is not glory.",
+              "DRB": "As it is not good for a man to eat much honey, so he that is a searcher of majesty, shall be overwhelmed by glory."
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "Like a city whose walls are broken down is a man who lacks self-control.",
+              "KJV": "He that hath no rule over his own spirit is like a city that is broken down, and without walls.",
+              "NKJV": "Whoever has no rule over his own spirit\nIs like a city broken down, without walls.",
+              "DRB": "As a city that lieth open and is not compassed with walls, so is a man that cannot refrain his own spirit in speaking."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

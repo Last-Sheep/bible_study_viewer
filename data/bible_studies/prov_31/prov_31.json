@@ -1,0 +1,323 @@
+{
+  "scripture": {
+    "header": {
+      "id": "prov_31",
+      "title": "Proverbs 31",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_31_1_9",
+        "title": "Words of King Lemuel\u2019s Mother",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 31,
+          "start": 1,
+          "end": 9
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "The sayings of King Lemuel-an oracle his mother taught him:",
+              "KJV": "The words of king Lemuel, the prophecy that his mother taught him.",
+              "NKJV": "The words of King Lemuel, the utterance which his mother taught him:",
+              "DRB": "The words of king Lamuel. The vision wherewith his mother instructed him."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "\"O my son, O son of my womb, O son of my vows,",
+              "KJV": "What, my son? and what, the son of my womb? and what, the son of my vows?",
+              "NKJV": "What, my son?\nAnd what, son of my womb?\nAnd what, son of my vows?",
+              "DRB": "What, O my beloved, what, O the beloved of my womb, what, O the beloved of my vows?"
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "do not spend your strength on women, your vigor on those who ruin kings.",
+              "KJV": "Give not thy strength unto women, nor thy ways to that which destroyeth kings.",
+              "NKJV": "Do not give your strength to women,\nNor your ways to that which destroys kings.",
+              "DRB": "Give not thy substance to women, and thy riches to destroy kings."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "\"It is not for kings, O Lemuel- not for kings to drink wine, not for rulers to crave beer,",
+              "KJV": "It is not for kings, O Lemuel, it is not for kings to drink wine; nor for princes strong drink:",
+              "NKJV": "It is not for kings, O Lemuel,\nIt is not for kings to drink wine,\nNor for princes intoxicating drink;",
+              "DRB": "Give not to kings, O Lamuel, give not wine to kings: because there is no secret where drunkenness reigneth:"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "lest they drink and forget what the law decrees, and deprive all the oppressed of their rights.",
+              "KJV": "Lest they drink, and forget the law, and pervert the judgment of any of the afflicted.",
+              "NKJV": "Lest they drink and forget the law,\nAnd pervert the justice of all the afflicted.",
+              "DRB": "And lest they drink and forget judgments, and pervert the cause of the children of the poor."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Give beer to those who are perishing, wine to those who are in anguish;",
+              "KJV": "Give strong drink unto him that is ready to perish, and wine unto those that be of heavy hearts.",
+              "NKJV": "Give strong drink to him who is perishing,\nAnd wine to those who are bitter of heart.",
+              "DRB": "Give strong drink to them that are sad: and wine to them that are grieved in mind:"
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "let them drink and forget their poverty and remember their misery no more.",
+              "KJV": "Let him drink, and forget his poverty, and remember his misery no more.",
+              "NKJV": "Let him drink and forget his poverty,\nAnd remember his misery no more.",
+              "DRB": "Let them drink, and forget their want, and remember their sorrow no more."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "\"Speak up for those who cannot speak for themselves, for the rights of all who are destitute.",
+              "KJV": "Open thy mouth for the dumb in the cause of all such as are appointed to destruction.",
+              "NKJV": "Open your mouth for the speechless,\nIn the cause of all who are appointed to die.",
+              "DRB": "Open thy mouth for the dumb, and for the causes of all the children that pass."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Speak up and judge fairly; defend the rights of the poor and needy.\" Epilogue: The Wife of Noble Character",
+              "KJV": "Open thy mouth, judge righteously, and plead the cause of the poor and needy.",
+              "NKJV": "Open your mouth, judge righteously,\nAnd plead the cause of the poor and needy.",
+              "DRB": "Open thy mouth, decree that which is just, and do justice to the needy and poor."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_31_10_31",
+        "title": "The Virtuous Wife",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 31,
+          "start": 10,
+          "end": 31
+        },
+        "rows": [
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "A wife of noble character who can find? She is worth far more than rubies.",
+              "KJV": "Who can find a virtuous woman? for her price is far above rubies.",
+              "NKJV": "Who can find a virtuous wife?\nFor her worth is far above rubies.",
+              "DRB": "Who shall find a valiant woman? far and from the uttermost coasts is the price of her."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Her husband has full confidence in her and lacks nothing of value.",
+              "KJV": "The heart of her husband doth safely trust in her, so that he shall have no need of spoil.",
+              "NKJV": "The heart of her husband safely trusts her;\nSo he will have no lack of gain.",
+              "DRB": "The heart of her husband trusteth in her, and he shall have no need of spoils."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "She brings him good, not harm, all the days of her life.",
+              "KJV": "She will do him good and not evil all the days of her life.",
+              "NKJV": "She does him good and not evil\nAll the days of her life.",
+              "DRB": "She will render him good, and not evil, all the days of her life."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "She selects wool and flax and works with eager hands.",
+              "KJV": "She seeketh wool, and flax, and worketh willingly with her hands.",
+              "NKJV": "She seeks wool and flax,\nAnd willingly works with her hands.",
+              "DRB": "She hath sought wool and flax, and hath wrought by the counsel of her hands."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "She is like the merchant ships, bringing her food from afar.",
+              "KJV": "She is like the merchants' ships; she bringeth her food from afar.",
+              "NKJV": "She is like the merchant ships,\nShe brings her food from afar.",
+              "DRB": "She is like the merchant's ship, she bringeth her bread from afar."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "She gets up while it is still dark; she provides food for her family and portions for her servant girls.",
+              "KJV": "She riseth also while it is yet night, and giveth meat to her household, and a portion to her maidens.",
+              "NKJV": "She also rises while it is yet night,\nAnd provides food for her household,\nAnd a portion for her maidservants.",
+              "DRB": "And she hath risen in the night, and given a prey to her household, and victuals to her maidens."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "She considers a field and buys it; out of her earnings she plants a vineyard.",
+              "KJV": "She considereth a field, and buyeth it: with the fruit of her hands she planteth a vineyard.",
+              "NKJV": "She considers a field and buys it;\nFrom her profits she plants a vineyard.",
+              "DRB": "She hath considered a field, and bought it: with the fruit of her hands she hath planted a vineyard."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "She sets about her work vigorously; her arms are strong for her tasks.",
+              "KJV": "She girdeth her loins with strength, and strengtheneth her arms.",
+              "NKJV": "She girds herself with strength,\nAnd strengthens her arms.",
+              "DRB": "She hath girded her loins with strength, and hath strengthened her arm."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "She sees that her trading is profitable, and her lamp does not go out at night.",
+              "KJV": "She perceiveth that her merchandise is good: her candle goeth not out by night.",
+              "NKJV": "She perceives that her merchandise is good,\nAnd her lamp does not go out by night.",
+              "DRB": "She hath tasted and seen that her traffic is good: her lamp shall not be put out in the night."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "In her hand she holds the distaff and grasps the spindle with her fingers.",
+              "KJV": "She layeth her hands to the spindle, and her hands hold the distaff.",
+              "NKJV": "She stretches out her hands to the distaff,\nAnd her hand holds the spindle.",
+              "DRB": "She hath put out her hand to strong things, and her fingers have taken hold of the spindle."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "She opens her arms to the poor and extends her hands to the needy.",
+              "KJV": "She stretcheth out her hand to the poor; yea, she reacheth forth her hands to the needy.",
+              "NKJV": "She extends her hand to the poor,\nYes, she reaches out her hands to the needy.",
+              "DRB": "She hath opened her hand to the needy, and stretched out her hands to the poor."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "When it snows, she has no fear for her household; for all of them are clothed in scarlet.",
+              "KJV": "She is not afraid of the snow for her household: for all her household are clothed with scarlet.",
+              "NKJV": "She is not afraid of snow for her household,\nFor all her household is clothed with scarlet.",
+              "DRB": "She shall not fear for her house in the cold of snow: for dl her domestics are clothed with double garments."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "She makes coverings for her bed; she is clothed in fine linen and purple.",
+              "KJV": "She maketh herself coverings of tapestry; her clothing is silk and purple.",
+              "NKJV": "She makes tapestry for herself;\nHer clothing is fine linen and purple.",
+              "DRB": "She hath made for herself clothing of tapestry: fine linen, and purple is her covering."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "Her husband is respected at the city gate, where he takes his seat among the elders of the land.",
+              "KJV": "Her husband is known in the gates, when he sitteth among the elders of the land.",
+              "NKJV": "Her husband is known in the gates,\nWhen he sits among the elders of the land.",
+              "DRB": "Her husband is honourable in the gates, when he sitteth among the senators of the land."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "She makes linen garments and sells them, and supplies the merchants with sashes.",
+              "KJV": "She maketh fine linen, and selleth it; and delivereth girdles unto the merchant.",
+              "NKJV": "She makes linen garments and sells them,\nAnd supplies sashes for the merchants.",
+              "DRB": "She made fine linen, and sold it, end delivered a girdle to the Chanaanite."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "She is clothed with strength and dignity; she can laugh at the days to come.",
+              "KJV": "Strength and honour are her clothing; and she shall rejoice in time to come.",
+              "NKJV": "Strength and honor are her clothing;\nShe shall rejoice in time to come.",
+              "DRB": "Strength and beauty are her clothing, and she shall laugh in the latter day."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "She speaks with wisdom, and faithful instruction is on her tongue.",
+              "KJV": "She openeth her mouth with wisdom; and in her tongue is the law of kindness.",
+              "NKJV": "She opens her mouth with wisdom,\nAnd on her tongue is the law of kindness.",
+              "DRB": "She hath opened her mouth to wisdom, and the law of clemency is on her tongue."
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "She watches over the affairs of her household and does not eat the bread of idleness.",
+              "KJV": "She looketh well to the ways of her household, and eateth not the bread of idleness.",
+              "NKJV": "She watches over the ways of her household,\nAnd does not eat the bread of idleness.",
+              "DRB": "She hath looked well to the paths of her house, and hath not eaten her bread idle."
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "Her children arise and call her blessed; her husband also, and he praises her:",
+              "KJV": "Her children arise up, and call her blessed; her husband also, and he praiseth her.",
+              "NKJV": "Her children rise up and call her blessed;\nHer husband also, and he praises her:",
+              "DRB": "Her children rose up, and called her blessed: her husband, and he praised her."
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "\"Many women do noble things, but you surpass them all.\"",
+              "KJV": "Many daughters have done virtuously, but thou excellest them all.",
+              "NKJV": "\u201cMany daughters have done well,\nBut you excel them all.\u201d",
+              "DRB": "Many daughters have gathered together riches: thou hast surpassed them all."
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "Charm is deceptive, and beauty is fleeting; but a woman who fears the LORD is to be praised.",
+              "KJV": "Favour is deceitful, and beauty is vain: but a woman that feareth the Lord, she shall be praised.",
+              "NKJV": "Charm is deceitful and beauty is passing,\nBut a woman who fears the Lord, she shall be praised.",
+              "DRB": "Favour is deceitful, and beauty is vain: the woman that feareth the Lord, she shall be praised."
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "Give her the reward she has earned, and let her works bring her praise at the city gate.",
+              "KJV": "Give her of the fruit of her hands; and let her own works praise her in the gates.",
+              "NKJV": "Give her of the fruit of her hands,\nAnd let her own works praise her in the gates.",
+              "DRB": "Give her of the fruit of her hands: and let her works praise her in the gates."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

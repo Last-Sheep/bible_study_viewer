@@ -1,0 +1,300 @@
+{
+  "scripture": {
+    "header": {
+      "id": "prov_07",
+      "title": "",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_7_1_5",
+        "title": "Sister Wisdom & Understanding Kin",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 7,
+          "start": 1,
+          "end": 5
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "My son, keep my words and store up my commands within you.",
+              "KJV": "My son, keep my words, and lay up my commandments with thee.",
+              "NKJV": "My son, keep my words,\nAnd treasure my commands within you.",
+              "DRB": "My son, keep my words, and lay up my precepts with thee. Son,"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Keep my commands and you will live; guard my teachings as the apple of your eye.",
+              "KJV": "Keep my commandments, and live; and my law as the apple of thine eye.",
+              "NKJV": "Keep my commands and live,\nAnd my law as the apple of your eye.",
+              "DRB": "Keep my commandments, and thou shalt live: and my law as the apple of thy eye:"
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "Bind them on your fingers; write them on the tablet of your heart.",
+              "KJV": "Bind them upon thy fingers, write them upon the table of thine heart.",
+              "NKJV": "Bind them on your fingers;\nWrite them on the tablet of your heart.",
+              "DRB": "Bind it upon thy fingers, write it upon the tables of thy heart."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Say to wisdom, \"You are my sister,\" and call understanding your kinsman;",
+              "KJV": "Say unto wisdom, Thou art my sister; and call understanding thy kinswoman:",
+              "NKJV": "Say to wisdom, \u201cYou are my sister,\u201d\nAnd call understanding your nearest kin,",
+              "DRB": "Say to wisdom: Thou art my sister: and call prudence thy friend,"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "they will keep you from the adulteress, from the wayward wife with her seductive words.",
+              "KJV": "That they may keep thee from the strange woman, from the stranger which flattereth with her words.",
+              "NKJV": "That they may keep you from the immoral woman,\nFrom the seductress who flatters with her words.",
+              "DRB": "That she may keep thee from the woman that is not thine, and from the stranger who sweeteneth her words."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_7_6_23",
+        "title": "Promiscuous & Adulterous Women",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 7,
+          "start": 6,
+          "end": 23
+        },
+        "rows": [
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "At the window of my house I looked out through the lattice.",
+              "KJV": "For at the window of my house I looked through my casement,",
+              "NKJV": "For at the window of my house\nI looked through my lattice,",
+              "DRB": "For I look out of the window of my house through the lattice,"
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "I saw among the simple, I noticed among the young men, a youth who lacked judgment.",
+              "KJV": "And beheld among the simple ones, I discerned among the youths, a young man void of understanding,",
+              "NKJV": "And saw among the simple,\nI perceived among the youths,\nA young man devoid of understanding,",
+              "DRB": "And I see little ones, I behold a foolish young man,"
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "He was going down the street near her corner, walking along in the direction of her house",
+              "KJV": "Passing through the street near her corner; and he went the way to her house,",
+              "NKJV": "Passing along the street near her corner;\nAnd he took the path to her house",
+              "DRB": "Who passeth through the street by the corner, and goeth nigh the way of her house."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "at twilight, as the day was fading, as the dark of night set in.",
+              "KJV": "In the twilight, in the evening, in the black and dark night:",
+              "NKJV": "In the twilight, in the evening,\nIn the black and dark night.",
+              "DRB": "In the dark, when it grows late, in the darkness and obscurity of the night,"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Then out came a woman to meet him, dressed like a prostitute and with crafty intent.",
+              "KJV": "And, behold, there met him a woman with the attire of an harlot, and subtil of heart.",
+              "NKJV": "And there a woman met him,\nWith the attire of a harlot, and a crafty heart.",
+              "DRB": "And behold a woman meeteth him in harlot's attire prepared to deceive souls; talkative and wandering,"
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "(She is loud and defiant, her feet never stay at home;",
+              "KJV": "(She is loud and stubborn; her feet abide not in her house:",
+              "NKJV": "She was loud and rebellious,\nHer feet would not stay at home.",
+              "DRB": "Not bearing to be quiet, not able to abide still at home,"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "now in the street, now in the squares, at every corner she lurks.)",
+              "KJV": "Now is she without, now in the streets, and lieth in wait at every corner.)",
+              "NKJV": "At times she was outside, at times in the open square,\nLurking at every corner.",
+              "DRB": "Now abroad, now in the streets, now lying in wait near the corners."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "She took hold of him and kissed him and with a brazen face she said:",
+              "KJV": "So she caught him, and kissed him, and with an impudent face said unto him,",
+              "NKJV": "So she caught him and kissed him;\nWith an impudent face she said to him:",
+              "DRB": "And catching the young man, she kisseth him, and with an impudent face, flattereth, saying:"
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "\"I have fellowship offerings at home; today I fulfilled my vows.",
+              "KJV": "I have peace offerings with me; this day have I payed my vows.",
+              "NKJV": "\u201cI have peace offerings with me;\nToday I have paid my vows.",
+              "DRB": "I vowed victims for prosperity, this day I have paid my vows."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "So I came out to meet you; I looked for you and have found you!",
+              "KJV": "Therefore came I forth to meet thee, diligently to seek thy face, and I have found thee.",
+              "NKJV": "So I came out to meet you,\nDiligently to seek your face,\nAnd I have found you.",
+              "DRB": "Therefore I am come out to meet thee, desirous to see thee, and I have found thee."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "I have covered my bed with colored linens from Egypt.",
+              "KJV": "I have decked my bed with coverings of tapestry, with carved works, with fine linen of Egypt.",
+              "NKJV": "I have spread my bed with tapestry,\nColored coverings of Egyptian linen.",
+              "DRB": "I have woven my bed with cords, I have covered it with painted tapestry, brought from Egypt."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "I have perfumed my bed with myrrh, aloes and cinnamon.",
+              "KJV": "I have perfumed my bed with myrrh, aloes, and cinnamon.",
+              "NKJV": "I have perfumed my bed\nWith myrrh, aloes, and cinnamon.",
+              "DRB": "I have perfumed my bed with myrrh, aloes, and cinnamon."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "Come, let's drink deep of love till morning; let's enjoy ourselves with love!",
+              "KJV": "Come, let us take our fill of love until the morning: let us solace ourselves with loves.",
+              "NKJV": "Come, let us take our fill of love until morning;\nLet us delight ourselves with love.",
+              "DRB": "Come, let us be inebriated with the breasts, and let us enjoy the desired embraces, till the day appear."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "My husband is not at home; he has gone on a long journey.",
+              "KJV": "For the goodman is not at home, he is gone a long journey:",
+              "NKJV": "For my husband is not at home;\nHe has gone on a long journey;",
+              "DRB": "For my husband is not at home, he is gone a very long journey."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "He took his purse filled with money and will not be home till full moon.\"",
+              "KJV": "He hath taken a bag of money with him, and will come home at the day appointed.",
+              "NKJV": "He has taken a bag of money with him,\nAnd will come home on the appointed day.\u201d",
+              "DRB": "He took with him a bag of money: he mill return home the day of the full moon."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "With persuasive words she led him astray; she seduced him with her smooth talk.",
+              "KJV": "With her much fair speech she caused him to yield, with the flattering of her lips she forced him.",
+              "NKJV": "With her enticing speech she caused him to yield,\nWith her flattering lips she seduced him.",
+              "DRB": "She entangled him with many words, and drew him away with the flattery of her lips."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "All at once he followed her like an ox going to the slaughter, like a deer stepping into a noose",
+              "KJV": "He goeth after her straightway, as an ox goeth to the slaughter, or as a fool to the correction of the stocks;",
+              "NKJV": "Immediately he went after her, as an ox goes to the slaughter,\nOr as a fool to the correction of the stocks,",
+              "DRB": "Immediately he followeth her as an ox led to be a victim, and as a lamb playing the wanton, and not knowing that he is drawn like a fool to bonds,"
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "till an arrow pierces his liver, like a bird darting into a snare, little knowing it will cost him his life.",
+              "KJV": "Till a dart strike through his liver; as a bird hasteth to the snare, and knoweth not that it is for his life.",
+              "NKJV": "Till an arrow struck his liver.\nAs a bird hastens to the snare,\nHe did not know it would cost his life.",
+              "DRB": "Till the arrow pierce his liver: as if a bird should make haste to the snare, and knoweth not that his life is in danger."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_7_24_27",
+        "title": "Listen and Pay Attention",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 7,
+          "start": 24,
+          "end": 27
+        },
+        "rows": [
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "Now then, my sons, listen to me; pay attention to what I say.",
+              "KJV": "Hearken unto me now therefore, O ye children, and attend to the words of my mouth.",
+              "NKJV": "Now therefore, listen to me, my children;\nPay attention to the words of my mouth:",
+              "DRB": "Now therefore, my son, hear me, and attend to the words of my mouth."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "Do not let your heart turn to her ways or stray into her paths.",
+              "KJV": "Let not thine heart decline to her ways, go not astray in her paths.",
+              "NKJV": "Do not let your heart turn aside to her ways,\nDo not stray into her paths;",
+              "DRB": "Let not thy mind be drawn away in her ways: neither be thou deceived with her paths."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "Many are the victims she has brought down; her slain are a mighty throng.",
+              "KJV": "For she hath cast down many wounded: yea, many strong men have been slain by her.",
+              "NKJV": "For she has cast down many wounded,\nAnd all who were slain by her were strong men.",
+              "DRB": "For she hath cast down many wounded, and the strongest have been slain by her."
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "Her house is a highway to the grave, leading down to the chambers of death.",
+              "KJV": "Her house is the way to hell, going down to the chambers of death.",
+              "NKJV": "Her house is the way to hell,\nDescending to the chambers of death.",
+              "DRB": "Her house is the way to hell, reaching even to the inner chambers of death."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

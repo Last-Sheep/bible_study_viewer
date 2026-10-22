@@ -1,0 +1,385 @@
+{
+  "scripture": {
+    "header": {
+      "id": "prov_6",
+      "title": "Proverbs 6",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_6_1_5",
+        "title": "Dangerous Promises",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 6,
+          "start": 1,
+          "end": 5
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "My son, if you have put up security for your neighbor, if you have struck hands in pledge for another,",
+              "KJV": "My son, if thou be surety for thy friend, if thou hast stricken thy hand with a stranger,",
+              "NKJV": "My son, if you become surety for your friend,\nIf you have shaken hands in pledge for a stranger,",
+              "DRB": "My son, if thou be surety for thy friend, thou hast engaged fast thy hand to a stranger."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "if you have been trapped by what you said, ensnared by the words of your mouth,",
+              "KJV": "Thou art snared with the words of thy mouth, thou art taken with the words of thy mouth.",
+              "NKJV": "You are snared by the words of your mouth;\nYou are taken by the words of your mouth.",
+              "DRB": "Thou art ensnared with the words of thy mouth, and caught with thy own words."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "then do this, my son, to free yourself, since you have fallen into your neighbor's hands: Go and humble yourself; press your plea with your neighbor!",
+              "KJV": "Do this now, my son, and deliver thyself, when thou art come into the hand of thy friend; go, humble thyself, and make sure thy friend.",
+              "NKJV": "So do this, my son, and deliver yourself;\nFor you have come into the hand of your friend:\nGo and humble yourself;\nPlead with your friend.",
+              "DRB": "Do therefore, my son, what I say, and deliver thyself: because thou art fallen into the hand of thy neighbour. Run about, make haste, stir up thy friend:"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Allow no sleep to your eyes, no slumber to your eyelids.",
+              "KJV": "Give not sleep to thine eyes, nor slumber to thine eyelids.",
+              "NKJV": "Give no sleep to your eyes,\nNor slumber to your eyelids.",
+              "DRB": "Give not sleep to thy eyes, neither let thy eyelids slumber."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "Free yourself, like a gazelle from the hand of the hunter, like a bird from the snare of the fowler.",
+              "KJV": "Deliver thyself as a roe from the hand of the hunter, and as a bird from the hand of the fowler.",
+              "NKJV": "Deliver yourself like a gazelle from the hand of the hunter,\nAnd like a bird from the hand of the fowler.",
+              "DRB": "Deliver thyself as a doe from the hand, and as a bird from the hand of the fowler."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_6_6_11",
+        "title": "The Folly of Indolence",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 6,
+          "start": 6,
+          "end": 11
+        },
+        "rows": [
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Go to the ant, you sluggard; consider its ways and be wise!",
+              "KJV": "Go to the ant, thou sluggard; consider her ways, and be wise:",
+              "NKJV": "Go to the ant, you sluggard!\nConsider her ways and be wise,",
+              "DRB": "Go to the ant, O sluggard, and consider her ways, and learn wisdom:"
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "It has no commander, no overseer or ruler,",
+              "KJV": "Which having no guide, overseer, or ruler,",
+              "NKJV": "Which, having no captain,\nOverseer or ruler,",
+              "DRB": "Which, although she hath no guide, nor master, nor captain,"
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "yet it stores its provisions in summer and gathers its food at harvest.",
+              "KJV": "Provideth her meat in the summer, and gathereth her food in the harvest.",
+              "NKJV": "Provides her supplies in the summer,\nAnd gathers her food in the harvest.",
+              "DRB": "Provideth her meat for herself in the summer, and gathereth her food in the harvest."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "How long will you lie there, you sluggard? When will you get up from your sleep?",
+              "KJV": "How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?",
+              "NKJV": "How long will you slumber, O sluggard?\nWhen will you rise from your sleep?",
+              "DRB": "How long wilt thou sleep, O sluggard? when wilt thou rise out of thy sleep?"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "A little sleep, a little slumber, a little folding of the hands to rest-",
+              "KJV": "Yet a little sleep, a little slumber, a little folding of the hands to sleep:",
+              "NKJV": "A little sleep, a little slumber,\nA little folding of the hands to sleep\u2014",
+              "DRB": "Thou wilt sleep a little, thou wilt slumber a little, thou wilt fold thy hands a little to sleep:"
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "and poverty will come on you like a bandit and scarcity like an armed man.",
+              "KJV": "So shall thy poverty come as one that travelleth, and thy want as an armed man.",
+              "NKJV": "So shall your poverty come on you like a prowler,\nAnd your need like an armed man.",
+              "DRB": "And want shall come upon thee, as a traveller, and poverty as a man armed. But if thou be diligent, thy harvest shall come as a fountain, and want shall flee far from thee."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_6_12_19",
+        "title": "The Wicked Man",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 6,
+          "start": 12,
+          "end": 19
+        },
+        "rows": [
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "A scoundrel and villain, who goes about with a corrupt mouth,",
+              "KJV": "A naughty person, a wicked man, walketh with a froward mouth.",
+              "NKJV": "A worthless person, a wicked man,\nWalks with a perverse mouth;",
+              "DRB": "A man that is an apostate, an unprofitable man, walketh with a perverse mouth,"
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "who winks with his eye, signals with his feet and motions with his fingers,",
+              "KJV": "He winketh with his eyes, he speaketh with his feet, he teacheth with his fingers;",
+              "NKJV": "He winks with his eyes,\nHe shuffles his feet,\nHe points with his fingers;",
+              "DRB": "He winketh with the eyes, presseth with the foot, speaketh with the finger."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "who plots evil with deceit in his heart- he always stirs up dissension.",
+              "KJV": "Frowardness is in his heart, he deviseth mischief continually; he soweth discord.",
+              "NKJV": "Perversity is in his heart,\nHe devises evil continually,\nHe sows discord.",
+              "DRB": "With a wicked heart he deviseth evil, and at all times he soweth discord."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Therefore disaster will overtake him in an instant; he will suddenly be destroyed-without remedy.",
+              "KJV": "Therefore shall his calamity come suddenly; suddenly shall he be broken without remedy.",
+              "NKJV": "Therefore his calamity shall come suddenly;\nSuddenly he shall be broken without remedy.",
+              "DRB": "To such a one his destruction shall presently come, and he shall suddenly be destroyed, and shall no longer have any remedy."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "There are six things the LORD hates, seven that are detestable to him:",
+              "KJV": "These six things doth the Lord hate: yea, seven are an abomination unto him:",
+              "NKJV": "These six things the Lord hates,\nYes, seven are an abomination to Him:",
+              "DRB": "Six things there are, which the Lord hateth, and the seventh his soul detesteth:"
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "haughty eyes, a lying tongue, hands that shed innocent blood,",
+              "KJV": "A proud look, a lying tongue, and hands that shed innocent blood,",
+              "NKJV": "A proud look,\nA lying tongue,\nHands that shed innocent blood,",
+              "DRB": "Haughty eyes, a lying tongue, hands that shed innocent blood,"
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "a heart that devises wicked schemes, feet that are quick to rush into evil,",
+              "KJV": "An heart that deviseth wicked imaginations, feet that be swift in running to mischief,",
+              "NKJV": "A heart that devises wicked plans,\nFeet that are swift in running to evil,",
+              "DRB": "A heart that deviseth wicked plots, feet that are swift to run into mischief,"
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "a false witness who pours out lies and a man who stirs up dissension among brothers.",
+              "KJV": "A false witness that speaketh lies, and he that soweth discord among brethren.",
+              "NKJV": "A false witness who speaks lies,\nAnd one who sows discord among brethren.",
+              "DRB": "A deceitful witness that uttereth lies, and him that soweth discord among brethren."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_6_20_35",
+        "title": "Bind the Law & Command Upon Your Heart",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 6,
+          "start": 20,
+          "end": 35
+        },
+        "rows": [
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "My son, keep your father's commands and do not forsake your mother's teaching.",
+              "KJV": "My son, keep thy father's commandment, and forsake not the law of thy mother:",
+              "NKJV": "My son, keep your father\u2019s command,\nAnd do not forsake the law of your mother.",
+              "DRB": "My son, keep the commandments of thy father, and forsake not the law of thy mother."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "Bind them upon your heart forever; fasten them around your neck.",
+              "KJV": "Bind them continually upon thine heart, and tie them about thy neck.",
+              "NKJV": "Bind them continually upon your heart;\nTie them around your neck.",
+              "DRB": "Bind them in thy heart continually, and put them about thy neck."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "When you walk, they will guide you; when you sleep, they will watch over you; when you awake, they will speak to you.",
+              "KJV": "When thou goest, it shall lead thee; when thou sleepest, it shall keep thee; and when thou awakest, it shall talk with thee.",
+              "NKJV": "When you roam, they will lead you;\nWhen you sleep, they will keep you;\nAnd when you awake, they will speak with you.",
+              "DRB": "When thou walkest, let them go with thee: when thou sleepest, let them keep thee; and when thou awakest, talk with them."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "For these commands are a lamp, this teaching is a light, and the corrections of discipline are the way to life,",
+              "KJV": "For the commandment is a lamp; and the law is light; and reproofs of instruction are the way of life:",
+              "NKJV": "For the commandment is a lamp,\nAnd the law a light;\nReproofs of instruction are the way of life,",
+              "DRB": "Because the commandment is a lamp, and the law a light, and reproofs of instruction are the way of life:"
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "keeping you from the immoral woman, from the smooth tongue of the wayward wife.",
+              "KJV": "To keep thee from the evil woman, from the flattery of the tongue of a strange woman.",
+              "NKJV": "To keep you from the evil woman,\nFrom the flattering tongue of a seductress.",
+              "DRB": "That they may keep thee from the evil woman, and from the flattering tongue of the stranger."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "Do not lust in your heart after her beauty or let her captivate you with her eyes,",
+              "KJV": "Lust not after her beauty in thine heart; neither let her take thee with her eyelids.",
+              "NKJV": "Do not lust after her beauty in your heart,\nNor let her allure you with her eyelids.",
+              "DRB": "Let not thy heart covet her beauty, be not caught with her winks:"
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "for the prostitute reduces you to a loaf of bread, and the adulteress preys upon your very life.",
+              "KJV": "For by means of a whorish woman a man is brought to a piece of bread: and the adultress will hunt for the precious life.",
+              "NKJV": "For by means of a harlot\nA man is reduced to a crust of bread;\nAnd an adulteress will prey upon his precious life.",
+              "DRB": "For the price of a harlot is scarce one loaf: but the woman catcheth the precious soul of a man."
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "Can a man scoop fire into his lap without his clothes being burned?",
+              "KJV": "Can a man take fire in his bosom, and his clothes not be burned?",
+              "NKJV": "Can a man take fire to his bosom,\nAnd his clothes not be burned?",
+              "DRB": "Can a man hide fire in his bosom, and his garments not burn?"
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "Can a man walk on hot coals without his feet being scorched?",
+              "KJV": "Can one go upon hot coals, and his feet not be burned?",
+              "NKJV": "Can one walk on hot coals,\nAnd his feet not be seared?",
+              "DRB": "Or can he walk upon hot coals, and his feet not be burnt?"
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "So is he who sleeps with another man's wife; no one who touches her will go unpunished.",
+              "KJV": "So he that goeth in to his neighbour's wife; whosoever toucheth her shall not be innocent.",
+              "NKJV": "So is he who goes in to his neighbor\u2019s wife;\nWhoever touches her shall not be innocent.",
+              "DRB": "So he that goeth in to his neighbour's wife, shall not be clean when he shall touch her."
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "Men do not despise a thief if he steals to satisfy his hunger when he is starving.",
+              "KJV": "Men do not despise a thief, if he steal to satisfy his soul when he is hungry;",
+              "NKJV": "People do not despise a thief\nIf he steals to satisfy himself when he is starving.",
+              "DRB": "The fault is not so great when a man hath stolen: for he stealeth to fill his hungry soul:"
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "Yet if he is caught, he must pay sevenfold, though it costs him all the wealth of his house.",
+              "KJV": "But if he be found, he shall restore sevenfold; he shall give all the substance of his house.",
+              "NKJV": "Yet when he is found, he must restore sevenfold;\nHe may have to give up all the substance of his house.",
+              "DRB": "And if he be taken he shall restore sevenfold, and shall give up all the substance of his house."
+            }
+          },
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "But a man who commits adultery lacks judgment; whoever does so destroys himself.",
+              "KJV": "But whoso committeth adultery with a woman lacketh understanding: he that doeth it destroyeth his own soul.",
+              "NKJV": "Whoever commits adultery with a woman lacks understanding;\nHe who does so destroys his own soul.",
+              "DRB": "But he that is an adulterer, for the folly of his heart shall destroy his own soul:"
+            }
+          },
+          {
+            "verse": 33,
+            "texts": {
+              "NIV84": "Blows and disgrace are his lot, and his shame will never be wiped away;",
+              "KJV": "A wound and dishonour shall he get; and his reproach shall not be wiped away.",
+              "NKJV": "Wounds and dishonor he will get,\nAnd his reproach will not be wiped away.",
+              "DRB": "He gathereth to himself shame and dishonour, and his reproach shall not be blotted out:"
+            }
+          },
+          {
+            "verse": 34,
+            "texts": {
+              "NIV84": "for jealousy arouses a husband's fury, and he will show no mercy when he takes revenge.",
+              "KJV": "For jealousy is the rage of a man: therefore he will not spare in the day of vengeance.",
+              "NKJV": "For jealousy is a husband\u2019s fury;\nTherefore he will not spare in the day of vengeance.",
+              "DRB": "Because the jealousy and rage of the husband will not spare in the day of revenge,"
+            }
+          },
+          {
+            "verse": 35,
+            "texts": {
+              "NIV84": "He will not accept any compensation; he will refuse the bribe, however great it is.",
+              "KJV": "He will not regard any ransom; neither will he rest content, though thou givest many gifts.",
+              "NKJV": "He will accept no recompense,\nNor will he be appeased though you give many gifts.",
+              "DRB": "Nor will he yield to any man's prayers, nor will he accept for satisfaction ever so many gifts."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

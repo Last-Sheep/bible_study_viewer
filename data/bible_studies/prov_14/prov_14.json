@@ -1,0 +1,437 @@
+{
+  "scripture": {
+    "header": {
+      "id": "",
+      "title": "Proverbs 14",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_14_1_4",
+        "title": "A Wise Woman Builds Her House",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 14,
+          "start": 1,
+          "end": 4
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "The wise woman builds her house, but with her own hands the foolish one tears hers down.",
+              "KJV": "Every wise woman buildeth her house: but the foolish plucketh it down with her hands.",
+              "NKJV": "The wise woman builds her house,\nBut the foolish pulls it down with her hands.",
+              "DRB": "A wise woman buildeth her house: but the foolish will pull down with her hands that also which is built."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "He whose walk is upright fears the LORD, but he whose ways are devious despises him.",
+              "KJV": "He that walketh in his uprightness feareth the Lord: but he that is perverse in his ways despiseth him.",
+              "NKJV": "He who walks in his uprightness fears the Lord,\nBut he who is perverse in his ways despises Him.",
+              "DRB": "He that walketh in the right way, and feareth God, is despised by him that goeth by an infamous way."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "A fool's talk brings a rod to his back, but the lips of the wise protect them.",
+              "KJV": "In the mouth of the foolish is a rod of pride: but the lips of the wise shall preserve them.",
+              "NKJV": "In the mouth of a fool is a rod of pride,\nBut the lips of the wise will preserve them.",
+              "DRB": "In the mouth of a fool is the rod of pride: but the lips of the wise preserve them."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Where there are no oxen, the manger is empty, but from the strength of an ox comes an abundant harvest.",
+              "KJV": "Where no oxen are, the crib is clean: but much increase is by the strength of the ox.",
+              "NKJV": "Where no oxen are, the trough is clean;\nBut much increase comes by the strength of an ox.",
+              "DRB": "Where there are no oxen, the crib is empty: but where there is much corn, there the strength of the ox is manifest."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_14_5_9",
+        "title": "A Scoffer Seeking Wisdom Does Not Find It",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 14,
+          "start": 5,
+          "end": 9
+        },
+        "rows": [
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "A truthful witness does not deceive, but a false witness pours out lies.",
+              "KJV": "A faithful witness will not lie: but a false witness will utter lies.",
+              "NKJV": "A faithful witness does not lie,\nBut a false witness will utter lies.",
+              "DRB": "A faithful witness will not lie: but a deceitful witness uttereth a lie."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "The mocker seeks wisdom and finds none, but knowledge comes easily to the discerning.",
+              "KJV": "A scorner seeketh wisdom, and findeth it not: but knowledge is easy unto him that understandeth.",
+              "NKJV": "A scoffer seeks wisdom and does not find it,\nBut knowledge is easy to him who understands.",
+              "DRB": "A scorner seeketh wisdom, and findeth it not: the learning of the wise is easy."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Stay away from a foolish man, for you will not find knowledge on his lips.",
+              "KJV": "Go from the presence of a foolish man, when thou perceivest not in him the lips of knowledge.",
+              "NKJV": "Go from the presence of a foolish man,\nWhen you do not perceive in him the lips of knowledge.",
+              "DRB": "Go against a foolish man, and he knoweth not the lips of prudence."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "The wisdom of the prudent is to give thought to their ways, but the folly of fools is deception.",
+              "KJV": "The wisdom of the prudent is to understand his way: but the folly of fools is deceit.",
+              "NKJV": "The wisdom of the prudent is to understand his way,\nBut the folly of fools is deceit.",
+              "DRB": "The wisdom of a. discreet man is to understand his way: and the imprudence of fools erreth."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Fools mock at making amends for sin, but goodwill is found among the upright.",
+              "KJV": "Fools make a mock at sin: but among the righteous there is favour.",
+              "NKJV": "Fools mock at sin,\nBut among the upright there is favor.",
+              "DRB": "A fool will laugh at sin, but among the just grace shall abide."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_14_10_14",
+        "title": "A Good Man is Satisfied From Above",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 14,
+          "start": 10,
+          "end": 14
+        },
+        "rows": [
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Each heart knows its own bitterness, and no one else can share its joy.",
+              "KJV": "The heart knoweth his own bitterness; and a stranger doth not intermeddle with his joy.",
+              "NKJV": "The heart knows its own bitterness,\nAnd a stranger does not share its joy.",
+              "DRB": "The heart that knoweth the bitterness of his own soul, in his joy the stranger shall not intermeddle."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "The house of the wicked will be destroyed, but the tent of the upright will flourish.",
+              "KJV": "The house of the wicked shall be overthrown: but the tabernacle of the upright shall flourish.",
+              "NKJV": "The house of the wicked will be overthrown,\nBut the tent of the upright will flourish.",
+              "DRB": "The house of the wicked shall be destroyed: but the tabernacles of the just shall flourish."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "There is a way that seems right to a man, but in the end it leads to death.",
+              "KJV": "There is a way which seemeth right unto a man, but the end thereof are the ways of death.",
+              "NKJV": "There is a way that seems right to a man,\nBut its end is the way of death.",
+              "DRB": "There is a way which seemeth just to a man: but the ends thereof lead to death."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Even in laughter the heart may ache, and joy may end in grief.",
+              "KJV": "Even in laughter the heart is sorrowful; and the end of that mirth is heaviness.",
+              "NKJV": "Even in laughter the heart may sorrow,\nAnd the end of mirth may be grief.",
+              "DRB": "Laughter shall be mingled with sorrow, and mourning taketh hold of the end of joy."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "The faithless will be fully repaid for their ways, and the good man rewarded for his.",
+              "KJV": "The backslider in heart shall be filled with his own ways: and a good man shall be satisfied from himself.",
+              "NKJV": "The backslider in heart will be filled with his own ways,\nBut a good man will be satisfied from above.",
+              "DRB": "A fool shall be filled with his own ways, and the good man shall be above him."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_14_15_19",
+        "title": "A Wise Man Departs From Evil",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 14,
+          "start": 15,
+          "end": 19
+        },
+        "rows": [
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "A simple man believes anything, but a prudent man gives thought to his steps.",
+              "KJV": "The simple believeth every word: but the prudent man looketh well to his going.",
+              "NKJV": "The simple believes every word,\nBut the prudent considers well his steps.",
+              "DRB": "The innocent believeth every word: the discreet man considereth his steps. No good shall come to the deceitful son: but the wise servant shall prosper in his dealings, and his way shall be made straight."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "A wise man fears the LORD and shuns evil, but a fool is hotheaded and reckless.",
+              "KJV": "A wise man feareth, and departeth from evil: but the fool rageth, and is confident.",
+              "NKJV": "A wise man fears and departs from evil,\nBut a fool rages and is self-confident.",
+              "DRB": "A wise man feareth and declineth from evil: the fool leapeth over and is confident."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "A quick-tempered man does foolish things, and a crafty man is hated.",
+              "KJV": "He that is soon angry dealeth foolishly: and a man of wicked devices is hated.",
+              "NKJV": "A quick-tempered man acts foolishly,\nAnd a man of wicked intentions is hated.",
+              "DRB": "The impatient man shall work folly: and the crafty man is hateful."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "The simple inherit folly, but the prudent are crowned with knowledge.",
+              "KJV": "The simple inherit folly: but the prudent are crowned with knowledge.",
+              "NKJV": "The simple inherit folly,\nBut the prudent are crowned with knowledge.",
+              "DRB": "The childish shall possess folly, and the prudent, shall look for knowledge."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "Evil men will bow down in the presence of the good, and the wicked at the gates of the righteous.",
+              "KJV": "The evil bow before the good; and the wicked at the gates of the righteous.",
+              "NKJV": "The evil will bow before the good,\nAnd the wicked at the gates of the righteous.",
+              "DRB": "The evil shall fall down before the good: and the wicked before the gates of the just."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_14_20_23",
+        "title": "Idle Chatter Leads to Poverty",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 14,
+          "start": 20,
+          "end": 23
+        },
+        "rows": [
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "The poor are shunned even by their neighbors, but the rich have many friends.",
+              "KJV": "The poor is hated even of his own neighbour: but the rich hath many friends.",
+              "NKJV": "The poor man is hated even by his own neighbor,\nBut the rich has many friends.",
+              "DRB": "The poor man shall be hateful even to his own neighbour: but the friends of the rich are many."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "He who despises his neighbor sins, but blessed is he who is kind to the needy.",
+              "KJV": "He that despiseth his neighbour sinneth: but he that hath mercy on the poor, happy is he.",
+              "NKJV": "He who despises his neighbor sins;\nBut he who has mercy on the poor, happy is he.",
+              "DRB": "He that despiseth his neighbour, sinneth: but he that sheweth mercy to the poor, shall be blessed. He that believeth in the Lord, loveth mercy."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "Do not those who plot evil go astray? But those who plan what is good find love and faithfulness.",
+              "KJV": "Do they not err that devise evil? but mercy and truth shall be to them that devise good.",
+              "NKJV": "Do they not go astray who devise evil?\nBut mercy and truth belong to those who devise good.",
+              "DRB": "They err that work evil: but mercy and truth prepare good things."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "All hard work brings a profit, but mere talk leads only to poverty.",
+              "KJV": "In all labour there is profit: but the talk of the lips tendeth only to penury.",
+              "NKJV": "In all labor there is profit,\nBut idle chatter leads only to poverty.",
+              "DRB": "In much work there shall be abundance: but where there are many words, there is oftentimes want."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_14_24_27",
+        "title": "A True Witness Delivers Souls",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 14,
+          "start": 24,
+          "end": 27
+        },
+        "rows": [
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "The wealth of the wise is their crown, but the folly of fools yields folly.",
+              "KJV": "The crown of the wise is their riches: but the foolishness of fools is folly.",
+              "NKJV": "The crown of the wise is their riches,\nBut the foolishness of fools is folly.",
+              "DRB": "The crown of the wise is their riches: the folly of fools, imprudence."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "A truthful witness saves lives, but a false witness is deceitful.",
+              "KJV": "A true witness delivereth souls: but a deceitful witness speaketh lies.",
+              "NKJV": "A true witness delivers souls,\nBut a deceitful witness speaks lies.",
+              "DRB": "A faithful witness delivereth souls: and the double dealer uttereth lies."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "He who fears the LORD has a secure fortress, and for his children it will be a refuge.",
+              "KJV": "In the fear of the Lord is strong confidence: and his children shall have a place of refuge.",
+              "NKJV": "In the fear of the Lord there is strong confidence,\nAnd His children will have a place of refuge.",
+              "DRB": "In the fear of the Lord is confidence of strength, and there shall be hope for his children."
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "The fear of the LORD is a fountain of life, turning a man from the snares of death.",
+              "KJV": "The fear of the Lord is a fountain of life, to depart from the snares of death.",
+              "NKJV": "The fear of the Lord is a fountain of life,\nTo turn one away from the snares of death.",
+              "DRB": "The fear of the Lord is a fountain of life, to decline from the ruin of death."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_14_28_32",
+        "title": "A Sound Heart is Life to the Body",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 14,
+          "start": 28,
+          "end": 32
+        },
+        "rows": [
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "A large population is a king's glory, but without subjects a prince is ruined.",
+              "KJV": "In the multitude of people is the king's honour: but in the want of people is the destruction of the prince.",
+              "NKJV": "In a multitude of people is a king\u2019s honor,\nBut in the lack of people is the downfall of a prince.",
+              "DRB": "In the multitude of people is the dignity of the king: and in the small number of people the dishonour of the prince."
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "A patient man has great understanding, but a quick-tempered man displays folly.",
+              "KJV": "He that is slow to wrath is of great understanding: but he that is hasty of spirit exalteth folly.",
+              "NKJV": "He who is slow to wrath has great understanding,\nBut he who is impulsive exalts folly.",
+              "DRB": "He that is patient, is governed with much wisdom: but he that is impatient, exalteth his folly."
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "A heart at peace gives life to the body, but envy rots the bones.",
+              "KJV": "A sound heart is the life of the flesh: but envy the rottenness of the bones.",
+              "NKJV": "A sound heart is life to the body,\nBut envy is rottenness to the bones.",
+              "DRB": "Soundness of heart is the life of the flesh: but envy is the rottenness of the bones."
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "He who oppresses the poor shows contempt for their Maker, but whoever is kind to the needy honors God.",
+              "KJV": "He that oppresseth the poor reproacheth his Maker: but he that honoureth him hath mercy on the poor.",
+              "NKJV": "He who oppresses the poor reproaches his Maker,\nBut he who honors Him has mercy on the needy.",
+              "DRB": "He that oppresseth the poor, upbraideth his Maker: but he that hath pity on the poor, honoureth him."
+            }
+          },
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "When calamity comes, the wicked are brought down, but even in death the righteous have a refuge.",
+              "KJV": "The wicked is driven away in his wickedness: but the righteous hath hope in his death.",
+              "NKJV": "The wicked is banished in his wickedness,\nBut the righteous has a refuge in his death.",
+              "DRB": "The wicked man shall be driven out in his wickedness: but the just hath hope in his death."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_14_33_35",
+        "title": "Wisdom Rests in the Heart",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 14,
+          "start": 33,
+          "end": 35
+        },
+        "rows": [
+          {
+            "verse": 33,
+            "texts": {
+              "NIV84": "Wisdom reposes in the heart of the discerning and even among fools she lets herself be known.",
+              "KJV": "Wisdom resteth in the heart of him that hath understanding: but that which is in the midst of fools is made known.",
+              "NKJV": "Wisdom rests in the heart of him who has understanding,\nBut what is in the heart of fools is made known.",
+              "DRB": "In the heart of the prudent resteth wisdom, and it shall instruct all the ignorant."
+            }
+          },
+          {
+            "verse": 34,
+            "texts": {
+              "NIV84": "Righteousness exalts a nation, but sin is a disgrace to any people.",
+              "KJV": "Righteousness exalteth a nation: but sin is a reproach to any people.",
+              "NKJV": "Righteousness exalts a nation,\nBut sin is a reproach to any people.",
+              "DRB": "Justice exalteth a nation: but sin maketh nations miserable."
+            }
+          },
+          {
+            "verse": 35,
+            "texts": {
+              "NIV84": "A king delights in a wise servant, but a shameful servant incurs his wrath.",
+              "KJV": "The king's favour is toward a wise servant: but his wrath is against him that causeth shame.",
+              "NKJV": "The king\u2019s favor is toward a wise servant,\nBut his wrath is against him who causes shame.",
+              "DRB": "A wise servant is acceptable to the king: he that is good for nothing shall feel his anger."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "scripture": {
+    "header": {
+      "id": "",
+      "title": "Proverbs 22",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_22_1_6",
+        "title": "He Who Guards His Soul",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 22,
+          "start": 1,
+          "end": 6
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "A good name is more desirable than great riches; to be esteemed is better than silver or gold.",
+              "KJV": "A good name is rather to be chosen than great riches, and loving favour rather than silver and gold.",
+              "NKJV": "A good name is to be chosen rather than great riches,\nLoving favor rather than silver and gold.",
+              "DRB": "A good name is better than great riches: and good favour is above silver and gold."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Rich and poor have this in common: The LORD is the Maker of them all.",
+              "KJV": "The rich and poor meet together: the Lord is the maker of them all.",
+              "NKJV": "The rich and the poor have this in common,\nThe Lord is the maker of them all.",
+              "DRB": "The rich and poor have met one another: the Lord is the maker of them both."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "A prudent man sees danger and takes refuge, but the simple keep going and suffer for it.",
+              "KJV": "A prudent man foreseeth the evil, and hideth himself: but the simple pass on, and are punished.",
+              "NKJV": "A prudent man foresees evil and hides himself,\nBut the simple pass on and are punished.",
+              "DRB": "The prudent man saw the evil, and hid himself: the simple passed on, and suffered loss."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Humility and the fear of the LORD bring wealth and honor and life.",
+              "KJV": "By humility and the fear of the Lord are riches, and honour, and life.",
+              "NKJV": "By humility and the fear of the Lord\nAre riches and honor and life.",
+              "DRB": "The fruit of humility is the fear of the Lord, riches and glory and life."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "In the paths of the wicked lie thorns and snares, but he who guards his soul stays far from them.",
+              "KJV": "Thorns and snares are in the way of the froward: he that doth keep his soul shall be far from them.",
+              "NKJV": "Thorns and snares are in the way of the perverse;\nHe who guards his soul will be far from them.",
+              "DRB": "Arms and swords are in the way of the perverse: but he that keepeth his own soul departeth far from them."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Train a child in the way he should go, and when he is old he will not turn from it.",
+              "KJV": "Train up a child in the way he should go: and when he is old, he will not depart from it.",
+              "NKJV": "Train up a child in the way he should go,\nAnd when he is old he will not depart from it.",
+              "DRB": "It is a proverb: A young man according to his way, even when he is old he will not depart from it."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_22_7_9",
+        "title": "He Who Has a Generous Eye",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 22,
+          "start": 7,
+          "end": 9
+        },
+        "rows": [
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "The rich rule over the poor, and the borrower is servant to the lender.",
+              "KJV": "The rich ruleth over the poor, and the borrower is servant to the lender.",
+              "NKJV": "The rich rules over the poor,\nAnd the borrower is servant to the lender.",
+              "DRB": "The rich ruleth over the poor: and the borrower is servant to him that lendeth."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "He who sows wickedness reaps trouble, and the rod of his fury will be destroyed.",
+              "KJV": "He that soweth iniquity shall reap vanity: and the rod of his anger shall fail.",
+              "NKJV": "He who sows iniquity will reap sorrow,\nAnd the rod of his anger will fail.",
+              "DRB": "He that soweth iniquity shall reap evils, and with the rod of his anger he shall be consumed."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "A generous man will himself be blessed, for he shares his food with the poor.",
+              "KJV": "He that hath a bountiful eye shall be blessed; for he giveth of his bread to the poor.",
+              "NKJV": "He who has a generous eye will be blessed,\nFor he gives of his bread to the poor.",
+              "DRB": "He that is inclined to mercy shall be blessed: for of his bread he hath given to the poor. He that maketh presents shall purchase victory and honour: but he carrieth away the souls of the receivers."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_22_10_16",
+        "title": "He Who Loves Purity of Heart",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 22,
+          "start": 10,
+          "end": 16
+        },
+        "rows": [
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Drive out the mocker, and out goes strife; quarrels and insults are ended.",
+              "KJV": "Cast out the scorner, and contention shall go out; yea, strife and reproach shall cease.",
+              "NKJV": "Cast out the scoffer, and contention will leave;\nYes, strife and reproach will cease.",
+              "DRB": "Cast out the scoffer, and contention shall go out with him, and quarrels and reproaches shall cease."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "He who loves a pure heart and whose speech is gracious will have the king for his friend.",
+              "KJV": "He that loveth pureness of heart, for the grace of his lips the king shall be his friend.",
+              "NKJV": "He who loves purity of heart\nAnd has grace on his lips,\nThe king will be his friend.",
+              "DRB": "He that loveth cleanness of heart, for the grace of his lips shall have the king for his friend."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "The eyes of the LORD keep watch over knowledge, but he frustrates the words of the unfaithful.",
+              "KJV": "The eyes of the Lord preserve knowledge, and he overthroweth the words of the transgressor.",
+              "NKJV": "The eyes of the Lord preserve knowledge,\nBut He overthrows the words of the faithless.",
+              "DRB": "The eyes of the Lord preserve knowledge: and the words of the unjust are overthrown."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "The sluggard says, \"There is a lion outside!\" or, \"I will be murdered in the streets!\"",
+              "KJV": "The slothful man saith, There is a lion without, I shall be slain in the streets.",
+              "NKJV": "The lazy man says, \u201cThere is a lion outside!\nI shall be slain in the streets!\u201d",
+              "DRB": "The slothful man saith: There is a lion without, I shall be slain in the midst of the streets."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "The mouth of an adulteress is a deep pit; he who is under the LORD's wrath will fall into it.",
+              "KJV": "The mouth of strange women is a deep pit: he that is abhorred of the Lord shall fall therein.",
+              "NKJV": "The mouth of an immoral woman is a deep pit;\nHe who is abhorred by the Lord will fall there.",
+              "DRB": "The mouth of a strange woman is a deep pit: he whom the Lord is angry with, shall fall into it."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Folly is bound up in the heart of a child, but the rod of discipline will drive it far from him.",
+              "KJV": "Foolishness is bound in the heart of a child; but the rod of correction shall drive it far from him.",
+              "NKJV": "Foolishness is bound up in the heart of a child;\nThe rod of correction will drive it far from him.",
+              "DRB": "Folly is bound up in the heart of a child, and the rod of correction shall drive it away."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "He who oppresses the poor to increase his wealth and he who gives gifts to the rich-both come to poverty.",
+              "KJV": "He that oppresseth the poor to increase his riches, and he that giveth to the rich, shall surely come to want.",
+              "NKJV": "He who oppresses the poor to increase his riches,\nAnd he who gives to the rich, will surely come to poverty.",
+              "DRB": "He that oppresseth the poor, to in- crease his own riches, shall himself give to one that is richer, and shall be in need."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_22_17_21",
+        "title": "Incline Your Ear & Apply Your Heart",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 22,
+          "start": 17,
+          "end": 21
+        },
+        "rows": [
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "Pay attention and listen to the sayings of the wise; apply your heart to what I teach,",
+              "KJV": "Bow down thine ear, and hear the words of the wise, and apply thine heart unto my knowledge.",
+              "NKJV": "Incline your ear and hear the words of the wise,\nAnd apply your heart to my knowledge;",
+              "DRB": "Incline thy ear, and hear the words of the wise: and apply thy heart to my doctrine :"
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "for it is pleasing when you keep them in your heart and have all of them ready on your lips.",
+              "KJV": "For it is a pleasant thing if thou keep them within thee; they shall withal be fitted in thy lips.",
+              "NKJV": "For it is a pleasant thing if you keep them within you;\nLet them all be fixed upon your lips,",
+              "DRB": "Which shall be beautiful for thee, if thou keep it in thy bowels, and it shall flow in thy lips:"
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "So that your trust may be in the LORD, I teach you today, even you.",
+              "KJV": "That thy trust may be in the Lord, I have made known to thee this day, even to thee.",
+              "NKJV": "So that your trust may be in the Lord;\nI have instructed you today, even you.",
+              "DRB": "That thy trust may be in the Lord, wherefore I have also shewn it to thee this day."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "Have I not written thirty sayings for you, sayings of counsel and knowledge,",
+              "KJV": "Have not I written to thee excellent things in counsels and knowledge,",
+              "NKJV": "Have I not written to you excellent things\nOf counsels and knowledge,",
+              "DRB": "Behold I have described it to thee three manner of ways, in thoughts and knowledge :"
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "teaching you true and reliable words, so that you can give sound answers to him who sent you?",
+              "KJV": "That I might make thee know the certainty of the words of truth; that thou mightest answer the words of truth to them that send unto thee?",
+              "NKJV": "That I may make you know the certainty of the words of truth,\nThat you may answer words of truth\nTo those who send to you?",
+              "DRB": "That I might shew thee the certainty, and the words of truth, to answer out of these to them that sent thee."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_22_22_25",
+        "title": "No Friendship With an Angry Man",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 22,
+          "start": 22,
+          "end": 25
+        },
+        "rows": [
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "Do not exploit the poor because they are poor and do not crush the needy in court,",
+              "KJV": "Rob not the poor, because he is poor: neither oppress the afflicted in the gate:",
+              "NKJV": "Do not rob the poor because he is poor,\nNor oppress the afflicted at the gate;",
+              "DRB": "Do no violence to the poor, because he is poor: and do not oppress the needy in the gate:"
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "for the LORD will take up their case and will plunder those who plunder them.",
+              "KJV": "For the Lord will plead their cause, and spoil the soul of those that spoiled them.",
+              "NKJV": "For the Lord will plead their cause,\nAnd plunder the soul of those who plunder them.",
+              "DRB": "Because the Lord will judge his cause, and will afflict them that have afflicted his soul."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "Do not make friends with a hot-tempered man, do not associate with one easily angered,",
+              "KJV": "Make no friendship with an angry man; and with a furious man thou shalt not go:",
+              "NKJV": "Make no friendship with an angry man,\nAnd with a furious man do not go,",
+              "DRB": "Be not a friend to an angry man, and do not walk with a furious man:"
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "or you may learn his ways and get yourself ensnared.",
+              "KJV": "Lest thou learn his ways, and get a snare to thy soul.",
+              "NKJV": "Lest you learn his ways\nAnd set a snare for your soul.",
+              "DRB": "Lest perhaps thou learn his ways, and take scandal to thy soul."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_22_26_29",
+        "title": "A Man Who Excels in His Work",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 22,
+          "start": 26,
+          "end": 29
+        },
+        "rows": [
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "Do not be a man who strikes hands in pledge or puts up security for debts;",
+              "KJV": "Be not thou one of them that strike hands, or of them that are sureties for debts.",
+              "NKJV": "Do not be one of those who shakes hands in a pledge,\nOne of those who is surety for debts;",
+              "DRB": "Be not with them that fasten down their hands, and that offer themselves sureties for debts:"
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "if you lack the means to pay, your very bed will be snatched from under you.",
+              "KJV": "If thou hast nothing to pay, why should he take away thy bed from under thee?",
+              "NKJV": "If you have nothing with which to pay,\nWhy should he take away your bed from under you?",
+              "DRB": "For if thou have not wherewith to restore, what cause is there, that he should take the covering from thy bed?"
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "Do not move an ancient boundary stone set up by your forefathers.",
+              "KJV": "Remove not the ancient landmark, which thy fathers have set.",
+              "NKJV": "Do not remove the ancient landmark\nWhich your fathers have set.",
+              "DRB": "Pass not beyond the ancient bounds which thy fathers have set."
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "Do you see a man skilled in his work? He will serve before kings; he will not serve before obscure men.",
+              "KJV": "Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean men.",
+              "NKJV": "Do you see a man who excels in his work?\nHe will stand before kings;\nHe will not stand before unknown men.",
+              "DRB": "Hast thou seen a man swift in his work? he shall stand before kings, and shall not be before those that are obscure."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "scripture": {
+    "header": {
+      "id": "prov_17",
+      "title": "",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_17_1_7",
+        "title": "False Lips and a Spiteful Tongue",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 17,
+          "start": 1,
+          "end": 7
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Better a dry crust with peace and quiet than a house full of feasting, with strife.",
+              "KJV": "Better is a dry morsel, and quietness therewith, than an house full of sacrifices with strife.",
+              "NKJV": "Better is a dry morsel with quietness,\nThan a house full of feasting with strife.",
+              "DRB": "Better is a dry morsel with joy, than a house full of victims with strife."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "A wise servant will rule over a disgraceful son, and will share the inheritance as one of the brothers.",
+              "KJV": "A wise servant shall have rule over a son that causeth shame, and shall have part of the inheritance among the brethren.",
+              "NKJV": "A wise servant will rule over a son who causes shame,\nAnd will share an inheritance among the brothers.",
+              "DRB": "A wise servant shall rule over foolish sons, and shall divide the inheritance among the brethren."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "The crucible for silver and the furnace for gold, but the LORD tests the heart.",
+              "KJV": "The fining pot is for silver, and the furnace for gold: but the Lord trieth the hearts.",
+              "NKJV": "The refining pot is for silver and the furnace for gold,\nBut the Lord tests the hearts.",
+              "DRB": "As silver is tried by fire, and gold in the furnace: so the Lord trieth the hearts."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "A wicked man listens to evil lips; a liar pays attention to a malicious tongue.",
+              "KJV": "A wicked doer giveth heed to false lips; and a liar giveth ear to a naughty tongue.",
+              "NKJV": "An evildoer gives heed to false lips;\nA liar listens eagerly to a spiteful tongue.",
+              "DRB": "The evil man obeyeth an unjust tongue: and the deceitful hearkeneth to lying lips."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "He who mocks the poor shows contempt for their Maker; whoever gloats over disaster will not go unpunished.",
+              "KJV": "Whoso mocketh the poor reproacheth his Maker: and he that is glad at calamities shall not be unpunished.",
+              "NKJV": "He who mocks the poor reproaches his Maker;\nHe who is glad at calamity will not go unpunished.",
+              "DRB": "He that despiseth the poor, reproacheth his Maker; and he that rejoiceth at another man's ruin, shall not be unpunished."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Children's children are a crown to the aged, and parents are the pride of their children.",
+              "KJV": "Children's children are the crown of old men; and the glory of children are their fathers.",
+              "NKJV": "Children\u2019s children are the crown of old men,\nAnd the glory of children is their father.",
+              "DRB": "Children's children are the crown of old men: and the glory of children are their fathers."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Arrogant lips are unsuited to a fool- how much worse lying lips to a ruler!",
+              "KJV": "Excellent speech becometh not a fool: much less do lying lips a prince.",
+              "NKJV": "Excellent speech is not becoming to a fool,\nMuch less lying lips to a prince.",
+              "DRB": "Eloquent words do not become a fool, nor lying lips a prince."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_17_8_14",
+        "title": "Stop Contention Before A Quarrel Starts",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 17,
+          "start": 8,
+          "end": 14
+        },
+        "rows": [
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "A bribe is a charm to the one who gives it; wherever he turns, he succeeds.",
+              "KJV": "A gift is as a precious stone in the eyes of him that hath it: whithersoever it turneth, it prospereth.",
+              "NKJV": "A present is a precious stone in the eyes of its possessor;\nWherever he turns, he prospers.",
+              "DRB": "The expectation of him that expecteth, is a most acceptable jewel: whithersoever he turneth himself, he understandeth wisely."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "He who covers over an offense promotes love, but whoever repeats the matter separates close friends.",
+              "KJV": "He that covereth a transgression seeketh love; but he that repeateth a matter separateth very friends.",
+              "NKJV": "He who covers a transgression seeks love,\nBut he who repeats a matter separates friends.",
+              "DRB": "He that concealeth a transgression. seeketh friendships: he that repeateth it again, separateth friends."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "A rebuke impresses a man of discernment more than a hundred lashes a fool.",
+              "KJV": "A reproof entereth more into a wise man than an hundred stripes into a fool.",
+              "NKJV": "Rebuke is more effective for a wise man\nThan a hundred blows on a fool.",
+              "DRB": "A reproof availeth more with a wise man, than a hundred stripes with a fool."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "An evil man is bent only on rebellion; a merciless official will be sent against him.",
+              "KJV": "An evil man seeketh only rebellion: therefore a cruel messenger shall be sent against him.",
+              "NKJV": "An evil man seeks only rebellion;\nTherefore a cruel messenger will be sent against him.",
+              "DRB": "An evil man always seeketh quarrels: but a cruel angel shall be sent against him."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Better to meet a bear robbed of her cubs than a fool in his folly.",
+              "KJV": "Let a bear robbed of her whelps meet a man, rather than a fool in his folly.",
+              "NKJV": "Let a man meet a bear robbed of her cubs,\nRather than a fool in his folly.",
+              "DRB": "It is better to meet a bear robbed of her whelps, than a fool trusting in his own folly."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "If a man pays back evil for good, evil will never leave his house.",
+              "KJV": "Whoso rewardeth evil for good, evil shall not depart from his house.",
+              "NKJV": "Whoever rewards evil for good,\nEvil will not depart from his house.",
+              "DRB": "He that rendereth evil for good, evil shall not depart from his house."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "Starting a quarrel is like breaching a dam; so drop the matter before a dispute breaks out.",
+              "KJV": "The beginning of strife is as when one letteth out water: therefore leave off contention, before it be meddled with.",
+              "NKJV": "The beginning of strife is like releasing water;\nTherefore stop contention before a quarrel starts.",
+              "DRB": "The beginning of quarrels is as when one letteth out water: before he suffereth reproach he forsaketh judgment."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_17_15_18",
+        "title": "A Friend Loves at All Times",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 17,
+          "start": 15,
+          "end": 18
+        },
+        "rows": [
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Acquitting the guilty and condemning the innocent- the LORD detests them both.",
+              "KJV": "He that justifieth the wicked, and he that condemneth the just, even they both are abomination to the Lord.",
+              "NKJV": "He who justifies the wicked, and he who condemns the just,\nBoth of them alike are an abomination to the Lord.",
+              "DRB": "He that justifieth the wicked, and he that condemneth the just, both are abominable before God."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "Of what use is money in the hand of a fool, since he has no desire to get wisdom?",
+              "KJV": "Wherefore is there a price in the hand of a fool to get wisdom, seeing he hath no heart to it?",
+              "NKJV": "Why is there in the hand of a fool the purchase price of wisdom,\nSince he has no heart for it?",
+              "DRB": "What doth it avail a fool to have riches, seeing he cannot buy wisdom? He that maketh his house high, seeketh a downfall: and he that refuseth to learn, shall fall into evils."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "A friend loves at all times, and a brother is born for adversity.",
+              "KJV": "A friend loveth at all times, and a brother is born for adversity.",
+              "NKJV": "A friend loves at all times,\nAnd a brother is born for adversity.",
+              "DRB": "He that is a friend loveth at all times: and a brother is proved in distress."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "A man lacking in judgment strikes hands in pledge and puts up security for his neighbor.",
+              "KJV": "A man void of understanding striketh hands, and becometh surety in the presence of his friend.",
+              "NKJV": "A man devoid of understanding shakes hands in a pledge,\nAnd becomes surety for his friend.",
+              "DRB": "A foolish man will clap hands, when he is surety for his friend."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_17_19_23",
+        "title": "A Deceitful Heart Finds No Good",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 17,
+          "start": 19,
+          "end": 23
+        },
+        "rows": [
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "He who loves a quarrel loves sin; he who builds a high gate invites destruction.",
+              "KJV": "He loveth transgression that loveth strife: and he that exalteth his gate seeketh destruction.",
+              "NKJV": "He who loves transgression loves strife,\nAnd he who exalts his gate seeks destruction.",
+              "DRB": "He that studieth discords, loveth quarrels: and he that exalteth his door, seeketh ruin."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "A man of perverse heart does not prosper; he whose tongue is deceitful falls into trouble.",
+              "KJV": "He that hath a froward heart findeth no good: and he that hath a perverse tongue falleth into mischief.",
+              "NKJV": "He who has a deceitful heart finds no good,\nAnd he who has a perverse tongue falls into evil.",
+              "DRB": "He that is of a perverse heart, shall not find good: and he that perverteth his tongue, shall fall into evil."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "To have a fool for a son brings grief; there is no joy for the father of a fool.",
+              "KJV": "He that begetteth a fool doeth it to his sorrow: and the father of a fool hath no joy.",
+              "NKJV": "He who begets a scoffer does so to his sorrow,\nAnd the father of a fool has no joy.",
+              "DRB": "A fool is born to his own disgrace: and even his father shall not rejoice in a fool."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "A cheerful heart is good medicine, but a crushed spirit dries up the bones.",
+              "KJV": "A merry heart doeth good like a medicine: but a broken spirit drieth the bones.",
+              "NKJV": "A merry heart does good, like medicine,\nBut a broken spirit dries the bones.",
+              "DRB": "A joyful mind maketh age flourishing: a sorrowful spirit drieth up the bones."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "A wicked man accepts a bribe in secret to pervert the course of justice.",
+              "KJV": "A wicked man taketh a gift out of the bosom to pervert the ways of judgment.",
+              "NKJV": "A wicked man accepts a bribe behind the back\nTo pervert the ways of justice.",
+              "DRB": "The wicked man taketh gifts out of the bosom, that he may pervert the paths of judgment."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_17_24_28",
+        "title": "A Man of Understanding",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 17,
+          "start": 24,
+          "end": 28
+        },
+        "rows": [
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "A discerning man keeps wisdom in view, but a fool's eyes wander to the ends of the earth.",
+              "KJV": "Wisdom is before him that hath understanding; but the eyes of a fool are in the ends of the earth.",
+              "NKJV": "Wisdom is in the sight of him who has understanding,\nBut the eyes of a fool are on the ends of the earth.",
+              "DRB": "Wisdom shineth in the face of the wise: the eyes of fools are in the ends of the earth."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "A foolish son brings grief to his father and bitterness to the one who bore him.",
+              "KJV": "A foolish son is a grief to his father, and bitterness to her that bare him.",
+              "NKJV": "A foolish son is a grief to his father,\nAnd bitterness to her who bore him.",
+              "DRB": "A foolish son is the anger of the father: and the sorrow of the mother that bore him."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "It is not good to punish an innocent man, or to flog officials for their integrity.",
+              "KJV": "Also to punish the just is not good, nor to strike princes for equity.",
+              "NKJV": "Also, to punish the righteous is not good,\nNor to strike princes for their uprightness.",
+              "DRB": "It is no good thing to do hurt to the just: nor to strike the prince, who judgeth right."
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "A man of knowledge uses words with restraint, and a man of understanding is even-tempered.",
+              "KJV": "He that hath knowledge spareth his words: and a man of understanding is of an excellent spirit.",
+              "NKJV": "He who has knowledge spares his words,\nAnd a man of understanding is of a calm spirit.",
+              "DRB": "He that setteth bounds to his words. is knowing and wise: and the man of understanding is of a precious spirit."
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "Even a fool is thought wise if he keeps silent, and discerning if he holds his tongue.",
+              "KJV": "Even a fool, when he holdeth his peace, is counted wise: and he that shutteth his lips is esteemed a man of understanding.",
+              "NKJV": "Even a fool is counted wise when he holds his peace;\nWhen he shuts his lips, he is considered perceptive.",
+              "DRB": "Even a fool, if he will hold his peace shall be counted wise: and if he close his lips, a man of understanding."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "scripture": {
+    "header": {
+      "id": "ecc_3",
+      "title": "Ecclesiastes 3",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "ecc_3_1_8",
+        "title": "A Time for Everything",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 3,
+          "start": 1,
+          "end": 8
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "There is a time for everything, and a season for every activity under heaven:",
+              "KJV": "To every thing there is a season, and a time to every purpose under the heaven:",
+              "NKJV": "To everything there is a season,\nA time for every purpose under heaven:",
+              "DRB": "All things have their season, and in their times all things pass under heaven."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "a time to be born and a time to die, a time to plant and a time to uproot,",
+              "KJV": "A time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted;",
+              "NKJV": "A time to be born,\nAnd a time to die;\nA time to plant,\nAnd a time to pluck what is planted;",
+              "DRB": "A time to be born and a time to die. A time to plant, and a time to pluck up that which is planted."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "a time to kill and a time to heal, a time to tear down and a time to build,",
+              "KJV": "A time to kill, and a time to heal; a time to break down, and a time to build up;",
+              "NKJV": "A time to kill,\nAnd a time to heal;\nA time to break down,\nAnd a time to build up;",
+              "DRB": "A time to kill, and a time to heal. A time to destroy, and a time to build."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "a time to weep and a time to laugh, a time to mourn and a time to dance,",
+              "KJV": "A time to weep, and a time to laugh; a time to mourn, and a time to dance;",
+              "NKJV": "A time to weep,\nAnd a time to laugh;\nA time to mourn,\nAnd a time to dance;",
+              "DRB": "A time to weep, and a time to laugh. A time to mourn, and a time to dance."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "a time to scatter stones and a time to gather them, a time to embrace and a time to refrain,",
+              "KJV": "A time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing;",
+              "NKJV": "A time to cast away stones,\nAnd a time to gather stones;\nA time to embrace,\nAnd a time to refrain from embracing;",
+              "DRB": "A time to scatter stones, and a time to gather. A time to embrace, and a time to be far from embraces."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "a time to search and a time to give up, a time to keep and a time to throw away,",
+              "KJV": "A time to get, and a time to lose; a time to keep, and a time to cast away;",
+              "NKJV": "A time to gain,\nAnd a time to lose;\nA time to keep,\nAnd a time to throw away;",
+              "DRB": "A time to get, and a time to lose. A time to keep, and a time to cast away."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "a time to tear and a time to mend, a time to be silent and a time to speak,",
+              "KJV": "A time to rend, and a time to sew; a time to keep silence, and a time to speak;",
+              "NKJV": "A time to tear,\nAnd a time to sew;\nA time to keep silence,\nAnd a time to speak;",
+              "DRB": "A time to rend, and a time to sew. A time to keep silence, and a time to speak."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "a time to love and a time to hate, a time for war and a time for peace.",
+              "KJV": "A time to love, and a time to hate; a time of war, and a time of peace.",
+              "NKJV": "A time to love,\nAnd a time to hate;\nA time of war,\nAnd a time of peace.",
+              "DRB": "A time of love, and a time of hatred. A time of war, and a time of peace."
+            }
+          }
+        ]
+      },
+      {
+        "id": "ecc_3_9_15",
+        "title": "Eternity in the Heart",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 3,
+          "start": 9,
+          "end": 15
+        },
+        "rows": [
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "What does the worker gain from his toil?",
+              "KJV": "What profit hath he that worketh in that wherein he laboureth?",
+              "NKJV": "What profit has the worker from that in which he labors?",
+              "DRB": "What hath man more of his labour?"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "I have seen the burden God has laid on men.",
+              "KJV": "I have seen the travail, which God hath given to the sons of men to be exercised in it.",
+              "NKJV": "I have seen the God-given task with which the sons of men are to be occupied.",
+              "DRB": "I have seen the trouble, which God hath given the sons of men to be exercised in it."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "He has made everything beautiful in its time. He has also set eternity in the hearts of men; yet they cannot fathom what God has done from beginning to end.",
+              "KJV": "He hath made every thing beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end.",
+              "NKJV": "He has made everything beautiful in its time. Also He has put eternity in their hearts, except that no one can find out the work that God does from beginning to end.",
+              "DRB": "He hath made all things good in their time, and hath delivered the world to their consideration, so that man cannot flnd out the work which God hath made from the beginning to the end."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "I know that there is nothing better for men than to be happy and do good while they live.",
+              "KJV": "I know that there is no good in them, but for a man to rejoice, and to do good in his life.",
+              "NKJV": "I know that nothing is better for them than to rejoice, and to do good in their lives,",
+              "DRB": "And I have known that there was no better thing than to rejoice, and to do well in this life."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "That everyone may eat and drink, and find satisfaction in all his toil-this is the gift of God.",
+              "KJV": "And also that every man should eat and drink, and enjoy the good of all his labour, it is the gift of God.",
+              "NKJV": "and also that every man should eat and drink and enjoy the good of all his labor\u2014it is the gift of God.",
+              "DRB": "For every man that eateth and drinketh, and seeth good of his labour, this is the gift of God."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "I know that everything God does will endure forever; nothing can be added to it and nothing taken from it. God does it so that men will revere him.",
+              "KJV": "I know that, whatsoever God doeth, it shall be for ever: nothing can be put to it, nor any thing taken from it: and God doeth it, that men should fear before him.",
+              "NKJV": "I know that whatever God does,\nIt shall be forever.\nNothing can be added to it,\nAnd nothing taken from it.\nGod does it, that men should fear before Him.",
+              "DRB": "I have learned that all the works which God hath made, continue for ever: we cannot add any thing, nor take away from those things which God hath made that he may be feared."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Whatever is has already been, and what will be has been before; and God will call the past to account.",
+              "KJV": "That which hath been is now; and that which is to be hath already been; and God requireth that which is past.",
+              "NKJV": "That which is has already been,\nAnd what is to be has already been;\nAnd God requires an account of what is past.",
+              "DRB": "That which hath been made, the same continueth: the things that shall be, have already been: and God restoreth that which is past."
+            }
+          }
+        ]
+      },
+      {
+        "id": "ecc_3_16_17",
+        "title": "A Time to Judge Every Deed",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 3,
+          "start": 16,
+          "end": 17
+        },
+        "rows": [
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "And I saw something else under the sun: In the place of judgment-wickedness was there, in the place of justice-wickedness was there.",
+              "KJV": "And moreover I saw under the sun the place of judgment, that wickedness was there; and the place of righteousness, that iniquity was there.",
+              "NKJV": "Moreover I saw under the sun:\nIn the place of judgment,\nWickedness was there;\nAnd in the place of righteousness,\nIniquity was there.",
+              "DRB": "I saw under the sun in the place of judgment wickedness, and in the place of justice iniquity."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "I thought in my heart, \"God will bring to judgment both the righteous and the wicked, for there will be a time for every activity, a time for every deed.\"",
+              "KJV": "I said in mine heart, God shall judge the righteous and the wicked: for there is a time there for every purpose and for every work.",
+              "NKJV": "I said in my heart,\n\u201cGod shall judge the righteous and the wicked,\nFor there is a time there for every purpose and for every work.\u201d",
+              "DRB": "And I said in my heart: God shall judge both the just and the wicked, and then shall be the time of every thing."
+            }
+          }
+        ]
+      },
+      {
+        "id": "ecc_3_18_22",
+        "title": "God Tests Sons of Men",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 3,
+          "start": 18,
+          "end": 22
+        },
+        "rows": [
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "I also thought, \"As for men, God tests them so that they may see that they are like the animals.",
+              "KJV": "I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts.",
+              "NKJV": "I said in my heart, \u201cConcerning the condition of the sons of men, God tests them, that they may see that they themselves are like animals.\u201d",
+              "DRB": "I said in my heart concerning the sons of men, that God would prove them, and shew them to be like beasts."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "Man's fate is like that of the animals; the same fate awaits them both: As one dies, so dies the other. All have the same breath; man has no advantage over the animal. Everything is meaningless.",
+              "KJV": "For that which befalleth the sons of men befalleth beasts; even one thing befalleth them: as the one dieth, so dieth the other; yea, they have all one breath; so that a man hath no preeminence above a beast: for all is vanity.",
+              "NKJV": "For what happens to the sons of men also happens to animals; one thing befalls them: as one dies, so dies the other. Surely, they all have one breath; man has no advantage over animals, for all is vanity.",
+              "DRB": "Therefore the death of man, and of beasts is one, and the condition of them both is equal: as man dieth, so they also die: all things breathe alike, and man hath nothing more than beast: all things are subject to vanity."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "All go to the same place; all come from dust, and to dust all return.",
+              "KJV": "All go unto one place; all are of the dust, and all turn to dust again.",
+              "NKJV": "All go to one place: all are from the dust, and all return to dust.",
+              "DRB": "And all things go to one place: of earth they were made, and into earth they return together."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "Who knows if the spirit of man rises upward and if the spirit of the animal goes down into the earth?\"",
+              "KJV": "Who knoweth the spirit of man that goeth upward, and the spirit of the beast that goeth downward to the earth?",
+              "NKJV": "Who knows the spirit of the sons of men, which goes upward, and the spirit of the animal, which goes down to the earth?",
+              "DRB": "Who knoweth if the spirit of the children of Adam ascend upward, and if the spirit of the beasts descend downward?"
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "So I saw that there is nothing better for a man than to enjoy his work, because that is his lot. For who can bring him to see what will happen after him?",
+              "KJV": "Wherefore I perceive that there is nothing better, than that a man should rejoice in his own works; for that is his portion: for who shall bring him to see what shall be after him?",
+              "NKJV": "So I perceived that nothing is better than that a man should rejoice in his own works, for that is his heritage. For who can bring him to see what will happen after him?",
+              "DRB": "And I have found that nothing is better than for a man to rejoice in his work, and that this is his portion. For who shall bring him to know the things that shall be after him?"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

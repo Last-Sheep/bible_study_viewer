@@ -1,0 +1,62 @@
+{
+  "scripture": {
+    "header": {
+      "id": "wisdom_01",
+      "title": "",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "mat_11_19",
+        "title": "Wisdom and Her Children",
+        "description": "",
+        "reference": {
+          "book": "Matthew",
+          "chapter": 11,
+          "start": 19,
+          "end": 19
+        },
+        "rows": [
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "The Son of Man came eating and drinking, and they say, 'Here is a glutton and a drunkard, a friend of tax collectors and \"sinners.\"' But wisdom is proved right by her actions.\"",
+              "KJV": "The Son of man came eating and drinking, and they say, Behold a man gluttonous, and a winebibber, a friend of publicans and sinners. But wisdom is justified of her children.",
+              "NKJV": "The Son of Man came eating and drinking, and they say, \u2018Look, a glutton and a winebibber, a friend of tax collectors and sinners!\u2019 But wisdom is justified by her children.\u201d",
+              "DRB": "The Son of man came eating and drinking, and they say: Behold a man that is a glutton and a wine drinker, a friend of publicans and sinners. And wisdom is justified by her children."
+            }
+          }
+        ]
+      },
+      {
+        "id": "luk_7_35",
+        "title": "Wisdom and Her Children",
+        "description": "",
+        "reference": {
+          "book": "Luke",
+          "chapter": 7,
+          "start": 35,
+          "end": 35
+        },
+        "rows": [
+          {
+            "verse": 35,
+            "texts": {
+              "NIV84": "But wisdom is proved right by all her children.\"",
+              "KJV": "But wisdom is justified of all her children.",
+              "NKJV": "But wisdom is justified by all her children.\u201d",
+              "DRB": "And wisdom is justified by all her children."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

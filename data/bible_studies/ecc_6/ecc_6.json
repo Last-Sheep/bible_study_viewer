@@ -1,0 +1,165 @@
+{
+  "scripture": {
+    "header": {
+      "id": "ecc_6",
+      "title": "Ecclesiastes 6",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "NASB95",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "ecc_6_1_2",
+        "title": "Wealth Is Not the Goal of Life",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 6,
+          "start": 1,
+          "end": 2
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "I have seen another evil under the sun, and it weighs heavily on men:",
+              "NASB95": "There is an evil which I have seen under the sun and it is prevalent among men\u2014",
+              "NKJV": "There is an evil which I have seen under the sun, and it is common among men:",
+              "DRB": "There is also another evil, which I have seen under the sun, and that frequent among men:"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "God gives a man wealth, possessions and honor, so that he lacks nothing his heart desires, but God does not enable him to enjoy them, and a stranger enjoys them instead. This is meaningless, a grievous evil.",
+              "NASB95": "a man to whom God has given riches and wealth and honor so that his soul lacks nothing of all that he desires; yet God has not empowered him to eat from them, for a foreigner enjoys them. This is vanity and a severe affliction.",
+              "NKJV": "A man to whom God has given riches and wealth and honor, so that he lacks nothing for himself of all he desires; yet God does not give him power to eat of it, but a foreigner consumes it. This is vanity, and it is an evil affliction.",
+              "DRB": "A man to whom God hath given riches, and substance, and honour, and his soul wanteth nothing of all that he desireth: yet God doth not give him power to eat thereof, but a stranger shall eat it up. This is vanity and a great misery."
+            }
+          }
+        ]
+      },
+      {
+        "id": "ecc_6_3_6",
+        "title": "A Soul Not Satisfied With Goodness",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 6,
+          "start": 3,
+          "end": 6
+        },
+        "rows": [
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "A man may have a hundred children and live many years; yet no matter how long he lives, if he cannot enjoy his prosperity and does not receive proper burial, I say that a stillborn child is better off than he.",
+              "NASB95": "If a man fathers a hundred children and lives many years, however many they be, but his soul is not satisfied with good things and he does not even have a proper burial, then I say, \u201cBetter the miscarriage than he,",
+              "NKJV": "If a man begets a hundred children and lives many years, so that the days of his years are many, but his soul is not satisfied with goodness, or indeed he has no burial, I say that a stillborn child is better than he\u2014",
+              "DRB": "If a man beget a hundred children, and live many years, and attain to a great age, and his soul make no use of the goods of his substance, and he be without burial: of this man I pronounce, that the untimely born is better than he."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "It comes without meaning, it departs in darkness, and in darkness its name is shrouded.",
+              "NASB95": "for it comes in futility and goes into obscurity; and its name is covered in obscurity.",
+              "NKJV": "for it comes in vanity and departs in darkness, and its name is covered with darkness.",
+              "DRB": "For he came in vain, and goeth to darkness, and his name shall be wholly forgotten."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "Though it never saw the sun or knew anything, it has more rest than does that man-",
+              "NASB95": "It never sees the sun and it never knows anything; it is better off than he.",
+              "NKJV": "Though it has not seen the sun or known anything, this has more rest than that man,",
+              "DRB": "He hath not seen the sun, nor known the distance of good and evil:"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "even if he lives a thousand years twice over but fails to enjoy his prosperity. Do not all go to the same place?",
+              "NASB95": "Even if the other man lives a thousand years twice and does not enjoy good things\u2014do not all go to one place?\u201d",
+              "NKJV": "even if he lives a thousand years twice\u2014but has not seen goodness. Do not all go to one place?",
+              "DRB": "Although he lived two thousand years, and hath not enjoyed good things: do not all make haste to one place?"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ecc_6_7_12",
+        "title": "Labor of Man is for His Mouth",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 6,
+          "start": 7,
+          "end": 12
+        },
+        "rows": [
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "All man's efforts are for his mouth, yet his appetite is never satisfied.",
+              "NASB95": "All a man\u2019s labor is for his mouth and yet the appetite is not satisfied.",
+              "NKJV": "All the labor of man is for his mouth,\nAnd yet the soul is not satisfied.",
+              "DRB": "All the labour of man is for his mouth, but his soul shall not be filled."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "What advantage has a wise man over a fool? What does a poor man gain by knowing how to conduct himself before others?",
+              "NASB95": "For what advantage does the wise man have over the fool? What advantage does the poor man have, knowing how to walk before the living?",
+              "NKJV": "For what more has the wise man than the fool?\nWhat does the poor man have,\nWho knows how to walk before the living?",
+              "DRB": "What hath the wise man more than the fool? and what the poor man, but to go thither, where there is life?"
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Better what the eye sees than the roving of the appetite. This too is meaningless, a chasing after the wind.",
+              "NASB95": "What the eyes see is better than what the soul desires. This too is futility and a striving after wind.",
+              "NKJV": "Better is the sight of the eyes than the wandering of desire.\nThis also is vanity and grasping for the wind.",
+              "DRB": "Better it is to see what thou mayst desire, than to desire that which thou canst not know. But this also is vanity, and presumption of spirit."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Whatever exists has already been named, and what man is has been known; no man can contend with one who is stronger than he.",
+              "NASB95": "Whatever exists has already been named, and it is known what man is; for he cannot dispute with him who is stronger than he is.",
+              "NKJV": "Whatever one is, he has been named already,\nFor it is known that he is man;\nAnd he cannot contend with Him who is mightier than he.",
+              "DRB": "He that shall be, his name is already called: and it is known, that he is man, and cannot contend in judgment with him that is stronger than himself."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "The more the words, the less the meaning, and how does that profit anyone?",
+              "NASB95": "For there are many words which increase futility. What then is the advantage to a man?",
+              "NKJV": "Since there are many things that increase vanity,\nHow is man the better?",
+              "DRB": "There are many words that have much vanity in disputing."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "For who knows what is good for a man in life, during the few and meaningless days he passes through like a shadow? Who can tell him what will happen under the sun after he is gone?",
+              "NASB95": "For who knows what is good for a man during his lifetime, during the few years of his futile life? He will spend them like a shadow. For who can tell a man what will be after him under the sun?",
+              "NKJV": "For who knows what is good for man in life, all the days of his vain life which he passes like a shadow? Who can tell a man what will happen after him under the sun?",
+              "DRB": "What needeth a man to seek things that are above him, whereas he knoweth not what is profitable for him in his life, in all the days of his pilgrimage, and the time that passeth like a shadow? Or who can tell him what shall be after him under the sun?"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

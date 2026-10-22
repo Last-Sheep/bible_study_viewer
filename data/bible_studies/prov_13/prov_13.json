@@ -1,0 +1,321 @@
+{
+  "scripture": {
+    "header": {
+      "id": "",
+      "title": "",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_13_1_4",
+        "title": "Guard Your Mouth",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 13,
+          "start": 1,
+          "end": 4
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "A wise son heeds his father's instruction, but a mocker does not listen to rebuke.",
+              "KJV": "A wise son heareth his father's instruction: but a scorner heareth not rebuke.",
+              "NKJV": "A wise son heeds his father\u2019s instruction,\nBut a scoffer does not listen to rebuke.",
+              "DRB": "A wise son heareth the doctrine of his father: but he that is a scorner, beareth not when he is reproved."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "From the fruit of his lips a man enjoys good things, but the unfaithful have a craving for violence.",
+              "KJV": "A man shall eat good by the fruit of his mouth: but the soul of the transgressors shall eat violence.",
+              "NKJV": "A man shall eat well by the fruit of his mouth,\nBut the soul of the unfaithful feeds on violence.",
+              "DRB": "Of the fruit of his own mouth shall a man be filled with good things: but the soul of transgressors is wicked."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "He who guards his lips guards his life, but he who speaks rashly will come to ruin.",
+              "KJV": "He that keepeth his mouth keepeth his life: but he that openeth wide his lips shall have destruction.",
+              "NKJV": "He who guards his mouth preserves his life,\nBut he who opens wide his lips shall have destruction.",
+              "DRB": "He that keepeth his mouth, keepeth his soul: but he that hath no guard on his speech shall meet with evils."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "The sluggard craves and gets nothing, but the desires of the diligent are fully satisfied.",
+              "KJV": "The soul of the sluggard desireth, and hath nothing: but the soul of the diligent shall be made fat.",
+              "NKJV": "The soul of a lazy man desires, and has nothing;\nBut the soul of the diligent shall be made rich.",
+              "DRB": "The sluggard willeth and willeth not: but the soul of them that work, shall be made fat."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_13_5_8",
+        "title": "A Righteous Man Hates Lying",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 13,
+          "start": 5,
+          "end": 8
+        },
+        "rows": [
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "The righteous hate what is false, but the wicked bring shame and disgrace.",
+              "KJV": "A righteous man hateth lying: but a wicked man is loathsome, and cometh to shame.",
+              "NKJV": "A righteous man hates lying,\nBut a wicked man is loathsome and comes to shame.",
+              "DRB": "The just shall hate a lying word: but the wicked confoundeth, and shall be confounded."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Righteousness guards the man of integrity, but wickedness overthrows the sinner.",
+              "KJV": "Righteousness keepeth him that is upright in the way: but wickedness overthroweth the sinner.",
+              "NKJV": "Righteousness guards him whose way is blameless,\nBut wickedness overthrows the sinner.",
+              "DRB": "Justice keepeth the way of the innocent: but wickedness overthroweth the sinner."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "One man pretends to be rich, yet has nothing; another pretends to be poor, yet has great wealth.",
+              "KJV": "There is that maketh himself rich, yet hath nothing: there is that maketh himself poor, yet hath great riches.",
+              "NKJV": "There is one who makes himself rich, yet has nothing;\nAnd one who makes himself poor, yet has great riches.",
+              "DRB": "One is as it were rich, when he hath nothing: and another is as it were poor, when he hath great riches."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "A man's riches may ransom his life, but a poor man hears no threat.",
+              "KJV": "The ransom of a man's life are his riches: but the poor heareth not rebuke.",
+              "NKJV": "The ransom of a man\u2019s life is his riches,\nBut the poor does not hear rebuke.",
+              "DRB": "The ransom of a man's life are his riches: but he that is poor beareth not reprehension."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_13_9_12",
+        "title": "The Well-Advised is Wisdom",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 13,
+          "start": 9,
+          "end": 12
+        },
+        "rows": [
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "The light of the righteous shines brightly, but the lamp of the wicked is snuffed out.",
+              "KJV": "The light of the righteous rejoiceth: but the lamp of the wicked shall be put out.",
+              "NKJV": "The light of the righteous rejoices,\nBut the lamp of the wicked will be put out.",
+              "DRB": "The light of the just giveth joy: but the lamp of the wicked shall be put out."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Pride only breeds quarrels, but wisdom is found in those who take advice.",
+              "KJV": "Only by pride cometh contention: but with the well advised is wisdom.",
+              "NKJV": "By pride comes nothing but strife,\nBut with the well-advised is wisdom.",
+              "DRB": "Among the proud there are always contentions: but they that do all things with counsel, are ruled by wisdom."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Dishonest money dwindles away, but he who gathers money little by little makes it grow.",
+              "KJV": "Wealth gotten by vanity shall be diminished: but he that gathereth by labour shall increase.",
+              "NKJV": "Wealth gained by dishonesty will be diminished,\nBut he who gathers by labor will increase.",
+              "DRB": "Substance got in haste shall be diminished: but that which by little and little is gathered with the hand shall increase."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Hope deferred makes the heart sick, but a longing fulfilled is a tree of life.",
+              "KJV": "Hope deferred maketh the heart sick: but when the desire cometh, it is a tree of life.",
+              "NKJV": "Hope deferred makes the heart sick,\nBut when the desire comes, it is a tree of life.",
+              "DRB": "Hope that is deferred afflicteth the soul: desire when it cometh is a tree of life."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_13_13_16",
+        "title": "The Law of the Wise is a Fountain of Life",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 13,
+          "start": 13,
+          "end": 16
+        },
+        "rows": [
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "He who scorns instruction will pay for it, but he who respects a command is rewarded.",
+              "KJV": "Whoso despiseth the word shall be destroyed: but he that feareth the commandment shall be rewarded.",
+              "NKJV": "He who despises the word will be destroyed,\nBut he who fears the commandment will be rewarded.",
+              "DRB": "Whosoever speaketh ill of any thing, bindeth himself for the time to come: but he that feareth the commandment, shall dwell in peace. Deceitful souls go astray in sins: the just are merciful, and shew mercy."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "The teaching of the wise is a fountain of life, turning a man from the snares of death.",
+              "KJV": "The law of the wise is a fountain of life, to depart from the snares of death.",
+              "NKJV": "The law of the wise is a fountain of life,\nTo turn one away from the snares of death.",
+              "DRB": "The law of the wise is a fountain of life, that he may decline from the ruin of death."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Good understanding wins favor, but the way of the unfaithful is hard.",
+              "KJV": "Good understanding giveth favour: but the way of transgressors is hard.",
+              "NKJV": "Good understanding gains favor,\nBut the way of the unfaithful is hard.",
+              "DRB": "Good instruction shall give grace: in the way of scorners is a deep pit."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "Every prudent man acts out of knowledge, but a fool exposes his folly.",
+              "KJV": "Every prudent man dealeth with knowledge: but a fool layeth open his folly.",
+              "NKJV": "Every prudent man acts with knowledge,\nBut a fool lays open his folly.",
+              "DRB": "The prudent man doth all things with counsel: but he that is a fool, layeth open his folly."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_13_17_21",
+        "title": "He Who Walks With Wise Men Will Be Wise",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 13,
+          "start": 17,
+          "end": 21
+        },
+        "rows": [
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "A wicked messenger falls into trouble, but a trustworthy envoy brings healing.",
+              "KJV": "A wicked messenger falleth into mischief: but a faithful ambassador is health.",
+              "NKJV": "A wicked messenger falls into trouble,\nBut a faithful ambassador brings health.",
+              "DRB": "The messenger of the wicked shall fall into mischief: but a faithful ambassador is health."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "He who ignores discipline comes to poverty and shame, but whoever heeds correction is honored.",
+              "KJV": "Poverty and shame shall be to him that refuseth instruction: but he that regardeth reproof shall be honoured.",
+              "NKJV": "Poverty and shame will come to him who disdains correction,\nBut he who regards a rebuke will be honored.",
+              "DRB": "Poverty and shame to him that refuseth instruction: but he that yieldeth to reproof, shall be glorified."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "A longing fulfilled is sweet to the soul, but fools detest turning from evil.",
+              "KJV": "The desire accomplished is sweet to the soul: but it is abomination to fools to depart from evil.",
+              "NKJV": "A desire accomplished is sweet to the soul,\nBut it is an abomination to fools to depart from evil.",
+              "DRB": "The desire that is accomplished, delighteth the soul: fools hate them that flee from evil things."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "He who walks with the wise grows wise, but a companion of fools suffers harm.",
+              "KJV": "He that walketh with wise men shall be wise: but a companion of fools shall be destroyed.",
+              "NKJV": "He who walks with wise men will be wise,\nBut the companion of fools will be destroyed.",
+              "DRB": "He that walketh with the wise, shall be wise: a friend of fools shall become like to them."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "Misfortune pursues the sinner, but prosperity is the reward of the righteous.",
+              "KJV": "Evil pursueth sinners: but to the righteous good shall be repayed.",
+              "NKJV": "Evil pursues sinners,\nBut to the righteous, good shall be repaid.",
+              "DRB": "21Evil pursueth sinners: and to the just good shall be repaid."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_13_22_25",
+        "title": "A Good Man Leaves an Inheritance",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 13,
+          "start": 22,
+          "end": 25
+        },
+        "rows": [
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "A good man leaves an inheritance for his children's children, but a sinner's wealth is stored up for the righteous.",
+              "KJV": "A good man leaveth an inheritance to his children's children: and the wealth of the sinner is laid up for the just.",
+              "NKJV": "A good man leaves an inheritance to his children\u2019s children,\nBut the wealth of the sinner is stored up for the righteous.",
+              "DRB": "The good man leaveth heirs, sons, and grandsons: and the substance of the sinner is kept for the just."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "A poor man's field may produce abundant food, but injustice sweeps it away.",
+              "KJV": "Much food is in the tillage of the poor: but there is that is destroyed for want of judgment.",
+              "NKJV": "Much food is in the fallow ground of the poor,\nAnd for lack of justice there is waste.",
+              "DRB": "Much food is in the tillage of fathers: but for others it is gathered with out judgment."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "He who spares the rod hates his son, but he who loves him is careful to discipline him.",
+              "KJV": "He that spareth his rod hateth his son: but he that loveth him chasteneth him betimes.",
+              "NKJV": "He who spares his rod hates his son,\nBut he who loves him disciplines him promptly.",
+              "DRB": "He that spareth the rod hateth his son: but he that loveth him correcteth him betimes."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "The righteous eat to their hearts' content, but the stomach of the wicked goes hungry.",
+              "KJV": "The righteous eateth to the satisfying of his soul: but the belly of the wicked shall want.",
+              "NKJV": "The righteous eats to the satisfying of his soul,\nBut the stomach of the wicked shall be in want.",
+              "DRB": "The just eateth and filleth his soul: but the belly of the wicked is never to be filled."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

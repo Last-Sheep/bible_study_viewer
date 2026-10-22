@@ -1,0 +1,375 @@
+{
+  "scripture": {
+    "header": {
+      "id": "",
+      "title": "Proverbs 21",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_21_1_5",
+        "title": "The Lord Weighs the Heart",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 21,
+          "start": 1,
+          "end": 5
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "The king's heart is in the hand of the LORD; he directs it like a watercourse wherever he pleases.",
+              "KJV": "The king's heart is in the hand of the Lord, as the rivers of water: he turneth it whithersoever he will.",
+              "NKJV": "The king\u2019s heart is in the hand of the Lord,\nLike the rivers of water;\nHe turns it wherever He wishes.",
+              "DRB": "As the divisions of waters, so the heart of the king is in the hand of the Lord: whithersoever he will he shall turn it."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "All a man's ways seem right to him, but the LORD weighs the heart.",
+              "KJV": "Every way of a man is right in his own eyes: but the Lord pondereth the hearts.",
+              "NKJV": "Every way of a man is right in his own eyes,\nBut the Lord weighs the hearts.",
+              "DRB": "Every way of a man seemeth right to himself: but the Lord weigheth the hearts."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "To do what is right and just is more acceptable to the LORD than sacrifice.",
+              "KJV": "To do justice and judgment is more acceptable to the Lord than sacrifice.",
+              "NKJV": "To do righteousness and justice\nIs more acceptable to the Lord than sacrifice.",
+              "DRB": "To do mercy and judgment, pleaseth the Lord more than victims."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Haughty eyes and a proud heart, the lamp of the wicked, are sin!",
+              "KJV": "An high look, and a proud heart, and the plowing of the wicked, is sin.",
+              "NKJV": "A haughty look, a proud heart,\nAnd the plowing of the wicked are sin.",
+              "DRB": "Haughtiness of the eyes is the enlarging of the heart: the lamp of the wicked is sin."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "The plans of the diligent lead to profit as surely as haste leads to poverty.",
+              "KJV": "The thoughts of the diligent tend only to plenteousness; but of every one that is hasty only to want.",
+              "NKJV": "The plans of the diligent lead surely to plenty,\nBut those of everyone who is hasty, surely to poverty.",
+              "DRB": "The thoughts of the industrious al- ways bring forth abundance: but every sluggard is always in want."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_21_6_10",
+        "title": "A Lying Tongue & The Soul of The Wicked",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 21,
+          "start": 6,
+          "end": 10
+        },
+        "rows": [
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "A fortune made by a lying tongue is a fleeting vapor and a deadly snare.",
+              "KJV": "The getting of treasures by a lying tongue is a vanity tossed to and fro of them that seek death.",
+              "NKJV": "Getting treasures by a lying tongue\nIs the fleeting fantasy of those who seek death.",
+              "DRB": "He that gathereth treasures by a lying tongue, is vain and foolish, and shall stumble upon the snares of death."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "The violence of the wicked will drag them away, for they refuse to do what is right.",
+              "KJV": "The robbery of the wicked shall destroy them; because they refuse to do judgment.",
+              "NKJV": "The violence of the wicked will destroy them,\nBecause they refuse to do justice.",
+              "DRB": "The robberies of the wicked shall be their downfall, because they would not do judgment."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "The way of the guilty is devious, but the conduct of the innocent is upright.",
+              "KJV": "The way of man is froward and strange: but as for the pure, his work is right.",
+              "NKJV": "The way of a guilty man is perverse;\nBut as for the pure, his work is right.",
+              "DRB": "The perverse way of a man is strange: but as for him that is pure, his work is right."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Better to live on a corner of the roof than share a house with a quarrelsome wife.",
+              "KJV": "It is better to dwell in a corner of the housetop, than with a brawling woman in a wide house.",
+              "NKJV": "Better to dwell in a corner of a housetop,\nThan in a house shared with a contentious woman.",
+              "DRB": "It is better to sit in a corner of the housetop, than with a brawling women, and in a common house."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "The wicked man craves evil; his neighbor gets no mercy from him.",
+              "KJV": "The soul of the wicked desireth evil: his neighbour findeth no favour in his eyes.",
+              "NKJV": "The soul of the wicked desires evil;\nHis neighbor finds no favor in his eyes.",
+              "DRB": "The soul of the wicked desireth evil, he will not have pity on his neighbour."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_21_11_15",
+        "title": "Wise Instruction Receives Knowledge",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 21,
+          "start": 11,
+          "end": 15
+        },
+        "rows": [
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "When a mocker is punished, the simple gain wisdom; when a wise man is instructed, he gets knowledge.",
+              "KJV": "When the scorner is punished, the simple is made wise: and when the wise is instructed, he receiveth knowledge.",
+              "NKJV": "When the scoffer is punished, the simple is made wise;\nBut when the wise is instructed, he receives knowledge.",
+              "DRB": "When a pestilent man is punished, the little one will be wiser: and if he follow the wise, he will receive knowledge."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "The Righteous One takes note of the house of the wicked and brings the wicked to ruin.",
+              "KJV": "The righteous man wisely considereth the house of the wicked: but God overthroweth the wicked for their wickedness.",
+              "NKJV": "The righteous God wisely considers the house of the wicked,\nOverthrowing the wicked for their wickedness.",
+              "DRB": "The just considereth seriously the house of the wicked, that he may withdraw the wicked from evil."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "If a man shuts his ears to the cry of the poor, he too will cry out and not be answered.",
+              "KJV": "Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard.",
+              "NKJV": "Whoever shuts his ears to the cry of the poor\nWill also cry himself and not be heard.",
+              "DRB": "He that stoppeth his ear against the cry of the poor, shall also cry himself and shall not be heard."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "A gift given in secret soothes anger, and a bribe concealed in the cloak pacifies great wrath.",
+              "KJV": "A gift in secret pacifieth anger: and a reward in the bosom strong wrath.",
+              "NKJV": "A gift in secret pacifies anger,\nAnd a bribe behind the back, strong wrath.",
+              "DRB": "A secret present quencheth anger: and a gift in the bosom the greatest wrath."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "When justice is done, it brings joy to the righteous but terror to evildoers.",
+              "KJV": "It is joy to the just to do judgment: but destruction shall be to the workers of iniquity.",
+              "NKJV": "It is a joy for the just to do justice,\nBut destruction will come to the workers of iniquity.",
+              "DRB": "It is joy to the just to do judgment: and dread to them that work iniquity."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_21_16_21",
+        "title": "A Man Who Wanders from Understanding",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 21,
+          "start": 16,
+          "end": 21
+        },
+        "rows": [
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "A man who strays from the path of understanding comes to rest in the company of the dead.",
+              "KJV": "The man that wandereth out of the way of understanding shall remain in the congregation of the dead.",
+              "NKJV": "A man who wanders from the way of understanding\nWill rest in the assembly of the dead.",
+              "DRB": "A man that shall wander out of the way of doctrine, shall abide in the company of the giants."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "He who loves pleasure will become poor; whoever loves wine and oil will never be rich.",
+              "KJV": "He that loveth pleasure shall be a poor man: he that loveth wine and oil shall not be rich.",
+              "NKJV": "He who loves pleasure will be a poor man;\nHe who loves wine and oil will not be rich.",
+              "DRB": "He that loveth good cheer, shall be in want: he that loveth wine, and fat things, shall not be rich."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "The wicked become a ransom for the righteous, and the unfaithful for the upright.",
+              "KJV": "The wicked shall be a ransom for the righteous, and the transgressor for the upright.",
+              "NKJV": "The wicked shall be a ransom for the righteous,\nAnd the unfaithful for the upright.",
+              "DRB": "The wicked is delivered up for the just: and the unjust for the righteous."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "Better to live in a desert than with a quarrelsome and ill-tempered wife.",
+              "KJV": "It is better to dwell in the wilderness, than with a contentious and an angry woman.",
+              "NKJV": "Better to dwell in the wilderness,\nThan with a contentious and angry woman.",
+              "DRB": "It is better to dwell in a wilderness, than with a quarrelsome and passionate woman."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "In the house of the wise are stores of choice food and oil, but a foolish man devours all he has.",
+              "KJV": "There is treasure to be desired and oil in the dwelling of the wise; but a foolish man spendeth it up.",
+              "NKJV": "There is desirable treasure,\nAnd oil in the dwelling of the wise,\nBut a foolish man squanders it.",
+              "DRB": "There is a treasure to be desired, and oil in the dwelling of the just: and the foolish man shall spend it."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "He who pursues righteousness and love finds life, prosperity and honor.",
+              "KJV": "He that followeth after righteousness and mercy findeth life, righteousness, and honour.",
+              "NKJV": "He who follows righteousness and mercy\nFinds life, righteousness, and honor.",
+              "DRB": "He that followeth justice and mercy, shall find life, justice, and glory."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_21_22_26",
+        "title": "Whoever Guards His Mouth and Tongue",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 21,
+          "start": 22,
+          "end": 26
+        },
+        "rows": [
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "A wise man attacks the city of the mighty and pulls down the stronghold in which they trust.",
+              "KJV": "A wise man scaleth the city of the mighty, and casteth down the strength of the confidence thereof.",
+              "NKJV": "A wise man scales the city of the mighty,\nAnd brings down the trusted stronghold.",
+              "DRB": "The wise man hath scaled the city of the strong, and hath cast down the strength of the confidence thereof."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "He who guards his mouth and his tongue keeps himself from calamity.",
+              "KJV": "Whoso keepeth his mouth and his tongue keepeth his soul from troubles.",
+              "NKJV": "Whoever guards his mouth and tongue\nKeeps his soul from troubles.",
+              "DRB": "He that keepeth his mouth and his tongue, keepeth his soul from distress."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "The proud and arrogant man-\"Mocker\" is his name; he behaves with overweening pride.",
+              "KJV": "Proud and haughty scorner is his name, who dealeth in proud wrath.",
+              "NKJV": "A proud and haughty man\u2014\u201cScoffer\u201d is his name;\nHe acts with arrogant pride.",
+              "DRB": "The proud and the arrogant is called ignorant, who in anger worketh pride."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "The sluggard's craving will be the death of him, because his hands refuse to work.",
+              "KJV": "The desire of the slothful killeth him; for his hands refuse to labour.",
+              "NKJV": "The desire of the lazy man kills him,\nFor his hands refuse to labor.",
+              "DRB": "Desires kill the slothful: for his hands have refused to work at all."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "All day long he craves for more, but the righteous give without sparing.",
+              "KJV": "He coveteth greedily all the day long: but the righteous giveth and spareth not.",
+              "NKJV": "He covets greedily all day long,\nBut the righteous gives and does not spare.",
+              "DRB": "He longeth and desireth all the day : but he that is just, will give, and will not cease."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_21_27_31",
+        "title": "Deliverance is from the Lord\n",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 21,
+          "start": 27,
+          "end": 31
+        },
+        "rows": [
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "The sacrifice of the wicked is detestable- how much more so when brought with evil intent!",
+              "KJV": "The sacrifice of the wicked is abomination: how much more, when he bringeth it with a wicked mind?",
+              "NKJV": "The sacrifice of the wicked is an abomination;\nHow much more when he brings it with wicked intent!",
+              "DRB": "The sacrifices of the wicked are abominable, because they are offered of wickedness."
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "A false witness will perish, and whoever listens to him will be destroyed forever.",
+              "KJV": "A false witness shall perish: but the man that heareth speaketh constantly.",
+              "NKJV": "A false witness shall perish,\nBut the man who hears him will speak endlessly.",
+              "DRB": "A lying witness shall perish: an obedient man shall speak of victory."
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "A wicked man puts up a bold front, but an upright man gives thought to his ways.",
+              "KJV": "A wicked man hardeneth his face: but as for the upright, he directeth his way.",
+              "NKJV": "A wicked man hardens his face,\nBut as for the upright, he establishes his way.",
+              "DRB": "The wicked man impudently hardeneth his face: but he that is righteous, correcteth his way."
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "There is no wisdom, no insight, no plan that can succeed against the LORD.",
+              "KJV": "There is no wisdom nor understanding nor counsel against the Lord.",
+              "NKJV": "There is no wisdom or understanding\nOr counsel against the Lord.",
+              "DRB": "There is no wisdom, there is no prudence, there is no counsel against the Lord."
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "The horse is made ready for the day of battle, but victory rests with the LORD.",
+              "KJV": "The horse is prepared against the day of battle: but safety is of the Lord.",
+              "NKJV": "The horse is prepared for the day of battle,\nBut deliverance is of the Lord.",
+              "DRB": "The horse is prepared for the day of battle: but the Lord giveth safety."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

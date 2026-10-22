@@ -1,0 +1,291 @@
+{
+  "scripture": {
+    "header": {
+      "id": "ecc_2",
+      "title": "Ecclesiastes 2",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "ecc_2_1_11",
+        "title": "Pleasures Are Meaningless",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 2,
+          "start": 1,
+          "end": 11
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "I thought in my heart, \"Come now, I will test you with pleasure to find out what is good.\" But that also proved to be meaningless.",
+              "KJV": "I said in mine heart, Go to now, I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also is vanity.",
+              "NKJV": "I said in my heart, \u201cCome now, I will test you with mirth; therefore enjoy pleasure\u201d; but surely, this also was vanity.",
+              "DRB": "I said in my heart: I will go, and abound with delights, and enjoy good things. And I saw that this also was vanity."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "\"Laughter,\" I said, \"is foolish. And what does pleasure accomplish?\"",
+              "KJV": "I said of laughter, It is mad: and of mirth, What doeth it?",
+              "NKJV": "I said of laughter\u2014\u201cMadness!\u201d; and of mirth, \u201cWhat does it accomplish?\u201d",
+              "DRB": "Laughter I counted error: and to mirth I said: Why art thou vainly deceived?"
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "I tried cheering myself with wine, and embracing folly-my mind still guiding me with wisdom. I wanted to see what was worthwhile for men to do under heaven during the few days of their lives.",
+              "KJV": "I sought in mine heart to give myself unto wine, yet acquainting mine heart with wisdom; and to lay hold on folly, till I might see what was that good for the sons of men, which they should do under the heaven all the days of their life.",
+              "NKJV": "I searched in my heart how to gratify my flesh with wine, while guiding my heart with wisdom, and how to lay hold on folly, till I might see what was good for the sons of men to do under heaven all the days of their lives.",
+              "DRB": "I thought in my heart, to withdraw my flesh from wine, that I might turn my mind to wisdom, and might avoid folly, till I might see what was profitable for the children of men: and what they ought to do under the sun, all the days of their life."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "I undertook great projects: I built houses for myself and planted vineyards.",
+              "KJV": "I made me great works; I builded me houses; I planted me vineyards:",
+              "NKJV": "I made my works great, I built myself houses, and planted myself vineyards.",
+              "DRB": "I made me great works, I built me houses, and planted vineyards,"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "I made gardens and parks and planted all kinds of fruit trees in them.",
+              "KJV": "I made me gardens and orchards, and I planted trees in them of all kind of fruits:",
+              "NKJV": "I made myself gardens and orchards, and I planted all kinds of fruit trees in them.",
+              "DRB": "I made gardens, and orchards, and set them with trees of all kinds,"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "I made reservoirs to water groves of flourishing trees.",
+              "KJV": "I made me pools of water, to water therewith the wood that bringeth forth trees:",
+              "NKJV": "I made myself water pools from which to water the growing trees of the grove.",
+              "DRB": "And I made me ponds of water, to water therewith the wood of the young trees,"
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "I bought male and female slaves and had other slaves who were born in my house. I also owned more herds and flocks than anyone in Jerusalem before me.",
+              "KJV": "I got me servants and maidens, and had servants born in my house; also I had great possessions of great and small cattle above all that were in Jerusalem before me:",
+              "NKJV": "I acquired male and female servants, and had servants born in my house. Yes, I had greater possessions of herds and flocks than all who were in Jerusalem before me.",
+              "DRB": "I got me menservants, and maidservants, and had a great family: and herds of oxen, and great flocks of sheep, above all that were before me in Jerusalem:"
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "I amassed silver and gold for myself, and the treasure of kings and provinces. I acquired men and women singers, and a harem as well-the delights of the heart of man.",
+              "KJV": "I gathered me also silver and gold, and the peculiar treasure of kings and of the provinces: I gat me men singers and women singers, and the delights of the sons of men, as musical instruments, and that of all sorts.",
+              "NKJV": "I also gathered for myself silver and gold and the special treasures of kings and of the provinces. I acquired male and female singers, the delights of the sons of men, and musical instruments of all kinds.",
+              "DRB": "I heaped together for myself silver and gold, and the wealth of kings, and provinces: I made me singing men, and singing women, and the delights of the sons of men, cups and vessels to serve to pour out wine:"
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "I became greater by far than anyone in Jerusalem before me. In all this my wisdom stayed with me.",
+              "KJV": "So I was great, and increased more than all that were before me in Jerusalem: also my wisdom remained with me.",
+              "NKJV": "So I became great and excelled more than all who were before me in Jerusalem. Also my wisdom remained with me.",
+              "DRB": "And I surpassed in riches all that were before me in Jerusalem: my wisdom also remained with me."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "I denied myself nothing my eyes desired; I refused my heart no pleasure. My heart took delight in all my work, and this was the reward for all my labor.",
+              "KJV": "And whatsoever mine eyes desired I kept not from them, I withheld not my heart from any joy; for my heart rejoiced in all my labour: and this was my portion of all my labour.",
+              "NKJV": "Whatever my eyes desired I did not keep from them.\nI did not withhold my heart from any pleasure,\nFor my heart rejoiced in all my labor;\nAnd this was my reward from all my labor.",
+              "DRB": "And whatsoever my eyes desired, I refused them not: and I withheld not my heart from enjoying every pleasure, and delighting itself in the things which I had prepared: and esteemed this my portion, to make use of my own labour."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Yet when I surveyed all that my hands had done and what I had toiled to achieve, everything was meaningless, a chasing after the wind; nothing was gained under the sun.",
+              "KJV": "Then I looked on all the works that my hands had wrought, and on the labour that I had laboured to do: and, behold, all was vanity and vexation of spirit, and there was no profit under the sun.",
+              "NKJV": "Then I looked on all the works that my hands had done\nAnd on the labor in which I had toiled;\nAnd indeed all was vanity and grasping for the wind.\nThere was no profit under the sun.",
+              "DRB": "And when I turned myself to all the works which my hands had wrought, and to the labours wherein I had laboured in vain, I saw in all things vanity, and vexation of mind, and that nothing was lasting under the sun."
+            }
+          }
+        ]
+      },
+      {
+        "id": "ecc_2_12_16",
+        "title": "Wisdom and Folly Are Meaningless",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 2,
+          "start": 12,
+          "end": 16
+        },
+        "rows": [
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Then I turned my thoughts to consider wisdom, and also madness and folly. What more can the king's successor do than what has already been done?",
+              "KJV": "And I turned myself to behold wisdom, and madness, and folly: for what can the man do that cometh after the king? even that which hath been already done.",
+              "NKJV": "Then I turned myself to consider wisdom and madness and folly;\nFor what can the man do who succeeds the king?\u2014\nOnly what he has already done.",
+              "DRB": "I passed further to behold wisdom, and errors and folly, (What is man, said I, that he can follow the King his maker?)"
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "I saw that wisdom is better than folly, just as light is better than darkness.",
+              "KJV": "Then I saw that wisdom excelleth folly, as far as light excelleth darkness.",
+              "NKJV": "Then I saw that wisdom excels folly\nAs light excels darkness.",
+              "DRB": "And I saw that wisdom excelled folly, as much as light differeth from darkness."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "The wise man has eyes in his head, while the fool walks in the darkness; but I came to realize that the same fate overtakes them both.",
+              "KJV": "The wise man's eyes are in his head; but the fool walketh in darkness: and I myself perceived also that one event happeneth to them all.",
+              "NKJV": "The wise man\u2019s eyes are in his head,\nBut the fool walks in darkness.\nYet I myself perceived\nThat the same event happens to them all.",
+              "DRB": "The eyes of a wise man are in his head: the fool walketh in darkness: and I learned that they were to die both alike."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "Then I thought in my heart, \"The fate of the fool will overtake me also. What then do I gain by being wise?\" I said in my heart, \"This too is meaningless.\"",
+              "KJV": "Then said I in my heart, As it happeneth to the fool, so it happeneth even to me; and why was I then more wise? Then I said in my heart, that this also is vanity.",
+              "NKJV": "So I said in my heart,\n\u201cAs it happens to the fool,\nIt also happens to me,\nAnd why was I then more wise?\u201d\nThen I said in my heart,\n\u201cThis also is vanity.\u201d",
+              "DRB": "And I said in my heart: If the death of the fool and mine shall be one, what doth it avail me, that I have applied myself more to the study of wisdom? And speaking with my own mind, I perceived that this also was vanity."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "For the wise man, like the fool, will not be long remembered; in days to come both will be forgotten. Like the fool, the wise man too must die!",
+              "KJV": "For there is no remembrance of the wise more than of the fool for ever; seeing that which now is in the days to come shall all be forgotten. And how dieth the wise man? as the fool.",
+              "NKJV": "For there is no more remembrance of the wise than of the fool forever,\nSince all that now is will be forgotten in the days to come.\nAnd how does a wise man die?\nAs the fool!",
+              "DRB": "For there shall be no remembrance of the wise no more than of the fool for ever, and the times to come shall cover all things together with oblivion: the learned dieth in like manner as the unlearned."
+            }
+          }
+        ]
+      },
+      {
+        "id": "ecc_2_17_26",
+        "title": "Toil Is Meaningless",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 2,
+          "start": 17,
+          "end": 26
+        },
+        "rows": [
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "So I hated life, because the work that is done under the sun was grievous to me. All of it is meaningless, a chasing after the wind.",
+              "KJV": "Therefore I hated life; because the work that is wrought under the sun is grievous unto me: for all is vanity and vexation of spirit.",
+              "NKJV": "Therefore I hated life because the work that was done under the sun was distressing to me, for all is vanity and grasping for the wind.",
+              "DRB": "And therefore I was weary of my life, when I saw that all things under the sun are evil, and all vanity and vexation of spirit."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "I hated all the things I had toiled for under the sun, because I must leave them to the one who comes after me.",
+              "KJV": "Yea, I hated all my labour which I had taken under the sun: because I should leave it unto the man that shall be after me.",
+              "NKJV": "Then I hated all my labor in which I had toiled under the sun, because I must leave it to the man who will come after me.",
+              "DRB": "Again I hated all my application wherewith I had earnestly laboured under the sun, being like to have an heir after me,"
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "And who knows whether he will be a wise man or a fool? Yet he will have control over all the work into which I have poured my effort and skill under the sun. This too is meaningless.",
+              "KJV": "And who knoweth whether he shall be a wise man or a fool? yet shall he have rule over all my labour wherein I have laboured, and wherein I have shewed myself wise under the sun. This is also vanity.",
+              "NKJV": "And who knows whether he will be wise or a fool? Yet he will rule over all my labor in which I toiled and in which I have shown myself wise under the sun. This also is vanity.",
+              "DRB": "Whom I know not whether he will be a wise man or a fool, and he shall have rule over all my labours with which I have laboured and been solicitous: and is there any thing so vain?"
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "So my heart began to despair over all my toilsome labor under the sun.",
+              "KJV": "Therefore I went about to cause my heart to despair of all the labour which I took under the sun.",
+              "NKJV": "Therefore I turned my heart and despaired of all the labor in which I had toiled under the sun.",
+              "DRB": "Wherefore I left off and my heart renounced labouring any more under the sun."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "For a man may do his work with wisdom, knowledge and skill, and then he must leave all he owns to someone who has not worked for it. This too is meaningless and a great misfortune.",
+              "KJV": "For there is a man whose labour is in wisdom, and in knowledge, and in equity; yet to a man that hath not laboured therein shall he leave it for his portion. This also is vanity and a great evil.",
+              "NKJV": "For there is a man whose labor is with wisdom, knowledge, and skill; yet he must leave his heritage to a man who has not labored for it. This also is vanity and a great evil.",
+              "DRB": "For when a man laboureth in wisdom, and knowledge, and carefulness, he leaveth what he hath gotten to an idle man: so this also is vanity, and a great evil."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "What does a man get for all the toil and anxious striving with which he labors under the sun?",
+              "KJV": "For what hath man of all his labour, and of the vexation of his heart, wherein he hath laboured under the sun?",
+              "NKJV": "For what has man for all his labor, and for the striving of his heart with which he has toiled under the sun?",
+              "DRB": "For what profit shall a man have of all his labour, and vexation of spirit, with which he bath been tormented under the sun?"
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "All his days his work is pain and grief; even at night his mind does not rest. This too is meaningless.",
+              "KJV": "For all his days are sorrows, and his travail grief; yea, his heart taketh not rest in the night. This is also vanity.",
+              "NKJV": "For all his days are sorrowful, and his work burdensome; even in the night his heart takes no rest. This also is vanity.",
+              "DRB": "All his days axe full of sorrows and miseries, even in the night he doth not rest in mind: and is not this vanity?"
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "A man can do nothing better than to eat and drink and find satisfaction in his work. This too, I see, is from the hand of God,",
+              "KJV": "There is nothing better for a man, than that he should eat and drink, and that he should make his soul enjoy good in his labour. This also I saw, that it was from the hand of God.",
+              "NKJV": "Nothing is better for a man than that he should eat and drink, and that his soul should enjoy good in his labor. This also, I saw, was from the hand of God.",
+              "DRB": "Is it not better to eat and drink, and to shew his soul good things of his labours? and this is from the hand of God."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "for without him, who can eat or find enjoyment?",
+              "KJV": "For who can eat, or who else can hasten hereunto, more than I?",
+              "NKJV": "For who can eat, or who can have enjoyment, more than I?",
+              "DRB": "Who shall so feast and abound with delights as I?"
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "To the man who pleases him, God gives wisdom, knowledge and happiness, but to the sinner he gives the task of gathering and storing up wealth to hand it over to the one who pleases God. This too is meaningless, a chasing after the wind.",
+              "KJV": "For God giveth to a man that is good in his sight wisdom, and knowledge, and joy: but to the sinner he giveth travail, to gather and to heap up, that he may give to him that is good before God. This also is vanity and vexation of spirit.",
+              "NKJV": "For God gives wisdom and knowledge and joy to a man who is good in His sight; but to the sinner He gives the work of gathering and collecting, that he may give to him who is good before God. This also is vanity and grasping for the wind.",
+              "DRB": "God hath given to a man that is good in his sight, wisdom, and knowledge, and joy: but to the sinner he hath given vexation, and superfluous care, to heap up and to gather together, and to give it to him that hath pleased God: but this also is vanity, and a fruitless solicitude of the mind."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "scripture": {
+    "header": {
+      "id": "ecc_4",
+      "title": "Ecclesiastes 4",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "ecc_4_1_3",
+        "title": "The Uselessness of Selfish Toil",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 4,
+          "start": 1,
+          "end": 3
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Again I looked and saw all the oppression that was taking place under the sun: I saw the tears of the oppressed- and they have no comforter; power was on the side of their oppressors- and they have no comforter.",
+              "KJV": "So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.",
+              "NKJV": "Then I returned and considered all the oppression that is done under the sun:\nAnd look! The tears of the oppressed,\nBut they have no comforter\u2014\nOn the side of their oppressors there is power,\nBut they have no comforter.",
+              "DRB": "I turned myself to other things, and I saw the oppressions that are done under the sun, and the tears of the innocent, and they had no comforter; and they were not able to resist their violence, being destitute of help from any."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "And I declared that the dead, who had already died, are happier than the living, who are still alive.",
+              "KJV": "Wherefore I praised the dead which are already dead more than the living which are yet alive.",
+              "NKJV": "Therefore I praised the dead who were already dead,\nMore than the living who are still alive.",
+              "DRB": "And I praised the dead rather than the living:"
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "But better than both is he who has not yet been, who has not seen the evil that is done under the sun.",
+              "KJV": "Yea, better is he than both they, which hath not yet been, who hath not seen the evil work that is done under the sun.",
+              "NKJV": "Yet, better than both is he who has never existed,\nWho has not seen the evil work that is done under the sun.",
+              "DRB": "And I judged him happier than them both, that is not yet born, nor hath seen the evils that are done under the sun."
+            }
+          }
+        ]
+      },
+      {
+        "id": "ecc_4_4_8",
+        "title": "The Vanity of Selfish Toil",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 4,
+          "start": 4,
+          "end": 8
+        },
+        "rows": [
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "And I saw that all labor and all achievement spring from man's envy of his neighbor. This too is meaningless, a chasing after the wind.",
+              "KJV": "Again, I considered all travail, and every right work, that for this a man is envied of his neighbour. This is also vanity and vexation of spirit.",
+              "NKJV": "Again, I saw that for all toil and every skillful work a man is envied by his neighbor. This also is vanity and grasping for the wind.",
+              "DRB": "Again I considered all the labours of men, and I remarked that their industries are exposed to the envy of their neighhour: so in this also there is vanity, and fruitless care."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "The fool folds his hands and ruins himself.",
+              "KJV": "The fool foldeth his hands together, and eateth his own flesh.",
+              "NKJV": "The fool folds his hands\nAnd consumes his own flesh.",
+              "DRB": "The fool foldeth his hands together, and eateth his own flesh, saying:"
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Better one handful with tranquillity than two handfuls with toil and chasing after the wind.",
+              "KJV": "Better is an handful with quietness, than both the hands full with travail and vexation of spirit.",
+              "NKJV": "Better a handful with quietness\nThan both hands full, together with toil and grasping for the wind.",
+              "DRB": "Better is a handful with rest, than both hands full with labour, and vexation of mind."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Again I saw something meaningless under the sun:",
+              "KJV": "Then I returned, and I saw vanity under the sun.",
+              "NKJV": "Then I returned, and I saw vanity under the sun:",
+              "DRB": "Considering I found also another vanity under the sun:"
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "There was a man all alone; he had neither son nor brother. There was no end to his toil, yet his eyes were not content with his wealth. \"For whom am I toiling,\" he asked, \"and why am I depriving myself of enjoyment?\" This too is meaningless- a miserable business!",
+              "KJV": "There is one alone, and there is not a second; yea, he hath neither child nor brother: yet is there no end of all his labour; neither is his eye satisfied with riches; neither saith he, For whom do I labour, and bereave my soul of good? This is also vanity, yea, it is a sore travail.",
+              "NKJV": "There is one alone, without companion:\nHe has neither son nor brother.\nYet there is no end to all his labors,\nNor is his eye satisfied with riches.\nBut he never asks,\n\u201cFor whom do I toil and deprive myself of good?\u201d\nThis also is vanity and a grave misfortune.",
+              "DRB": "There is but one, and he hath not a second, no child, no brother, and yet he ceaseth not to labour, neither are his eyes satisfied with riches, neither doth he reflect, saying: For whom do I labour, and defraud my soul of good things? in this also is vanity, and a grievous vexation."
+            }
+          }
+        ]
+      },
+      {
+        "id": "ecc_4_9_12",
+        "title": "The Value of a Friend",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 4,
+          "start": 9,
+          "end": 12
+        },
+        "rows": [
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Two are better than one, because they have a good return for their work:",
+              "KJV": "Two are better than one; because they have a good reward for their labour.",
+              "NKJV": "Two are better than one,\nBecause they have a good reward for their labor.",
+              "DRB": "It is better therefore that two should be together, than one: for they have the advantage of their society:"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "If one falls down, his friend can help him up. But pity the man who falls and has no one to help him up!",
+              "KJV": "For if they fall, the one will lift up his fellow: but woe to him that is alone when he falleth; for he hath not another to help him up.",
+              "NKJV": "For if they fall, one will lift up his companion.\nBut woe to him who is alone when he falls,\nFor he has no one to help him up.",
+              "DRB": "If one fall he shall be supported by the other: woe to him that is alone, for when he falleth, he hath none to lift him up."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Also, if two lie down together, they will keep warm. But how can one keep warm alone?",
+              "KJV": "Again, if two lie together, then they have heat: but how can one be warm alone?",
+              "NKJV": "Again, if two lie down together, they will keep warm;\nBut how can one be warm alone?",
+              "DRB": "And if two lie together, they shall warm one another: how shall one alone be warmed?"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Though one may be overpowered, two can defend themselves. A cord of three strands is not quickly broken.",
+              "KJV": "And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken.",
+              "NKJV": "Though one may be overpowered by another, two can withstand him.\nAnd a threefold cord is not quickly broken.",
+              "DRB": "And if a man prevail against one, two shall withstand him: a threefold cord is not easily broken."
+            }
+          }
+        ]
+      },
+      {
+        "id": "ecc_4_13_16",
+        "title": "Popularity Passes Away",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 4,
+          "start": 13,
+          "end": 16
+        },
+        "rows": [
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Better a poor but wise youth than an old but foolish king who no longer knows how to take warning.",
+              "KJV": "Better is a poor and a wise child than an old and foolish king, who will no more be admonished.",
+              "NKJV": "Better a poor and wise youth\nThan an old and foolish king who will be admonished no more.",
+              "DRB": "Better is a child that is poor and wise, than a king that is old and foolish, who knoweth not to foresee for hereafter."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "The youth may have come from prison to the kingship, or he may have been born in poverty within his kingdom.",
+              "KJV": "For out of prison he cometh to reign; whereas also he that is born in his kingdom becometh poor.",
+              "NKJV": "For he comes out of prison to be king,\nAlthough he was born poor in his kingdom.",
+              "DRB": "Because out of prison and chains sometimes a man cometh forth to a kingdom: and another born king is consumed with poverty."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "I saw that all who lived and walked under the sun followed the youth, the king's successor.",
+              "KJV": "I considered all the living which walk under the sun, with the second child that shall stand up in his stead.",
+              "NKJV": "I saw all the living who walk under the sun;\nThey were with the second youth who stands in his place.",
+              "DRB": "I saw all men living, that walk under the sun with the second young man, who shall rise up in his place."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "There was no end to all the people who were before them. But those who came later were not pleased with the successor. This too is meaningless, a chasing after the wind.",
+              "KJV": "There is no end of all the people, even of all that have been before them: they also that come after shall not rejoice in him. Surely this also is vanity and vexation of spirit.",
+              "NKJV": "There was no end of all the people over whom he was made king;\nYet those who come afterward will not rejoice in him.\nSurely this also is vanity and grasping for the wind.",
+              "DRB": "The number of the people, of all that were before him is infinite: and they that shall come afterwards, shall not rejoice in him: but this also is vanity, and vexation of spirit."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

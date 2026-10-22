@@ -1,0 +1,335 @@
+{
+  "scripture": {
+    "header": {
+      "id": "prov_12",
+      "title": "Proverbs 12",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_12_1_4",
+        "title": "A Good Man Obtains Favor from the Lord",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 12,
+          "start": 1,
+          "end": 4
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Whoever loves discipline loves knowledge, but he who hates correction is stupid.",
+              "KJV": "Whoso loveth instruction loveth knowledge: but he that hateth reproof is brutish.",
+              "NKJV": "Whoever loves instruction loves knowledge,\nBut he who hates correction is stupid.",
+              "DRB": "He that loveth correction, loveth knowledge: but he that hateth reproof is foolish."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "A good man obtains favor from the LORD, but the LORD condemns a crafty man.",
+              "KJV": "A good man obtaineth favour of the Lord: but a man of wicked devices will he condemn.",
+              "NKJV": "A good man obtains favor from the Lord,\nBut a man of wicked intentions He will condemn.",
+              "DRB": "He that is good, shall draw grace from the Lord : but he that trusteth in his own devices doth wickedly."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "A man cannot be established through wickedness, but the righteous cannot be uprooted.",
+              "KJV": "A man shall not be established by wickedness: but the root of the righteous shall not be moved.",
+              "NKJV": "A man is not established by wickedness,\nBut the root of the righteous cannot be moved.",
+              "DRB": "Men shall not be strengthened by wickedness: and the root of the just shall not be moved."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "A wife of noble character is her husband's crown, but a disgraceful wife is like decay in his bones.",
+              "KJV": "A virtuous woman is a crown to her husband: but she that maketh ashamed is as rottenness in his bones.",
+              "NKJV": "An excellent wife is the crown of her husband,\nBut she who causes shame is like rottenness in his bones.",
+              "DRB": "A diligent woman is a crown to her husband: and she that doth things worthy of confusion, is a rottenness in his bones."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_12_5_8",
+        "title": "A Man Commended According to His Wisdom",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 12,
+          "start": 5,
+          "end": 8
+        },
+        "rows": [
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "The plans of the righteous are just, but the advice of the wicked is deceitful.",
+              "KJV": "The thoughts of the righteous are right: but the counsels of the wicked are deceit.",
+              "NKJV": "The thoughts of the righteous are right,\nBut the counsels of the wicked are deceitful.",
+              "DRB": "The thoughts of the just are judgments: and the counsels of the wicked are deceitful."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "The words of the wicked lie in wait for blood, but the speech of the upright rescues them.",
+              "KJV": "The words of the wicked are to lie in wait for blood: but the mouth of the upright shall deliver them.",
+              "NKJV": "The words of the wicked are, \u201cLie in wait for blood,\u201d\nBut the mouth of the upright will deliver them.",
+              "DRB": "The words of the wicked lie in wait for blood: the mouth of the just shall deliver them."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Wicked men are overthrown and are no more, but the house of the righteous stands firm.",
+              "KJV": "The wicked are overthrown, and are not: but the house of the righteous shall stand.",
+              "NKJV": "The wicked are overthrown and are no more,\nBut the house of the righteous will stand.",
+              "DRB": "Turn the wicked, and they shall not be: but the house of the just shall stand firm."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "A man is praised according to his wisdom, but men with warped minds are despised.",
+              "KJV": "A man shall be commended according to his wisdom: but he that is of a perverse heart shall be despised.",
+              "NKJV": "A man will be commended according to his wisdom,\nBut he who is of a perverse heart will be despised.",
+              "DRB": "A man shall be known by his learning: but he that is vain and foolish, shall be exposed to contempt."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_12_9_14",
+        "title": "With Good by the Fruit of His Mouth",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 12,
+          "start": 9,
+          "end": 14
+        },
+        "rows": [
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Better to be a nobody and yet have a servant than pretend to be somebody and have no food.",
+              "KJV": "He that is despised, and hath a servant, is better than he that honoureth himself, and lacketh bread.",
+              "NKJV": "Better is the one who is slighted but has a servant,\nThan he who honors himself but lacks bread.",
+              "DRB": "Better is the poor man that provideth for himself, than he that is glorious and wanteth bread."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "A righteous man cares for the needs of his animal, but the kindest acts of the wicked are cruel.",
+              "KJV": "A righteous man regardeth the life of his beast: but the tender mercies of the wicked are cruel.",
+              "NKJV": "A righteous man regards the life of his animal,\nBut the tender mercies of the wicked are cruel.",
+              "DRB": "The just regardeth the lives of his beasts: but the bowels of the wicked are cruel."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "He who works his land will have abundant food, but he who chases fantasies lacks judgment.",
+              "KJV": "He that tilleth his land shall be satisfied with bread: but he that followeth vain persons is void of understanding.",
+              "NKJV": "He who tills his land will be satisfied with bread,\nBut he who follows frivolity is devoid of understanding.",
+              "DRB": "He that tilleth his land shall be satisfied with bread: but he that pursueth idleness is very foolish. He that is delighted in passing his time over wine, leaveth a reproach in his strong holds."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "The wicked desire the plunder of evil men, but the root of the righteous flourishes.",
+              "KJV": "The wicked desireth the net of evil men: but the root of the righteous yieldeth fruit.",
+              "NKJV": "The wicked covet the catch of evil men,\nBut the root of the righteous yields fruit.",
+              "DRB": "The desire of the wicked is the fortification of evil men: but the root of the just shall prosper."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "An evil man is trapped by his sinful talk, but a righteous man escapes trouble.",
+              "KJV": "The wicked is snared by the transgression of his lips: but the just shall come out of trouble.",
+              "NKJV": "The wicked is ensnared by the transgression of his lips,\nBut the righteous will come through trouble.",
+              "DRB": "For the sins of the lips ruin draweth nigh to the evil mall: but the just shall escape out of distress."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "From the fruit of his lips a man is filled with good things as surely as the work of his hands rewards him.",
+              "KJV": "A man shall be satisfied with good by the fruit of his mouth: and the recompence of a man's hands shall be rendered unto him.",
+              "NKJV": "A man will be satisfied with good by the fruit of his mouth,\nAnd the recompense of a man\u2019s hands will be rendered to him.",
+              "DRB": "By the fruit of his own mouth shall a man be filled with good things, and according to the works of his hands it shall be repaid him."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_12_15_22",
+        "title": "The Tongue of the Wise Promotes Health",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 12,
+          "start": 15,
+          "end": 22
+        },
+        "rows": [
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "The way of a fool seems right to him, but a wise man listens to advice.",
+              "KJV": "The way of a fool is right in his own eyes: but he that hearkeneth unto counsel is wise.",
+              "NKJV": "The way of a fool is right in his own eyes,\nBut he who heeds counsel is wise.",
+              "DRB": "The way of a fool is right in his own eyes: but he that is wise hearkeneth unto counsels."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "A fool shows his annoyance at once, but a prudent man overlooks an insult.",
+              "KJV": "A fool's wrath is presently known: but a prudent man covereth shame.",
+              "NKJV": "A fool\u2019s wrath is known at once,\nBut a prudent man covers shame.",
+              "DRB": "A fool immediately sheweth his anger: but he that dissembleth injuries is wise."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "A truthful witness gives honest testimony, but a false witness tells lies.",
+              "KJV": "He that speaketh truth sheweth forth righteousness: but a false witness deceit.",
+              "NKJV": "He who speaks truth declares righteousness,\nBut a false witness, deceit.",
+              "DRB": "He that speaketh that which he knoweth, sheweth forth justice: but he that lieth, is a deceitful witness."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "Reckless words pierce like a sword, but the tongue of the wise brings healing.",
+              "KJV": "There is that speaketh like the piercings of a sword: but the tongue of the wise is health.",
+              "NKJV": "There is one who speaks like the piercings of a sword,\nBut the tongue of the wise promotes health.",
+              "DRB": "There is that promiseth, and is pricked as it were with a sword of conscience: but the tongue of the wise is health."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "Truthful lips endure forever, but a lying tongue lasts only a moment.",
+              "KJV": "The lip of truth shall be established for ever: but a lying tongue is but for a moment.",
+              "NKJV": "The truthful lip shall be established forever,\nBut a lying tongue is but for a moment.",
+              "DRB": "The lip of truth shall be steadfast for ever: but he that is a hasty witness, frameth a lying tongue."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "There is deceit in the hearts of those who plot evil, but joy for those who promote peace.",
+              "KJV": "Deceit is in the heart of them that imagine evil: but to the counsellors of peace is joy.",
+              "NKJV": "Deceit is in the heart of those who devise evil,\nBut counselors of peace have joy.",
+              "DRB": "Deceit is in the heart of them that think evil things: but joy followeth them that take counsels of peace."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "No harm befalls the righteous, but the wicked have their fill of trouble.",
+              "KJV": "There shall no evil happen to the just: but the wicked shall be filled with mischief.",
+              "NKJV": "No grave trouble will overtake the righteous,\nBut the wicked shall be filled with evil.",
+              "DRB": "Whatsoever shall befall the just man. it shall not make him sad: but the wicked shall be filled with mischief."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "The LORD detests lying lips, but he delights in men who are truthful.",
+              "KJV": "Lying lips are abomination to the Lord: but they that deal truly are his delight.",
+              "NKJV": "Lying lips are an abomination to the Lord,\nBut those who deal truthfully are His delight.",
+              "DRB": "Lying lips are an abomination to the Lord: but they that deal faithfully please him."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_12_23_28",
+        "title": "Choose Friends Carefully",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 12,
+          "start": 23,
+          "end": 28
+        },
+        "rows": [
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "A prudent man keeps his knowledge to himself, but the heart of fools blurts out folly.",
+              "KJV": "A prudent man concealeth knowledge: but the heart of fools proclaimeth foolishness.",
+              "NKJV": "A prudent man conceals knowledge,\nBut the heart of fools proclaims foolishness.",
+              "DRB": "A cautious man concealeth knowledge: and the heart of fools publisheth folly."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "Diligent hands will rule, but laziness ends in slave labor.",
+              "KJV": "The hand of the diligent shall bear rule: but the slothful shall be under tribute.",
+              "NKJV": "The hand of the diligent will rule,\nBut the lazy man will be put to forced labor.",
+              "DRB": "The hand of the valiant shall bear rule: but that which is slothful, shall be under tribute."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "An anxious heart weighs a man down, but a kind word cheers him up.",
+              "KJV": "Heaviness in the heart of man maketh it stoop: but a good word maketh it glad.",
+              "NKJV": "Anxiety in the heart of man causes depression,\nBut a good word makes it glad.",
+              "DRB": "Grief in the heart of a man shall bring him low, but with a good word he shall be made glad."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "A righteous man is cautious in friendship, but the way of the wicked leads them astray.",
+              "KJV": "The righteous is more excellent than his neighbour: but the way of the wicked seduceth them.",
+              "NKJV": "The righteous should choose his friends carefully,\nFor the way of the wicked leads them astray.",
+              "DRB": "He that neglecteth a loss for the sake of a friend, is just: but the way of the wicked shall deceive them."
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "The lazy man does not roast his game, but the diligent man prizes his possessions.",
+              "KJV": "The slothful man roasteth not that which he took in hunting: but the substance of a diligent man is precious.",
+              "NKJV": "The lazy man does not roast what he took in hunting,\nBut diligence is man\u2019s precious possession.",
+              "DRB": "The deceitful man shall not find gain: but the substance of a just man shall be precious gold."
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "In the way of righteousness there is life; along that path is immortality.",
+              "KJV": "In the way of righteousness is life: and in the pathway thereof there is no death.",
+              "NKJV": "In the way of righteousness is life,\nAnd in its pathway there is no death.",
+              "DRB": "In the path of justice is life: but the by-way leadeth to death."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

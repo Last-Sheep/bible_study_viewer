@@ -1,0 +1,210 @@
+{
+  "scripture": {
+    "header": {
+      "id": "ecc_8",
+      "title": "Ecclesiastes 8",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "ecc_8_1_9",
+        "title": "Obey Authorities for God\u2019s Sake",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 8,
+          "start": 1,
+          "end": 9
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Who is like the wise man? Who knows the explanation of things? Wisdom brightens a man's face and changes its hard appearance.",
+              "KJV": "Who is as the wise man? and who knoweth the interpretation of a thing? a man's wisdom maketh his face to shine, and the boldness of his face shall be changed.",
+              "NKJV": "Who is like a wise man?\nAnd who knows the interpretation of a thing?\nA man\u2019s wisdom makes his face shine,\nAnd the sternness of his face is changed.",
+              "DRB": "The wisdom of a man shineth in his countenance, and the most mighty will change his face."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Obey the king's command, I say, because you took an oath before God.",
+              "KJV": "I counsel thee to keep the king's commandment, and that in regard of the oath of God.",
+              "NKJV": "I say, \u201cKeep the king\u2019s commandment for the sake of your oath to God.",
+              "DRB": "I observe the mouth of the king, and the commandments of the oath of God."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "Do not be in a hurry to leave the king's presence. Do not stand up for a bad cause, for he will do whatever he pleases.",
+              "KJV": "Be not hasty to go out of his sight: stand not in an evil thing; for he doeth whatsoever pleaseth him.",
+              "NKJV": "Do not be hasty to go from his presence. Do not take your stand for an evil thing, for he does whatever pleases him.\u201d",
+              "DRB": "Be not hasty to depart from his face, and do not continue in an evil work: for he will do all that pleaseth him:"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Since a king's word is supreme, who can say to him, \"What are you doing?\"",
+              "KJV": "Where the word of a king is, there is power: and who may say unto him, What doest thou?",
+              "NKJV": "Where the word of a king is, there is power;\nAnd who may say to him, \u201cWhat are you doing?\u201d",
+              "DRB": "And his word is full of power: neither can any man say to him: Why dost thou so?"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "Whoever obeys his command will come to no harm, and the wise heart will know the proper time and procedure.",
+              "KJV": "Whoso keepeth the commandment shall feel no evil thing: and a wise man's heart discerneth both time and judgment.",
+              "NKJV": "He who keeps his command will experience nothing harmful;\nAnd a wise man\u2019s heart discerns both time and judgment,",
+              "DRB": "He that keepeth the commandments shall find no evil. The heart of a wise man understandeth time and answer."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "For there is a proper time and procedure for every matter, though a man's misery weighs heavily upon him.",
+              "KJV": "Because to every purpose there is time and judgment, therefore the misery of man is great upon him.",
+              "NKJV": "Because for every matter there is a time and judgment,\nThough the misery of man increases greatly.",
+              "DRB": "There is a time and opportunity for every business, and great affliction for man:"
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Since no man knows the future, who can tell him what is to come?",
+              "KJV": "For he knoweth not that which shall be: for who can tell him when it shall be?",
+              "NKJV": "For he does not know what will happen;\nSo who can tell him when it will occur?",
+              "DRB": "Because he is ignorant of things past, and things to come he cannot know by any messenger."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "No man has power over the wind to contain it; so no one has power over the day of his death. As no one is discharged in time of war, so wickedness will not release those who practice it.",
+              "KJV": "There is no man that hath power over the spirit to retain the spirit; neither hath he power in the day of death: and there is no discharge in that war; neither shall wickedness deliver those that are given to it.",
+              "NKJV": "No one has power over the spirit to retain the spirit,\nAnd no one has power in the day of death.\nThere is no release from that war,\nAnd wickedness will not deliver those who are given to it.",
+              "DRB": "It is not in man's power to stop the spirit, neither hath he power in the day of death, neither is he suffered to rest when war is at hand, neither shall wickedness save the wicked."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "All this I saw, as I applied my mind to everything done under the sun. There is a time when a man lords it over others to his own hurt.",
+              "KJV": "All this have I seen, and applied my heart unto every work that is done under the sun: there is a time wherein one man ruleth over another to his own hurt.",
+              "NKJV": "All this I have seen, and applied my heart to every work that is done under the sun: There is a time in which one man rules over another to his own hurt.",
+              "DRB": "All these things I have considered, and applied my heart to all the works that are done under the sun. Sometimes one man ruleth over another to his own hurt."
+            }
+          }
+        ]
+      },
+      {
+        "id": "ecc_8_10_13",
+        "title": "Death Comes to All",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 8,
+          "start": 10,
+          "end": 13
+        },
+        "rows": [
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Then too, I saw the wicked buried-those who used to come and go from the holy place and receive praise in the city where they did this. This too is meaningless.",
+              "KJV": "And so I saw the wicked buried, who had come and gone from the place of the holy, and they were forgotten in the city where they had so done: this is also vanity.",
+              "NKJV": "Then I saw the wicked buried, who had come and gone from the place of holiness, and they were forgotten in the city where they had so done. This also is vanity.",
+              "DRB": "I saw the wicked buried: who also when they were yet living were in the holy place, and were praised in the city as men of just works: but this also is vanity."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "When the sentence for a crime is not quickly carried out, the hearts of the people are filled with schemes to do wrong.",
+              "KJV": "Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil.",
+              "NKJV": "Because the sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil.",
+              "DRB": "For because sentence is not speedily pronounced against the evil, the children of men commit evils without any fear."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Although a wicked man commits a hundred crimes and still lives a long time, I know that it will go better with God-fearing men, who are reverent before God.",
+              "KJV": "Though a sinner do evil an hundred times, and his days be prolonged, yet surely I know that it shall be well with them that fear God, which fear before him:",
+              "NKJV": "Though a sinner does evil a hundred times, and his days are prolonged, yet I surely know that it will be well with those who fear God, who fear before Him.",
+              "DRB": "But though a sinner do evil a hundred times, and by patience be borne withal, I know from thence that it shall be well with them that fear God, who dread his face."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Yet because the wicked do not fear God, it will not go well with them, and their days will not lengthen like a shadow.",
+              "KJV": "But it shall not be well with the wicked, neither shall he prolong his days, which are as a shadow; because he feareth not before God.",
+              "NKJV": "But it will not be well with the wicked; nor will he prolong his days, which are as a shadow, because he does not fear before God.",
+              "DRB": "But let it not be well with the wicked, neither let his days be prolonged, but as a shadow let them pass away that fear not the face of the Lord."
+            }
+          }
+        ]
+      },
+      {
+        "id": "ecc_8_14_17",
+        "title": "The Righteous Get What the Wicked Deserve",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 8,
+          "start": 14,
+          "end": 17
+        },
+        "rows": [
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "There is something else meaningless that occurs on earth: righteous men who get what the wicked deserve, and wicked men who get what the righteous deserve. This too, I say, is meaningless.",
+              "KJV": "There is a vanity which is done upon the earth; that there be just men, unto whom it happeneth according to the work of the wicked; again, there be wicked men, to whom it happeneth according to the work of the righteous: I said that this also is vanity.",
+              "NKJV": "There is a vanity which occurs on earth, that there are just men to whom it happens according to the work of the wicked; again, there are wicked men to whom it happens according to the work of the righteous. I said that this also is vanity.",
+              "DRB": "There is also another vanity, which is done upon the earth. There are just men to whom evils happen, as though they had done the works of the wicked: and there are wicked men, who are as secure, as though they had the deeds of the just: but this also I judge most vain."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "So I commend the enjoyment of life, because nothing is better for a man under the sun than to eat and drink and be glad. Then joy will accompany him in his work all the days of the life God has given him under the sun.",
+              "KJV": "Then I commended mirth, because a man hath no better thing under the sun, than to eat, and to drink, and to be merry: for that shall abide with him of his labour the days of his life, which God giveth him under the sun.",
+              "NKJV": "So I commended enjoyment, because a man has nothing better under the sun than to eat, drink, and be merry; for this will remain with him in his labor all the days of his life which God gives him under the sun.",
+              "DRB": "Therefore I commended mirth, because there was no good for a man under the sun, but to eat, and drink, and be merry, and that he should take nothing else with him of his labour in the days of his life, which God hath given him under the sun."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "When I applied my mind to know wisdom and to observe man's labor on earth-his eyes not seeing sleep day or night-",
+              "KJV": "When I applied mine heart to know wisdom, and to see the business that is done upon the earth: (for also there is that neither day nor night seeth sleep with his eyes:)",
+              "NKJV": "When I applied my heart to know wisdom and to see the business that is done on earth, even though one sees no sleep day or night,",
+              "DRB": "And I applied my heart to know wisdom, and to understand the distraction that is upon earth: for there are some that day and night take no sleep with their eyes."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "then I saw all that God has done. No one can comprehend what goes on under the sun. Despite all his efforts to search it out, man cannot discover its meaning. Even if a wise man claims he knows, he cannot really comprehend it.",
+              "KJV": "Then I beheld all the work of God, that a man cannot find out the work that is done under the sun: because though a man labour to seek it out, yet he shall not find it; yea farther; though a wise man think to know it, yet shall he not be able to find it.",
+              "NKJV": "then I saw all the work of God, that a man cannot find out the work that is done under the sun. For though a man labors to discover it, yet he will not find it; moreover, though a wise man attempts to know it, he will not be able to find it.",
+              "DRB": "And I understood that man can find no reason of all those works of God that are done under the sun: and the more he shall labour to seek, so much the less shall he find: yea, though the wise man shall say, that he knoweth it, he shall not be able to find it."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

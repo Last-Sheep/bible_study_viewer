@@ -1,0 +1,411 @@
+{
+  "scripture": {
+    "header": {
+      "id": "prov_23",
+      "title": "Proverbs 23",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_23_1_8",
+        "title": "A Miser and Riches",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 23,
+          "start": 1,
+          "end": 8
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "When you sit to dine with a ruler, note well what is before you,",
+              "KJV": "When thou sittest to eat with a ruler, consider diligently what is before thee:",
+              "NKJV": "When you sit down to eat with a ruler,\nConsider carefully what is before you;",
+              "DRB": "When thou shalt sit to eat with a prince, consider diligently what is set before thy face."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "and put a knife to your throat if you are given to gluttony.",
+              "KJV": "And put a knife to thy throat, if thou be a man given to appetite.",
+              "NKJV": "And put a knife to your throat\nIf you are a man given to appetite.",
+              "DRB": "And put a knife to thy throat, if it be so that thou have thy soul in thy own power."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "Do not crave his delicacies, for that food is deceptive.",
+              "KJV": "Be not desirous of his dainties: for they are deceitful meat.",
+              "NKJV": "Do not desire his delicacies,\nFor they are deceptive food.",
+              "DRB": "Be not desirous of his meats, in which is the bread of deceit."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Do not wear yourself out to get rich; have the wisdom to show restraint.",
+              "KJV": "Labour not to be rich: cease from thine own wisdom.",
+              "NKJV": "Do not overwork to be rich;\nBecause of your own understanding, cease!",
+              "DRB": "Labour not to be rich: but set bounds to thy prudence."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "Cast but a glance at riches, and they are gone, for they will surely sprout wings and fly off to the sky like an eagle.",
+              "KJV": "Wilt thou set thine eyes upon that which is not? for riches certainly make themselves wings; they fly away as an eagle toward heaven.",
+              "NKJV": "Will you set your eyes on that which is not?\nFor riches certainly make themselves wings;\nThey fly away like an eagle toward heaven.",
+              "DRB": "Lift not up thy eyes to riches which thou canst not have: because they shall make themselves wings like those of an eagle, and shall fly towards heaven."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Do not eat the food of a stingy man, do not crave his delicacies;",
+              "KJV": "Eat thou not the bread of him that hath an evil eye, neither desire thou his dainty meats:",
+              "NKJV": "Do not eat the bread of a miser,\nNor desire his delicacies;",
+              "DRB": "Eat not with an envious man, and desire not his meats:"
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "for he is the kind of man who is always thinking about the cost. \"Eat and drink,\" he says to you, but his heart is not with you.",
+              "KJV": "For as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee.",
+              "NKJV": "For as he thinks in his heart, so is he.\n\u201cEat and drink!\u201d he says to you,\nBut his heart is not with you.",
+              "DRB": "Because like a soothsayer, and diviner, he thinketh that which he knoweth not. Eat and drink, will he say to thee: and his mind is not with thee."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "You will vomit up the little you have eaten and will have wasted your compliments.",
+              "KJV": "The morsel which thou hast eaten shalt thou vomit up, and lose thy sweet words.",
+              "NKJV": "The morsel you have eaten, you will vomit up,\nAnd waste your pleasant words.",
+              "DRB": "The meats which thou hadst eaten, thou shalt vomit up: and shalt loose thy beautiful words."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_23_9_12",
+        "title": "Apply Your Heart and Ears",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 23,
+          "start": 9,
+          "end": 12
+        },
+        "rows": [
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Do not speak to a fool, for he will scorn the wisdom of your words.",
+              "KJV": "Speak not in the ears of a fool: for he will despise the wisdom of thy words.",
+              "NKJV": "Do not speak in the hearing of a fool,\nFor he will despise the wisdom of your words.",
+              "DRB": "Speak not in the ears of fools: because they will despise the instruction of thy speech."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Do not move an ancient boundary stone or encroach on the fields of the fatherless,",
+              "KJV": "Remove not the old landmark; and enter not into the fields of the fatherless:",
+              "NKJV": "Do not remove the ancient landmark,\nNor enter the fields of the fatherless;",
+              "DRB": "Touch not the bounds of little ones: and enter not into the field of the fatherless:"
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "for their Defender is strong; he will take up their case against you.",
+              "KJV": "For their redeemer is mighty; he shall plead their cause with thee.",
+              "NKJV": "For their Redeemer is mighty;\nHe will plead their cause against you.",
+              "DRB": "For their near kinsman is strong: and he will judge their cause against thee."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Apply your heart to instruction and your ears to words of knowledge.",
+              "KJV": "Apply thine heart unto instruction, and thine ears to the words of knowledge.",
+              "NKJV": "Apply your heart to instruction,\nAnd your ears to words of knowledge.",
+              "DRB": "Let thy heart apply itself to instruction: and thy ears to words of knowledge."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_23_13_18",
+        "title": "Do Not Let Your Heart Envy",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 23,
+          "start": 13,
+          "end": 18
+        },
+        "rows": [
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Do not withhold discipline from a child; if you punish him with the rod, he will not die.",
+              "KJV": "Withhold not correction from the child: for if thou beatest him with the rod, he shall not die.",
+              "NKJV": "Do not withhold correction from a child,\nFor if you beat him with a rod, he will not die.",
+              "DRB": "Withhold not correction from a child: for if thou strike him with the rod, he shall not die."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "Punish him with the rod and save his soul from death.",
+              "KJV": "Thou shalt beat him with the rod, and shalt deliver his soul from hell.",
+              "NKJV": "You shall beat him with a rod,\nAnd deliver his soul from hell.",
+              "DRB": "Thou shalt beat him with the rod, and deliver his soul from hell."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "My son, if your heart is wise, then my heart will be glad;",
+              "KJV": "My son, if thine heart be wise, my heart shall rejoice, even mine.",
+              "NKJV": "My son, if your heart is wise,\nMy heart will rejoice\u2014indeed, I myself;",
+              "DRB": "My son, if thy mind be wise, my heart shall rejoice with thee:"
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "my inmost being will rejoice when your lips speak what is right.",
+              "KJV": "Yea, my reins shall rejoice, when thy lips speak right things.",
+              "NKJV": "Yes, my inmost being will rejoice\nWhen your lips speak right things.",
+              "DRB": "And my reins shall rejoice, when thy lips shall speak what is right."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "Do not let your heart envy sinners, but always be zealous for the fear of the LORD.",
+              "KJV": "Let not thine heart envy sinners: but be thou in the fear of the Lord all the day long.",
+              "NKJV": "Do not let your heart envy sinners,\nBut be zealous for the fear of the Lord all the day;",
+              "DRB": "Let not thy heart envy sinners: but be thou in the fear of the Lord all the day long:"
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "There is surely a future hope for you, and your hope will not be cut off.",
+              "KJV": "For surely there is an end; and thine expectation shall not be cut off.",
+              "NKJV": "For surely there is a hereafter,\nAnd your hope will not be cut off.",
+              "DRB": "Because thou shalt have hope in the latter end, and thy expectation shall not be taken away."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_23_19_22",
+        "title": "Guide Your Heart in the Way",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 23,
+          "start": 19,
+          "end": 22
+        },
+        "rows": [
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "Listen, my son, and be wise, and keep your heart on the right path.",
+              "KJV": "Hear thou, my son, and be wise, and guide thine heart in the way.",
+              "NKJV": "Hear, my son, and be wise;\nAnd guide your heart in the way.",
+              "DRB": "Hear thou, my son, and be wise: and guide thy mind in the way."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "Do not join those who drink too much wine or gorge themselves on meat,",
+              "KJV": "Be not among winebibbers; among riotous eaters of flesh:",
+              "NKJV": "Do not mix with winebibbers,\nOr with gluttonous eaters of meat;",
+              "DRB": "Be not in the feasts of great drinkers, nor in their revellings, who contribute flesh to eat:"
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "for drunkards and gluttons become poor, and drowsiness clothes them in rags.",
+              "KJV": "For the drunkard and the glutton shall come to poverty: and drowsiness shall clothe a man with rags.",
+              "NKJV": "For the drunkard and the glutton will come to poverty,\nAnd drowsiness will clothe a man with rags.",
+              "DRB": "Because they that give themselves to drinking, and that club together shall be consumed; and drowsiness shall be clothed with rags."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "Listen to your father, who gave you life, and do not despise your mother when she is old.",
+              "KJV": "Hearken unto thy father that begat thee, and despise not thy mother when she is old.",
+              "NKJV": "Listen to your father who begot you,\nAnd do not despise your mother when she is old.",
+              "DRB": "Hearken to thy father, that beget thee: and despise not thy mother when she is old."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_23_23_28",
+        "title": "Let Your Eyes Observe His Ways",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 23,
+          "start": 23,
+          "end": 28
+        },
+        "rows": [
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "Buy the truth and do not sell it; get wisdom, discipline and understanding.",
+              "KJV": "Buy the truth, and sell it not; also wisdom, and instruction, and understanding.",
+              "NKJV": "Buy the truth, and do not sell it,\nAlso wisdom and instruction and understanding.",
+              "DRB": "Buy truth, and do not sell wisdom, and instruction, and understanding."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "The father of a righteous man has great joy; he who has a wise son delights in him.",
+              "KJV": "The father of the righteous shall greatly rejoice: and he that begetteth a wise child shall have joy of him.",
+              "NKJV": "The father of the righteous will greatly rejoice,\nAnd he who begets a wise child will delight in him.",
+              "DRB": "The father of the just rejoiceth greatly: he that hath begotten a wise son, shall have joy in him."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "May your father and mother be glad; may she who gave you birth rejoice!",
+              "KJV": "Thy father and thy mother shall be glad, and she that bare thee shall rejoice.",
+              "NKJV": "Let your father and your mother be glad,\nAnd let her who bore you rejoice.",
+              "DRB": "Let thy father, and thy mother be joyful, and let her rejoice that bore thee."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "My son, give me your heart and let your eyes keep to my ways,",
+              "KJV": "My son, give me thine heart, and let thine eyes observe my ways.",
+              "NKJV": "My son, give me your heart,\nAnd let your eyes observe my ways.",
+              "DRB": "My son, give me thy heart: and let thy eyes keep my ways."
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "for a prostitute is a deep pit and a wayward wife is a narrow well.",
+              "KJV": "For a whore is a deep ditch; and a strange woman is a narrow pit.",
+              "NKJV": "For a harlot is a deep pit,\nAnd a seductress is a narrow well.",
+              "DRB": "For a harlot is a deep ditch: and a strange woman is a narrow pit."
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "Like a bandit she lies in wait, and multiplies the unfaithful among men.",
+              "KJV": "She also lieth in wait as for a prey, and increaseth the transgressors among men.",
+              "NKJV": "She also lies in wait as for a victim,\nAnd increases the unfaithful among men.",
+              "DRB": "She lieth in wait in the way as a robber, and him whom she shall see unwary, she will kill."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_23_29_35",
+        "title": "Who Has Complaints",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 23,
+          "start": 29,
+          "end": 35
+        },
+        "rows": [
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "Who has woe? Who has sorrow? Who has strife? Who has complaints? Who has needless bruises? Who has bloodshot eyes?",
+              "KJV": "Who hath woe? who hath sorrow? who hath contentions? who hath babbling? who hath wounds without cause? who hath redness of eyes?",
+              "NKJV": "Who has woe?\nWho has sorrow?\nWho has contentions?\nWho has complaints?\nWho has wounds without cause?\nWho has redness of eyes?",
+              "DRB": "Who hath woe? whose father hath woe? who hath contentions? who falls into pits? who hath wounds without cause? who hath redness of eyes?"
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "Those who linger over wine, who go to sample bowls of mixed wine.",
+              "KJV": "They that tarry long at the wine; they that go to seek mixed wine.",
+              "NKJV": "Those who linger long at the wine,\nThose who go in search of mixed wine.",
+              "DRB": "Surely they that pass their time in wine, and study to drink of their cups."
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "Do not gaze at wine when it is red, when it sparkles in the cup, when it goes down smoothly!",
+              "KJV": "Look not thou upon the wine when it is red, when it giveth his colour in the cup, when it moveth itself aright.",
+              "NKJV": "Do not look on the wine when it is red,\nWhen it sparkles in the cup,\nWhen it swirls around smoothly;",
+              "DRB": "Look not upon the wine when it is yellow, when the colour thereof shineth in the glass: it goeth in pleasantly,"
+            }
+          },
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "In the end it bites like a snake and poisons like a viper.",
+              "KJV": "At the last it biteth like a serpent, and stingeth like an adder.",
+              "NKJV": "At the last it bites like a serpent,\nAnd stings like a viper.",
+              "DRB": "But in the end, it will bite like a snake, and will spread abroad poison like a basilisk."
+            }
+          },
+          {
+            "verse": 33,
+            "texts": {
+              "NIV84": "Your eyes will see strange sights and your mind imagine confusing things.",
+              "KJV": "Thine eyes shall behold strange women, and thine heart shall utter perverse things.",
+              "NKJV": "Your eyes will see strange things,\nAnd your heart will utter perverse things.",
+              "DRB": "Thy eyes shall behold strange women, and thy heart shall utter perverse things."
+            }
+          },
+          {
+            "verse": 34,
+            "texts": {
+              "NIV84": "You will be like one sleeping on the high seas, lying on top of the rigging.",
+              "KJV": "Yea, thou shalt be as he that lieth down in the midst of the sea, or as he that lieth upon the top of a mast.",
+              "NKJV": "Yes, you will be like one who lies down in the midst of the sea,\nOr like one who lies at the top of the mast, saying:",
+              "DRB": "And thou shalt be as one sleeping in the midst of the sea, and as a pilot fast asleep, when the stern is lost."
+            }
+          },
+          {
+            "verse": 35,
+            "texts": {
+              "NIV84": "\"They hit me,\" you will say, \"but I'm not hurt! They beat me, but I don't feel it! When will I wake up so I can find another drink?\"",
+              "KJV": "They have stricken me, shalt thou say, and I was not sick; they have beaten me, and I felt it not: when shall I awake? I will seek it yet again.",
+              "NKJV": "\u201cThey have struck me, but I was not hurt;\nThey have beaten me, but I did not feel it.\nWhen shall I awake, that I may seek another drink?\u201d",
+              "DRB": "And thou shalt say: They have beaten me, but I was not sensible of pain: they drew me, and I felt not: when shall I awake, and find wine again?"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

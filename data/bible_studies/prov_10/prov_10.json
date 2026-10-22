@@ -1,0 +1,384 @@
+{
+  "scripture": {
+    "header": {
+      "id": "",
+      "title": "",
+      "description": "Wise Sayings of Solomon",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_10_1_5",
+        "title": "A Wise Son",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 10,
+          "start": 1,
+          "end": 5
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "The proverbs of Solomon: A wise son brings joy to his father, but a foolish son grief to his mother.",
+              "KJV": "The proverbs of Solomon. A wise son maketh a glad father: but a foolish son is the heaviness of his mother.",
+              "NKJV": "The proverbs of Solomon:\nA wise son makes a glad father,\nBut a foolish son is the grief of his mother.",
+              "DRB": "A wise son maketh the father glad: but a foolish son is the sorrow of his mother."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Ill-gotten treasures are of no value, but righteousness delivers from death.",
+              "KJV": "Treasures of wickedness profit nothing: but righteousness delivereth from death.",
+              "NKJV": "Treasures of wickedness profit nothing,\nBut righteousness delivers from death.",
+              "DRB": "Treasures of wickedness shall profit nothing: but justice shall deliver from death."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "The LORD does not let the righteous go hungry but he thwarts the craving of the wicked.",
+              "KJV": "The Lord will not suffer the soul of the righteous to famish: but he casteth away the substance of the wicked.",
+              "NKJV": "The Lord will not allow the righteous soul to famish,\nBut He casts away the desire of the wicked.",
+              "DRB": "The Lord will not afflict the soul of the just with famine, and he will disappoint the deceitful practices of the wicked."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Lazy hands make a man poor, but diligent hands bring wealth.",
+              "KJV": "He becometh poor that dealeth with a slack hand: but the hand of the diligent maketh rich.",
+              "NKJV": "He who has a slack hand becomes poor,\nBut the hand of the diligent makes rich.",
+              "DRB": "The slothful hand hath wrought poverty: but the hand of the industrious getteth riches. He that trusteth to lies feedeth the winds: and the same runneth after birds that fly away."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "He who gathers crops in summer is a wise son, but he who sleeps during harvest is a disgraceful son.",
+              "KJV": "He that gathereth in summer is a wise son: but he that sleepeth in harvest is a son that causeth shame.",
+              "NKJV": "He who gathers in summer is a wise son;\nHe who sleeps in harvest is a son who causes shame.",
+              "DRB": "He that gathered in the harvest is a wise son: but he that snorteth in the summer, is the son of confusion."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_10_6_12",
+        "title": "A Wise Heart Receives Commands",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 10,
+          "start": 6,
+          "end": 12
+        },
+        "rows": [
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Blessings crown the head of the righteous, but violence overwhelms the mouth of the wicked.",
+              "KJV": "Blessings are upon the head of the just: but violence covereth the mouth of the wicked.",
+              "NKJV": "Blessings are on the head of the righteous,\nBut violence covers the mouth of the wicked.",
+              "DRB": "The blessing of the Lord is upon the head of the just: but iniquity covereth the mouth of the wicked."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "The memory of the righteous will be a blessing, but the name of the wicked will rot.",
+              "KJV": "The memory of the just is blessed: but the name of the wicked shall rot.",
+              "NKJV": "The memory of the righteous is blessed,\nBut the name of the wicked will rot.",
+              "DRB": "The memory of the just is with praises: and the name of the wicked shall rot."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "The wise in heart accept commands, but a chattering fool comes to ruin.",
+              "KJV": "The wise in heart will receive commandments: but a prating fool shall fall.",
+              "NKJV": "The wise in heart will receive commands,\nBut a prating fool will fall.",
+              "DRB": "The wise of heart receiveth precepts: a fool is beaten with lips."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "The man of integrity walks securely, but he who takes crooked paths will be found out.",
+              "KJV": "He that walketh uprightly walketh surely: but he that perverteth his ways shall be known.",
+              "NKJV": "He who walks with integrity walks securely,\nBut he who perverts his ways will become known.",
+              "DRB": "He that walketh sincerely, walketh confidently: but he that perverteth his ways, shall be manifest."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "He who winks maliciously causes grief, and a chattering fool comes to ruin.",
+              "KJV": "He that winketh with the eye causeth sorrow: but a prating fool shall fall.",
+              "NKJV": "He who winks with the eye causes trouble,\nBut a prating fool will fall.",
+              "DRB": "He that winketh with the eye shall cause sorrow: and the foolish in lips shall be beaten."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "The mouth of the righteous is a fountain of life, but violence overwhelms the mouth of the wicked.",
+              "KJV": "The mouth of a righteous man is a well of life: but violence covereth the mouth of the wicked.",
+              "NKJV": "The mouth of the righteous is a well of life,\nBut violence covers the mouth of the wicked.",
+              "DRB": "The mouth of the just is a vein of life: and the mouth of the wicked covereth iniquity."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Hatred stirs up dissension, but love covers over all wrongs.",
+              "KJV": "Hatred stirreth up strifes: but love covereth all sins.",
+              "NKJV": "Hatred stirs up strife,\nBut love covers all sins.",
+              "DRB": "Hatred stirreth up strifes: and charity covereth all sins."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_10_13_17",
+        "title": "The Wise Store Up Knowledge",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 10,
+          "start": 13,
+          "end": 17
+        },
+        "rows": [
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Wisdom is found on the lips of the discerning, but a rod is for the back of him who lacks judgment.",
+              "KJV": "In the lips of him that hath understanding wisdom is found: but a rod is for the back of him that is void of understanding.",
+              "NKJV": "Wisdom is found on the lips of him who has understanding,\nBut a rod is for the back of him who is devoid of understanding.",
+              "DRB": "In the lips of the wise is wisdom found: and a rod on the back of him that wanteth sense."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "Wise men store up knowledge, but the mouth of a fool invites ruin.",
+              "KJV": "Wise men lay up knowledge: but the mouth of the foolish is near destruction.",
+              "NKJV": "Wise people store up knowledge,\nBut the mouth of the foolish is near destruction.",
+              "DRB": "Wise men lay up knowledge: but the mouth of the fool is next to confusion."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "The wealth of the rich is their fortified city, but poverty is the ruin of the poor.",
+              "KJV": "The rich man's wealth is his strong city: the destruction of the poor is their poverty.",
+              "NKJV": "The rich man\u2019s wealth is his strong city;\nThe destruction of the poor is their poverty.",
+              "DRB": "The substance of a rich man is the city of his strength: the fear of the poor is their poverty."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "The wages of the righteous bring them life, but the income of the wicked brings them punishment.",
+              "KJV": "The labour of the righteous tendeth to life: the fruit of the wicked to sin.",
+              "NKJV": "The labor of the righteous leads to life,\nThe wages of the wicked to sin.",
+              "DRB": "The work of the just is unto life: but the fruit of the wicked, unto sin."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "He who heeds discipline shows the way to life, but whoever ignores correction leads others astray.",
+              "KJV": "He is in the way of life that keepeth instruction: but he that refuseth reproof erreth.",
+              "NKJV": "He who keeps instruction is in the way of life,\nBut he who refuses correction goes astray.",
+              "DRB": "The way of life, to him that observeth correction: but he that forsaketh reproofs goeth astray."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_10_18_22",
+        "title": "The Wise Restrain Their Lips",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 10,
+          "start": 18,
+          "end": 22
+        },
+        "rows": [
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "He who conceals his hatred has lying lips, and whoever spreads slander is a fool.",
+              "KJV": "He that hideth hatred with lying lips, and he that uttereth a slander, is a fool.",
+              "NKJV": "Whoever hides hatred has lying lips,\nAnd whoever spreads slander is a fool.",
+              "DRB": "Lying lips hide hatred: he that uttereth reproach is foolish."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "When words are many, sin is not absent, but he who holds his tongue is wise.",
+              "KJV": "In the multitude of words there wanteth not sin: but he that refraineth his lips is wise.",
+              "NKJV": "In the multitude of words sin is not lacking,\nBut he who restrains his lips is wise.",
+              "DRB": "In the multitude of words there shall not want sin: but he that refraineth his lips is most wise."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "The tongue of the righteous is choice silver, but the heart of the wicked is of little value.",
+              "KJV": "The tongue of the just is as choice silver: the heart of the wicked is little worth.",
+              "NKJV": "The tongue of the righteous is choice silver;\nThe heart of the wicked is worth little.",
+              "DRB": "The tongue of the just is as choice silver: but the heart of the wicked is nothing worth."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "The lips of the righteous nourish many, but fools die for lack of judgment.",
+              "KJV": "The lips of the righteous feed many: but fools die for want of wisdom.",
+              "NKJV": "The lips of the righteous feed many,\nBut fools die for lack of wisdom.",
+              "DRB": "The lips of the just teach many: but they that are ignorant, shall die in the want of understanding."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "The blessing of the LORD brings wealth, and he adds no trouble to it.",
+              "KJV": "The blessing of the Lord, it maketh rich, and he addeth no sorrow with it.",
+              "NKJV": "The blessing of the Lord makes one rich,\nAnd He adds no sorrow with it.",
+              "DRB": "The blessing of the Lord maketh men rich: neither shall affliction be joined to them."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_10_23_26",
+        "title": "A Man of Understanding Has Wisdom",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 10,
+          "start": 23,
+          "end": 26
+        },
+        "rows": [
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "A fool finds pleasure in evil conduct, but a man of understanding delights in wisdom.",
+              "KJV": "It is as sport to a fool to do mischief: but a man of understanding hath wisdom.",
+              "NKJV": "To do evil is like sport to a fool,\nBut a man of understanding has wisdom.",
+              "DRB": "A fool worketh mischief as it were for sport: but wisdom is prudence to a man."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "What the wicked dreads will overtake him; what the righteous desire will be granted.",
+              "KJV": "The fear of the wicked, it shall come upon him: but the desire of the righteous shall be granted.",
+              "NKJV": "The fear of the wicked will come upon him,\nAnd the desire of the righteous will be granted.",
+              "DRB": "That which the wicked feareth, shall come upon him: to the just their desire shall be given."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "When the storm has swept by, the wicked are gone, but the righteous stand firm forever.",
+              "KJV": "As the whirlwind passeth, so is the wicked no more: but the righteous is an everlasting foundation.",
+              "NKJV": "When the whirlwind passes by, the wicked is no more,\nBut the righteous has an everlasting foundation.",
+              "DRB": "As a tempest that passeth, so the wicked shall be no more: but the just is as an everlasting foundation."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "As vinegar to the teeth and smoke to the eyes, so is a sluggard to those who send him.",
+              "KJV": "As vinegar to the teeth, and as smoke to the eyes, so is the sluggard to them that send him.",
+              "NKJV": "As vinegar to the teeth and smoke to the eyes,\nSo is the lazy man to those who send him.",
+              "DRB": "As vinegar to the teeth, and smoke to the eyes, so is the sluggard to them that sent him."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_10_27_32",
+        "title": "The Mouth of the Righteous Brings Wisdom",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 10,
+          "start": 27,
+          "end": 32
+        },
+        "rows": [
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "The fear of the LORD adds length to life, but the years of the wicked are cut short.",
+              "KJV": "The fear of the Lord prolongeth days: but the years of the wicked shall be shortened.",
+              "NKJV": "The fear of the Lord prolongs days,\nBut the years of the wicked will be shortened.",
+              "DRB": "The fear of the Lord shall prolong days: and the years of the wicked shall be shortened."
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "The prospect of the righteous is joy, but the hopes of the wicked come to nothing.",
+              "KJV": "The hope of the righteous shall be gladness: but the expectation of the wicked shall perish.",
+              "NKJV": "The hope of the righteous will be gladness,\nBut the expectation of the wicked will perish.",
+              "DRB": "The expectation of the just is joy; but the hope of the wicked shall perish."
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "The way of the LORD is a refuge for the righteous, but it is the ruin of those who do evil.",
+              "KJV": "The way of the Lord is strength to the upright: but destruction shall be to the workers of iniquity.",
+              "NKJV": "The way of the Lord is strength for the upright,\nBut destruction will come to the workers of iniquity.",
+              "DRB": "The strength of the upright is the way of the Lord: and fear to them that work evil."
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "The righteous will never be uprooted, but the wicked will not remain in the land.",
+              "KJV": "The righteous shall never be removed: but the wicked shall not inhabit the earth.",
+              "NKJV": "The righteous will never be removed,\nBut the wicked will not inhabit the earth.",
+              "DRB": "The just shall never be moved: but the wicked shall not dwell on the earth."
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "The mouth of the righteous brings forth wisdom, but a perverse tongue will be cut out.",
+              "KJV": "The mouth of the just bringeth forth wisdom: but the froward tongue shall be cut out.",
+              "NKJV": "The mouth of the righteous brings forth wisdom,\nBut the perverse tongue will be cut out.",
+              "DRB": "The mouth of the just shall bring forth wisdom: the tongue of the perverse shall perish."
+            }
+          },
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "The lips of the righteous know what is fitting, but the mouth of the wicked only what is perverse.",
+              "KJV": "The lips of the righteous know what is acceptable: but the mouth of the wicked speaketh frowardness.",
+              "NKJV": "The lips of the righteous know what is acceptable,\nBut the mouth of the wicked what is perverse.",
+              "DRB": "The lips of the just consider what is acceptable: and the mouth of the wicked uttereth perverse things."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

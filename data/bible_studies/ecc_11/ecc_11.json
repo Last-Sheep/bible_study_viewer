@@ -1,0 +1,134 @@
+{
+  "scripture": {
+    "header": {
+      "id": "ecc_11",
+      "title": "Ecclesiastes 11",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "ecc_11_1_8",
+        "title": "The Value of Diligence",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 11,
+          "start": 1,
+          "end": 8
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Cast your bread upon the waters, for after many days you will find it again.",
+              "KJV": "Cast thy bread upon the waters: for thou shalt find it after many days.",
+              "NKJV": "Cast your bread upon the waters,\nFor you will find it after many days.",
+              "DRB": "Cast thy bread upon the running waters: for after a long time thou shalt find it again."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "Give portions to seven, yes to eight, for you do not know what disaster may come upon the land.",
+              "KJV": "Give a portion to seven, and also to eight; for thou knowest not what evil shall be upon the earth.",
+              "NKJV": "Give a serving to seven, and also to eight,\nFor you do not know what evil will be on the earth.",
+              "DRB": "Give a portion to seven, and also to eight: for thou knowest not what evil shall be upon the earth."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "If clouds are full of water, they pour rain upon the earth. Whether a tree falls to the south or to the north, in the place where it falls, there will it lie.",
+              "KJV": "If the clouds be full of rain, they empty themselves upon the earth: and if the tree fall toward the south, or toward the north, in the place where the tree falleth, there it shall be.",
+              "NKJV": "If the clouds are full of rain,\nThey empty themselves upon the earth;\nAnd if a tree falls to the south or the north,\nIn the place where the tree falls, there it shall lie.",
+              "DRB": "If the clouds be full, they will pour out rain upon the earth. If the tree fall to the south, or to the north, in what place soever it shall fall, there shall it be."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Whoever watches the wind will not plant; whoever looks at the clouds will not reap.",
+              "KJV": "He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap.",
+              "NKJV": "He who observes the wind will not sow,\nAnd he who regards the clouds will not reap.",
+              "DRB": "He that observeth the wind, shall not sow: and he that considereth the clouds, shall never reap."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "As you do not know the path of the wind, or how the body is formed in a mother's womb, so you cannot understand the work of God, the Maker of all things.",
+              "KJV": "As thou knowest not what is the way of the spirit, nor how the bones do grow in the womb of her that is with child: even so thou knowest not the works of God who maketh all.",
+              "NKJV": "As you do not know what is the way of the wind,\nOr how the bones grow in the womb of her who is with child,\nSo you do not know the works of God who makes everything.",
+              "DRB": "As thou knowest not what is the way of the spirit, nor how the bones are joined together in the womb of her that is with child: so thou knowest not the works of God, who is the maker of all."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Sow your seed in the morning, and at evening let not your hands be idle, for you do not know which will succeed, whether this or that, or whether both will do equally well.",
+              "KJV": "In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both shall be alike good.",
+              "NKJV": "In the morning sow your seed,\nAnd in the evening do not withhold your hand;\nFor you do not know which will prosper,\nEither this or that,\nOr whether both alike will be good.",
+              "DRB": "In the morning sow thy seed, and In the evening let not thy hand cease: for thou knowest not which may rather spring up, this or that: and if both together, it shall be the better."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Light is sweet, and it pleases the eyes to see the sun.",
+              "KJV": "Truly the light is sweet, and a pleasant thing it is for the eyes to behold the sun:",
+              "NKJV": "Truly the light is sweet,\nAnd it is pleasant for the eyes to behold the sun;",
+              "DRB": "The light is sweet, and it is delightful for the eyes to see the sun."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "However many years a man may live, let him enjoy them all. But let him remember the days of darkness, for they will be many. Everything to come is meaningless.",
+              "KJV": "But if a man live many years, and rejoice in them all; yet let him remember the days of darkness; for they shall be many. All that cometh is vanity.",
+              "NKJV": "But if a man lives many years\nAnd rejoices in them all,\nYet let him remember the days of darkness,\nFor they will be many.\nAll that is coming is vanity.",
+              "DRB": "If a man live many years, and have rejoiced in them all, he must remember the darksome time, and the many days: which when they shall come, the things past shall be accused of vanity."
+            }
+          }
+        ]
+      },
+      {
+        "id": "ecc_11_9_10",
+        "title": "Seek God in Early Life",
+        "description": "",
+        "reference": {
+          "book": "Ecclesiastes",
+          "chapter": 11,
+          "start": 9,
+          "end": 10
+        },
+        "rows": [
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Be happy, young man, while you are young, and let your heart give you joy in the days of your youth. Follow the ways of your heart and whatever your eyes see, but know that for all these things God will bring you to judgment.",
+              "KJV": "Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thine heart, and in the sight of thine eyes: but know thou, that for all these things God will bring thee into judgment.",
+              "NKJV": "Rejoice, O young man, in your youth,\nAnd let your heart cheer you in the days of your youth;\nWalk in the ways of your heart,\nAnd in the sight of your eyes;\nBut know that for all these\nGod will bring you into judgment.",
+              "DRB": "Rejoice therefore, O young man, in thy youth, and let thy heart be in that which is good in the days of thy youth, and walk in the ways of thy heart, and in the sight of thy eyes: and know that for all these God will bring thee into judgment."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "So then, banish anxiety from your heart and cast off the troubles of your body, for youth and vigor are meaningless.",
+              "KJV": "Therefore remove sorrow from thy heart, and put away evil from thy flesh: for childhood and youth are vanity.",
+              "NKJV": "Therefore remove sorrow from your heart,\nAnd put away evil from your flesh,\nFor childhood and youth are vanity.",
+              "DRB": "Remove anger from thy heart, and put away evil from thy flesh. For youth and pleasure are vain."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

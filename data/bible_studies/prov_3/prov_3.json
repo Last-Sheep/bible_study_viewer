@@ -1,0 +1,398 @@
+{
+  "scripture": {
+    "header": {
+      "id": "",
+      "title": "Proverbs 3",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_3_1_12",
+        "title": "Tablet of Your Heart",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 3,
+          "start": 1,
+          "end": 12
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "My son, do not forget my teaching, but keep my commands in your heart,",
+              "KJV": "My son, forget not my law; but let thine heart keep my commandments:",
+              "NKJV": "My son, do not forget my law,\nBut let your heart keep my commands;",
+              "DRB": "My son, forget not my law, and let thy heart keep my commandments."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "for they will prolong your life many years and bring you prosperity.",
+              "KJV": "For length of days, and long life, and peace, shall they add to thee.",
+              "NKJV": "For length of days and long life\nAnd peace they will add to you.",
+              "DRB": "For they shall add to thee length of days, and years of life and peace."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "Let love and faithfulness never leave you; bind them around your neck, write them on the tablet of your heart.",
+              "KJV": "Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart:",
+              "NKJV": "Let not mercy and truth forsake you;\nBind them around your neck,\nWrite them on the tablet of your heart,",
+              "DRB": "Let not mercy and truth leave thee, put them about thy neck, and write them in the tables of thy heart:"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Then you will win favor and a good name in the sight of God and man.",
+              "KJV": "So shalt thou find favour and good understanding in the sight of God and man.",
+              "NKJV": "And so find favor and high esteem\nIn the sight of God and man.",
+              "DRB": "And thou shalt And grace and good understanding before God and men."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "Trust in the LORD with all your heart and lean not on your own understanding;",
+              "KJV": "Trust in the Lord with all thine heart; and lean not unto thine own understanding.",
+              "NKJV": "Trust in the Lord with all your heart,\nAnd lean not on your own understanding;",
+              "DRB": "Have confidence in the Lord with all thy heart, and lean not upon thy own prudence."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "in all your ways acknowledge him, and he will make your paths straight.",
+              "KJV": "In all thy ways acknowledge him, and he shall direct thy paths.",
+              "NKJV": "In all your ways acknowledge Him,\nAnd He shall direct your paths.",
+              "DRB": "In all thy ways think on him, and he will direct thy steps."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Do not be wise in your own eyes; fear the LORD and shun evil.",
+              "KJV": "Be not wise in thine own eyes: fear the Lord, and depart from evil.",
+              "NKJV": "Do not be wise in your own eyes;\nFear the Lord and depart from evil.",
+              "DRB": "Be not wise in thy own conceit: fear God, and depart from evil:"
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "This will bring health to your body and nourishment to your bones.",
+              "KJV": "It shall be health to thy navel, and marrow to thy bones.",
+              "NKJV": "It will be health to your flesh,\nAnd strength to your bones.",
+              "DRB": "For it shall be health to thy navel, and moistening to thy bones."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Honor the LORD with your wealth, with the firstfruits of all your crops;",
+              "KJV": "Honour the Lord with thy substance, and with the firstfruits of all thine increase:",
+              "NKJV": "Honor the Lord with your possessions,\nAnd with the firstfruits of all your increase;",
+              "DRB": "Honour the Lord with thy substance, and give him of the first of all thy fruits :"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "then your barns will be filled to overflowing, and your vats will brim over with new wine.",
+              "KJV": "So shall thy barns be filled with plenty, and thy presses shall burst out with new wine.",
+              "NKJV": "So your barns will be filled with plenty,\nAnd your vats will overflow with new wine.",
+              "DRB": "And thy barns shall be filled with abundance, and thy presses shall run over with wine."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "My son, do not despise the LORD's discipline and do not resent his rebuke,",
+              "KJV": "My son, despise not the chastening of the Lord; neither be weary of his correction:",
+              "NKJV": "My son, do not despise the chastening of the Lord,\nNor detest His correction;",
+              "DRB": "My son, reject not the correction of the Lord: and do not faint when thou art chastised by him:"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "because the LORD disciplines those he loves, as a father the son he delights in.",
+              "KJV": "For whom the Lord loveth he correcteth; even as a father the son in whom he delighteth.",
+              "NKJV": "For whom the Lord loves He corrects,\nJust as a father the son in whom he delights.",
+              "DRB": "For whom the Lord loveth, he chastiseth: and as a father in the son he pleaseth himself."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_3_13_18",
+        "title": "She is Precious Wisdom",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 3,
+          "start": 13,
+          "end": 18
+        },
+        "rows": [
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Blessed is the man who finds wisdom, the man who gains understanding,",
+              "KJV": "Happy is the man that findeth wisdom, and the man that getteth understanding.",
+              "NKJV": "Happy is the man who finds wisdom,\nAnd the man who gains understanding;",
+              "DRB": "Blessed is the man that findeth wisdom and is rich in prudence:"
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "for she is more profitable than silver and yields better returns than gold.",
+              "KJV": "For the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold.",
+              "NKJV": "For her proceeds are better than the profits of silver,\nAnd her gain than fine gold.",
+              "DRB": "The purchasing thereof is better than the merchandise of silver, and her fruit than the chiefest and purest gold:"
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "She is more precious than rubies; nothing you desire can compare with her.",
+              "KJV": "She is more precious than rubies: and all the things thou canst desire are not to be compared unto her.",
+              "NKJV": "She is more precious than rubies,\nAnd all the things you may desire cannot compare with her.",
+              "DRB": "She is more precious than all riches : and all the things that are desired, are not to be compared with her."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "Long life is in her right hand; in her left hand are riches and honor.",
+              "KJV": "Length of days is in her right hand; and in her left hand riches and honour.",
+              "NKJV": "Length of days is in her right hand,\nIn her left hand riches and honor.",
+              "DRB": "Length of days is in her right hand, and in her left hand riches and glory."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "Her ways are pleasant ways, and all her paths are peace.",
+              "KJV": "Her ways are ways of pleasantness, and all her paths are peace.",
+              "NKJV": "Her ways are ways of pleasantness,\nAnd all her paths are peace.",
+              "DRB": "Her ways are beautiful ways, and all her paths are peaceable."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "She is a tree of life to those who embrace her; those who lay hold of her will be blessed.",
+              "KJV": "She is a tree of life to them that lay hold upon her: and happy is every one that retaineth her.",
+              "NKJV": "She is a tree of life to those who take hold of her,\nAnd happy are all who retain her.",
+              "DRB": "She is a tree of life to them that lay hold on her: and he that shall retain her is blessed."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_3_19_26",
+        "title": "Keep Sound Wisdom",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 3,
+          "start": 19,
+          "end": 26
+        },
+        "rows": [
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "By wisdom the LORD laid the earth's foundations, by understanding he set the heavens in place;",
+              "KJV": "The Lord by wisdom hath founded the earth; by understanding hath he established the heavens.",
+              "NKJV": "The Lord by wisdom founded the earth;\nBy understanding He established the heavens;",
+              "DRB": "The Lord by wisdom hath founded the earth, hath established the heavens by prudence."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "by his knowledge the deeps were divided, and the clouds let drop the dew.",
+              "KJV": "By his knowledge the depths are broken up, and the clouds drop down the dew.",
+              "NKJV": "By His knowledge the depths were broken up,\nAnd clouds drop down the dew.",
+              "DRB": "By his wisdom the depths have broken out, and the clouds grow thick with dew"
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "My son, preserve sound judgment and discernment, do not let them out of your sight;",
+              "KJV": "My son, let not them depart from thine eyes: keep sound wisdom and discretion:",
+              "NKJV": "My son, let them not depart from your eyes\u2014\nKeep sound wisdom and discretion;",
+              "DRB": "My son, let not these things depart from thy eyes: keep the law and counsel:"
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "they will be life for you, an ornament to grace your neck.",
+              "KJV": "So shall they be life unto thy soul, and grace to thy neck.",
+              "NKJV": "So they will be life to your soul\nAnd grace to your neck.",
+              "DRB": "And there shall be life to thy soul, and grace to thy mouth."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "Then you will go on your way in safety, and your foot will not stumble;",
+              "KJV": "Then shalt thou walk in thy way safely, and thy foot shall not stumble.",
+              "NKJV": "Then you will walk safely in your way,\nAnd your foot will not stumble.",
+              "DRB": "Then shalt thou walk confidently in thy way, and thy foot shall not stumble:"
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "when you lie down, you will not be afraid; when you lie down, your sleep will be sweet.",
+              "KJV": "When thou liest down, thou shalt not be afraid: yea, thou shalt lie down, and thy sleep shall be sweet.",
+              "NKJV": "When you lie down, you will not be afraid;\nYes, you will lie down and your sleep will be sweet.",
+              "DRB": "If thou sleep, thou shalt not fear: thou shalt rest, and thy sleep shall be sweet."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "Have no fear of sudden disaster or of the ruin that overtakes the wicked,",
+              "KJV": "Be not afraid of sudden fear, neither of the desolation of the wicked, when it cometh.",
+              "NKJV": "Do not be afraid of sudden terror,\nNor of trouble from the wicked when it comes;",
+              "DRB": "Be not afraid of sudden fear, nor of the power of the wicked falling upon thee."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "for the LORD will be your confidence and will keep your foot from being snared.",
+              "KJV": "For the Lord shall be thy confidence, and shall keep thy foot from being taken.",
+              "NKJV": "For the Lord will be your confidence,\nAnd will keep your foot from being caught.",
+              "DRB": "For the Lord will be at thy side, and will keep thy foot that thou be not taken."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_3_27_30",
+        "title": "Love Your Neighbor",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 3,
+          "start": 27,
+          "end": 30
+        },
+        "rows": [
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "Do not withhold good from those who deserve it, when it is in your power to act.",
+              "KJV": "Withhold not good from them to whom it is due, when it is in the power of thine hand to do it.",
+              "NKJV": "Do not withhold good from those to whom it is due,\nWhen it is in the power of your hand to do so.",
+              "DRB": "Do not withhold him from doing good, who is able: if thou art able, do good thyself also."
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "Do not say to your neighbor, \"Come back later; I'll give it tomorrow\"- when you now have it with you.",
+              "KJV": "Say not unto thy neighbour, Go, and come again, and to morrow I will give; when thou hast it by thee.",
+              "NKJV": "Do not say to your neighbor,\n\u201cGo, and come back,\nAnd tomorrow I will give it,\u201d\nWhen you have it with you.",
+              "DRB": "Say not to thy friend: Go, and come again: and to morrow I will give to thee: when thou canst give at present."
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "Do not plot harm against your neighbor, who lives trustfully near you.",
+              "KJV": "Devise not evil against thy neighbour, seeing he dwelleth securely by thee.",
+              "NKJV": "Do not devise evil against your neighbor,\nFor he dwells by you for safety\u2019s sake.",
+              "DRB": "Practise not evil against thy friend, when he hath confidence in thee."
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "Do not accuse a man for no reason- when he has done you no harm.",
+              "KJV": "Strive not with a man without cause, if he have done thee no harm.",
+              "NKJV": "Do not strive with a man without cause,\nIf he has done you no harm.",
+              "DRB": "Strive not against a man without cause, when he hath done thee no evil."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_3_31_35",
+        "title": "Do Not Envy the Oppressor",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 3,
+          "start": 31,
+          "end": 35
+        },
+        "rows": [
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "Do not envy a violent man or choose any of his ways,",
+              "KJV": "Envy thou not the oppressor, and choose none of his ways.",
+              "NKJV": "Do not envy the oppressor,\nAnd choose none of his ways;",
+              "DRB": "Envy not the unjust man, and do not follow his ways:"
+            }
+          },
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "for the LORD detests a perverse man but takes the upright into his confidence.",
+              "KJV": "For the froward is abomination to the Lord: but his secret is with the righteous.",
+              "NKJV": "For the perverse person is an abomination to the Lord,\nBut His secret counsel is with the upright.",
+              "DRB": "For every mocker is an abomination to the Lord, and his communication is with the simple."
+            }
+          },
+          {
+            "verse": 33,
+            "texts": {
+              "NIV84": "The LORD's curse is on the house of the wicked, but he blesses the home of the righteous.",
+              "KJV": "The curse of the Lord is in the house of the wicked: but he blesseth the habitation of the just.",
+              "NKJV": "The curse of the Lord is on the house of the wicked,\nBut He blesses the home of the just.",
+              "DRB": "Want is from the Lord in the house of the wicked: but the habitations of the just shall be blessed."
+            }
+          },
+          {
+            "verse": 34,
+            "texts": {
+              "NIV84": "He mocks proud mockers but gives grace to the humble.",
+              "KJV": "Surely he scorneth the scorners: but he giveth grace unto the lowly.",
+              "NKJV": "Surely He scorns the scornful,\nBut gives grace to the humble.",
+              "DRB": "He shall scorn the scorners, and to the meek he will give grace."
+            }
+          },
+          {
+            "verse": 35,
+            "texts": {
+              "NIV84": "The wise inherit honor, but fools he holds up to shame.",
+              "KJV": "The wise shall inherit glory: but shame shall be the promotion of fools.",
+              "NKJV": "The wise shall inherit glory,\nBut shame shall be the legacy of fools.",
+              "DRB": "The wise shall possess glory: the promotion of fools is disgrace."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

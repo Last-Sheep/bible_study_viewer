@@ -1,0 +1,219 @@
+{
+  "scripture": {
+    "header": {
+      "id": "prov_9",
+      "title": "Proverbs 9",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_9_1_6",
+        "title": "Wisdom and Her Ways",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 9,
+          "start": 1,
+          "end": 6
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Wisdom has built her house; she has hewn out its seven pillars.",
+              "KJV": "Wisdom hath builded her house, she hath hewn out her seven pillars:",
+              "NKJV": "Wisdom has built her house,\nShe has hewn out her seven pillars;",
+              "DRB": "Wisdom hath built herself a house, she hath hewn her out seven pillars."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "She has prepared her meat and mixed her wine; she has also set her table.",
+              "KJV": "She hath killed her beasts; she hath mingled her wine; she hath also furnished her table.",
+              "NKJV": "She has slaughtered her meat,\nShe has mixed her wine,\nShe has also furnished her table.",
+              "DRB": "She hath slain her victims, mingled her wine, and set forth her table."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "She has sent out her maids, and she calls from the highest point of the city.",
+              "KJV": "She hath sent forth her maidens: she crieth upon the highest places of the city,",
+              "NKJV": "She has sent out her maidens,\nShe cries out from the highest places of the city,",
+              "DRB": "She hath sent her maids to invite to the tower, and to the walls of the city:"
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "\"Let all who are simple come in here!\" she says to those who lack judgment.",
+              "KJV": "Whoso is simple, let him turn in hither: as for him that wanteth understanding, she saith to him,",
+              "NKJV": "\u201cWhoever is simple, let him turn in here!\u201d\nAs for him who lacks understanding, she says to him,",
+              "DRB": "Whosoever is a little one, let him come to me. And to the unwise she said:"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "\"Come, eat my food and drink the wine I have mixed.",
+              "KJV": "Come, eat of my bread, and drink of the wine which I have mingled.",
+              "NKJV": "\u201cCome, eat of my bread\nAnd drink of the wine I have mixed.",
+              "DRB": "Come, eat my bread, and drink the wine which I have mingled for you."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Leave your simple ways and you will live; walk in the way of understanding.",
+              "KJV": "Forsake the foolish, and live; and go in the way of understanding.",
+              "NKJV": "Forsake foolishness and live,\nAnd go in the way of understanding.",
+              "DRB": "Forsake childishness, and live, and walk by the ways of prudence."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_9_7_12",
+        "title": "Scoffers and a Wise Man",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 9,
+          "start": 7,
+          "end": 12
+        },
+        "rows": [
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "\"Whoever corrects a mocker invites insult; whoever rebukes a wicked man incurs abuse.",
+              "KJV": "He that reproveth a scorner getteth to himself shame: and he that rebuketh a wicked man getteth himself a blot.",
+              "NKJV": "\u201cHe who corrects a scoffer gets shame for himself,\nAnd he who rebukes a wicked man only harms himself.",
+              "DRB": "He that teacheth a scorner, doth an injury to himself: and he that rebuketh a wicked man, getteth himself a blot."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Do not rebuke a mocker or he will hate you; rebuke a wise man and he will love you.",
+              "KJV": "Reprove not a scorner, lest he hate thee: rebuke a wise man, and he will love thee.",
+              "NKJV": "Do not correct a scoffer, lest he hate you;\nRebuke a wise man, and he will love you.",
+              "DRB": "Rebuke not a scorner lest he hate thee. Rebuke a wise man, and he will love thee."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Instruct a wise man and he will be wiser still; teach a righteous man and he will add to his learning.",
+              "KJV": "Give instruction to a wise man, and he will be yet wiser: teach a just man, and he will increase in learning.",
+              "NKJV": "Give instruction to a wise man, and he will be still wiser;\nTeach a just man, and he will increase in learning.",
+              "DRB": "Give an occasion to a wise man, and wisdom shall be added to him. Teach a just man, and he shall make haste to receive it."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "\"The fear of the LORD is the beginning of wisdom, and knowledge of the Holy One is understanding.",
+              "KJV": "The fear of the Lord is the beginning of wisdom: and the knowledge of the holy is understanding.",
+              "NKJV": "\u201cThe fear of the Lord is the beginning of wisdom,\nAnd the knowledge of the Holy One is understanding.",
+              "DRB": "The fear of the Lord is the beginning of wisdom: and the knowledge of the holy is prudence."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "For through me your days will be many, and years will be added to your life.",
+              "KJV": "For by me thy days shall be multiplied, and the years of thy life shall be increased.",
+              "NKJV": "For by me your days will be multiplied,\nAnd years of life will be added to you.",
+              "DRB": "For by me shall thy days be multiplied, and years of life shall be added to thee."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "If you are wise, your wisdom will reward you; if you are a mocker, you alone will suffer.\"",
+              "KJV": "If thou be wise, thou shalt be wise for thyself: but if thou scornest, thou alone shalt bear it.",
+              "NKJV": "If you are wise, you are wise for yourself,\nAnd if you scoff, you will bear it alone.\u201d",
+              "DRB": "If thou be wise, thou shalt be so to thyself: and if a scorner, thou alone shalt bear the evil."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_9_13_18",
+        "title": "The Foolish Woman",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 9,
+          "start": 13,
+          "end": 18
+        },
+        "rows": [
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "The woman Folly is loud; she is undisciplined and without knowledge.",
+              "KJV": "A foolish woman is clamorous: she is simple, and knoweth nothing.",
+              "NKJV": "A foolish woman is clamorous;\nShe is simple, and knows nothing.",
+              "DRB": "A foolish woman and clamorous, and full of allurements, and knowing nothing at all,"
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "She sits at the door of her house, on a seat at the highest point of the city,",
+              "KJV": "For she sitteth at the door of her house, on a seat in the high places of the city,",
+              "NKJV": "For she sits at the door of her house,\nOn a seat by the highest places of the city,",
+              "DRB": "Sat at the door of her house, upon a seat, in a high place of the city,"
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "calling out to those who pass by, who go straight on their way.",
+              "KJV": "To call passengers who go right on their ways:",
+              "NKJV": "To call to those who pass by,\nWho go straight on their way:",
+              "DRB": "To call them that pass by the way, and go on their journey:"
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "\"Let all who are simple come in here!\" she says to those who lack judgment.",
+              "KJV": "Whoso is simple, let him turn in hither: and as for him that wanteth understanding, she saith to him,",
+              "NKJV": "\u201cWhoever is simple, let him turn in here\u201d;\nAnd as for him who lacks understanding, she says to him,",
+              "DRB": "He that is a little one, let him turn to me. And to the fool she said:"
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "\"Stolen water is sweet; food eaten in secret is delicious!\"",
+              "KJV": "Stolen waters are sweet, and bread eaten in secret is pleasant.",
+              "NKJV": "\u201cStolen water is sweet,\nAnd bread eaten in secret is pleasant.\u201d",
+              "DRB": "Stolen waters are sweeter, and hid den bread is more pleasant."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "But little do they know that the dead are there, that her guests are in the depths of the grave.",
+              "KJV": "But he knoweth not that the dead are there; and that her guests are in the depths of hell.",
+              "NKJV": "But he does not know that the dead are there,\nThat her guests are in the depths of hell.",
+              "DRB": "And he did not know that giants are there, and that her guests are in the depths of hell. The Parables of Solomon"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

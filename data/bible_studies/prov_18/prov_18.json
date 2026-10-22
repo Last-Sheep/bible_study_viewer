@@ -1,0 +1,299 @@
+{
+  "scripture": {
+    "header": {
+      "id": "prov_18",
+      "title": "Proverbs 18",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_18_1_5",
+        "title": "The Wellspring of Wisdom",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 18,
+          "start": 1,
+          "end": 5
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "An unfriendly man pursues selfish ends; he defies all sound judgment.",
+              "KJV": "Through desire a man, having separated himself, seeketh and intermeddleth with all wisdom.",
+              "NKJV": "A man who isolates himself seeks his own desire;\nHe rages against all wise judgment.",
+              "DRB": "He that hath a mind to depart from a friend seeketh occasions: he shall ever be subject to reproach."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "A fool finds no pleasure in understanding but delights in airing his own opinions.",
+              "KJV": "A fool hath no delight in understanding, but that his heart may discover itself.",
+              "NKJV": "A fool has no delight in understanding,\nBut in expressing his own heart.",
+              "DRB": "A fool receiveth not the words of prudence: unless thou say those things which are in his heart."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "When wickedness comes, so does contempt, and with shame comes disgrace.",
+              "KJV": "When the wicked cometh, then cometh also contempt, and with ignominy reproach.",
+              "NKJV": "When the wicked comes, contempt comes also;\nAnd with dishonor comes reproach.",
+              "DRB": "The wicked man when he is come into the depth of sins, contemneth: but ignominy and reproach follow him."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "The words of a man's mouth are deep waters, but the fountain of wisdom is a bubbling brook.",
+              "KJV": "The words of a man's mouth are as deep waters, and the wellspring of wisdom as a flowing brook.",
+              "NKJV": "The words of a man\u2019s mouth are deep waters;\nThe wellspring of wisdom is a flowing brook.",
+              "DRB": "Words from the mouth of a men are as deep water: and the fountain of wisdom as an overflowing stream."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "It is not good to be partial to the wicked or to deprive the innocent of justice.",
+              "KJV": "It is not good to accept the person of the wicked, to overthrow the righteous in judgment.",
+              "NKJV": "It is not good to show partiality to the wicked,\nOr to overthrow the righteous in judgment.",
+              "DRB": "It is not good to accept the person of the wicked, to decline from the truth of judgment."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_18_6_9",
+        "title": "The Lips and Mouth of a Fool",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 18,
+          "start": 6,
+          "end": 9
+        },
+        "rows": [
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "A fool's lips bring him strife, and his mouth invites a beating.",
+              "KJV": "A fool's lips enter into contention, and his mouth calleth for strokes.",
+              "NKJV": "A fool\u2019s lips enter into contention,\nAnd his mouth calls for blows.",
+              "DRB": "The lips of a fool intermeddle with strife: and his mouth provoketh quarrels."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "A fool's mouth is his undoing, and his lips are a snare to his soul.",
+              "KJV": "A fool's mouth is his destruction, and his lips are the snare of his soul.",
+              "NKJV": "A fool\u2019s mouth is his destruction,\nAnd his lips are the snare of his soul.",
+              "DRB": "The mouth of a fool is his destruction: and his lips are the ruin of his soul."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "The words of a gossip are like choice morsels; they go down to a man's inmost parts.",
+              "KJV": "The words of a talebearer are as wounds, and they go down into the innermost parts of the belly.",
+              "NKJV": "The words of a talebearer are like tasty trifles,\nAnd they go down into the inmost body.",
+              "DRB": "The words of the double tongued are as if they were harmless: and they reach even to the inner parts of the bowels. Fear casteth down the slothful: and the souls of the effeminate shall be hungry."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "One who is slack in his work is brother to one who destroys.",
+              "KJV": "He also that is slothful in his work is brother to him that is a great waster.",
+              "NKJV": "He who is slothful in his work\nIs a brother to him who is a great destroyer.",
+              "DRB": "He that is loose and slack in his work, is the brother of him that wasteth his own works."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_18_10_15",
+        "title": "The Heart of the Prudent",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 18,
+          "start": 10,
+          "end": 15
+        },
+        "rows": [
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "The name of the LORD is a strong tower; the righteous run to it and are safe.",
+              "KJV": "The name of the Lord is a strong tower: the righteous runneth into it, and is safe.",
+              "NKJV": "The name of the Lord is a strong tower;\nThe righteous run to it and are safe.",
+              "DRB": "The name of the Lord is a strong tower: the just runneth to it, and shall be exalted."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "The wealth of the rich is their fortified city; they imagine it an unscalable wall.",
+              "KJV": "The rich man's wealth is his strong city, and as an high wall in his own conceit.",
+              "NKJV": "The rich man\u2019s wealth is his strong city,\nAnd like a high wall in his own esteem.",
+              "DRB": "The substance of the rich man is the city of his strength, and as a strong wall compassing him about."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Before his downfall a man's heart is proud, but humility comes before honor.",
+              "KJV": "Before destruction the heart of man is haughty, and before honour is humility.",
+              "NKJV": "Before destruction the heart of a man is haughty,\nAnd before honor is humility.",
+              "DRB": "Before destruction, the heart of a man is exalted: and before he be glorified, it is humbled."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "He who answers before listening- that is his folly and his shame.",
+              "KJV": "He that answereth a matter before he heareth it, it is folly and shame unto him.",
+              "NKJV": "He who answers a matter before he hears it,\nIt is folly and shame to him.",
+              "DRB": "He that answereth before he heareth sheweth himself to be a fool, and worthy of confusion."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "A man's spirit sustains him in sickness, but a crushed spirit who can bear?",
+              "KJV": "The spirit of a man will sustain his infirmity; but a wounded spirit who can bear?",
+              "NKJV": "The spirit of a man will sustain him in sickness,\nBut who can bear a broken spirit?",
+              "DRB": "The spirit of a man upholdeth his infirmity: but a spirit that is easily angered, who can bear?"
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "The heart of the discerning acquires knowledge; the ears of the wise seek it out.",
+              "KJV": "The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.",
+              "NKJV": "The heart of the prudent acquires knowledge,\nAnd the ear of the wise seeks knowledge.",
+              "DRB": "A wise heart shall acquire knowledge: and the ear of the wise seeketh instruction."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_18_16_19",
+        "title": "A Brother Offended",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 18,
+          "start": 16,
+          "end": 19
+        },
+        "rows": [
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "A gift opens the way for the giver and ushers him into the presence of the great.",
+              "KJV": "A man's gift maketh room for him, and bringeth him before great men.",
+              "NKJV": "A man\u2019s gift makes room for him,\nAnd brings him before great men.",
+              "DRB": "A man's gift enlargeth his may, and maketh him room before princes."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "The first to present his case seems right, till another comes forward and questions him.",
+              "KJV": "He that is first in his own cause seemeth just; but his neighbour cometh and searcheth him.",
+              "NKJV": "The first one to plead his cause seems right,\nUntil his neighbor comes and examines him.",
+              "DRB": "The just is first accuser of himself: his friend cometh, and shall search him."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "Casting the lot settles disputes and keeps strong opponents apart.",
+              "KJV": "The lot causeth contentions to cease, and parteth between the mighty.",
+              "NKJV": "Casting lots causes contentions to cease,\nAnd keeps the mighty apart.",
+              "DRB": "The lot suppresseth contentions, and determineth even between the mighty."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "An offended brother is more unyielding than a fortified city, and disputes are like the barred gates of a citadel.",
+              "KJV": "A brother offended is harder to be won than a strong city: and their contentions are like the bars of a castle.",
+              "NKJV": "A brother offended is harder to win than a strong city,\nAnd contentions are like the bars of a castle.",
+              "DRB": "A brother that is helped by his brother, is like a strong city: and judgments are like the bars of cities."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_18_20_24",
+        "title": "Death and Life in the Tongue",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 18,
+          "start": 20,
+          "end": 24
+        },
+        "rows": [
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "From the fruit of his mouth a man's stomach is filled; with the harvest from his lips he is satisfied.",
+              "KJV": "A man's belly shall be satisfied with the fruit of his mouth; and with the increase of his lips shall he be filled.",
+              "NKJV": "A man\u2019s stomach shall be satisfied from the fruit of his mouth;\nFrom the produce of his lips he shall be filled.",
+              "DRB": "Of the fruit of a man's mouth shall his belly be satisfied: and the offspring of his lips shall fill him."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "The tongue has the power of life and death, and those who love it will eat its fruit.",
+              "KJV": "Death and life are in the power of the tongue: and they that love it shall eat the fruit thereof.",
+              "NKJV": "Death and life are in the power of the tongue,\nAnd those who love it will eat its fruit.",
+              "DRB": "Death and life are in the power of the tongue: they that love it, shall eat the fruits thereof."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "He who finds a wife finds what is good and receives favor from the LORD.",
+              "KJV": "Whoso findeth a wife findeth a good thing, and obtaineth favour of the Lord.",
+              "NKJV": "He who finds a wife finds a good thing,\nAnd obtains favor from the Lord.",
+              "DRB": "He that hath found a good wife, hath found a good thing, and shall receive a pleasure from the Lord. He that driveth away a good wife, driveth away a good thing: but he that keepeth an adulteress, is foolish and wicked."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "A poor man pleads for mercy, but a rich man answers harshly.",
+              "KJV": "The poor useth intreaties; but the rich answereth roughly.",
+              "NKJV": "The poor man uses entreaties,\nBut the rich answers roughly.",
+              "DRB": "The poor will speak with supplications, and the rich will speak roughly."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "A man of many companions may come to ruin, but there is a friend who sticks closer than a brother.",
+              "KJV": "A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother.",
+              "NKJV": "A man who has friends must himself be friendly,\nBut there is a friend who sticks closer than a brother.",
+              "DRB": "A man amiable in society, shall be more friendly than a brother."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "scripture": {
+    "header": {
+      "id": "",
+      "title": "Proverbs 16",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_16_1_9",
+        "title": "Commit Your Works to the Lord",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 16,
+          "start": 1,
+          "end": 9
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "To man belong the plans of the heart, but from the LORD comes the reply of the tongue.",
+              "KJV": "The preparations of the heart in man, and the answer of the tongue, is from the Lord.",
+              "NKJV": "The preparations of the heart belong to man,\nBut the answer of the tongue is from the Lord.",
+              "DRB": "It is the part of man to prepare the soul: and of the Lord to govern the tongue."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "All a man's ways seem innocent to him, but motives are weighed by the LORD.",
+              "KJV": "All the ways of a man are clean in his own eyes; but the Lord weigheth the spirits.",
+              "NKJV": "All the ways of a man are pure in his own eyes,\nBut the Lord weighs the spirits.",
+              "DRB": "All the ways of a man are open to his eyes: the Lord is the weigher of spirits."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "Commit to the LORD whatever you do, and your plans will succeed.",
+              "KJV": "Commit thy works unto the Lord, and thy thoughts shall be established.",
+              "NKJV": "Commit your works to the Lord,\nAnd your thoughts will be established.",
+              "DRB": "Lay open thy works to the Lord: and thy thoughts shall be directed."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "The LORD works out everything for his own ends- even the wicked for a day of disaster.",
+              "KJV": "The Lord hath made all things for himself: yea, even the wicked for the day of evil.",
+              "NKJV": "The Lord has made all for Himself,\nYes, even the wicked for the day of doom.",
+              "DRB": "The Lord hath made all things for himself: the wicked also for the evil day."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "The LORD detests all the proud of heart. Be sure of this: They will not go unpunished.",
+              "KJV": "Every one that is proud in heart is an abomination to the Lord: though hand join in hand, he shall not be unpunished.",
+              "NKJV": "Everyone proud in heart is an abomination to the Lord;\nThough they join forces, none will go unpunished.",
+              "DRB": "Every proud man is an abomination to the Lord: though hand should be joined to hand, he is not innocent. The beginning of a good way is to do justice; and this is more acceptable with God, than to offer sacrifices."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Through love and faithfulness sin is atoned for; through the fear of the LORD a man avoids evil.",
+              "KJV": "By mercy and truth iniquity is purged: and by the fear of the Lord men depart from evil.",
+              "NKJV": "In mercy and truth\nAtonement is provided for iniquity;\nAnd by the fear of the Lord one departs from evil.",
+              "DRB": "By mercy and truth iniquity is redeemed: and by the fear of the Lord men depart from evil."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "When a man's ways are pleasing to the LORD, he makes even his enemies live at peace with him.",
+              "KJV": "When a man's ways please the Lord, he maketh even his enemies to be at peace with him.",
+              "NKJV": "When a man\u2019s ways please the Lord,\nHe makes even his enemies to be at peace with him.",
+              "DRB": "When the ways of man shall please the Lord, he will convert even his enemies to peace."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Better a little with righteousness than much gain with injustice.",
+              "KJV": "Better is a little with righteousness than great revenues without right.",
+              "NKJV": "Better is a little with righteousness,\nThan vast revenues without justice.",
+              "DRB": "Better is a little with justice, than great revenues with iniquity."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "In his heart a man plans his course, but the LORD determines his steps.",
+              "KJV": "A man's heart deviseth his way: but the Lord directeth his steps.",
+              "NKJV": "A man\u2019s heart plans his way,\nBut the Lord directs his steps.",
+              "DRB": "The heart of man disposeth his way: but the Lord must direct his steps."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_16_10_15",
+        "title": "Righteous Lips are a Delight",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 16,
+          "start": 10,
+          "end": 15
+        },
+        "rows": [
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "The lips of a king speak as an oracle, and his mouth should not betray justice.",
+              "KJV": "A divine sentence is in the lips of the king: his mouth transgresseth not in judgment.",
+              "NKJV": "Divination is on the lips of the king;\nHis mouth must not transgress in judgment.",
+              "DRB": "Divination is in the lips of the king, his mouth shall not err in judgment."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "Honest scales and balances are from the LORD; all the weights in the bag are of his making.",
+              "KJV": "A just weight and balance are the Lord's: all the weights of the bag are his work.",
+              "NKJV": "Honest weights and scales are the Lord\u2019s;\nAll the weights in the bag are His work.",
+              "DRB": "Weight and balance are judgments of the Lord: and his work all the weights of the bag."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Kings detest wrongdoing, for a throne is established through righteousness.",
+              "KJV": "It is an abomination to kings to commit wickedness: for the throne is established by righteousness.",
+              "NKJV": "It is an abomination for kings to commit wickedness,\nFor a throne is established by righteousness.",
+              "DRB": "They that act wickedly are abominable to the king: for the throne is established by justice."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "Kings take pleasure in honest lips; they value a man who speaks the truth.",
+              "KJV": "Righteous lips are the delight of kings; and they love him that speaketh right.",
+              "NKJV": "Righteous lips are the delight of kings,\nAnd they love him who speaks what is right.",
+              "DRB": "Just lips are the delight of kings: he that speaketh right things shall be loved."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "A king's wrath is a messenger of death, but a wise man will appease it.",
+              "KJV": "The wrath of a king is as messengers of death: but a wise man will pacify it.",
+              "NKJV": "As messengers of death is the king\u2019s wrath,\nBut a wise man will appease it.",
+              "DRB": "The wrath of a king is as messengers of death : and the wise man will pacify it."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "When a king's face brightens, it means life; his favor is like a rain cloud in spring.",
+              "KJV": "In the light of the king's countenance is life; and his favour is as a cloud of the latter rain.",
+              "NKJV": "In the light of the king\u2019s face is life,\nAnd his favor is like a cloud of the latter rain.",
+              "DRB": "In the cheerfulness of the king's countenance is life: and his clemency is like the latter rain."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_16_16_20",
+        "title": "Wisdom is Better than Gold",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 16,
+          "start": 16,
+          "end": 20
+        },
+        "rows": [
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "How much better to get wisdom than gold, to choose understanding rather than silver!",
+              "KJV": "How much better is it to get wisdom than gold! and to get understanding rather to be chosen than silver!",
+              "NKJV": "How much better to get wisdom than gold!\nAnd to get understanding is to be chosen rather than silver.",
+              "DRB": "Get wisdom, because it is better than gold: and purchase prudence, for it is more precious than silver."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "The highway of the upright avoids evil; he who guards his way guards his life.",
+              "KJV": "The highway of the upright is to depart from evil: he that keepeth his way preserveth his soul.",
+              "NKJV": "The highway of the upright is to depart from evil;\nHe who keeps his way preserves his soul.",
+              "DRB": "The path of the just departeth from evils: he that keepeth his soul keepeth his way."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "Pride goes before destruction, a haughty spirit before a fall.",
+              "KJV": "Pride goeth before destruction, and an haughty spirit before a fall.",
+              "NKJV": "Pride goes before destruction,\nAnd a haughty spirit before a fall.",
+              "DRB": "Pride goeth before destruction: and the spirit is lifted up before a fall."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "Better to be lowly in spirit and among the oppressed than to share plunder with the proud.",
+              "KJV": "Better it is to be of an humble spirit with the lowly, than to divide the spoil with the proud.",
+              "NKJV": "Better to be of a humble spirit with the lowly,\nThan to divide the spoil with the proud.",
+              "DRB": "It is better to be humbled with the meek, than to divide spoils with the proud."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "Whoever gives heed to instruction prospers, and blessed is he who trusts in the LORD.",
+              "KJV": "He that handleth a matter wisely shall find good: and whoso trusteth in the Lord, happy is he.",
+              "NKJV": "He who heeds the word wisely will find good,\nAnd whoever trusts in the Lord, happy is he.",
+              "DRB": "The learned in word shall find good things: and he that trusteth in the Lord is blessed."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_16_21_26",
+        "title": "The Heart of the Wise",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 16,
+          "start": 21,
+          "end": 26
+        },
+        "rows": [
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "The wise in heart are called discerning, and pleasant words promote instruction.",
+              "KJV": "The wise in heart shall be called prudent: and the sweetness of the lips increaseth learning.",
+              "NKJV": "The wise in heart will be called prudent,\nAnd sweetness of the lips increases learning.",
+              "DRB": "The wise in heart shall be called prudent: and he that is sweet in words shall attain to greater things."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "Understanding is a fountain of life to those who have it, but folly brings punishment to fools.",
+              "KJV": "Understanding is a wellspring of life unto him that hath it: but the instruction of fools is folly.",
+              "NKJV": "Understanding is a wellspring of life to him who has it.\nBut the correction of fools is folly.",
+              "DRB": "Knowledge is a fountain of life to him that possesseth it: the instruction of fools is foolishness."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "A wise man's heart guides his mouth, and his lips promote instruction.",
+              "KJV": "The heart of the wise teacheth his mouth, and addeth learning to his lips.",
+              "NKJV": "The heart of the wise teaches his mouth,\nAnd adds learning to his lips.",
+              "DRB": "The heart of the wise shall instruct his mouth: and shall add grace to his lips."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "Pleasant words are a honeycomb, sweet to the soul and healing to the bones.",
+              "KJV": "Pleasant words are as an honeycomb, sweet to the soul, and health to the bones.",
+              "NKJV": "Pleasant words are like a honeycomb,\nSweetness to the soul and health to the bones.",
+              "DRB": "Well ordered words are as a honeycomb: sweet to the soul, and health to the bones."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "There is a way that seems right to a man, but in the end it leads to death.",
+              "KJV": "There is a way that seemeth right unto a man, but the end thereof are the ways of death.",
+              "NKJV": "There is a way that seems right to a man,\nBut its end is the way of death.",
+              "DRB": "There is a way that seemeth to a man right: and the ends thereof lead to death."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "The laborer's appetite works for him; his hunger drives him on.",
+              "KJV": "He that laboureth laboureth for himself; for his mouth craveth it of him.",
+              "NKJV": "The person who labors, labors for himself,\nFor his hungry mouth drives him on.",
+              "DRB": "The soul of him that laboureth, laboureth for himself, because his mouth hath obliged him to it."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_16_27_33",
+        "title": "Every Decision is from the Lord",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 16,
+          "start": 27,
+          "end": 33
+        },
+        "rows": [
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "A scoundrel plots evil, and his speech is like a scorching fire.",
+              "KJV": "An ungodly man diggeth up evil: and in his lips there is as a burning fire.",
+              "NKJV": "An ungodly man digs up evil,\nAnd it is on his lips like a burning fire.",
+              "DRB": "The wicked man diggeth evil, and in his lips is a burning fire."
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "A perverse man stirs up dissension, and a gossip separates close friends.",
+              "KJV": "A froward man soweth strife: and a whisperer separateth chief friends.",
+              "NKJV": "A perverse man sows strife,\nAnd a whisperer separates the best of friends.",
+              "DRB": "A perverse man stirreth up quarrels: and one full of words separateth princes."
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "A violent man entices his neighbor and leads him down a path that is not good.",
+              "KJV": "A violent man enticeth his neighbour, and leadeth him into the way that is not good.",
+              "NKJV": "A violent man entices his neighbor,\nAnd leads him in a way that is not good.",
+              "DRB": "An unjust man allureth his friend: and leadeth him into a way that is not good"
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "He who winks with his eye is plotting perversity; he who purses his lips is bent on evil.",
+              "KJV": "He shutteth his eyes to devise froward things: moving his lips he bringeth evil to pass.",
+              "NKJV": "He winks his eye to devise perverse things;\nHe purses his lips and brings about evil.",
+              "DRB": "He that with fixed eyes deviseth?? wicked things, biting his lips, bringeth: evil to pass."
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "Gray hair is a crown of splendor; it is attained by a righteous life.",
+              "KJV": "The hoary head is a crown of glory, if it be found in the way of righteousness.",
+              "NKJV": "The silver-haired head is a crown of glory,\nIf it is found in the way of righteousness.",
+              "DRB": "Old age is a crown of dignity, when it is found in the ways of justice."
+            }
+          },
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "Better a patient man than a warrior, a man who controls his temper than one who takes a city.",
+              "KJV": "He that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city.",
+              "NKJV": "He who is slow to anger is better than the mighty,\nAnd he who rules his spirit than he who takes a city.",
+              "DRB": "The patient man is better than the valiant: and he that ruleth his spirit than he that taketh cities."
+            }
+          },
+          {
+            "verse": 33,
+            "texts": {
+              "NIV84": "The lot is cast into the lap, but its every decision is from the LORD.",
+              "KJV": "The lot is cast into the lap; but the whole disposing thereof is of the Lord.",
+              "NKJV": "The lot is cast into the lap,\nBut its every decision is from the Lord.",
+              "DRB": "Lots are cast into the lap, but they are disposed of by the Lord."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

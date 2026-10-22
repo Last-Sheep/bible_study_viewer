@@ -1,0 +1,393 @@
+{
+  "scripture": {
+    "header": {
+      "id": "",
+      "title": "",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "pro_30_1_6",
+        "title": "Every Word of God is Pure",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 30,
+          "start": 1,
+          "end": 6
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "The sayings of Agur son of Jakeh-an oracle: This man declared to Ithiel, to Ithiel and to Ucal:",
+              "KJV": "The words of Agur the son of Jakeh, even the prophecy: the man spake unto Ithiel, even unto Ithiel and Ucal,",
+              "NKJV": "The words of Agur the son of Jakeh, his utterance. This man declared to Ithiel\u2014to Ithiel and Ucal:",
+              "DRB": "The words of Gatherer the son of Vomiter. The vision which the man spoke with whom God is, and who being strengthened by God, abiding with him, said:"
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "\"I am the most ignorant of men; I do not have a man's understanding.",
+              "KJV": "Surely I am more brutish than any man, and have not the understanding of a man.",
+              "NKJV": "Surely I am more stupid than any man,\nAnd do not have the understanding of a man.",
+              "DRB": "I am the most foolish of men, and the wisdom of men is not with me."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "I have not learned wisdom, nor have I knowledge of the Holy One.",
+              "KJV": "I neither learned wisdom, nor have the knowledge of the holy.",
+              "NKJV": "I neither learned wisdom\nNor have knowledge of the Holy One.",
+              "DRB": "I have not learned wisdom, and have not known the science of saints."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "Who has gone up to heaven and come down? Who has gathered up the wind in the hollow of his hands? Who has wrapped up the waters in his cloak? Who has established all the ends of the earth? What is his name, and the name of his son? Tell me if you know!",
+              "KJV": "Who hath ascended up into heaven, or descended? who hath gathered the wind in his fists? who hath bound the waters in a garment? who hath established all the ends of the earth? what is his name, and what is his son's name, if thou canst tell?",
+              "NKJV": "Who has ascended into heaven, or descended?\nWho has gathered the wind in His fists?\nWho has bound the waters in a garment?\nWho has established all the ends of the earth?\nWhat is His name, and what is His Son\u2019s name,\nIf you know?",
+              "DRB": "Who hath ascended up into heaven, and descended? who hath held the wind in his hands? who hath bound up the waters together as in a garment? who hath raised up all the borders of the earth? what is his name, and what is the name of his son, if thou knowest?"
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "\"Every word of God is flawless; he is a shield to those who take refuge in him.",
+              "KJV": "Every word of God is pure: he is a shield unto them that put their trust in him.",
+              "NKJV": "Every word of God is pure;\nHe is a shield to those who put their trust in Him.",
+              "DRB": "Every word of God is fire tried: he is a buckler to them that hope in him."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Do not add to his words, or he will rebuke you and prove you a liar.",
+              "KJV": "Add thou not unto his words, lest he reprove thee, and thou be found a liar.",
+              "NKJV": "Do not add to His words,\nLest He rebuke you, and you be found a liar.",
+              "DRB": "Add not any thing to his words, lest thou be reproved, and found a liar:"
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_30_7_10",
+        "title": "Do Not Malign a Servant",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 30,
+          "start": 7,
+          "end": 10
+        },
+        "rows": [
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "\"Two things I ask of you, O LORD; do not refuse me before I die:",
+              "KJV": "Two things have I required of thee; deny me them not before I die:",
+              "NKJV": "Two things I request of You\n(Deprive me not before I die):",
+              "DRB": "Two things I have asked of thee, deny them not to me before I die."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Keep falsehood and lies far from me; give me neither poverty nor riches, but give me only my daily bread.",
+              "KJV": "Remove far from me vanity and lies: give me neither poverty nor riches; feed me with food convenient for me:",
+              "NKJV": "Remove falsehood and lies far from me;\nGive me neither poverty nor riches\u2014\nFeed me with the food allotted to me;",
+              "DRB": "Remove far from me vanity, and lying words. Give me neither beggary, nor riches: give me only the necessaries of life:"
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Otherwise, I may have too much and disown you and say, 'Who is the LORD?' Or I may become poor and steal, and so dishonor the name of my God.",
+              "KJV": "Lest I be full, and deny thee, and say, Who is the Lord? or lest I be poor, and steal, and take the name of my God in vain.",
+              "NKJV": "Lest I be full and deny You,\nAnd say, \u201cWho is the Lord?\u201d\nOr lest I be poor and steal,\nAnd profane the name of my God.",
+              "DRB": "Lest perhaps being filled, I should be tempted to deny, and say: Who is the Lord? or being compelled by poverty, I should steal, and forswear the name of my God."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "\"Do not slander a servant to his master, or he will curse you, and you will pay for it.",
+              "KJV": "Accuse not a servant unto his master, lest he curse thee, and thou be found guilty.",
+              "NKJV": "Do not malign a servant to his master,\nLest he curse you, and you be found guilty.",
+              "DRB": "Accuse not a servant to his master, lest he curse thee, and thou fall."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_30_11_14",
+        "title": "Four Generations",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 30,
+          "start": 11,
+          "end": 14
+        },
+        "rows": [
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "\"There are those who curse their fathers and do not bless their mothers;",
+              "KJV": "There is a generation that curseth their father, and doth not bless their mother.",
+              "NKJV": "There is a generation that curses its father,\nAnd does not bless its mother.",
+              "DRB": "There is a generation that curseth their father, and doth not bless their mother."
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "those who are pure in their own eyes and yet are not cleansed of their filth;",
+              "KJV": "There is a generation that are pure in their own eyes, and yet is not washed from their filthiness.",
+              "NKJV": "There is a generation that is pure in its own eyes,\nYet is not washed from its filthiness.",
+              "DRB": "A generation that are pure in their own eyes, and yet are not washed from their filthiness."
+            }
+          },
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "those whose eyes are ever so haughty, whose glances are so disdainful;",
+              "KJV": "There is a generation, O how lofty are their eyes! and their eyelids are lifted up.",
+              "NKJV": "There is a generation\u2014oh, how lofty are their eyes!\nAnd their eyelids are lifted up.",
+              "DRB": "A generation, whose eyes are lofty, and their eyelids lifted up on high."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "those whose teeth are swords and whose jaws are set with knives to devour the poor from the earth, the needy from among mankind.",
+              "KJV": "There is a generation, whose teeth are as swords, and their jaw teeth as knives, to devour the poor from off the earth, and the needy from among men.",
+              "NKJV": "There is a generation whose teeth are like swords,\nAnd whose fangs are like knives,\nTo devour the poor from off the earth,\nAnd the needy from among men.",
+              "DRB": "A generation, that for teeth hath swords, and grindeth with their jaw teeth, to devour the needy from off the earth, and the poor from among men."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_30_15_23",
+        "title": "Three Things ",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 30,
+          "start": 15,
+          "end": 23
+        },
+        "rows": [
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "\"The leech has two daughters. 'Give! Give!' they cry. \"There are three things that are never satisfied, four that never say, 'Enough!':",
+              "KJV": "The horseleach hath two daughters, crying, Give, give. There are three things that are never satisfied, yea, four things say not, It is enough:",
+              "NKJV": "The leech has two daughters\u2014\nGive and Give! \nThere are three things that are never satisfied,\nFour never say, \u201cEnough!\u201d:",
+              "DRB": "The horseleech hath two daughters that say: Bring, bring. There are three things that never are satisfied, and the fourth never saith: It is enough."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "the grave, the barren womb, land, which is never satisfied with water, and fire, which never says, 'Enough!'",
+              "KJV": "The grave; and the barren womb; the earth that is not filled with water; and the fire that saith not, It is enough.",
+              "NKJV": "The grave,\nThe barren womb,\nThe earth that is not satisfied with water\u2014\nAnd the fire never says, \u201cEnough!\u201d",
+              "DRB": "Hell, and the mouth of the womb, and the earth which is not satisfied with water: and the fire never saith: It is enough."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "\"The eye that mocks a father, that scorns obedience to a mother, will be pecked out by the ravens of the valley, will be eaten by the vultures.",
+              "KJV": "The eye that mocketh at his father, and despiseth to obey his mother, the ravens of the valley shall pick it out, and the young eagles shall eat it.",
+              "NKJV": "The eye that mocks his father,\nAnd scorns obedience to his mother,\nThe ravens of the valley will pick it out,\nAnd the young eagles will eat it.",
+              "DRB": "The eye that mocketh at his father, and that despiseth the labour of his mother in bearing him, let the ravens of the brooks pick it out, and the young eagles eat it."
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "\"There are three things that are too amazing for me, four that I do not understand:",
+              "KJV": "There be three things which are too wonderful for me, yea, four which I know not:",
+              "NKJV": "There are three things which are too wonderful for me,\nYes, four which I do not understand:",
+              "DRB": "Three things are hard to me, and the fourth I am utterly ignorant of."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "the way of an eagle in the sky, the way of a snake on a rock, the way of a ship on the high seas, and the way of a man with a maiden.",
+              "KJV": "The way of an eagle in the air; the way of a serpent upon a rock; the way of a ship in the midst of the sea; and the way of a man with a maid.",
+              "NKJV": "The way of an eagle in the air,\nThe way of a serpent on a rock,\nThe way of a ship in the midst of the sea,\nAnd the way of a man with a virgin.",
+              "DRB": "The way of an eagle in the air, the way of a serpent upon a rock, the way of a ship in the midst of the sea, and the way of a man in youth."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "\"This is the way of an adulteress: She eats and wipes her mouth and says, 'I've done nothing wrong.'",
+              "KJV": "Such is the way of an adulterous woman; she eateth, and wipeth her mouth, and saith, I have done no wickedness.",
+              "NKJV": "This is the way of an adulterous woman:\nShe eats and wipes her mouth,\nAnd says, \u201cI have done no wickedness.\u201d",
+              "DRB": "Such is also the way of an adulterous woman, who eateth, and wipeth her mouth, and saith: I have done no evil."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "\"Under three things the earth trembles, under four it cannot bear up:",
+              "KJV": "For three things the earth is disquieted, and for four which it cannot bear:",
+              "NKJV": "For three things the earth is perturbed,\nYes, for four it cannot bear up:",
+              "DRB": "By three things the earth is disturbed, and the fourth it cannot bear:"
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "a servant who becomes king, a fool who is full of food,",
+              "KJV": "For a servant when he reigneth; and a fool when he is filled with meat;",
+              "NKJV": "For a servant when he reigns,\nA fool when he is filled with food,",
+              "DRB": "By a slave when he reigneth: by a fool when he is filled with meat:"
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "an unloved woman who is married, and a maidservant who displaces her mistress.",
+              "KJV": "For an odious woman when she is married; and an handmaid that is heir to her mistress.",
+              "NKJV": "A hateful woman when she is married,\nAnd a maidservant who succeeds her mistress.",
+              "DRB": "By an odious woman when she is married: and by a bondwoman when she is heir to her mistress."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_30_24_28",
+        "title": "Four Things",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 30,
+          "start": 24,
+          "end": 28
+        },
+        "rows": [
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "\"Four things on earth are small, yet they are extremely wise:",
+              "KJV": "There be four things which are little upon the earth, but they are exceeding wise:",
+              "NKJV": "There are four things which are little on the earth,\nBut they are exceedingly wise:",
+              "DRB": "There are four very little things of the earth, and they are wiser than the wise:"
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "Ants are creatures of little strength, yet they store up their food in the summer;",
+              "KJV": "The ants are a people not strong, yet they prepare their meat in the summer;",
+              "NKJV": "The ants are a people not strong,\nYet they prepare their food in the summer;",
+              "DRB": "The ants, a feeble people, which provide themselves food in the harvest:"
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "coneys are creatures of little power, yet they make their home in the crags;",
+              "KJV": "The conies are but a feeble folk, yet make they their houses in the rocks;",
+              "NKJV": "The rock badgers are a feeble folk,\nYet they make their homes in the crags;",
+              "DRB": "The rabbit, a weak people, which maketh its bed in the rock:"
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "locusts have no king, yet they advance together in ranks;",
+              "KJV": "The locusts have no king, yet go they forth all of them by bands;",
+              "NKJV": "The locusts have no king,\nYet they all advance in ranks;",
+              "DRB": "The locust hath no king, yet they all go out by their bands."
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "a lizard can be caught with the hand, yet it is found in kings' palaces.",
+              "KJV": "The spider taketh hold with her hands, and is in kings' palaces.",
+              "NKJV": "The spider skillfully grasps with its hands,\nAnd it is in kings\u2019 palaces.",
+              "DRB": "The stellio supporteth itself on hands, and dwelleth in kings' houses."
+            }
+          }
+        ]
+      },
+      {
+        "id": "pro_30_29_33",
+        "title": "Three Things",
+        "description": "",
+        "reference": {
+          "book": "Proverbs",
+          "chapter": 30,
+          "start": 29,
+          "end": 33
+        },
+        "rows": [
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "\"There are three things that are stately in their stride, four that move with stately bearing:",
+              "KJV": "There be three things which go well, yea, four are comely in going:",
+              "NKJV": "There are three things which are majestic in pace,\nYes, four which are stately in walk:",
+              "DRB": "There are three things, which go well, and the fourth that walketh happily:"
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "a lion, mighty among beasts, who retreats before nothing;",
+              "KJV": "A lion which is strongest among beasts, and turneth not away for any;",
+              "NKJV": "A lion, which is mighty among beasts\nAnd does not turn away from any;",
+              "DRB": "A lion, the strongest of beasts, who hath no fear of any thing he meeteth:"
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "a strutting rooster, a he-goat, and a king with his army around him.",
+              "KJV": "A greyhound; an he goat also; and a king, against whom there is no rising up.",
+              "NKJV": "A greyhound,\nA male goat also,\nAnd a king whose troops are with him.",
+              "DRB": "A cock girded about the loins: and a ram: and a king, whom none can resist."
+            }
+          },
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "\"If you have played the fool and exalted yourself, or if you have planned evil, clap your hand over your mouth!",
+              "KJV": "If thou hast done foolishly in lifting up thyself, or if thou hast thought evil, lay thine hand upon thy mouth.",
+              "NKJV": "If you have been foolish in exalting yourself,\nOr if you have devised evil, put your hand on your mouth.",
+              "DRB": "There is that hath appeared a fool after he was lifted up on high: for if he had understood, he would have laid his hand upon his mouth."
+            }
+          },
+          {
+            "verse": 33,
+            "texts": {
+              "NIV84": "For as churning the milk produces butter, and as twisting the nose produces blood, so stirring up anger produces strife.\"",
+              "KJV": "Surely the churning of milk bringeth forth butter, and the wringing of the nose bringeth forth blood: so the forcing of wrath bringeth forth strife.",
+              "NKJV": "For as the churning of milk produces butter,\nAnd wringing the nose produces blood,\nSo the forcing of wrath produces strife.",
+              "DRB": "And he that strongly squeezeth the papa to bring out milk, straineth out butter: and he that violently bloweth his nose, bringeth out blood: and he that provoketh wrath bringeth forth strife."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
