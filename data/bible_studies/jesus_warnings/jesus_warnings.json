@@ -1,0 +1,971 @@
+{
+  "scripture": {
+    "header": {
+      "id": "jesus_warnings",
+      "title": "Woes and Warnings of Jesus",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "mat_23_13_36",
+        "title": "Eight Woes to the Scribes & Pharisees",
+        "description": "",
+        "reference": {
+          "book": "Matthew",
+          "chapter": 23,
+          "start": 13,
+          "end": 36
+        },
+        "rows": [
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "\"Woe to you, teachers of the law and Pharisees, you hypocrites! You shut the kingdom of heaven in men's faces. You yourselves do not enter, nor will you let those enter who are trying to.",
+              "KJV": "But woe unto you, scribes and Pharisees, hypocrites! for ye shut up the kingdom of heaven against men: for ye neither go in yourselves, neither suffer ye them that are entering to go in.",
+              "NKJV": "\u201cBut woe to you, scribes and Pharisees, hypocrites! For you shut up the kingdom of heaven against men; for you neither go in yourselves, nor do you allow those who are entering to go in.",
+              "DRB": "But woe to you scribes and Pharisees, hypocrites; because you shut the kingdom of heaven against men, for you yourselves do not enter in; and those that are going in, you suffer not to enter."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "See Footnote",
+              "KJV": "Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows' houses, and for a pretence make long prayer: therefore ye shall receive the greater damnation.",
+              "NKJV": "Woe to you, scribes and Pharisees, hypocrites! For you devour widows\u2019 houses, and for a pretense make long prayers. Therefore you will receive greater condemnation.",
+              "DRB": "Woe to you scribes and Pharisees, hypocrites: because you devour the houses of widows, praying long prayers. For this you shall receive the greater judgment."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "\"Woe to you, teachers of the law and Pharisees, you hypocrites! You travel over land and sea to win a single convert, and when he becomes one, you make him twice as much a son of hell as you are.",
+              "KJV": "Woe unto you, scribes and Pharisees, hypocrites! for ye compass sea and land to make one proselyte, and when he is made, ye make him twofold more the child of hell than yourselves.",
+              "NKJV": "\u201cWoe to you, scribes and Pharisees, hypocrites! For you travel land and sea to win one proselyte, and when he is won, you make him twice as much a son of hell as yourselves.",
+              "DRB": "Woe to you scribes and Pharisees, hypocrites; because you go round about the sea and the land to make one proselyte; and when he is made, you make him the child of hell twofold more than yourselves."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "\"Woe to you, blind guides! You say, 'If anyone swears by the temple, it means nothing; but if anyone swears by the gold of the temple, he is bound by his oath.'",
+              "KJV": "Woe unto you, ye blind guides, which say, Whosoever shall swear by the temple, it is nothing; but whosoever shall swear by the gold of the temple, he is a debtor!",
+              "NKJV": "\u201cWoe to you, blind guides, who say, \u2018Whoever swears by the temple, it is nothing; but whoever swears by the gold of the temple, he is obliged to perform it.\u2019",
+              "DRB": "Woe to you blind guides, that say, Whosoever shall swear by the temple, it is nothing; but he that shall swear by the gold of the temple, is a debtor."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "You blind fools! Which is greater: the gold, or the temple that makes the gold sacred?",
+              "KJV": "Ye fools and blind: for whether is greater, the gold, or the temple that sanctifieth the gold?",
+              "NKJV": "Fools and blind! For which is greater, the gold or the temple that sanctifies the gold?",
+              "DRB": "Ye foolish and blind; for whether is greater, the gold, or the temple that sanctifieth the gold?"
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "You also say, 'If anyone swears by the altar, it means nothing; but if anyone swears by the gift on it, he is bound by his oath.'",
+              "KJV": "And, Whosoever shall swear by the altar, it is nothing; but whosoever sweareth by the gift that is upon it, he is guilty.",
+              "NKJV": "And, \u2018Whoever swears by the altar, it is nothing; but whoever swears by the gift that is on it, he is obliged to perform it.\u2019",
+              "DRB": "And whosoever shall swear by the altar, it is nothing; but whosoever shall swear by the gift that is upon it, is a debtor."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "You blind men! Which is greater: the gift, or the altar that makes the gift sacred?",
+              "KJV": "Ye fools and blind: for whether is greater, the gift, or the altar that sanctifieth the gift?",
+              "NKJV": "Fools and blind! For which is greater, the gift or the altar that sanctifies the gift?",
+              "DRB": "Ye blind: for whether is greater, the gift, or the altar that sanctifieth the gift?"
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "Therefore, he who swears by the altar swears by it and by everything on it.",
+              "KJV": "Whoso therefore shall swear by the altar, sweareth by it, and by all things thereon.",
+              "NKJV": "Therefore he who swears by the altar, swears by it and by all things on it.",
+              "DRB": "He therefore that sweareth by the altar, sweareth by it, and by all things that are upon it:"
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "And he who swears by the temple swears by it and by the one who dwells in it.",
+              "KJV": "And whoso shall swear by the temple, sweareth by it, and by him that dwelleth therein.",
+              "NKJV": "He who swears by the temple, swears by it and by Him who dwells in it.",
+              "DRB": "And whosoever shall swear by temple, sweareth by it, and by him that dwelleth in it:"
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "And he who swears by heaven swears by God's throne and by the one who sits on it.",
+              "KJV": "And he that shall swear by heaven, sweareth by the throne of God, and by him that sitteth thereon.",
+              "NKJV": "And he who swears by heaven, swears by the throne of God and by Him who sits on it.",
+              "DRB": "And he that sweareth by heaven, sweareth by the throne of God, and by him that sitteth thereon."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "\"Woe to you, teachers of the law and Pharisees, you hypocrites! You give a tenth of your spices--mint, dill and cummin. But you have neglected the more important matters of the law--justice, mercy and faithfulness. You should have practiced the latter, without neglecting the former.",
+              "KJV": "Woe unto you, scribes and Pharisees, hypocrites! for ye pay tithe of mint and anise and cummin, and have omitted the weightier matters of the law, judgment, mercy, and faith: these ought ye to have done, and not to leave the other undone.",
+              "NKJV": "\u201cWoe to you, scribes and Pharisees, hypocrites! For you pay tithe of mint and anise and cummin, and have neglected the weightier matters of the law: justice and mercy and faith. These you ought to have done, without leaving the others undone.",
+              "DRB": "Woe to you scribes and Pharisees, hypocrites; because you tithe mint, and anise, and cummin, and have left the weightier things of the law; judgment, and mercy, and faith. These things you ought to have done, and not to leave those undone."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "You blind guides! You strain out a gnat but swallow a camel.",
+              "KJV": "Ye blind guides, which strain at a gnat, and swallow a camel.",
+              "NKJV": "Blind guides, who strain out a gnat and swallow a camel!",
+              "DRB": "Blind guides, who strain out a gnat, and swallow a camel."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "\"Woe to you, teachers of the law and Pharisees, you hypocrites! You clean the outside of the cup and dish, but inside they are full of greed and self-indulgence.",
+              "KJV": "Woe unto you, scribes and Pharisees, hypocrites! for ye make clean the outside of the cup and of the platter, but within they are full of extortion and excess.",
+              "NKJV": "\u201cWoe to you, scribes and Pharisees, hypocrites! For you cleanse the outside of the cup and dish, but inside they are full of extortion and self-indulgence.",
+              "DRB": "Woe to you scribes and Pharisees, hypocrites; because you make clean the outside of the cup and of the dish, but within you are full of rapine and uncleanness."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "Blind Pharisee! First clean the inside of the cup and dish, and then the outside also will be clean.",
+              "KJV": "Thou blind Pharisee, cleanse first that which is within the cup and platter, that the outside of them may be clean also.",
+              "NKJV": "Blind Pharisee, first cleanse the inside of the cup and dish, that the outside of them may be clean also.",
+              "DRB": "Thou blind Pharisee, first make clean the inside of the cup and of the dish, that the outside may become clean."
+            }
+          },
+          {
+            "verse": 27,
+            "texts": {
+              "NIV84": "\"Woe to you, teachers of the law and Pharisees, you hypocrites! You are like whitewashed tombs, which look beautiful on the outside but on the inside are full of dead men's bones and everything unclean.",
+              "KJV": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.",
+              "NKJV": "\u201cWoe to you, scribes and Pharisees, hypocrites! For you are like whitewashed tombs which indeed appear beautiful outwardly, but inside are full of dead men\u2019s bones and all uncleanness.",
+              "DRB": "Woe to you scribes and Pharisees, hypocrites; because you are like to whited sepulchres, which outwardly appear to men beautiful, but within are full of dead men's bones, and of all filthiness."
+            }
+          },
+          {
+            "verse": 28,
+            "texts": {
+              "NIV84": "In the same way, on the outside you appear to people as righteous but on the inside you are full of hypocrisy and wickedness.",
+              "KJV": "Even so ye also outwardly appear righteous unto men, but within ye are full of hypocrisy and iniquity.",
+              "NKJV": "Even so you also outwardly appear righteous to men, but inside you are full of hypocrisy and lawlessness.",
+              "DRB": "So you also outwardly indeed appear to men just; but inwardly you are full of hypocrisy and iniquity."
+            }
+          },
+          {
+            "verse": 29,
+            "texts": {
+              "NIV84": "\"Woe to you, teachers of the law and Pharisees, you hypocrites! You build tombs for the prophets and decorate the graves of the righteous.",
+              "KJV": "Woe unto you, scribes and Pharisees, hypocrites! because ye build the tombs of the prophets, and garnish the sepulchres of the righteous,",
+              "NKJV": "\u201cWoe to you, scribes and Pharisees, hypocrites! Because you build the tombs of the prophets and adorn the monuments of the righteous,",
+              "DRB": "Woe to you scribes and Pharisees, hypocrites; that build the sepulchres of the prophets, and adorn the monuments of the just,"
+            }
+          },
+          {
+            "verse": 30,
+            "texts": {
+              "NIV84": "And you say, 'If we had lived in the days of our forefathers, we would not have taken part with them in shedding the blood of the prophets.'",
+              "KJV": "And say, If we had been in the days of our fathers, we would not have been partakers with them in the blood of the prophets.",
+              "NKJV": "and say, \u2018If we had lived in the days of our fathers, we would not have been partakers with them in the blood of the prophets.\u2019",
+              "DRB": "And say: If we had been in the days of our Fathers, we would not have been partakers with them in the blood of the prophets."
+            }
+          },
+          {
+            "verse": 31,
+            "texts": {
+              "NIV84": "So you testify against yourselves that you are the descendants of those who murdered the prophets.",
+              "KJV": "Wherefore ye be witnesses unto yourselves, that ye are the children of them which killed the prophets.",
+              "NKJV": "\u201cTherefore you are witnesses against yourselves that you are sons of those who murdered the prophets.",
+              "DRB": "Wherefore you are witnesses against yourselves, that you are the sons of them that killed the prophets."
+            }
+          },
+          {
+            "verse": 32,
+            "texts": {
+              "NIV84": "Fill up, then, the measure of the sin of your forefathers!",
+              "KJV": "Fill ye up then the measure of your fathers.",
+              "NKJV": "Fill up, then, the measure of your fathers\u2019 guilt.",
+              "DRB": "Fill ye up then the measure of your fathers."
+            }
+          },
+          {
+            "verse": 33,
+            "texts": {
+              "NIV84": "\"You snakes! You brood of vipers! How will you escape being condemned to hell?",
+              "KJV": "Ye serpents, ye generation of vipers, how can ye escape the damnation of hell?",
+              "NKJV": "Serpents, brood of vipers! How can you escape the condemnation of hell?",
+              "DRB": "You serpents, generation of vipers, how will you flee from the judgment of hell?"
+            }
+          },
+          {
+            "verse": 34,
+            "texts": {
+              "NIV84": "Therefore I am sending you prophets and wise men and teachers. Some of them you will kill and crucify; others you will flog in your synagogues and pursue from town to town.",
+              "KJV": "Wherefore, behold, I send unto you prophets, and wise men, and scribes: and some of them ye shall kill and crucify; and some of them shall ye scourge in your synagogues, and persecute them from city to city:",
+              "NKJV": "Therefore, indeed, I send you prophets, wise men, and scribes: some of them you will kill and crucify, and some of them you will scourge in your synagogues and persecute from city to city,",
+              "DRB": "Therefore behold I send to you prophets, and wise men, and scribes: and some of them you will put to death and crucify, and some you will scourge in your synagogues, and persecute from city to city:"
+            }
+          },
+          {
+            "verse": 35,
+            "texts": {
+              "NIV84": "And so upon you will come all the righteous blood that has been shed on earth, from the blood of righteous Abel to the blood of Zechariah son of Berekiah, whom you murdered between the temple and the altar.",
+              "KJV": "That upon you may come all the righteous blood shed upon the earth, from the blood of righteous Abel unto the blood of Zacharias son of Barachias, whom ye slew between the temple and the altar.",
+              "NKJV": "that on you may come all the righteous blood shed on the earth, from the blood of righteous Abel to the blood of Zechariah, son of Berechiah, whom you murdered between the temple and the altar.",
+              "DRB": "That upon you may come all the just blood that hath been shed upon the earth, from the blood of Abel the just, even unto the blood of Zacharias the son of Barachias, whom you killed between the temple and the altar."
+            }
+          },
+          {
+            "verse": 36,
+            "texts": {
+              "NIV84": "I tell you the truth, all this will come upon this generation.",
+              "KJV": "Verily I say unto you, All these things shall come upon this generation.",
+              "NKJV": "Assuredly, I say to you, all these things will come upon this generation.",
+              "DRB": "Amen I say to you, all these things shall come upon this generation."
+            }
+          }
+        ]
+      },
+      {
+        "id": "luk_11_37_54",
+        "title": "Six Woes to the Pharisees & Teachers of the Law",
+        "description": "",
+        "reference": {
+          "book": "Luke",
+          "chapter": 11,
+          "start": 37,
+          "end": 54
+        },
+        "rows": [
+          {
+            "verse": 37,
+            "texts": {
+              "NIV84": "When Jesus had finished speaking, a Pharisee invited him to eat with him; so he went in and reclined at the table.",
+              "KJV": "And as he spake, a certain Pharisee besought him to dine with him: and he went in, and sat down to meat.",
+              "NKJV": "And as He spoke, a certain Pharisee asked Him to dine with him. So He went in and sat down to eat.",
+              "DRB": "And as he was speaking, a certain Pharisee prayed him, that he would dine with him. And he going in, sat down to eat."
+            }
+          },
+          {
+            "verse": 38,
+            "texts": {
+              "NIV84": "But the Pharisee, noticing that Jesus did not first wash before the meal, was surprised.",
+              "KJV": "And when the Pharisee saw it, he marvelled that he had not first washed before dinner.",
+              "NKJV": "When the Pharisee saw it, he marveled that He had not first washed before dinner.",
+              "DRB": "And the Pharisee began to say, thinking within himself, why he was not washed before dinner."
+            }
+          },
+          {
+            "verse": 39,
+            "texts": {
+              "NIV84": "Then the Lord said to him, \"Now then, you Pharisees clean the outside of the cup and dish, but inside you are full of greed and wickedness.",
+              "KJV": "And the Lord said unto him, Now do ye Pharisees make clean the outside of the cup and the platter; but your inward part is full of ravening and wickedness.",
+              "NKJV": "Then the Lord said to him, \u201cNow you Pharisees make the outside of the cup and dish clean, but your inward part is full of greed and wickedness.",
+              "DRB": "And the Lord said to him: Now you Pharisees make clean the outside of the cup and of the platter; but your inside is full of rapine and iniquity."
+            }
+          },
+          {
+            "verse": 40,
+            "texts": {
+              "NIV84": "You foolish people! Did not the one who made the outside make the inside also?",
+              "KJV": "Ye fools, did not he that made that which is without make that which is within also?",
+              "NKJV": "Foolish ones! Did not He who made the outside make the inside also?",
+              "DRB": "Ye fools, did not he that made that which is without, make also that which is within?"
+            }
+          },
+          {
+            "verse": 41,
+            "texts": {
+              "NIV84": "But give what is inside the dish to the poor, and everything will be clean for you.",
+              "KJV": "But rather give alms of such things as ye have; and, behold, all things are clean unto you.",
+              "NKJV": "But rather give alms of such things as you have; then indeed all things are clean to you.",
+              "DRB": "But yet that which remaineth, give alms; and behold, all things are clean unto you."
+            }
+          },
+          {
+            "verse": 42,
+            "texts": {
+              "NIV84": "\"Woe to you Pharisees, because you give God a tenth of your mint, rue and all other kinds of garden herbs, but you neglect justice and the love of God. You should have practiced the latter without leaving the former undone.",
+              "KJV": "But woe unto you, Pharisees! for ye tithe mint and rue and all manner of herbs, and pass over judgment and the love of God: these ought ye to have done, and not to leave the other undone.",
+              "NKJV": "\u201cBut woe to you Pharisees! For you tithe mint and rue and all manner of herbs, and pass by justice and the love of God. These you ought to have done, without leaving the others undone.",
+              "DRB": "But woe to you, Pharisees, because you tithe mint and rue and every herb; and pass over judgment, and the charity of God. Now these things you ought to have done, and not to leave the other undone."
+            }
+          },
+          {
+            "verse": 43,
+            "texts": {
+              "NIV84": "\"Woe to you Pharisees, because you love the most important seats in the synagogues and greetings in the marketplaces.",
+              "KJV": "Woe unto you, Pharisees! for ye love the uppermost seats in the synagogues, and greetings in the markets.",
+              "NKJV": "Woe to you Pharisees! For you love the best seats in the synagogues and greetings in the marketplaces.",
+              "DRB": "Woe to you, Pharisees, because you love the uppermost seats in the synagogues, and salutations in the marketplace."
+            }
+          },
+          {
+            "verse": 44,
+            "texts": {
+              "NIV84": "\"Woe to you, because you are like unmarked graves, which men walk over without knowing it.\"",
+              "KJV": "Woe unto you, scribes and Pharisees, hypocrites! for ye are as graves which appear not, and the men that walk over them are not aware of them.",
+              "NKJV": "Woe to you, scribes and Pharisees, hypocrites! For you are like graves which are not seen, and the men who walk over them are not aware of them.\u201d",
+              "DRB": "Woe to you, because you are as sepulchres that appear not, and men that walk over are not aware."
+            }
+          },
+          {
+            "verse": 45,
+            "texts": {
+              "NIV84": "One of the experts in the law answered him, \"Teacher, when you say these things, you insult us also.\"",
+              "KJV": "Then answered one of the lawyers, and said unto him, Master, thus saying thou reproachest us also.",
+              "NKJV": "Then one of the lawyers answered and said to Him, \u201cTeacher, by saying these things You reproach us also.\u201d",
+              "DRB": "And one of the lawyers answering, saith to him: Master, in saying these things, thou reproachest us also."
+            }
+          },
+          {
+            "verse": 46,
+            "texts": {
+              "NIV84": "Jesus replied, \"And you experts in the law, woe to you, because you load people down with burdens they can hardly carry, and you yourselves will not lift one finger to help them.",
+              "KJV": "And he said, Woe unto you also, ye lawyers! for ye lade men with burdens grievous to be borne, and ye yourselves touch not the burdens with one of your fingers.",
+              "NKJV": "And He said, \u201cWoe to you also, lawyers! For you load men with burdens hard to bear, and you yourselves do not touch the burdens with one of your fingers.",
+              "DRB": "But he said: Woe to you lawyers also, because you load men with burdens which they cannot bear, and you yourselves touch not the packs with one of your fingers."
+            }
+          },
+          {
+            "verse": 47,
+            "texts": {
+              "NIV84": "\"Woe to you, because you build tombs for the prophets, and it was your forefathers who killed them.",
+              "KJV": "Woe unto you! for ye build the sepulchres of the prophets, and your fathers killed them.",
+              "NKJV": "Woe to you! For you build the tombs of the prophets, and your fathers killed them.",
+              "DRB": "Woe to you who build the monuments of the prophets: and your fathers killed them."
+            }
+          },
+          {
+            "verse": 48,
+            "texts": {
+              "NIV84": "So you testify that you approve of what your forefathers did; they killed the prophets, and you build their tombs.",
+              "KJV": "Truly ye bear witness that ye allow the deeds of your fathers: for they indeed killed them, and ye build their sepulchres.",
+              "NKJV": "In fact, you bear witness that you approve the deeds of your fathers; for they indeed killed them, and you build their tombs.",
+              "DRB": "Truly you bear witness that you consent to the doings of your fathers: for they indeed killed them, and you build their sepulchres."
+            }
+          },
+          {
+            "verse": 49,
+            "texts": {
+              "NIV84": "Because of this, God in his wisdom said, 'I will send them prophets and apostles, some of whom they will kill and others they will persecute.'",
+              "KJV": "Therefore also said the wisdom of God, I will send them prophets and apostles, and some of them they shall slay and persecute:",
+              "NKJV": "Therefore the wisdom of God also said, \u2018I will send them prophets and apostles, and some of them they will kill and persecute,\u2019",
+              "DRB": "For this cause also the wisdom of God said: I will send to them prophets and apostles; and some of them they will kill and persecute."
+            }
+          },
+          {
+            "verse": 50,
+            "texts": {
+              "NIV84": "Therefore this generation will be held responsible for the blood of all the prophets that has been shed since the beginning of the world,",
+              "KJV": "That the blood of all the prophets, which was shed from the foundation of the world, may be required of this generation;",
+              "NKJV": "that the blood of all the prophets which was shed from the foundation of the world may be required of this generation,",
+              "DRB": "That the blood of all the prophets which was shed from the foundation of the world, may be required of this generation,"
+            }
+          },
+          {
+            "verse": 51,
+            "texts": {
+              "NIV84": "from the blood of Abel to the blood of Zechariah, who was killed between the altar and the sanctuary. Yes, I tell you, this generation will be held responsible for it all.",
+              "KJV": "From the blood of Abel unto the blood of Zacharias which perished between the altar and the temple: verily I say unto you, It shall be required of this generation.",
+              "NKJV": "from the blood of Abel to the blood of Zechariah who perished between the altar and the temple. Yes, I say to you, it shall be required of this generation.",
+              "DRB": "From the blood of Abel unto the blood of Zacharias, who was slain between the alter and the temple: Yea I say to you, It shall be required of this generation."
+            }
+          },
+          {
+            "verse": 52,
+            "texts": {
+              "NIV84": "\"Woe to you experts in the law, because you have taken away the key to knowledge. You yourselves have not entered, and you have hindered those who were entering.\"",
+              "KJV": "Woe unto you, lawyers! for ye have taken away the key of knowledge: ye entered not in yourselves, and them that were entering in ye hindered.",
+              "NKJV": "\u201cWoe to you lawyers! For you have taken away the key of knowledge. You did not enter in yourselves, and those who were entering in you hindered.\u201d",
+              "DRB": "Woe to you lawyers, for you have taken away the key of knowledge: you yourselves have not entered in, and those that were entering in, you have hindered."
+            }
+          },
+          {
+            "verse": 53,
+            "texts": {
+              "NIV84": "When Jesus left there, the Pharisees and the teachers of the law began to oppose him fiercely and to besiege him with questions,",
+              "KJV": "And as he said these things unto them, the scribes and the Pharisees began to urge him vehemently, and to provoke him to speak of many things:",
+              "NKJV": "And as He said these things to them, the scribes and the Pharisees began to assail Him vehemently, and to cross-examine Him about many things,",
+              "DRB": "And as he was saying these things to them, the Pharisees and the lawyers began violently to urge him, and to oppress his mouth about many things,"
+            }
+          },
+          {
+            "verse": 54,
+            "texts": {
+              "NIV84": "waiting to catch him in something he might say.",
+              "KJV": "Laying wait for him, and seeking to catch something out of his mouth, that they might accuse him.",
+              "NKJV": "lying in wait for Him, and seeking to catch Him in something He might say, that they might accuse Him.",
+              "DRB": "Lying in wait for him, and seeking to catch something from his mouth, that they might accuse him."
+            }
+          }
+        ]
+      },
+      {
+        "id": "mat_11_20_24",
+        "title": "Woe to the Unrepentant Cities",
+        "description": "",
+        "reference": {
+          "book": "Matthew",
+          "chapter": 11,
+          "start": 20,
+          "end": 24
+        },
+        "rows": [
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "Then Jesus began to denounce the cities in which most of his miracles had been performed, because they did not repent.",
+              "KJV": "Then began he to upbraid the cities wherein most of his mighty works were done, because they repented not:",
+              "NKJV": "Then He began to rebuke the cities in which most of His mighty works had been done, because they did not repent:",
+              "DRB": "Then began he to upbraid the cities wherein were done the most of his miracles, for that they had not done penance."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "\"Woe to you, Korazin! Woe to you, Bethsaida! If the miracles that were performed in you had been performed in Tyre and Sidon, they would have repented long ago in sackcloth and ashes.",
+              "KJV": "Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works, which were done in you, had been done in Tyre and Sidon, they would have repented long ago in sackcloth and ashes.",
+              "NKJV": "\u201cWoe to you, Chorazin! Woe to you, Bethsaida! For if the mighty works which were done in you had been done in Tyre and Sidon, they would have repented long ago in sackcloth and ashes.",
+              "DRB": "Woe to thee, Corozain, woe to thee, Bethsaida: for if in Tyre and Sidon had been wrought the miracles that have been wrought in you, they had long ago done penance in sackcloth and ashes."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "But I tell you, it will be more bearable for Tyre and Sidon on the day of judgment than for you.",
+              "KJV": "But I say unto you, It shall be more tolerable for Tyre and Sidon at the day of judgment, than for you.",
+              "NKJV": "But I say to you, it will be more tolerable for Tyre and Sidon in the day of judgment than for you.",
+              "DRB": "But I say unto you, it shall be more tolerable for Tyre and Sidon in the day of judgment, than for you."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "And you, Capernaum, will you be lifted up to the skies? No, you will go down to the depths. If the miracles that were performed in you had been performed in Sodom, it would have remained to this day.",
+              "KJV": "And thou, Capernaum, which art exalted unto heaven, shalt be brought down to hell: for if the mighty works, which have been done in thee, had been done in Sodom, it would have remained until this day.",
+              "NKJV": "And you, Capernaum, who are exalted to heaven, will be brought down to Hades; for if the mighty works which were done in you had been done in Sodom, it would have remained until this day.",
+              "DRB": "And thou Capharnaum, shalt thou be exalted up to heaven? thou shalt go down even unto hell. For if in Sodom had been wrought the miracles that have been wrought in thee, perhaps it had remained unto this day."
+            }
+          },
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "But I tell you that it will be more bearable for Sodom on the day of judgment than for you.\"",
+              "KJV": "But I say unto you, That it shall be more tolerable for the land of Sodom in the day of judgment, than for thee.",
+              "NKJV": "But I say to you that it shall be more tolerable for the land of Sodom in the day of judgment than for you.\u201d",
+              "DRB": "But I say unto you, that it shall be more tolerable for the land of Sodom in the day of judgment, than for thee."
+            }
+          }
+        ]
+      },
+      {
+        "id": "luk_10_13_15",
+        "title": "Woe to the Unrepentant Cities",
+        "description": "",
+        "reference": {
+          "book": "Luke",
+          "chapter": 10,
+          "start": 13,
+          "end": 15
+        },
+        "rows": [
+          {
+            "verse": 13,
+            "texts": {
+              "NIV84": "\"Woe to you, Korazin! Woe to you, Bethsaida! For if the miracles that were performed in you had been performed in Tyre and Sidon, they would have repented long ago, sitting in sackcloth and ashes.",
+              "KJV": "Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works had been done in Tyre and Sidon, which have been done in you, they had a great while ago repented, sitting in sackcloth and ashes.",
+              "NKJV": "\u201cWoe to you, Chorazin! Woe to you, Bethsaida! For if the mighty works which were done in you had been done in Tyre and Sidon, they would have repented long ago, sitting in sackcloth and ashes.",
+              "DRB": "Woe to thee, Corozain, woe to thee, Bethsaida. For if in Tyre and Sidon had been wrought the mighty works that have been wrought in you, they would have done penance long ago, sitting in sackcloth and ashes."
+            }
+          },
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "But it will be more bearable for Tyre and Sidon at the judgment than for you.",
+              "KJV": "But it shall be more tolerable for Tyre and Sidon at the judgment, than for you.",
+              "NKJV": "But it will be more tolerable for Tyre and Sidon at the judgment than for you.",
+              "DRB": "But it shall be more tolerable for Tyre and Sidon at the judgement, than for you."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "And you, Capernaum, will you be lifted up to the skies? No, you will go down to the depths.",
+              "KJV": "And thou, Capernaum, which art exalted to heaven, shalt be thrust down to hell.",
+              "NKJV": "And you, Capernaum, who are exalted to heaven, will be brought down to Hades.",
+              "DRB": "And thou, Capharnaum, which art exalted unto heaven, thou shalt be thrust down to hell."
+            }
+          }
+        ]
+      },
+      {
+        "id": "luk_6_20_23",
+        "title": "The Beatitudes",
+        "description": "",
+        "reference": {
+          "book": "Luke",
+          "chapter": 6,
+          "start": 20,
+          "end": 23
+        },
+        "rows": [
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "Looking at his disciples, he said: \"Blessed are you who are poor, for yours is the kingdom of God.",
+              "KJV": "And he lifted up his eyes on his disciples, and said, Blessed be ye poor: for yours is the kingdom of God.",
+              "NKJV": "Then He lifted up His eyes toward His disciples, and said:\n\u201cBlessed are you poor,\nFor yours is the kingdom of God.",
+              "DRB": "And he, lifting up his eyes on his disciples, said: Blessed are ye poor, for yours is the kingdom of God."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "Blessed are you who hunger now, for you will be satisfied. Blessed are you who weep now, for you will laugh.",
+              "KJV": "Blessed are ye that hunger now: for ye shall be filled. Blessed are ye that weep now: for ye shall laugh.",
+              "NKJV": "Blessed are you who hunger now,\nFor you shall be filled.\nBlessed are you who weep now,\nFor you shall laugh.",
+              "DRB": "Blessed are ye that hunger now: for you shall be filled. Blessed are ye that weep now: for you shall laugh."
+            }
+          },
+          {
+            "verse": 22,
+            "texts": {
+              "NIV84": "Blessed are you when men hate you, when they exclude you and insult you and reject your name as evil, because of the Son of Man.",
+              "KJV": "Blessed are ye, when men shall hate you, and when they shall separate you from their company, and shall reproach you, and cast out your name as evil, for the Son of man's sake.",
+              "NKJV": "Blessed are you when men hate you,\nAnd when they exclude you,\nAnd revile you, and cast out your name as evil,\nFor the Son of Man\u2019s sake.",
+              "DRB": "Blessed shall you be when men shall hate you, and when they shall separate you, and shall reproach you, and cast out your name as evil, for the Son of man's sake."
+            }
+          },
+          {
+            "verse": 23,
+            "texts": {
+              "NIV84": "\"Rejoice in that day and leap for joy, because great is your reward in heaven. For that is how their fathers treated the prophets.",
+              "KJV": "Rejoice ye in that day, and leap for joy: for, behold, your reward is great in heaven: for in the like manner did their fathers unto the prophets.",
+              "NKJV": "Rejoice in that day and leap for joy!\nFor indeed your reward is great in heaven,\nFor in like manner their fathers did to the prophets.",
+              "DRB": "Be glad in that day and rejoice; for behold, your reward is great in heaven. For according to these things did their fathers to the prophets."
+            }
+          }
+        ]
+      },
+      {
+        "id": "luk_6_24_26",
+        "title": "Four Woes",
+        "description": "",
+        "reference": {
+          "book": "Luke",
+          "chapter": 6,
+          "start": 24,
+          "end": 26
+        },
+        "rows": [
+          {
+            "verse": 24,
+            "texts": {
+              "NIV84": "\"But woe to you who are rich, for you have already received your comfort.",
+              "KJV": "But woe unto you that are rich! for ye have received your consolation.",
+              "NKJV": "\u201cBut woe to you who are rich,\nFor you have received your consolation.",
+              "DRB": "But woe to you that are rich: for you have your consolation."
+            }
+          },
+          {
+            "verse": 25,
+            "texts": {
+              "NIV84": "Woe to you who are well fed now, for you will go hungry. Woe to you who laugh now, for you will mourn and weep.",
+              "KJV": "Woe unto you that are full! for ye shall hunger. Woe unto you that laugh now! for ye shall mourn and weep.",
+              "NKJV": "Woe to you who are full,\nFor you shall hunger.\nWoe to you who laugh now,\nFor you shall mourn and weep.",
+              "DRB": "Woe to you that are filled: for you shall hunger. Woe to you that now laugh: for you shall mourn and weep."
+            }
+          },
+          {
+            "verse": 26,
+            "texts": {
+              "NIV84": "Woe to you when all men speak well of you, for that is how their fathers treated the false prophets.",
+              "KJV": "Woe unto you, when all men shall speak well of you! for so did their fathers to the false prophets.",
+              "NKJV": "Woe to you when all men speak well of you,\nFor so did their fathers to the false prophets.",
+              "DRB": "Woe to you when men shall bless you: for according to these things did their fathers to the false prophets."
+            }
+          }
+        ]
+      },
+      {
+        "id": "mrk_12_38_40",
+        "title": "Beware of the Scribes",
+        "description": "",
+        "reference": {
+          "book": "Mark",
+          "chapter": 12,
+          "start": 38,
+          "end": 40
+        },
+        "rows": [
+          {
+            "verse": 38,
+            "texts": {
+              "NIV84": "As he taught, Jesus said, \"Watch out for the teachers of the law. They like to walk around in flowing robes and be greeted in the marketplaces,",
+              "KJV": "And he said unto them in his doctrine, Beware of the scribes, which love to go in long clothing, and love salutations in the marketplaces,",
+              "NKJV": "Then He said to them in His teaching, \u201cBeware of the scribes, who desire to go around in long robes, love greetings in the marketplaces,",
+              "DRB": "And he said to them in his doctrine: Beware of the scribes, who love to walk in long robes, and to be saluted in the marketplace,"
+            }
+          },
+          {
+            "verse": 39,
+            "texts": {
+              "NIV84": "and have the most important seats in the synagogues and the places of honor at banquets.",
+              "KJV": "And the chief seats in the synagogues, and the uppermost rooms at feasts:",
+              "NKJV": "the best seats in the synagogues, and the best places at feasts,",
+              "DRB": "And to sit in the first chairs, in the synagogues, and to have the highest places at suppers:"
+            }
+          },
+          {
+            "verse": 40,
+            "texts": {
+              "NIV84": "They devour widows' houses and for a show make lengthy prayers. Such men will be punished most severely.\"",
+              "KJV": "Which devour widows' houses, and for a pretence make long prayers: these shall receive greater damnation.",
+              "NKJV": "who devour widows\u2019 houses, and for a pretense make long prayers. These will receive greater condemnation.\u201d",
+              "DRB": "Who devour the houses of widows under the pretence of long prayer: these shall receive greater judgment."
+            }
+          }
+        ]
+      },
+      {
+        "id": "luk_20_45_47",
+        "title": "Beware Teachers of the Law",
+        "description": "",
+        "reference": {
+          "book": "Luke",
+          "chapter": 20,
+          "start": 45,
+          "end": 47
+        },
+        "rows": [
+          {
+            "verse": 45,
+            "texts": {
+              "NIV84": "While all the people were listening, Jesus said to his disciples,",
+              "KJV": "Then in the audience of all the people he said unto his disciples,",
+              "NKJV": "Then, in the hearing of all the people, He said to His disciples,",
+              "DRB": "And in the hearing of all the people, he said to his disciples:"
+            }
+          },
+          {
+            "verse": 46,
+            "texts": {
+              "NIV84": "\"Beware of the teachers of the law. They like to walk around in flowing robes and love to be greeted in the marketplaces and have the most important seats in the synagogues and the places of honor at banquets.",
+              "KJV": "Beware of the scribes, which desire to walk in long robes, and love greetings in the markets, and the highest seats in the synagogues, and the chief rooms at feasts;",
+              "NKJV": "\u201cBeware of the scribes, who desire to go around in long robes, love greetings in the marketplaces, the best seats in the synagogues, and the best places at feasts,",
+              "DRB": "Beware of the scribes, who desire to walk in long robes, and love salutations in the marketplace, and the first chairs in the synagogues, and the chief rooms at feasts:"
+            }
+          },
+          {
+            "verse": 47,
+            "texts": {
+              "NIV84": "They devour widows' houses and for a show make lengthy prayers. Such men will be punished most severely.\"",
+              "KJV": "Which devour widows' houses, and for a shew make long prayers: the same shall receive greater damnation.",
+              "NKJV": "who devour widows\u2019 houses, and for a pretense make long prayers. These will receive greater condemnation.\u201d",
+              "DRB": "Who devour the houses of widows, feigning long prayer. These shall receive greater damnation."
+            }
+          }
+        ]
+      },
+      {
+        "id": "mat_16_5_12",
+        "title": "Beware of the Pharisees",
+        "description": "",
+        "reference": {
+          "book": "Matthew",
+          "chapter": 16,
+          "start": 5,
+          "end": 12
+        },
+        "rows": [
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "When they went across the lake, the disciples forgot to take bread.",
+              "KJV": "And when his disciples were come to the other side, they had forgotten to take bread.",
+              "NKJV": "Now when His disciples had come to the other side, they had forgotten to take bread.",
+              "DRB": "And when his disciples were come over the water, they had forgotten to take bread."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "\"Be careful,\" Jesus said to them. \"Be on your guard against the yeast of the Pharisees and Sadducees.\"",
+              "KJV": "Then Jesus said unto them, Take heed and beware of the leaven of the Pharisees and of the Sadducees.",
+              "NKJV": "Then Jesus said to them, \u201cTake heed and beware of the leaven of the Pharisees and the Sadducees.\u201d",
+              "DRB": "Who said to them: Take heed and beware of the leaven of the Pharisees and Sadducees."
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "They discussed this among themselves and said, \"It is because we didn't bring any bread.\"",
+              "KJV": "And they reasoned among themselves, saying, It is because we have taken no bread.",
+              "NKJV": "And they reasoned among themselves, saying, \u201cIt is because we have taken no bread.\u201d",
+              "DRB": "But they thought within themselves, saying: Because we have taken no bread."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "Aware of their discussion, Jesus asked, \"You of little faith, why are you talking among yourselves about having no bread?",
+              "KJV": "Which when Jesus perceived, he said unto them, O ye of little faith, why reason ye among yourselves, because ye have brought no bread?",
+              "NKJV": "But Jesus, being aware of it, said to them, \u201cO you of little faith, why do you reason among yourselves because you have brought no bread?",
+              "DRB": "And Jesus knowing it, said: Why do you think within yourselves, O ye of little faith, for that you have no bread?"
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "Do you still not understand? Don't you remember the five loaves for the five thousand, and how many basketfuls you gathered?",
+              "KJV": "Do ye not yet understand, neither remember the five loaves of the five thousand, and how many baskets ye took up?",
+              "NKJV": "Do you not yet understand, or remember the five loaves of the five thousand and how many baskets you took up?",
+              "DRB": "Do you not yet understand, neither do you remember the five loaves among five thousand men, and how many baskets you took up?"
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "Or the seven loaves for the four thousand, and how many basketfuls you gathered?",
+              "KJV": "Neither the seven loaves of the four thousand, and how many baskets ye took up?",
+              "NKJV": "Nor the seven loaves of the four thousand and how many large baskets you took up?",
+              "DRB": "Nor the seven loaves among four thousand men, and how many baskets you took up?"
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "How is it you don't understand that I was not talking to you about bread? But be on your guard against the yeast of the Pharisees and Sadducees.\"",
+              "KJV": "How is it that ye do not understand that I spake it not to you concerning bread, that ye should beware of the leaven of the Pharisees and of the Sadducees?",
+              "NKJV": "How is it you do not understand that I did not speak to you concerning bread?\u2014but to beware of the leaven of the Pharisees and Sadducees.\u201d",
+              "DRB": "Why do you not understand that it was not concerning the bread I said to you: Beware of the leaven of the Pharisees and Sadducees?"
+            }
+          },
+          {
+            "verse": 12,
+            "texts": {
+              "NIV84": "Then they understood that he was not telling them to guard against the yeast used in bread, but against the teaching of the Pharisees and Sadducees.",
+              "KJV": "Then understood they how that he bade them not beware of the leaven of bread, but of the doctrine of the Pharisees and of the Sadducees.",
+              "NKJV": "Then they understood that He did not tell them to beware of the leaven of bread, but of the doctrine of the Pharisees and Sadducees.",
+              "DRB": "Then they understood that he said not that they should beware of the leaven of bread, but of the doctrine of the Pharisees and Sadducees."
+            }
+          }
+        ]
+      },
+      {
+        "id": "mrk_8_14_21",
+        "title": "Beware of the Pharisees",
+        "description": "",
+        "reference": {
+          "book": "Mark",
+          "chapter": 8,
+          "start": 14,
+          "end": 21
+        },
+        "rows": [
+          {
+            "verse": 14,
+            "texts": {
+              "NIV84": "The disciples had forgotten to bring bread, except for one loaf they had with them in the boat.",
+              "KJV": "Now the disciples had forgotten to take bread, neither had they in the ship with them more than one loaf.",
+              "NKJV": "Now the disciples had forgotten to take bread, and they did not have more than one loaf with them in the boat.",
+              "DRB": "And they forgot to take bread; and they had but one loaf with them in the ship."
+            }
+          },
+          {
+            "verse": 15,
+            "texts": {
+              "NIV84": "\"Be careful,\" Jesus warned them. \"Watch out for the yeast of the Pharisees and that of Herod.\"",
+              "KJV": "And he charged them, saying, Take heed, beware of the leaven of the Pharisees, and of the leaven of Herod.",
+              "NKJV": "Then He charged them, saying, \u201cTake heed, beware of the leaven of the Pharisees and the leaven of Herod.\u201d",
+              "DRB": "And he charged them, saying: Take heed and beware of the leaven of the Pharisees, and of the leaven of Herod."
+            }
+          },
+          {
+            "verse": 16,
+            "texts": {
+              "NIV84": "They discussed this with one another and said, \"It is because we have no bread.\"",
+              "KJV": "And they reasoned among themselves, saying, It is because we have no bread.",
+              "NKJV": "And they reasoned among themselves, saying, \u201cIt is because we have no bread.\u201d",
+              "DRB": "And they reasoned among themselves, saying: Because we have no bread."
+            }
+          },
+          {
+            "verse": 17,
+            "texts": {
+              "NIV84": "Aware of their discussion, Jesus asked them: \"Why are you talking about having no bread? Do you still not see or understand? Are your hearts hardened?",
+              "KJV": "And when Jesus knew it, he saith unto them, Why reason ye, because ye have no bread? perceive ye not yet, neither understand? have ye your heart yet hardened?",
+              "NKJV": "But Jesus, being aware of it, said to them, \u201cWhy do you reason because you have no bread? Do you not yet perceive nor understand? Is your heart still hardened?",
+              "DRB": "Which Jesus knowing, saith to them: Why do you reason, because you have no bread? do you not yet know nor understand? have you still your heart blinded?"
+            }
+          },
+          {
+            "verse": 18,
+            "texts": {
+              "NIV84": "Do you have eyes but fail to see, and ears but fail to hear? And don't you remember?",
+              "KJV": "Having eyes, see ye not? and having ears, hear ye not? and do ye not remember?",
+              "NKJV": "Having eyes, do you not see? And having ears, do you not hear? And do you not remember?",
+              "DRB": "Having eyes, see you not? and having ears, hear you not? neither do you remember."
+            }
+          },
+          {
+            "verse": 19,
+            "texts": {
+              "NIV84": "When I broke the five loaves for the five thousand, how many basketfuls of pieces did you pick up?Twelve,\" they replied.",
+              "KJV": "When I brake the five loaves among five thousand, how many baskets full of fragments took ye up? They say unto him, Twelve.",
+              "NKJV": "When I broke the five loaves for the five thousand, how many baskets full of fragments did you take up?\u201d\nThey said to Him, \u201cTwelve.\u201d",
+              "DRB": "When I broke the five loaves among five thousand, how many baskets full of fragments took you up? They say to him, Twelve."
+            }
+          },
+          {
+            "verse": 20,
+            "texts": {
+              "NIV84": "\"And when I broke the seven loaves for the four thousand, how many basketfuls of pieces did you pick up?\" They answered, \"Seven.\"",
+              "KJV": "And when the seven among four thousand, how many baskets full of fragments took ye up? And they said, Seven.",
+              "NKJV": "\u201cAlso, when I broke the seven for the four thousand, how many large baskets full of fragments did you take up?\u201d\nAnd they said, \u201cSeven.\u201d",
+              "DRB": "When also the seven loaves among four thousand, how many baskets of fragments took you up? And they say to him, Seven."
+            }
+          },
+          {
+            "verse": 21,
+            "texts": {
+              "NIV84": "He said to them, \"Do you still not understand?\"",
+              "KJV": "And he said unto them, How is it that ye do not understand?",
+              "NKJV": "So He said to them, \u201cHow is it you do not understand?\u201d",
+              "DRB": "And he said to them: How do you not yet understand?"
+            }
+          }
+        ]
+      },
+      {
+        "id": "luk_12_1_11",
+        "title": "Beware of the Pharisees",
+        "description": "",
+        "reference": {
+          "book": "Luke",
+          "chapter": 12,
+          "start": 1,
+          "end": 11
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "Meanwhile, when a crowd of many thousands had gathered, so that they were trampling on one another, Jesus began to speak first to his disciples, saying: \"Be on your guard against the yeast of the Pharisees, which is hypocrisy.",
+              "KJV": "In the mean time, when there were gathered together an innumerable multitude of people, insomuch that they trode one upon another, he began to say unto his disciples first of all, Beware ye of the leaven of the Pharisees, which is hypocrisy.",
+              "NKJV": "In the meantime, when an innumerable multitude of people had gathered together, so that they trampled one another, He began to say to His disciples first of all, \u201cBeware of the leaven of the Pharisees, which is hypocrisy.",
+              "DRB": "AND when great multitudes stood about him, so that they trod one upon another, he began to say to his disciples: Beware ye of the leaven of the Pharisees, which is hypocrisy."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "There is nothing concealed that will not be disclosed, or hidden that will not be made known.",
+              "KJV": "For there is nothing covered, that shall not be revealed; neither hid, that shall not be known.",
+              "NKJV": "For there is nothing covered that will not be revealed, nor hidden that will not be known.",
+              "DRB": "For there is nothing covered, that shall not be revealed: nor hidden, that shall not be known."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "What you have said in the dark will be heard in the daylight, and what you have whispered in the ear in the inner rooms will be proclaimed from the roofs.",
+              "KJV": "Therefore whatsoever ye have spoken in darkness shall be heard in the light; and that which ye have spoken in the ear in closets shall be proclaimed upon the housetops.",
+              "NKJV": "Therefore whatever you have spoken in the dark will be heard in the light, and what you have spoken in the ear in inner rooms will be proclaimed on the housetops.",
+              "DRB": "For whatsoever things you have spoken in darkness, shall be published in the light: and that which you have spoken in the ear in the chambers, shall be preached on the housetops."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "\"I tell you, my friends, do not be afraid of those who kill the body and after that can do no more.",
+              "KJV": "And I say unto you my friends, Be not afraid of them that kill the body, and after that have no more that they can do.",
+              "NKJV": "\u201cAnd I say to you, My friends, do not be afraid of those who kill the body, and after that have no more that they can do.",
+              "DRB": "And I say to you, my friends: Be not afraid of them who kill the body, and after that have no more that they can do."
+            }
+          },
+          {
+            "verse": 5,
+            "texts": {
+              "NIV84": "But I will show you whom you should fear: Fear him who, after the killing of the body, has power to throw you into hell. Yes, I tell you, fear him.",
+              "KJV": "But I will forewarn you whom ye shall fear: Fear him, which after he hath killed hath power to cast into hell; yea, I say unto you, Fear him.",
+              "NKJV": "But I will show you whom you should fear: Fear Him who, after He has killed, has power to cast into hell; yes, I say to you, fear Him!",
+              "DRB": "But I will shew you whom you shall fear: fear ye him, who after he hath killed, hath power to cast into hell. Yea, I say to you, fear him."
+            }
+          },
+          {
+            "verse": 6,
+            "texts": {
+              "NIV84": "Are not five sparrows sold for two pennies? Yet not one of them is forgotten by God.",
+              "KJV": "Are not five sparrows sold for two farthings, and not one of them is forgotten before God?",
+              "NKJV": "\u201cAre not five sparrows sold for two copper coins? And not one of them is forgotten before God.",
+              "DRB": "Are not five sparrows sold for two farthings, and not one of them is forgotten before God?"
+            }
+          },
+          {
+            "verse": 7,
+            "texts": {
+              "NIV84": "Indeed, the very hairs of your head are all numbered. Don't be afraid; you are worth more than many sparrows.",
+              "KJV": "But even the very hairs of your head are all numbered. Fear not therefore: ye are of more value than many sparrows.",
+              "NKJV": "But the very hairs of your head are all numbered. Do not fear therefore; you are of more value than many sparrows.",
+              "DRB": "Yea, the very hairs of your head are all numbered. Fear not therefore: you are of more value than many sparrows."
+            }
+          },
+          {
+            "verse": 8,
+            "texts": {
+              "NIV84": "\"I tell you, whoever acknowledges me before men, the Son of Man will also acknowledge him before the angels of God.",
+              "KJV": "Also I say unto you, Whosoever shall confess me before men, him shall the Son of man also confess before the angels of God:",
+              "NKJV": "\u201cAlso I say to you, whoever confesses Me before men, him the Son of Man also will confess before the angels of God.",
+              "DRB": "And I say to you, Whosoever shall confess me before men, him shall the Son of man also confess before the angels of God."
+            }
+          },
+          {
+            "verse": 9,
+            "texts": {
+              "NIV84": "But he who disowns me before men will be disowned before the angels of God.",
+              "KJV": "But he that denieth me before men shall be denied before the angels of God.",
+              "NKJV": "But he who denies Me before men will be denied before the angels of God.",
+              "DRB": "But he that shall deny me before men, shall be denied before the angels of God."
+            }
+          },
+          {
+            "verse": 10,
+            "texts": {
+              "NIV84": "And everyone who speaks a word against the Son of Man will be forgiven, but anyone who blasphemes against the Holy Spirit will not be forgiven.",
+              "KJV": "And whosoever shall speak a word against the Son of man, it shall be forgiven him: but unto him that blasphemeth against the Holy Ghost it shall not be forgiven.",
+              "NKJV": "\u201cAnd anyone who speaks a word against the Son of Man, it will be forgiven him; but to him who blasphemes against the Holy Spirit, it will not be forgiven.",
+              "DRB": "And whosoever speaketh a word against the Son of man, it shall be forgiven him: but to him that shall blaspheme against the Holy Ghost, it shall not be forgiven."
+            }
+          },
+          {
+            "verse": 11,
+            "texts": {
+              "NIV84": "\"When you are brought before synagogues, rulers and authorities, do not worry about how you will defend yourselves or what you will say,",
+              "KJV": "And when they bring you unto the synagogues, and unto magistrates, and powers, take ye no thought how or what thing ye shall answer, or what ye shall say:",
+              "NKJV": "\u201cNow when they bring you to the synagogues and magistrates and authorities, do not worry about how or what you should answer, or what you should say.",
+              "DRB": "And when they shall bring you into the synagogues, and to magistrates and powers, be not solicitous how or what you shall answer, or what you shall say;"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

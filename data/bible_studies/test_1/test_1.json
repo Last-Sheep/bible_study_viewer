@@ -1,0 +1,67 @@
+{
+  "scripture": {
+    "header": {
+      "id": "",
+      "title": "",
+      "description": "",
+      "topics": []
+    },
+    "versions": [
+      "NIV84",
+      "KJV",
+      "NKJV",
+      "DRB"
+    ],
+    "blocks": [
+      {
+        "id": "mat_6_1_4",
+        "title": "Giving Alms",
+        "description": "",
+        "reference": {
+          "book": "Matthew",
+          "chapter": 6,
+          "start": 1,
+          "end": 4
+        },
+        "rows": [
+          {
+            "verse": 1,
+            "texts": {
+              "NIV84": "\"Be careful not to do your 'acts of righteousness' before men, to be seen by them. If you do, you will have no reward from your Father in heaven.",
+              "KJV": "Take heed that ye do not your alms before men, to be seen of them: otherwise ye have no reward of your Father which is in heaven.",
+              "NKJV": "\u201cTake heed that you do not do your charitable deeds before men, to be seen by them. Otherwise you have no reward from your Father in heaven.",
+              "DRB": "TAKE heed that you do not your justice before men, to be seen by them: otherwise you shall not have a reward of your Father who is in heaven."
+            }
+          },
+          {
+            "verse": 2,
+            "texts": {
+              "NIV84": "\"So when you give to the needy, do not announce it with trumpets, as the hypocrites do in the synagogues and on the streets, to be honored by men. I tell you the truth, they have received their reward in full.",
+              "KJV": "Therefore when thou doest thine alms, do not sound a trumpet before thee, as the hypocrites do in the synagogues and in the streets, that they may have glory of men. Verily I say unto you, They have their reward.",
+              "NKJV": "Therefore, when you do a charitable deed, do not sound a trumpet before you as the hypocrites do in the synagogues and in the streets, that they may have glory from men. Assuredly, I say to you, they have their reward.",
+              "DRB": "Therefore when thou dost an almsdeed, sound not a trumpet before thee, as the hypocrites do in the synagogues and in the streets, that they may be honoured by men. Amen I say to you, they have received their reward."
+            }
+          },
+          {
+            "verse": 3,
+            "texts": {
+              "NIV84": "But when you give to the needy, do not let your left hand know what your right hand is doing,",
+              "KJV": "But when thou doest alms, let not thy left hand know what thy right hand doeth:",
+              "NKJV": "But when you do a charitable deed, do not let your left hand know what your right hand is doing,",
+              "DRB": "But when thou dost alms, let not thy left hand know what thy right hand doth."
+            }
+          },
+          {
+            "verse": 4,
+            "texts": {
+              "NIV84": "so that your giving may be in secret. Then your Father, who sees what is done in secret, will reward you.",
+              "KJV": "That thine alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly.",
+              "NKJV": "that your charitable deed may be in secret; and your Father who sees in secret will Himself reward you openly.",
+              "DRB": "That thy alms may be in secret, and thy Father who seeth in secret will repay thee."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
